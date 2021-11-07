@@ -1,0 +1,16 @@
+{
+  "name": "AppStrings_Node",
+  "version": "1.0.0",
+  "description": "## 主要功能",
+  "main": "get_values.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "xml2js": "^0.4.23"
+  }
+}

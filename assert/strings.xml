@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">AppStrings_Node</string>
+    <string name="label">Label</string>
+    <string name="title">Title</string>
+    <string name="android_message">Android Message</string>
+
+    <!-- annotation -->
+
+    <string name="more_lines">Please power on at least one of the following devices and make sure it is in factory mode: Light, Curtain, Outlet.\n\nPlease power on the bridge and make sure it is in the factory mode.</string>
+</resources>
