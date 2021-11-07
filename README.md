@@ -11,8 +11,11 @@
 
 ```
 node get_values.js -f strings.xml localizable.strings values.txt
+```
 
-// For example:
+For example:
+
+```
 node get_values.js -f ./assert/strings.xml ./assert/localizable.strings ~/Downloads/app_strings.txt
 ```
 
