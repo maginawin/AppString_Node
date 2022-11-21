@@ -1,0 +1,22 @@
+#!!! Please keep the '\n', it's a placeholder.
+
+AppStrings_Node
+App 字符串，来自 Node
+
+Label
+标签
+
+Title
+标题
+
+Android Message
+安卓消息
+
+Please power on at least one of the following devices and make sure it is in factory mode: Light, Curtain, Outlet.\n\nPlease power on the bridge and make sure it is in the factory mode.
+请打开至少一个设备\n\n请打开网桥
+
+iOS Message
+苹果消息
+
+Another string here.
+其他的字符串。

@@ -3,18 +3,16 @@
 // node get_values.js -f strings.xml localizable.strings values.txt
 //
 // For example:
-// node get_values.js -f ./assert/strings.xml ./assert/localizable.strings ~/Downloads/app_strings.txt
+// node get_values.js -f ./assert/strings.xml ./assert/localizable.strings ~/Downloads/values.txt
 
 const {program} = require('commander')
-const {readFile, writeFile} = require('./lib/utils')
-const {parseString} = require('xml2js')
+const {writeFile, readAndroidStrings, readIOSStrings} = require('./lib/utils')
 
 program.version('0.0.1')
 
 program
     .option('-f, --files <files...>', '1. strings.xml, 2. localizable.strings, 3. values.txt')
-
-program.parse(process.argv)
+    .parse(process.argv)
 
 const options = program.opts()
 console.log(options)
@@ -32,36 +30,20 @@ const outFile = files[2]
 
 let valueSet = new Set()
 
-// Read Android
-readFile(androidFile)
+// Read Android then read iOS.
+readAndroidStrings(androidFile)
     .then(data => {
 
-        return parseString(data, (err, result) => {
-            if (err) return
-
-            const items = result['resources']['string']
-
-            return items.forEach(item => {
-                const key = item['$']['name']
-                const value = item['_'].trim()
-                console.log(`key & value`, key, value)
-                valueSet.add(value)
-            })
+        data.forEach((value, key) => {
+            console.log(`Android KV`, key, value)
+            valueSet.add(value)
         })
     })
     .then(() => {
 
-        // Read iOS
-        return readFile(iosFile).then(data => {
-
-            const items = data.split(/\n/g)
-            return items.forEach(item => {
-                if (item.length < 5) return
-                const keyValue = item.split(/=/g)
-                if (keyValue.length !== 2) return
-                const key = keyValue[0].trim().replace(/"/g, '')
-                const value = keyValue[1].trim().replace(/;/g, '').replace(/"/g, '')
-                console.log(`keyValue `, key, value)
+        return readIOSStrings(iosFile).then(data => {
+            data.forEach((value, key) => {
+                console.log(`iOS KV`, key, value)
                 valueSet.add(value)
             })
         })
