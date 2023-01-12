@@ -1,0 +1,422 @@
+#!!! Please keep the '\n', it's a placeholder.
+
+SR NFC Tool
+
+NFC Unsupported
+
+NFC Disabled
+
+Enable NFC
+
+Sorry, your phone does not support the NFC.
+
+Please enable NFC first.
+
+1.0.1
+
+Ready to Read
+
+Ready to Write
+
+Touch the device with the back of the mobile device.
+
+Cancel
+
+Enabled
+
+Disabled
+
+Replace
+
+Successful!
+
+Save Successful!
+
+Failed
+
+Delete
+
+Delete configuration
+
+is out of range.
+
+OK
+
+Read
+
+Write
+
+Failed, please try again.
+
+255
+
+254
+
+1
+
+0
+
+No
+
+15
+
+-
+
+Logarithmic
+
+Linear
+
+10000
+
+000000
+
+/10000
+
+100
+
+/1000
+
+mA
+
+%
+
+Configuration name
+
+Device type
+
+Product Id
+
+Default cct coolest
+
+Cct step
+
+Default cct warmest
+
+Physical cct warmest
+
+Physical cct coolest
+
+Power on level
+
+Power on cct
+
+System failure level
+
+System failure cct
+
+Power on state
+
+On off transition time
+
+Pairing time
+
+Manufacturer name
+
+PWM frequency
+
+PWM coarse adjustment v1
+
+PWM fine adjustment v2
+
+Min cct value
+
+Max cct value
+
+Max level
+
+Min level
+
+Short address
+
+Increase automatically
+
+Groups
+
+Fade time
+
+Fade rate
+
+Fast fade time
+
+Dimming curve
+
+Physical min level
+
+Software version
+
+Hardware version
+
+Fade time base
+
+Fade time multi
+
+GTIN
+
+Max current
+
+Target current
+
+Target PWM
+
+Set product Id
+
+High side current error compensation
+
+Current error compensation point
+
+Low side current error compensation
+
+Configurations
+
+DALI Page Locked
+
+App Version
+
+Privacy Policy
+
+Device Type
+
+Load
+
+Save
+
+Clear
+
+More
+
+https://srdocs.gitee.io/privacypolicy/#/nfc/en
+
+You don\'t have a configuration yet.
+
+Add configuration
+
+Add a configuration
+
+Value range
+
+Log gamma 1.5
+
+Log gamma 1.8
+
+level
+
+cct
+
+Scenes
+
+Scene
+
+Latest
+
+On
+
+Off
+
+seconds
+
+minutes
+
+minute
+
+hour
+
+Always
+
+1 to 31 characters
+
+Unsupported device!
+
+configuration name
+
+Are you sure want to delete this configuration?
+
+The configuration name already exists.
+
+Level
+
+Cct
+
+Set All Attributes
+
+Turn on factory mode
+
+Password
+
+Factory mode is turned on.
+
+Wrong password!
+
+Factory mode is turned off.
+
+Select All
+
+Unselect All
+
+Options
+
+Write Consecutively
+
+Copy from a device
+
+Create a default configuration
+
+DALI DIM
+
+DALI CCT
+
+Zigbee DIM
+
+Zigbee CCT
+
+Unknown Device
+
+Are you sure you want to set all attributes of the DALI DIM device?
+
+Set Now
+
+Minimum current compensation
+
+MASK
+
+Recommended value
+
+Enable Pairing
+
+Enable
+
+Ignore
+
+Device Power
+
+Advanced
+
+Check for Update
+
+Configuration file
+
+Version
+
+Checking for Update...
+
+You’re updated.
+
+NEW VERSION
+
+Download Now
+
+UPGRADE
+
+Request failed, please try again later.
+
+Downloading…
+
+Download successful!
+
+Download failed!
+
+Try Again
+
+Go to Google Play
+
+My phone doesn’t support Google Play?
+
+Download Manually
+
+Update Later
+
+BLE DIM
+
+BLE CCT
+
+Times and Levels
+
+Constant lumen enable
+
+Operating Time (kh)
+
+Preview
+
+Output Level (%)
+
+Constant lumen output
+
+Working hours
+
+CLO
+
+Invalid
+
+Time
+
+hour(s)
+
+CD
+
+PD
+
+Fade in time
+
+Occupied time
+
+Occupied level
+
+Fade out time
+
+Prolonged time
+
+Infinite
+
+Prolonged level
+
+Dim to off time
+
+Mode
+
+Corridor
+
+Level (%)
+
+Fade in
+
+Occupied
+
+Fade out
+
+Prolonged
+
+Dim to off
+
+mode
+
+Done
+
+Energy saving potential
+
+Please enabled NFC first.
+
+Enabled NFC
+
+You don't have a configuration yet.
+
+Value
+
+Are you sure you want to delete this configuration?
+
+Set Consecutively
+
+Enable pairing
+
+Checking for update...
+
+You're updated.
+
+Downloading...
+
+Device power
+
+Invalid data
+
+Output Level
+
+Operating Time
+

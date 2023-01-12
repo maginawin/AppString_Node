@@ -1,0 +1,265 @@
+<resources>
+    <string name="app_name">SR NFC Tool</string>
+    <string name="nfc_no_support">NFC Unsupported</string>
+    <string name="nfc_disabled">NFC Disabled</string>
+    <string name="nfc_enable">Enable NFC</string>
+    <string name="nfc_no_support_tip">Sorry, your phone does not support the NFC.</string>
+    <string name="nfc_no_enable_tip">Please enable NFC first.</string>
+
+    <string name="version">1.0.1</string>
+
+    <string name="ready_nfc">Ready to Read</string>
+    <string name="write_nfc">Ready to Write</string>
+    <string name="nfc_tip">Touch the device with the back of the mobile device.</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable">Enabled</string>
+    <string name="enable_dis">Disabled</string>
+
+    <string name="replace">Replace</string>
+    <string name="successful">Successful!</string>
+    <string name="save_successful">Save Successful!</string>
+    <string name="fail_title">Failed</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Delete configuration</string>
+
+    <string name="common_range"> is out of range.</string>
+
+    <string name="ok">OK</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="nfc_fail_title">Failed, please try again.</string>
+
+    <!--默认值-->
+    <string name="default_255">255</string>
+    <string name="default_254">254</string>
+    <string name="default_1">1</string>
+    <string name="default_0">0</string>
+    <string name="default_no">No</string>
+    <string name="default_15">15</string>
+    <string name="default_">-</string>
+    <string name="default_logarithmic">Logarithmic</string>
+    <string name="linear_cur">Linear</string>
+    <string name="default_10000">10000</string>
+    <string name="default_000000">000000</string>
+    <string name="defalut_targ_pwm">10000</string>
+    <string name="targ_pwm_unit">/10000</string>
+    <string name="hide_defalut">100</string>
+    <string name="hide_unit">/1000</string>
+
+
+    <string name="ma_unit">mA</string>
+    <string name="percent_unit">%</string>
+
+
+    <string name="device_name">Configuration name</string>
+    <string name="device_typez">Device type</string>
+    <string name="product">Product Id</string>
+
+    <string name="daili_cct_coolest">Default cct coolest</string>
+    <string name="daili_cct_step">Cct step</string>
+
+
+    <string name="daili_cct_warmest">Default cct warmest</string>
+    <string name="daili_cct_phy_warmest">Physical cct warmest</string>
+
+    <string name="daili_cct_phy_coolest">Physical cct coolest</string>
+
+    <string name="daili_cct_power_on_level">Power on level</string>
+    <string name="daili_cct_power_on_cct">Power on cct</string>
+
+    <string name="daili_cct_sys_fail_level">System failure level</string>
+    <string name="daili_cct_sys_fail_cct">System failure cct</string>
+
+    <string name="daili_zigbee_power_on">Power on state</string>
+
+    <string name="daili_zigbee_on_off_transi_time">On off transition time</string>
+
+    <string name="daili_zigbee_pairing_time">Pairing time</string>
+
+    <string name="daili_zigbee_manufacture_name">Manufacturer name</string>
+
+    <string name="daili_zigbee_pwm_frequency">PWM frequency</string>
+
+    <string name="daili_zigbee_pwm_coarse">PWM coarse adjustment v1</string>
+
+    <string name="daili_zigbee_pwm_fine">PWM fine adjustment v2</string>
+
+    <string name="daili_zigbee_min_cct">Min cct value</string>
+
+    <string name="daili_zigbee_max_cct">Max cct value</string>
+
+    <string name="max_level">Max level</string>
+    <string name="min_level">Min level</string>
+    <string name="enabled">Enabled</string>
+
+    <string name="power_on_level">Power on level</string>
+    <string name="system_failure_level">System failure level</string>
+
+    <string name="short_address">Short address</string>
+    <string name="increase_automatically">Increase automatically</string>
+    <string name="group">Groups</string>
+
+    <string name="fade_time">Fade time</string>
+    <string name="fade_rate">Fade rate</string>
+    <string name="fast_fade_time">Fast fade time</string>
+
+    <string name="dimming_curve">Dimming curve</string>
+
+    <string name="physical_minimum_level">Physical min level</string>
+    <string name="software_version">Software version</string>
+    <string name="hardware_version">Hardware version</string>
+
+    <string name="fade_time_base">Fade time base</string>
+    <string name="fade_time_multi">Fade time multi</string>
+
+    <string name="gtin_value">GTIN</string>
+
+    <string name="max_current">Max current</string>
+
+    <string name="target_current">Target current</string>
+
+    <string name="target_pwm">Target PWM</string>
+
+    <string name="product_id">Set product Id</string>
+
+    <string name="high_side">High side current error compensation</string>
+
+    <string name="current_error">Current error compensation point</string>
+    <string name="low_side">Low side current error compensation</string>
+
+    <string name="configure">Configurations</string>
+    <string name="dali_page_locaked">DALI Page Locked</string>
+    <string name="app_version">App Version</string>
+    <string name="privacy">Privacy Policy</string>
+
+    <string name="device_type">Device Type</string>
+
+    <!--    顶部菜单-->
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="topName">Configurations</string>
+
+    <!--    底部菜单-->
+    <string name="dali_menu">Configurations</string>
+    <string name="set_menu">More</string>
+
+    <string name="privacy_url">https://srdocs.gitee.io/privacypolicy/#/nfc/en</string>
+
+    <string name="no_device">You don\'t have a configuration yet.</string>
+    <string name="add_device">Add configuration</string>
+    <string name="add_device_btn">Add a configuration</string>
+    <string name="add_device_title">Add configuration</string>
+    <string name="product_id_name">Product Id</string>
+    <string name="range">Value range </string>
+
+    <string name="log_gamma5">Log gamma 1.5</string>
+    <string name="log_gamma8">Log gamma 1.8</string>
+    <string name="linear">Linear</string>
+
+    <string name="level">level</string>
+    <string name="cct">cct</string>
+    <string name="scenes">Scenes</string>
+    <string name="scene">Scene</string>
+    <string name="power_latest">Latest</string>
+    <string name="power_on">On</string>
+    <string name="power_off">Off</string>
+    <string name="seconds"> seconds</string>
+    <string name="minutes">minutes</string>
+    <string name="minute">minute</string>
+    <string name="hour">hour</string>
+    <string name="always">Always</string>
+    <string name="characters">1 to 31 characters</string>
+    <string name="device_no_support">Unsupported device!</string>
+    <string name="save_device_hint">configuration name</string>
+    <string name="delete_tip">Are you sure want to delete this configuration?</string>
+    <string name="save_exists">The configuration name already exists.</string>
+    <string name="capital_level">Level</string>
+    <string name="capital_cct">Cct</string>
+    <string name="set_all_button">Set All Attributes</string>
+    <string name="turn_on_factory_title">Turn on factory mode</string>
+    <string name="password">Password</string>
+    <string name="turn_on_factory">Factory mode is turned on.</string>
+    <string name="wrong_password">Wrong password!</string>
+    <string name="turn_off_factory">Factory mode is turned off.</string>
+    <string name="select_all">Select All</string>
+    <string name="unselect_all">Unselect All</string>
+    <string name="options">Options</string>
+    <string name="write_consecu">Write Consecutively</string>
+    <string name="copy">Copy from a device</string>
+    <string name="create">Create a default configuration</string>
+
+    <string name="daili_dim">DALI DIM</string>
+    <string name="daili_cct">DALI CCT</string>
+    <string name="zigbee_dim">Zigbee DIM</string>
+    <string name="zigbee_cct">Zigbee CCT</string>
+    <string name="configure_name">Configuration name</string>
+    <string name="un_know">Unknown Device</string>
+    <string name="un_know_tip">Are you sure you want to set all attributes of the DALI DIM device?</string>
+    <string name="set_now">Set Now</string>
+
+    <string name="min_cur">Minimum current compensation</string>
+    <string name="mask">MASK</string>
+    <string name="recommended_value">Recommended value</string>
+    <string name="enable_pair">Enable Pairing</string>
+    <string name="minu_current_compensation">Minimum current compensation</string>
+    <string name="enable_pair_value">Enable</string>
+    <string name="ignore_pair_value">Ignore</string>
+    <string name="device_power">Device Power</string>
+    <string name="advanced">Advanced</string>
+    <string name="check">Check for Update</string>
+    <string name="configure_file">Configuration file</string>
+    <string name="configure_version">Version</string>
+    <string name="checking">Checking for Update...</string>
+    <string name="updated">You’re updated.</string>
+    <string name="new_version">NEW VERSION</string>
+    <string name="dialog_now">Download Now</string>
+    <string name="upgrade">UPGRADE</string>
+    <string name="request_fail">Request failed, please try again later.</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_successful">Download successful!</string>
+    <string name="download_fail">Download failed!</string>
+    <string name="try_again">Try Again</string>
+    <string name="load_google">Go to Google Play</string>
+    <string name="load_google_tip">My phone doesn’t support Google Play?</string>
+    <string name="download_manually">&#160;Download Manually</string>
+    <string name="update_later">Update Later</string>
+
+    <string name="ble_dim">BLE DIM</string>
+    <string name="ble_cct">BLE CCT</string>
+
+    <string name="times_and_levels">Times and Levels</string>
+    <string name="constant_lumen_enable">Constant lumen enable</string>
+    <string name="opera_time">Operating Time (kh)</string>
+    <string name="preview">Preview</string>
+    <string name="output">Output Level (%)</string>
+    <string name="constant_lumen_operating">Constant lumen output</string>
+    <string name="work_hours">Working hours</string>
+    <string name="clo">CLO</string>
+    <string name="invalid">Invalid</string>
+    <string name="time">Time</string>
+    <string name="work_unit">hour(s)</string>
+    <string name="cd">CD</string>
+    <string name="pd">PD</string>
+    <string name="fade_in_time">Fade in time</string>
+    <string name="occupied_time">Occupied time</string>
+    <string name="occupied_level">Occupied level</string>
+    <string name="fade_out_time">Fade out time</string>
+    <string name="prolonged_time">Prolonged time</string>
+    <string name="infinite">Infinite</string>
+    <string name="prolonged_level">Prolonged level</string>
+    <string name="dim_to_off_time">Dim to off time</string>
+    <string name="mode">Mode</string>
+    <string name="corridor">Corridor</string>
+    <string name="level_view">Level (%)</string>
+
+    <string name="fade_in">Fade in</string>
+    <string name="occupied">Occupied</string>
+    <string name="fade_out">Fade out</string>
+    <string name="prolonged">Prolonged</string>
+    <string name="dim_to_off">Dim to off</string>
+    <string name="mode_lower">mode</string>
+    <string name="done">Done</string>
+    <string name="energy">Energy saving potential</string>
+
+</resources>

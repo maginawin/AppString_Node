@@ -1,0 +1,1667 @@
+#!!! Please keep the '\n', it's a placeholder.
+
+EasyThings
+
+There are some unknown errors that the App needs to be restarted. The App will be closed.
+
+Devices
+
+Rooms
+
+Scenes
+
+More
+
+Press again to exit
+
+Bluetooth is not enabled, lights unavailable, please enable  Bluetooth first.
+
+Require location information to connect to Bluetooth devices, please enable location information first.
+
+RGB
+
+RGBW
+
+RGBCCT
+
+CCT
+
+DIM
+
+ON/OFF
+
+White
+
+Brightness
+
+Red
+
+Green
+
+Blue
+
+Option
+
+Name
+
+Default
+
+Custom
+
+Speed
+
+Select a mode first ->
+
+ex. Reading Light
+
+Turn off Color Temperature when modifying RGB Color
+
+Turn off RGB Color when modifying Color Temperature
+
+Turn off RGB Color when modifying White
+
+Turn off White when modifying RGB Color
+
+Please select a mode first
+
+MyColors
+
+ex. Colors
+
+Create Scene
+
+Edit
+
+Modes
+
+Colors
+
+Color Picker
+
+Living Room
+
+Ok
+
+No
+
+Yes
+
+Cancel
+
+Enable
+
+Defaults
+
+Choose photo
+
+Take photo
+
+Change picture
+
+ex. At home
+
+Camera
+
+Create
+
+Save
+
+All Lights
+
+Are you sure delete
+
+Delete
+
+Network
+
+Create network
+
+Network setup
+
+Import network
+
+Share network
+
+Change
+
+Add network
+
+Change the network of device
+
+4 ~ 16 letters and numbers support.
+
+Password
+
+ex. MyHome
+
+ex. 123456
+
+Done
+
+Invalid file
+
+Successfully imported!
+
+Data cannot be shared between different accounts and passwords.
+
+already exists, it will overwrite the existing network if you still import it. You can select network in \"More > Networks\".
+
+You can select network in "More > Networks".
+
+Are you sure to import this config? The current config will be overwritten.
+
+Still import
+
+Import
+
+Scheduling
+
+Themes
+
+Are you sure switch to
+
+The light will remove from
+
+Please select another network, the lights are in the current network.
+
+Please select lights to change their network.
+
+About
+
+Version
+
+Dark
+
+Light
+
+Everyday
+
+On no days
+
+On work days
+
+On weekend
+
+Target
+
+Action
+
+Time
+
+Days
+
+Date
+
+Label
+
+Lights
+
+On
+
+Off
+
+Undefined Scene
+
+Alarm
+
+Edit Mode
+
+Add Mode
+
+Week
+
+Day
+
+No scheduling
+
+Click the \"+\" button in the top right corner to create a scheduling.
+
+No scenes
+
+Click the \"+\" button in the top right corner to create a scene.
+
+No rooms
+
+Click the \"+\" button in the top right corner to create a room.
+
+No devices found
+
+Please make sure the selected network is correct in the [ More - Networks ].
+
+Click the add button to add the mac address of the device, device can be controlled after adding the mac address.
+
+Music
+
+Dynamic
+
+No music to play
+
+Only supports the downloaded music.
+
+Playlist
+
+Are you sure to delete this alarm in
+
+The weekly scheduler must select some days.
+
+Scheduler need a target.
+
+ex. Living Room
+
+Need enter a name.
+
+0:00
+
+Your smart home
+
+Your smart office
+
+Your smart shop
+
+Your smart hotel
+
+Login
+
+Save password
+
+Auto login
+
+Please input network name
+
+Please input password
+
+Please input name and password.
+
+Start
+
+Don\'t show this again
+
+Switches
+
+Switch
+
+Groups
+
+Group
+
+Bind
+
+Please enter a name
+
+Add Device Succeeded
+
+Add Next
+
+Finish
+
+This function need camera permission
+
+Applications
+
+Bookmarks
+
+Add to calendar
+
+Add contact
+
+Book Search
+
+Custom search
+
+Dial number
+
+Send email
+
+Get directions
+
+Send MMS
+
+OK
+
+Open browser
+
+Product search
+
+Search contents
+
+Application
+
+Bookmark
+
+Share via email
+
+Share via SMS
+
+Clipboard
+
+Contact
+
+Show map
+
+Send SMS
+
+Web search
+
+Connect to Network
+
+Contact info
+
+Email address
+
+Geographic coordinates
+
+Phone number
+
+SMS address
+
+Plain text
+
+Clear history
+
+Clear
+
+Barcode Scanner history
+
+Empty
+
+No barcode scans have been recorded
+
+Send history
+
+History
+
+Use MECARD
+
+Use vCard
+
+Help
+
+Settings
+
+Share
+
+Bulk mode: barcode scanned and saved
+
+Sorry, the Android camera encountered a problem. You may need to restart the device.
+
+Format
+
+Metadata
+
+Hi
+
+Place a barcode inside the viewfinder rectangle to scan it.
+
+Type
+
+Could not encode a barcode from the data provided.
+
+Error
+
+Google
+
+Sorry, the requested application could not be launched. The barcode contents may be invalid.
+
+Invalid value
+
+Redirect
+
+Sorry, this book is not searchable.
+
+Sorry, the search encountered a problem.
+
+No page returned
+
+Page
+
+Results
+
+Searching book\u2026
+
+Snippet not available
+
+You can share data by displaying a barcode on your screen and scanning it with another phone.
+
+Or type some text and press Enter
+
+Are you sure?
+
+Sorry, the SD card is not accessible.
+
+When a barcode is found\u2026
+
+Use auto focus
+
+Open web pages automatically
+
+Scan and save many barcodes continuously
+
+Bulk scan mode
+
+Copy to clipboard
+
+Substitutions: %s = contents, %f = format, %t = type
+
+Custom search URL
+
+1D Industrial
+
+1D Product
+
+Aztec
+
+Data Matrix
+
+PDF417 (β)
+
+QR Codes
+
+Device Bug Workarounds
+
+No barcode scene mode
+
+Use only standard focus mode
+
+No continuous focus
+
+No exposure
+
+No metering
+
+Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.
+
+Use front light
+
+Automatic
+
+General settings
+
+Store your scans in History
+
+Add to History
+
+Invert scan
+
+Scan for white barcodes on black background. Not available on some devices.
+
+No automatic rotation
+
+Beep
+
+Store multiple scans of the same barcode in History
+
+Remember duplicates
+
+Result settings
+
+When scanning for barcodes, decode\u2026
+
+Search country
+
+Try to retrieve more information about the barcode contents
+
+Retrieve more info
+
+Vibrate
+
+Found contact info
+
+Found calendar event
+
+Found email address
+
+Found geographic coordinates
+
+Found book
+
+Found product
+
+Found SMS address
+
+Found phone number
+
+Found plain text
+
+Found URL
+
+Found WLAN Configuration
+
+Google Book Search
+
+Requesting connection to network\u2026
+
+Delete Action
+
+Color
+
+Color Temperature
+
+CT Enabled
+
+Edit Action
+
+Add Action
+
+Remove All
+
+Required
+
+Network ID
+
+Current network
+
+Gateway
+
+Gateway status
+
+More information
+
+Whitelist
+
+Whitelist setup
+
+Reset network
+
+Local
+
+Connected
+
+Disconnected
+
+Connecting
+
+Disabled
+
+Copy
+
+Add user
+
+Device type
+
+Optional
+
+Sorry, the current android system version is too low to support this feature. Please upgrade the system to android7.0+ to support this feature.
+
+Tip
+
+Remote network does not support this feature.
+
+Manually
+
+Scan QR code
+
+Add mac address
+
+Mac address
+
+ex. CC8823779078
+
+show
+
+No devices was found on the current network.
+
+Light Type
+
+PWM Frequency
+
+Types
+
+500-10000
+
+Out of range.
+
+This id already exists.
+
+Sign in
+
+Username
+
+Device setup
+
+Create account
+
+Forgot password?
+
+Forgot password
+
+Reset Password
+
+Logout
+
+Email
+
+Old password
+
+New Password
+
+Repeat new password
+
+Sync to local network
+
+Set device list
+
+Clear all devices
+
+Loading...
+
+Cloud setup
+
+User
+
+Copied to clipboard
+
+Are you sure you want  to clear  all devices?
+
+Please select a target first
+
+All devices in the cloud  have been cleared
+
+Clear all devices failed,  please try again
+
+Sorry, your token expired, please sign in again.
+
+Please enter your registered email address
+
+Continue
+
+Please enter an email address
+
+Email doesn\'t exist
+
+An error occurred, please  try again
+
+The verification code has been  successfully sent to your email
+
+Reset
+
+Verification code
+
+Verification code is invalid,  please try again
+
+Reset successfully,  please sign in again
+
+Username and password require 6 to 20 digits or letters
+
+Password require 6 to 20 digits or letters
+
+Please enter a valid email
+
+Username or password is incorrect
+
+Username or Email already exists
+
+Sign in now
+
+Re-password doesn\'t match password
+
+Old password is incorrect
+
+Password updated, please sign in again
+
+Email already exists
+
+Create account successfully
+
+Discover devices
+
+Requires Bluetooth
+
+Please enable Bluetooth to discover devices.
+
+Push Prog button twice on receiver you want to add.
+
+Add
+
+Discovery
+
+Enable Pairing
+
+Are you sure you want to restore to factory settings?
+
+Restore to factory settings
+
+Energy Consumption
+
+Input Voltage
+
+Output Voltage
+
+Output Current
+
+Output Power
+
+Total Energy Used
+
+Energy Used
+
+Clear Energy Used
+
+Are you sure you want to clear energy used?
+
+IO Settings
+
+Curtain
+
+Shutter
+
+Calibration
+
+Calibrating…
+
+Calibration Succeeded
+
+Calibration failed
+
+Successful
+
+Failed
+
+Configure Smart Switch
+
+Switch ID
+
+Number of Buttons
+
+Button Index
+
+Press Type
+
+Long press - Start
+
+Long press - End
+
+Short press
+
+Set mechanical energy switch
+
+Link Switch
+
+Unlink Switch
+
+Custom Switch Action
+
+Link
+
+Unlink
+
+Select Action
+
+Undefined
+
+Light on
+
+Light off
+
+Light on/off
+
+White on
+
+White off
+
+White on/off
+
+Step level up
+
+Step level down
+
+Step level up/down
+
+Step CCT/white up
+
+Step CCT/white down
+
+Step CCT/white up/down
+
+Move level stop
+
+Move level up
+
+Move level down
+
+Move level up/down
+
+Move CCT/white stop
+
+Move CCT/white up
+
+Move CCT/white down
+
+Move CCT/white up/down
+
+Move RGB mix fade stop
+
+Move RGB mix fade up
+
+Move RGB mix fade down
+
+Move RGB mix fade up/down
+
+Move speed up/down stop
+
+Move speed up
+
+Move speed down
+
+Move speed up/down
+
+Save scene 1
+
+Recall scene 1
+
+Save scene 2
+
+Recall scene 2
+
+Save scene 3
+
+Recall scene 3
+
+Save scene 4
+
+Recall scene 4
+
+Change CCT
+
+Change RGB
+
+Run built-in running mode
+
+Set lum
+
+Set CT
+
+Set red
+
+Set green
+
+Set blue
+
+Set RGB
+
+Please make sure that only this phone is running this App nearby. Please re-power on all devices if some devices are not found here.
+\n\n\nThe short address of the device with a red MAC address conflicts in the Mesh network, please select it to fix this issue.
+
+Fix Conflicts
+
+Failed to connect device
+
+Updating short address...
+
+Connecting...
+
+Sorry, can\'t support more devices
+
+Switch ID can\'t be empty
+
+Switch ID format error
+
+Privacy Policy
+
+Sign in means that you agree with
+
+Notice
+
+We understand the importance of privacy. In order to more fully present our collection and use of your personal information, we have revised our privacy policy and user agreement in detail in accordance with the latest laws and regulations. When you click [Agree], you have fully read, understood and accepted all of the updated Privacy Policy. Please take some time to become familiar with our Privacy Policy, and if you have any questions, please feel free to contact us.
+
+Agree
+
+Disagree
+
+Agree with Privacy Policy
+
+Third-party Access Service
+
+Please choose one
+
+hours
+
+minutes
+
+seconds
+
+Reset duration
+
+Max: 18 hours 12 minutes 15 seconds
+
+The duration your set is out of range
+
+Duration Setup
+
+Sunrise / Sunset
+
+this function need location permission
+
+Open the GPS?
+
+Sunrise
+
+Scene
+
+Duration
+
+Sunset
+
+Basic
+
+Time zone
+
+Longitude
+
+Latitude
+
+Sync with phone
+
+Change action type
+
+No selection
+
+Date-time
+
+Configure network
+
+Local network ID
+
+Share local network
+
+Import network successfully.
+
+Please enter network ID
+
+Data uploading...
+
+Data upload successfully, now you can import network on other phones.
+
+Data uploaded failed, please try again later
+
+Network connection lost,please try again later
+
+No data, have you shared the local network? Is the network ID correct?
+
+Data request failed, please try again later.
+
+Requesting data...
+
+Clear all data
+
+Are you sure clear  all data?
+
+Switch Type
+
+Normal ON/OFF
+
+Push Button
+
+3-way Switch
+
+Can not add any more
+
+No location permission
+
+Enable RGB independence
+
+Upgraded
+
+Previous
+
+Select run mode
+
+Only one time
+
+Keep repeating
+
+Times
+
+Repeat several times
+
+Edit name
+
+Loading actions...
+
+White enable
+
+Max: 24 hours
+
+Rename
+
+Long Press
+
+Are you sure reset network? After resetting the network, other phones will not be able to connect to this phone.
+
+Confirm
+
+Sensor
+
+Door sensor
+
+Sensor ID
+
+On Action
+
+Off Action
+
+All attributes
+
+Action type
+
+Sensor ID can\'t be empty
+
+Push Prog button three times on sensor you want to add.
+
+Invalid sensor ID
+
+Natural light
+
+mode
+
+Templates
+
+Natural light has not been set
+
+Standard mode
+
+Office mode
+
+Health care mode
+
+Reset All
+
+Invalid data
+
+Reset all before setting the data.
+
+Reset all before updating the data.
+
+Are you sure you want to reset all modes?
+
+This device is not supported.
+
+Scanning...
+
+Request timeout
+
+Light On/Off Duration
+
+Set all the lights
+
+Configure Microwave Motion Sensor
+
+Microwave motion sensor
+
+Detection
+
+No detection
+
+Do not save
+
+Not set yet
+
+Detection distance
+
+Speed data
+
+Signal strength
+
+lux
+
+Independent
+
+Current value
+
+New value
+
+Attribute
+
+Update
+
+Set to default
+
+The update is complete
+
+No response
+
+Edit value
+
+The value is out of range
+
+Please set the new value
+
+Value
+
+State
+
+LUX
+
+Write DOOYA ID
+
+Offline
+
+Checking…
+
+Check for updates
+
+There are no updates available.
+
+Start updates
+
+Firmware Updates
+
+Recheck
+
+Try again
+
+Update failed!
+
+Sync Host
+
+Set a device as the sync host to synchronize the lights running in this group.
+
+Updating...
+
+Update successful!
+
+Auto Mode
+
+0-255
+
+0-100
+
+R:0-255
+
+G:0-255
+
+B:0-255
+
+No device found, please check your devices and then try again.
+
+Rescan
+
+Device count %d
+
+Sort by
+
+Search results
+
+Available new addresses
+
+SBUS LIGHT
+
+Mac
+
+Address
+
+Status
+
+Manually set address
+
+Default address
+
+New address
+
+Repeat
+
+No repeat
+
+Set address
+
+Connected, setting…
+
+Connect failed, please check your device and then try again.
+
+Set successful!
+
+Set failed, please check your device and then try again.
+
+next
+
+Set a new address for this device, the address range is from 1 to 254.
+
+Current address %d
+
+It’s the same address.
+
+It’s out of range.
+
+Set
+
+Current address
+
+History records
+
+Are you sure you want to clear all  history records?
+
+Address count %d
+
+There are no available addresses.
+
+There are no history records yet.
+
+Colorful Mixed 
+
+Red Shade 
+
+Green Shade 
+
+Blue Shade 
+
+Yellow Shade 
+
+Cyan Shade 
+
+Purple Shade 
+
+White Shade 
+
+Red Green Shade 
+
+Red Blue Shade 
+
+Green Blue Shade 
+
+Colorful Strobe 
+
+Red Strobe 
+
+Green Strobe 
+
+Blue Strobe 
+
+Yellow Strobe 
+
+Cyan Strobe 
+
+Purple Strobe 
+
+White Strobe 
+
+Colorful Jump 
+
+Ascend Shade
+
+Descend Shade
+
+Ascend Descend Shade
+
+Mixed Shade
+
+Jump
+
+Strobe
+
+
+
+Change network
+
+Guidelines
+
+January
+
+February
+
+March
+
+April
+
+May
+
+June
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December 
+
+Sunday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
+
+Sun
+
+Mon
+
+Tues
+
+Wed
+
+Thur
+
+Fri
+
+Sat
+
+Some devices are not found
+
+There are duplicate devices
+
+Human induction sensitivity
+
+Microwave module on/off state 
+
+Light module on/off state 
+
+Brightness threshold
+
+Detection PWM output duration
+
+Detection PWM output brightness 
+
+Detection PWM output percentage 
+
+No detection PWM output duration
+
+No detection PWM output percentage
+
+PWM output percentage after no detection
+
+Working mode
+
+Response state interval
+
+Response state on/off
+
+LUX zero deviation of the brightness sensor
+
+LUX scale factor of the brightness sensor
+
+Networks
+
+Colorful Mixed
+
+Red Shade
+
+Green Shade
+
+Blue Shade
+
+Yellow Shade
+
+Cyan Shade
+
+Purple Shade
+
+White Shade
+
+Red Green Shade
+
+Red Blue Shade
+
+Green Blue Shade
+
+Colorful Strobe
+
+Red Strobe
+
+Green Strobe
+
+Blue Strobe
+
+Yellow Strobe
+
+Cyan Strobe
+
+Purple Strobe
+
+White Strobe
+
+Colorful Jump
+
+Click the \+\ button in the top right corner to create a room.
+
+Click the \+\ button in the top right corner to create a scene.
+
+Select your application
+
+Create Room
+
+ex.At home
+
+Don't show this again
+
+Add Device Failed
+
+The MAC address is incorrect
+
+Light dynamic control mode
+
+White or CT
+
+White Enabled
+
+White or CT Enabled
+
+hour
+
+min
+
+Can't add more actions!
+
+Can't set all values to zero!
+
+Please enable Bluetooth to search devices.
+
+Please make sure that only this phone is running this App nearby. Please re-power on all devices if some devices are not found here.\n\nThe short address of the device with a red MAC address conflicts in the Mesh network, please select it to fix this issue.
+
+Update completed
+
+Sorry, can't support more devices
+
+Need to enter a name
+
+Need to enter a networkID
+
+Sign in means that you agree with 
+
+We understand the importance of privacy. In order to more fully present our collection and use of your personal information, we have revised our privacy policy and user agreement in detail in accordance with the latest laws and regulations. When you click [Agree], you have fully read, understood and accepted all of the updated Privacy Policy. Please take some time to become familiar with our Privacy Policy, and if you have any questions, please feel free to contact us. 
+
+Agree with 
+
+Username require 6 to 20 digits or letters
+
+Password requires 6 to 20 digits or letters
+
+An error occurred, please try again
+
+The verification code has been successfully sent to your email
+
+Reset password
+
+Please enter a Verification code
+
+Reset successfully, please sign in again
+
+Verification code is invalid, please try again
+
+Update Email
+
+Re-password doesn't match password
+
+New password
+
+Are you sure you want to clear  all devices?
+
+Sync to local succeeded
+
+All devices in the cloud have been cleared
+
+Mac Address
+
+Set Mechanical Energy Switch
+
+Are you sure delete \
+
+Pairing
+
+NO
+
+Calibrating...
+
+Calibration Failed
+
+ex. 500-10000
+
+Need to enter a pwm.
+
+Need to enter a pwm from 500 to 10000
+
+Switch ID can't be empty
+
+Max: 18 hours 12 minutes 15 seconds 
+
+Sunrise/Sunset
+
+Enabled
+
+On/Off
+
+h
+
+s
+
+Data upload successfully, now you  can import network on other phones.
+
+Network connection lost, please try again later
+
+Please enter a networkID
+
+Are you sure clear all data?
+
+Version 
+
+day
+
+No days selected
+
+working day
+
+weekend
+
+Sun. 
+
+Mon. 
+
+Tues. 
+
+Wed. 
+
+Thur. 
+
+Fri. 
+
+Sat. 
+
+No schedulings
+
+Click the \+\ button in the top right corner to create a scheduling.
+
+Scheduler need a target. 
+
+The weekly scheduler must select some days. 
+
+Scheduling is not available because there are no devices detected.
+
+Normal on/off
+
+Push button
+
+3-way switch
+
+Are you sure delete the alarm?
+
+Clear all dynamic settings?
+
+Loading state...
+
+Dynamic 1
+
+Dynamic 2
+
+Dynamic 3
+
+Dynamic 4
+
+Dynamic 5
+
+Dynamic 6
+
+Dynamic 7
+
+Dynamic 8
+
+Dynamic 9
+
+Dynamic 10
+
+Dynamic 11
+
+Dynamic 12
+
+Dynamic 13
+
+Dynamic 14
+
+Dynamic 15
+
+Dynamic 16
+
+need times
+
+Are you sure reset network?
+
+After resetting the network, other phones will not be able to connect to this phone.
+
+Color temperature
+
+Natural Light
+
+Mode
+
+Sensitivity
+
+Light duration
+
+Photoresistor threshold
+
+Radar settings
+
+PWM duty ratio
+
+Radar on/off
+
+Radar state
+
+Microwave module on/off state
+
+Light module on/off state
+
+Detection PWM output brightness
+
+Detection PWM output percentage
+
+The value is out of range.
+
+Available only on local network.
+
+Checking...
+
+Updates
+
+Long press
+
+Next
+

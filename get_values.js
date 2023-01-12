@@ -5,6 +5,12 @@
 // For example:
 // node get_values.js -f ./assert/strings.xml ./assert/localizable.strings ~/Downloads/values.txt
 
+// EasyThings
+// node get_values.js -f ./assert/easythings_strings.xml ./assert/easythings_Localizable.strings ./assert/easythings_values.txt
+
+// SR NFC Tool
+// node get_values.js -f ./assert/srnfctool_strings.xml ./assert/srnfctool_Localizable.strings ./assert/srnfctool_values.txt
+
 const {program} = require('commander')
 const {writeFile, readAndroidStrings, readIOSStrings} = require('./lib/utils')
 
