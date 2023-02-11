@@ -1,0 +1,98 @@
+#!!! Please keep the '\n', it's a placeholder.
+
+There are no zones in this gateway, please add a zone first.
+
+OnOff Transition Time
+
+× 0.1秒
+
+Value range: 0~65535
+
+Saved
+
+There are some devices that cannot be saved, please make sure that they are online and then
+        try again.
+
+Failed devices
+
+区域
+
+插座
+
+开
+
+关
+
+Sensors
+
+Switches
+
+There are no sensors in this gateway, please add a device first.
+
+There are no switches in this gateway, please add a switch first.
+
+Others
+
+Multiple
+
+Multiple Selection
+
+There are no lights in this gateway, please add a light first.
+
+There are no sockets in this gateway, please add a socket first.
+
+Select All
+
+Next
+
+To connect, hold the top-right button for 10 seconds, then release.\n\nThen
+        quickly press the top-right button 1 time(s).
+
+To connect, hold the top-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-right button 2 time(s).
+
+To connect, hold the top-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-right button 3 time(s).
+
+To connect, hold the top-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-left button 1 time(s).
+
+To connect, hold the top-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-left button 2 time(s).
+
+To connect, hold the top-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-left button 3 time(s).
+
+To connect, hold the bottom-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-left button 3 time(s).
+
+To connect, hold the bottom-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-left button 1 time(s).
+
+To connect, hold the bottom-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-left button 2 time(s).
+
+To connect, hold the bottom-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-right button 2 time(s).
+
+To connect, hold the bottom-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-right button 3 time(s).
+
+To connect, hold the bottom-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-right button 1 time(s).
+
+There are no devices in this zone, please add a device first.
+
+This action is not available, please remove it.
+

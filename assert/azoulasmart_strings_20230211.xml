@@ -1,0 +1,77 @@
+<resources>
+    <string name="no_zone_in_gw">There are no zones in this gateway, please add a zone first.</string>
+    <string name="onoff_transition_time">OnOff Transition Time</string>
+    <string name="_0_1s">× 0.1秒</string>
+    <string name="value_range_0_65535">Value range: 0~65535</string>
+    <string name="saved">Saved</string>
+    <string name="saved_tip">There are some devices that cannot be saved, please make sure that they are online and then
+        try again.
+    </string>
+    <string name="failed_devices">Failed devices</string>
+    <string name="groups">区域</string>
+    <string name="sockets">插座</string>
+    <string name="on_uppercase">开</string>
+    <string name="off_uppercase">关</string>
+    <string name="sensors">Sensors</string>
+    <string name="switches">Switches</string>
+    <string name="no_sensor_in_gateway">There are no sensors in this gateway, please add a device first.</string>
+    <string name="no_switch_in_gateway">There are no switches in this gateway, please add a switch first.</string>
+    <string name="others">Others</string>
+    <string name="multiple">Multiple</string>
+    <string name="multiple_selection">Multiple Selection</string>
+    <string name="no_light_in_gateway">There are no lights in this gateway, please add a light first.</string>
+    <string name="no_socket_in_gateway">There are no sockets in this gateway, please add a socket first.</string>
+    <string name="select_all">Select All</string>
+    <string name="next">Next</string>
+    <string name="top_right_press_tip_12">To connect, hold the top-right button for 10 seconds, then release.\n\nThen
+        quickly press the top-right button 1 time(s).
+    </string>
+    <string name="top_right_press_tip_13">To connect, hold the top-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-right button 2 time(s).
+    </string>
+    <string name="top_right_press_tip_14">To connect, hold the top-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-right button 3 time(s).
+    </string>
+
+    <string name="top_left_press_tip_16">To connect, hold the top-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-left button 1 time(s).
+    </string>
+    <string name="top_left_press_tip_17">To connect, hold the top-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-left button 2 time(s).
+    </string>
+    <string name="top_left_press_tip_18">To connect, hold the top-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the top-left button 3 time(s).
+    </string>
+
+    <string name="bottom_left_press_tip_19">To connect, hold the bottom-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-left button 3 time(s).
+    </string>
+    <string name="bottom_left_press_tip_21">To connect, hold the bottom-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-left button 1 time(s).
+    </string>
+    <string name="bottom_left_press_tip_22">To connect, hold the bottom-left button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-left button 2 time(s).
+    </string>
+    <string name="bottom_right_press_tip_23">To connect, hold the bottom-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-right button 2 time(s).
+    </string>
+    <string name="bottom_right_press_tip_24">To connect, hold the bottom-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-right button 3 time(s).
+    </string>
+    <string name="bottom_right_press_tip_26">To connect, hold the bottom-right button for 10 seconds, then release.\n\n
+
+        Then quickly press the bottom-right button 1 time(s).
+    </string>
+    <string name="no_device_in_zone_tip">There are no devices in this zone, please add a device first.</string>
+    <string name="action_not_available">This action is not available, please remove it.</string>
+</resources>
