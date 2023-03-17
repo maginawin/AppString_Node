@@ -2,16 +2,18 @@
 
 // node set_android.js -f strings.xml values.txt new_strings.xml
 // Example:
-// node set_android.js -f ./assert/strings.xml ./assert/values.txt ~/Downloads/new_strings.xml
+// node set_android.js -f ./assert/strings.xml ./assert/translation.xlsx ~/Downloads/new_strings.xml
 
-const {program} = require('commander')
-const {readFile, readAndroidStrings} = require('./lib/utils')
+// HomeeLife
+// node set_android.js -f ./assert/homeelife_strings.xml ./assert/homeelife_translation.xlsx ./assert/homeelife_strings_cn.xml
+
+const { program } = require('commander')
+const { readFile, readTranslation, writeFile } = require('./lib/utils')
 
 program.version('0.0.1')
 
-program
-    .option('-f, --files <files...>', '1. strings.xml, 2. values.txt, 3. new_strings.xml')
-    .parse(process.argv)
+program.option('-f, --files <files...>',
+  '1. strings.xml, 2. translation.xlsx, 3. new_strings.xml').parse(process.argv)
 
 const options = program.opts()
 console.log(options)
@@ -19,18 +21,58 @@ console.log(options)
 const files = options.files
 if (!Array.isArray(files) || files.length !== 3) {
 
-    console.log('Files incorrect!')
-    process.exit(0)
+  console.log('Files incorrect!')
+  process.exit(0)
 }
 
 const stringsFile = files[0]
-const valuesFile = files[1]
+const translationFile = files[1]
 const newFile = files[2]
 
-readAndroidStrings(stringsFile)
-    .then(data => {
-        console.log(`data `, data)
+readTranslation(translationFile).then(translation => {
 
+  return readFile(stringsFile).then(data => {
 
+    let items = data.toString().split('\n')
+    let result = ''
+    items.forEach(item => {
+
+      if (item.indexOf('</string>') !== -1 || item.indexOf('</item>') !== -1) {
+
+        const start = item.indexOf('>')
+        const end = item.lastIndexOf('<')
+        if (start !== -1 && end !== -1) {
+          const text = item.substring(start + 1, end)
+          const translated = translation[text]
+          if (typeof translated === 'string') {
+
+            const oldText = '>' + text + '<'
+            const newText = '>' + translated + '<'
+            const newItem = item.replace(oldText, newText)
+
+            result += newItem + '\n'
+
+          } else {
+
+            result += item + '\n'
+            console.log(`Not translated: ${text}`)
+          }
+
+        } else {
+
+          result += item + '\n'
+          console.log(`No start and end index: ${item}`)
+        }
+
+      } else {
+
+        result += item + '\n'
+      }
     })
-    .catch(err => console.error(err))
+
+    return writeFile(newFile, result)
+  })
+
+}).catch(err => console.error(err))
+
+

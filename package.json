@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^8.3.0",
+    "node-xlsx": "^0.21.0",
     "xml2js": "^0.4.23"
   }
 }
