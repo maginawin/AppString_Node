@@ -1,4 +1,3 @@
-#!!! Please keep the '\n', it's a placeholder.
 
 SR NFC Tool
 
@@ -198,6 +197,12 @@ Log gamma 1.5
 
 Log gamma 1.8
 
+Log gamma 2.5
+
+Log gamma 3.5
+
+Log gamma 5.0
+
 level
 
 cct
@@ -281,8 +286,6 @@ MASK
 Recommended value
 
 Enable Pairing
-
-Enable
 
 Ignore
 
@@ -392,6 +395,24 @@ Done
 
 Energy saving potential
 
+Extanded fade
+
+steps/s
+
+Enable Touchlink & GP mode
+
+Enable Find&Bind / Delete GP
+
+Reset device
+
+Enable remote pairing
+
+Enable device discovering
+
+Normal
+
+Device state
+
 Please enabled NFC first.
 
 Enabled NFC
@@ -403,6 +424,8 @@ Value
 Are you sure you want to delete this configuration?
 
 Set Consecutively
+
+Enable
 
 Enable pairing
 
@@ -419,4 +442,6 @@ Invalid data
 Output Level
 
 Operating Time
+
+Extended fade
 

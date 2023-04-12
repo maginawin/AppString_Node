@@ -156,6 +156,9 @@
     <string name="log_gamma5">Log gamma 1.5</string>
     <string name="log_gamma8">Log gamma 1.8</string>
     <string name="linear">Linear</string>
+    <string name="log_gamma25">Log gamma 2.5</string>
+    <string name="log_gamma35">Log gamma 3.5</string>
+    <string name="log_gamma50">Log gamma 5.0</string>
 
     <string name="level">level</string>
     <string name="cct">cct</string>
@@ -203,7 +206,7 @@
     <string name="recommended_value">Recommended value</string>
     <string name="enable_pair">Enable Pairing</string>
     <string name="minu_current_compensation">Minimum current compensation</string>
-    <string name="enable_pair_value">Enable</string>
+    <string name="enable_pair_value">Enable Pairing</string>
     <string name="ignore_pair_value">Ignore</string>
     <string name="device_power">Device Power</string>
     <string name="advanced">Advanced</string>
@@ -261,5 +264,16 @@
     <string name="mode_lower">mode</string>
     <string name="done">Done</string>
     <string name="energy">Energy saving potential</string>
+
+    <string name="extended_fade">Extanded fade</string>
+    <string name="steps_s_unit">steps/s</string>
+    <string name="join_add_gp">Enable Touchlink &amp; GP mode</string>
+    <string name="find_bind_del_gp">Enable Find&amp;Bind / Delete GP</string>
+
+    <string name="reset_device">Reset device</string>
+    <string name="enable_remote_pairing">Enable remote pairing</string>
+    <string name="enable_device_discovering">Enable device discovering</string>
+    <string name="normal">Normal</string>
+    <string name="device_state">Device state</string>
 
 </resources>
