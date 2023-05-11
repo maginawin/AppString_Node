@@ -12,7 +12,7 @@
 // node get_values.js -f ./assert/srnfctool_strings.xml ./assert/srnfctool_Localizable.strings ./assert/srnfctool_values.txt
 
 // HomeeLife
-// node get_values.js -f ./assert/homeelife_strings.xml ./assert/homeelife_Localizable.strings ./assert/homeelife_values.txt
+// node get_values.js -f ./assert/homeelife/strings_en_230511.xml ./assert/homeelife/Localizable_en_230511.strings ./assert/homeelife/values_230511.txt
 
 const { program } = require('commander')
 const { writeFile, readAndroidStrings, readIOSStrings } = require('./lib/utils')

@@ -1,7 +1,7 @@
 'use strict'
 
 // HomeeLife
-// node set_ios.js -f ./assert/homeelife_Localizable.strings ./assert/homeelife_translation.xlsx ./assert/homeelife_Localizable_cn.strings
+// node set_ios.js -f ./assert/homeelife/Localizable_en_230511.strings ./assert/homeelife/230511.xlsx ./assert/homeelife/Localizable_cn_230511.strings
 
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')

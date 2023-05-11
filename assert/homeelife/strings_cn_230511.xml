@@ -1,0 +1,79 @@
+<resources>
+    <string name="welcome_tip">欢迎使用 HomeeLife</string>
+    <string name="discover_devices">查找设备</string>
+    <string name="can_not_find_device">找不到设备？</string>
+    <string name="device_scan">正在查找设备…</string>
+    <string name="scanTip">请按两次设备上的配置按钮。</string>
+    <string name="next">下一步</string>
+    <string name="device_count">设备数量：%d</string>
+    <string name="no_device_find">找到到任何设备，请重置设备后再试。</string>
+    <string name="device_repair">修复设备</string>
+    <string name="waiting_for_repair">等待修复：%d</string>
+    <string name="repair">修复</string>
+    <string name="repairing">正在修复…</string>
+    <string name="repair_connect_fail">连接失败，请给设备重新上电后再试。</string>
+    <string name="repair_success">修复成功！</string>
+    <string name="repair_fail">修复失败，设备已断开连接。</string>
+    <string name="export_network">导出网络</string>
+    <string name="fail_upload">上传失败，请重试。</string>
+    <string name="on_off_Transition">开关过渡时间</string>
+    <string name="export_network_tip">上传网络数据并与其他用户分享。</string>
+    <string name="export">导出</string>
+    <string name="reset_net">重置网络</string>
+    <string name="delete_smart_switch">删除智能开关</string>
+    <string name="red">红色</string>
+    <string name="green">绿色</string>
+    <string name="blue">蓝色</string>
+    <string name="id_invalidate_tip">请输入一个有效的智能开关 ID。</string>
+    <string name="sure_delete_smart_set_tip">确定要删除这个智能开关吗？</string>
+    <string name="saved">已保存！</string>
+    <string name="deleted">已删除！</string>
+    <string-array name="shortPress">
+        <item>打开</item>
+        <item>关闭</item>
+        <item>打开/关闭</item>
+        <item>打开白色</item>
+        <item>关闭白色</item>
+        <item>打开/关闭白色</item>
+        <item>亮度步升</item>
+        <item>亮度步降</item>
+        <item>亮度步升/步降</item>
+        <item>调用场景 1</item>
+        <item>调用场景 2</item>
+        <item>调用场景 3</item>
+        <item>调用场景 4</item>
+        <item>改变色温</item>
+        <item>改变颜色</item>
+        <item>运行内置跑动模式</item>
+        <item>更改亮度</item>
+        <item>设置色温</item>
+        <item>设置红色</item>
+        <item>设置绿色</item>
+        <item>设置蓝色</item>
+        <item>设置彩色</item>
+    </string-array>
+    <string-array name="longPress">
+        <item>无功能</item>
+        <item>亮度渐升</item>
+        <item>亮度渐降</item>
+        <item>亮度渐升/渐降</item>
+        <item>色温渐升</item>
+        <item>色温渐降</item>
+        <item>色温渐升/渐降</item>
+        <item>彩色正向渐变</item>
+        <item>彩色逆向渐变</item>
+        <item>彩色正向/逆向渐变</item>
+        <item>跑动加速</item>
+        <item>跑动减速</item>
+        <item>跑动加速/减速</item>
+        <item>保存场景 1</item>
+        <item>调用场景 1</item>
+        <item>保存场景 2</item>
+        <item>调用场景 2</item>
+        <item>保存场景 3</item>
+        <item>调用场景 3</item>
+        <item>保存场景 4</item>
+        <item>调用场景 4</item>
+    </string-array>
+</resources>
+

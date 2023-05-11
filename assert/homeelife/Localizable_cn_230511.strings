@@ -1,0 +1,107 @@
+"hello_title" = "您好！";
+"welcome_homeelife_message" = "欢迎使用 HomeeLife。";
+"start_network" = "开始";
+
+"reset_network" = "重置网络";
+
+"reset_network_tint_title" = "重置网络？";
+"reset_network_tint_message" = "重置网络将会删除手机上的所有数据，您需要手动重置设备然后重新添加设备。";
+"reset_network_failed_message" = "重置网络失败，请稍后重试。";
+"reset" = "重置";
+
+"smart_switch_qrcode_title" = "扫描智能开关 ID";
+"smart_switch_qrcode_message" = "请扫描智能开关上的二维码。";
+"smart_switch_qrcode_invalid_message" = "请输入一个有效的智能开关 ID。";
+"saved" = "已保存！";
+"deleted" = "已删除！";
+"smart_switch_delete_alert_message" = "确定要删除这个智能开关吗？";
+
+//"smart_switch_action_red" = "红色";
+//"smart_switch_action_green" = "绿色";
+//"smart_switch_action_blue" = "蓝色";
+"onoff_transition" = "开关过渡时间";
+
+
+
+"switch_action_00" = "无功能";
+"switch_action_01" = "开灯";
+"switch_action_02" = "关灯";
+"switch_action_03" = "开/关灯";
+"switch_action_04" = "白色开";
+"switch_action_05" = "白色关";
+"switch_action_06" = "白色开/关";
+"switch_action_07" = "亮度渐升";
+"switch_action_08" = "亮度渐降";
+"switch_action_09" = "亮度渐升/降";
+
+"switch_action_40" = "保存场景 1";
+"switch_action_41" = "调用场景 1";
+"switch_action_42" = "保存场景 2";
+"switch_action_43" = "调用场景 2";
+"switch_action_44" = "保存场景 3";
+"switch_action_45" = "调用场景 3";
+"switch_action_46" = "保存场景 4";
+"switch_action_47" = "调用场景 4";
+
+"switch_action_53" = "改变色温";
+"switch_action_54" = "改变颜色";
+"switch_action_55" = "运行内置跑动模式";
+"switch_action_56" = "更改亮度";
+"switch_action_57" = "设置色温";
+"switch_action_58" = "设置红色";
+"switch_action_59" = "设置绿色";
+"switch_action_60" = "设置蓝色";
+"switch_action_61" = "设置彩色";
+"switch_action_62" = "亮度渐升";
+"switch_action_63" = "亮度渐降";
+"switch_action_64" = "亮度渐升/渐降";
+"switch_action_65" = "色温渐升";
+"switch_action_66" = "色温渐降";
+"switch_action_67" = "色温渐升/渐降";
+"switch_action_68" = "彩色正向渐变";
+"switch_action_69" = "彩色逆向渐变";
+"switch_action_70" = "彩色正向/逆向渐变";
+"switch_action_71" = "跑动加速";
+"switch_action_72" = "跑动减速";
+"switch_action_73" = "跑动加速/减速";
+
+
+"export_network" = "导出网络";
+"export_network_alert_message" = "上传网络数据并与其他用户分享。";
+"export" = "导出";
+
+"import_network_alert_message" = "导入其他网络的数据并替换当前数据。";
+"import" = "导入";
+"import_network_qrcode_message" = "请扫描导出网络页面的二维码。";
+
+"import_network_importing" = "正在导入…";
+
+
+"device_discover" = "查找设备";
+"device_repair" = "修复设备";
+
+"device_add_scanning" = "正在查找设备…";
+"device_add_scanning_message" = "请按两次设备上的配置按钮。";
+"device_scanning_count" = "设备数量：";
+"device_waiting_repair" = "等待修复：";
+
+"next" = "下一步";
+"repair" = "修复";
+/// 找不到设备文本
+"device_scanning_notfind_message" = "找不到任何设备，请重置设备后重试。";
+/// 找不到设备弹窗
+"device_notfind_alert_title" = "找不到设备？";
+"device_notfind_alert_message_1" = "1. 确保您的设备已经上电。\n\n2. 确保您的手机离设备不超过 10 米远。\n\n";
+"device_notfind_alert_message_2" = "如果您仍然无法连接到设备，您需要重置设备然后重新添加它。\n\n";
+"device_notfind_alert_message_3" = "重置方法：\n\n";
+"device_notfind_alert_message_4" = "请按住设备上的重置按钮直到灯开始闪烁。\n\n或\n\n重复给设备断电、上电至少 8 次。";
+"device_repair_action" = "修复设备";
+/// 设备连接
+"device_connecting" = "正在连接…";
+"device_connect_failed" = "连接失败，请给设备重新上电后再试。";
+/// 设备修复
+"device_repairing" = "正在修复…";
+"device_repair_success" = "修复成功！";
+"device_repair_failed" = "修复失败，设备已断开连接。";
+
+

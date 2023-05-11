@@ -1,0 +1,78 @@
+<resources>
+    <string name="welcome_tip">Welcome to HomeeLife</string>
+    <string name="discover_devices">Discover Devices</string>
+    <string name="can_not_find_device">Can’t find devices?</string>
+    <string name="device_scan">Device Scanning…</string>
+    <string name="scanTip">Push Prog button twice on the receiver you want to add.</string>
+    <string name="next">Next</string>
+    <string name="device_count">Device count: %d</string>
+    <string name="no_device_find">You don’t find any devices, please reset your device and try again.</string>
+    <string name="device_repair">Device Repair</string>
+    <string name="waiting_for_repair">Waiting for repair: %d</string>
+    <string name="repair">Repair</string>
+    <string name="repairing">Repairing…</string>
+    <string name="repair_connect_fail">Failed to connect, please re-power your devices and then try again.</string>
+    <string name="repair_success">Repair succeeded!</string>
+    <string name="repair_fail">Failed to repair, the device is disconnected.</string>
+    <string name="export_network">Export Network</string>
+    <string name="fail_upload">Failed to upload, please try again.</string>
+    <string name="on_off_Transition">On/Off Transition</string>
+    <string name="export_network_tip">Upload network data and share it with other users.</string>
+    <string name="export">Export</string>
+    <string name="reset_net">Reset Network</string>
+    <string name="delete_smart_switch">Delete Smart Switch</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="id_invalidate_tip">Please enter a valid Switch ID.</string>
+    <string name="sure_delete_smart_set_tip">Are you sure you want to delete this Smart Switch?</string>
+    <string name="saved">Saved！</string>
+    <string name="deleted">Deleted！</string>
+    <string-array name="shortPress">
+        <item>Turn On</item>
+        <item>Turn Off</item>
+        <item>Turn On/Off</item>
+        <item>Turn On White</item>
+        <item>Turn Off White</item>
+        <item>Turn On/Off White</item>
+        <item>Step Brightness Up</item>
+        <item>Step Brightness Down</item>
+        <item>Step Brightness Up/Down</item>
+        <item>Recall Scene 1</item>
+        <item>Recall Scene 2</item>
+        <item>Recall Scene 3</item>
+        <item>Recall Scene 4</item>
+        <item>Change CCT</item>
+        <item>Change RGB</item>
+        <item>Run Built-in Running Mode</item>
+        <item>Set Brightness</item>
+        <item>Set CCT</item>
+        <item>Set Red</item>
+        <item>Set Green</item>
+        <item>Set Blue</item>
+        <item>Set RGB</item>
+    </string-array>
+    <string-array name="longPress">
+        <item>Undefined</item>
+        <item>Move Brightness Up</item>
+        <item>Move Brightness Down</item>
+        <item>Move Brightness Up/Down</item>
+        <item>Move CCT/White Up</item>
+        <item>Move CCT/White Down</item>
+        <item>Move CCT/White Up/Down</item>
+        <item>Move RGB Mix Fade Up</item>
+        <item>Move RGB Mix Fade Down</item>
+        <item>Move RGB Mix Fade Up/Down</item>
+        <item>Move Speed Up</item>
+        <item>Move Speed Down</item>
+        <item>Move Speed Up/Down</item>
+        <item>Save Scene 1</item>
+        <item>Recall Scene 1</item>
+        <item>Save Scene 2</item>
+        <item>Recall Scene 2</item>
+        <item>Save Scene 3</item>
+        <item>Recall Scene 3</item>
+        <item>Save Scene 4</item>
+        <item>Recall Scene 4</item>
+    </string-array>
+</resources>

@@ -5,7 +5,7 @@
 // node set_android.js -f ./assert/strings.xml ./assert/translation.xlsx ~/Downloads/new_strings.xml
 
 // HomeeLife
-// node set_android.js -f ./assert/homeelife_strings.xml ./assert/homeelife_translation.xlsx ./assert/homeelife_strings_cn.xml
+// node set_android.js -f ./assert/homeelife/strings_en_230511.xml ./assert/homeelife/230511.xlsx ./assert/homeelife/strings_cn_230511.xml
 
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')
