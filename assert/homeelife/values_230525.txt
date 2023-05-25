@@ -1,0 +1,51 @@
+
+Reset Network?
+
+Reset network will erase all data on your phone, you need to manually reset the device and add it again.
+
+Mode
+
+Templates
+
+Reset All
+
+Natural light has not been set
+
+Invalid data
+
+Cct
+
+DIM
+
+Standard Mode
+
+Office Mode
+
+Health Care Mode
+
+Natural Light
+
+Are you sure you want to resel all modes?
+
+Reset all before  updating data.
+
+Request Timeout
+
+This light only supports on/off, it does not support Natural Light.
+
+Activated
+
+Not Activated
+
+Reset all before updating data.
+
+Are you sure you want to reset all modes?
+
+Reset!
+
+Failed!
+
+Natural light has not been set.
+
+You don’t have a light yet.
+

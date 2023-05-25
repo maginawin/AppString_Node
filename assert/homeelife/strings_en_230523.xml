@@ -1,0 +1,19 @@
+<resources>
+    <string name="reset_net_title">Reset Network?</string>
+    <string name="reset_net_tip">Reset network will erase all data on your phone, you need to manually reset the device and add it again.</string>
+    <string name="mode">Mode</string>
+    <string name="templates">Templates</string>
+    <string name="resetAll">Reset All</string>
+    <string name="notSetNatural">Natural light has not been set</string>
+    <string name="invalidData">Invalid data</string>
+    <string name="cct">Cct</string>
+    <string name="dim">DIM</string>
+    <string name="standard_mode">Standard Mode</string>
+    <string name="office_mode">Office Mode</string>
+    <string name="health_care_mode">Health Care Mode</string>
+    <string name="natural_light">Natural Light</string>
+    <string name="sure_reset_all_tip">Are you sure you want to resel all modes?</string>
+    <string name="reset_natural_tip">Reset all before  updating data.</string>
+    <string name="request_timeout">Request Timeout</string>
+    <string name="on_off_no_natural">This light only supports on/off, it does not support Natural Light.</string>
+</resources>
