@@ -1,0 +1,41 @@
+<resources>
+    <string name="power">功率</string>
+    <string name="byte_name">字节</string>
+    <string name="clear_all">删除所有</string>
+    <string name="clear_all_configurations">删除所有配置</string>
+    <string name="clear_all_tip">确定要删除所有配置吗？</string>
+    <string name="key1_target">键 1 目标</string>
+    <string name="key1_short">键 1 短按动作列表</string>
+    <string name="key1_long">键 1 长按动作列表</string>
+    <string name="key1_double">键 1 双击动作列表</string>
+    <string name="key2_target">键 2 目标</string>
+    <string name="key2_short">键 2 短按动作列表</string>
+    <string name="key2_long">键 2 长按动作列表</string>
+    <string name="key2_double">键 2 双击动作列表</string>
+
+    <string name="direct_power">直接功率设置</string>
+    <string name="xy_settings">Xy 设置</string>
+    <string name="cct_settings">色温设置</string>
+    <string name="rgb_waf_settings">Rgbwaf 设置</string>
+
+    <string name="action">动作</string>
+    <string name="value">值</string>
+    <string name="xy">Xy</string>
+    <string name="rgb_waf">Rgbwaf</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="xy_unit">x 0.01</string>
+    <string name="r">R</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="w">W</string>
+    <string name="a">A</string>
+    <string name="f">F</string>
+
+    <string name="default_value">默认</string>
+    <string name="target_type">目标类型</string>
+    <string name="device">设备</string>
+    <string name="type_group">组</string>
+    <string name="broadcast">广播</string>
+</resources>
+

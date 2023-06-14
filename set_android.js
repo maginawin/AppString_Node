@@ -7,6 +7,9 @@
 // HomeeLife
 // node set_android.js -f ./assert/homeelife/strings_en_230511.xml ./assert/homeelife/230511.xlsx ./assert/homeelife/strings_cn_230511.xml
 
+// nfc
+// node set_android -f ./assert/nfc/strings_en_230614.xml ./assert/nfc/230614.xlsx ./assert/nfc/strings_cn_230614.xml
+
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')
 
