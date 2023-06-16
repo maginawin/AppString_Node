@@ -1,0 +1,207 @@
+
+Address
+
+None
+
+Rgb loop1 (clockwise)
+
+Rgb loop2 (anticlockwise)
+
+Waf loop1 (clockwise)
+
+Waf loop2 (anticlockwise)
+
+W loop1 (increase)
+
+W loop2 (decrease)
+
+Direct arc power control 1
+
+Direct arc power control 2
+
+Direct arc power control 3
+
+Direct arc power control 4
+
+Direct arc power control 5
+
+Direct arc power control 6
+
+Direct arc power control 7
+
+Direct arc power control 8
+
+Direct arc power control 9
+
+Direct arc power control 10
+
+Direct arc power control 11
+
+Direct arc power control 12
+
+Direct arc power control 13
+
+Direct arc power control 14
+
+Direct arc power control 15
+
+Off
+
+Up
+
+Down
+
+Step up
+
+Step down
+
+Recall max
+
+Recall min
+
+Step down and off
+
+On and step up
+
+Go to last level
+
+Go to scene 0
+
+Go to scene 1
+
+Go to scene 2
+
+Go to scene 3
+
+Go to scene 4
+
+Go to scene 5
+
+Go to scene 6
+
+Go to scene 7
+
+Go to scene 8
+
+Go to scene 9
+
+Go to scene 10
+
+Go to scene 11
+
+Go to scene 12
+
+Go to scene 13
+
+Go to scene 14
+
+Go to scene 15
+
+X-coordinate step up
+
+X-coordinate step down
+
+Y-coordinate, step up
+
+Y-coordinate step down
+
+Cct step cooler
+
+Cct step warmer
+
+Activate xy 1
+
+Activate xy 2
+
+Activate xy 3
+
+Activate xy 4
+
+Activate xy 5
+
+Activate xy 6
+
+Activate xy 7
+
+Activate xy 8
+
+Activate xy 9
+
+Activate xy 10
+
+Activate xy 11
+
+Activate xy 12
+
+Activate xy 13
+
+Activate xy 14
+
+Activate xy 15
+
+Activate xy 16
+
+Activate cct 1
+
+Activate cct 2
+
+Activate cct 3
+
+Activate cct 4
+
+Activate cct 5
+
+Activate cct 6
+
+Activate cct 7
+
+Activate cct 8
+
+Activate cct 9
+
+Activate cct 10
+
+Activate cct 11
+
+Activate cct 12
+
+Activate cct 13
+
+Activate cct 14
+
+Activate cct 15
+
+Activate cct 16
+
+Activate rgbwaf 1
+
+Activate rgbwaf 2
+
+Activate rgbwaf 3
+
+Activate rgbwaf 4
+
+Activate rgbwaf 5
+
+Activate rgbwaf 6
+
+Activate rgbwaf 7
+
+Activate rgbwaf 8
+
+Activate rgbwaf 9
+
+Activate rgbwaf 10
+
+Activate rgbwaf 11
+
+Activate rgbwaf 12
+
+Activate rgbwaf 13
+
+Activate rgbwaf 14
+
+Activate rgbwaf 15
+
+Activate rgbwaf 16
+

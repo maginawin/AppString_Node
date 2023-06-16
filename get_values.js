@@ -15,7 +15,7 @@
 // node get_values.js -f ./assert/homeelife/strings_en_230511.xml ./assert/homeelife/Localizable_en_230511.strings ./assert/homeelife/values_230511.txt
 
 // nfc
-// node get_values.js -f ./assert/nfc/strings_en_230614.xml ./assert/Localizable_empty.strings ./assert/nfc/values_230614.txt
+// node get_values.js -f ./assert/nfc/strings_en_230616.xml ./assert/Localizable_empty.strings ./assert/nfc/values_230616.txt
 
 const { program } = require('commander')
 const { writeFile, readAndroidStrings, readIOSStrings } = require('./lib/utils')
