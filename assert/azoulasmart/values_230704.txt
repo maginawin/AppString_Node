@@ -1,0 +1,65 @@
+
+Forced heating time
+
+Anti freezing temperature
+
+Child lock
+
+Battery percentage
+
+Forced
+
+Sleep
+
+Please select your green power device type.
+
+Switch (Key 4)
+
+Switch (Key 1)
+
+To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.\n\n
+        If the next step operation instruction doesn\'t pop up, short press the button once and then wait for 5 seconds again.\n
+        This operation shall be repeated until the next step operation instruction pops up.
+
+That worked! Now press and hold the button for over 10 seconds, then release.
+
+Lock
+
+Unlock
+
+Changed to sleep
+
+Changed to forced
+
+Is sleep mode
+
+Is forced mode
+
+Change to sleep
+
+change to forced
+
+Button pressed
+
+Button hold
+
+Advanced
+
+External switch type
+
+PWM frequency
+
+Dimming curve
+
+Push button switch
+
+Normal on/off switch
+
+3 way switch
+
+Linear
+
+Logarithmic gamma 1.5
+
+Logarithmic gamma 1.8
+

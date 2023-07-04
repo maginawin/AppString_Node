@@ -1,0 +1,35 @@
+<resources>
+    <string name="forced_heating_time">Forced heating time</string>
+    <string name="anti_freezing_temperature">Anti freezing temperature</string>
+    <string name="child_lock">Child lock</string>
+    <string name="battery_percentage">Battery percentage</string>
+    <string name="forced">Forced</string>
+    <string name="sleep">Sleep</string>
+    <string name="select_green_type">Please select your green power device type.</string>
+    <string name="switch_key_4">Switch (Key 4)</string>
+    <string name="switch_key_1">Switch (Key 1)</string>
+    <string name="green_one_tip">To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.\n\n
+        If the next step operation instruction doesn\'t pop up, short press the button once and then wait for 5 seconds again.\n
+        This operation shall be repeated until the next step operation instruction pops up.</string>
+    <string name="green_one_work_tip">That worked! Now press and hold the button for over 10 seconds, then release.</string>
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
+    <string name="changed_to_sleep">Changed to sleep</string>
+    <string name="changed_to_forced">Changed to forced</string>
+    <string name="is_sleep_mode">Is sleep mode</string>
+    <string name="is_forced_mode">Is forced mode</string>
+    <string name="change_to_sleep">Change to sleep</string>
+    <string name="cahnge_to_forced">change to forced</string>
+    <string name="button_pressed">Button pressed</string>
+    <string name="button_hold">Button hold</string>
+    <string name="advanced">Advanced</string>
+    <string name="external_switch_type">External switch type</string>
+    <string name="pwm_frequency">PWM frequency</string>
+    <string name="dimming_curve">Dimming curve</string>
+    <string name="push_button_switch">Push button switch</string>
+    <string name="normal_on_off_switch">Normal on/off switch</string>
+    <string name="_3_way_switch">3 way switch</string>
+    <string name="linear">Linear</string>
+    <string name="logarithmic_gamma_1_5">Logarithmic gamma 1.5</string>
+    <string name="logarithmic_gamma_1_8">Logarithmic gamma 1.8</string>
+</resources>
