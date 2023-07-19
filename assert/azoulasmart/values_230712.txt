@@ -1,0 +1,21 @@
+
+Discover groups
+
+Next
+
+%1$d/%2$d
+
+New groups: %d
+
+Old groups: %d
+
+Please connect a light first.
+
+We are about to discover groups from connected lights.
+
+%d group(s)
+
+No new groups.
+
+No old groups.
+

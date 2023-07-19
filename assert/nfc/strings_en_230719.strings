@@ -1,0 +1,11 @@
+"mask" = "MASK";
+"warmest" = "Warmest";
+"coolest" = "Coolest";
+"startWriting" = "Start Writing";
+"currentShortAddress" = "Current short address";
+"shortAddressAutoIncrease" = "Short address auto increase";
+"steps" = "Steps";
+"shortAddress_stepsMessage" = "The current short address will be increased by steps after each successful writing.";
+"latestShortAddress" = "Latest short address";
+"success" = "Success";
+"failure" = "Failure";

@@ -1,0 +1,29 @@
+
+Voltage:
+
+Power:
+
+Current short address
+
+Short address auto increase
+
+Steps
+
+Latest short address
+
+The current short address will be increased by steps after each successful writing.
+
+Success
+
+Failure
+
+Start Writing
+
+Set Consecutively
+
+MASK
+
+Warmest
+
+Coolest
+

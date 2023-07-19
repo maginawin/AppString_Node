@@ -1,0 +1,16 @@
+<resources>
+    <string name="voltage_range">Voltage:</string>
+    <string name="power_range">Power:</string>
+
+    <string name="current_short_address">Current short address</string>
+    <string name="short_address_auto_increase">Short address auto increase</string>
+    <string name="steps">Steps</string>
+    <string name="latest_short_address">Latest short address</string>
+    <string name="steps_tip">The current short address will be increased by steps after each successful writing.
+    </string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="start_writing">Start Writing</string>
+    <string name="set_consecutively">Set Consecutively</string>
+</resources>
+

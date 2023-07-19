@@ -1,0 +1,12 @@
+<resources>
+    <string name="discover_groups">Discover groups</string>
+    <string name="next">Next</string>
+    <string name="device_size">%1$d/%2$d</string>
+    <string name="new_group_size">New groups: %d</string>
+    <string name="old_group_size">Old groups: %d</string>
+    <string name="please_connect_a_light_first">Please connect a light first.</string>
+    <string name="discover_groups_from_connected_lights">We are about to discover groups from connected lights.</string>
+    <string name="groups_size">%d group(s)</string>
+    <string name="no_new_groups">No new groups.</string>
+    <string name="no_old_groups">No old groups.</string>
+</resources>

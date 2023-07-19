@@ -16,9 +16,10 @@
 
 // nfc
 // node get_values.js -f ./assert/nfc/strings_en_230616.xml ./assert/Localizable_empty.strings ./assert/nfc/values_230616.txt
+// node get_values.js -f ./assert/nfc/strings_en_230719.xml ./assert/nfc/strings_en_230719.strings ./assert/nfc/values_230719.txt
 
 // Azoula Smart
-// node get_values.js -f ./assert/azoulasmart/strings_en_230704.xml ./assert/Localizable_empty.strings ./assert/azoulasmart/values_230704.txt
+// node get_values.js -f ./assert/azoulasmart/strings_en_230712.xml ./assert/Localizable_empty.strings ./assert/azoulasmart/values_230712.txt
 
 const { program } = require('commander')
 const { writeFile, readAndroidStrings, readIOSStrings } = require('./lib/utils')
