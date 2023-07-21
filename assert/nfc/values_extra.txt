@@ -1,0 +1,193 @@
+
+PF efficiency ratio
+
+Load efficiency ratio
+
+Maximum power
+
+External operating voltage
+
+External operating voltage frequency
+
+Identification number byte
+
+DALI bus power supply status
+
+Power
+
+Byte
+
+Clear All
+
+Clear All Configurations
+
+Are you sure you want clear all configurations.
+
+Key1 target
+
+Key1 short press actions
+
+Key1 long press actions
+
+Key1 double click actions
+
+Key2 target
+
+Key2 short press actions
+
+Key2 long press actions
+
+Key2 double click actions
+
+Direct power settings
+
+Xy settings
+
+Cct settings
+
+Rgbwaf settings
+
+Action
+
+Value
+
+Xy
+
+Rgbwaf
+
+X
+
+Y
+
+x 0.01
+
+R
+
+G
+
+B
+
+W
+
+A
+
+F
+
+Default
+
+Target type
+
+Device
+
+Group
+
+Broadcast
+
+Address
+
+None
+
+Rgb loop1 (clockwise)
+
+Rgb loop2 (anticlockwise)
+
+Waf loop1 (clockwise)
+
+Waf loop2 (anticlockwise)
+
+W loop1 (increase)
+
+W loop2 (decrease)
+
+Direct arc power control
+
+Off
+
+Up
+
+Down
+
+Step up
+
+Step down
+
+Recall max
+
+Recall min
+
+Step down and off
+
+On and step up
+
+Go to last level
+
+Go to scene
+
+X-coordinate step up
+
+X-coordinate step down
+
+Y-coordinate step up
+
+Y-coordinate step down
+
+Cct step cooler
+
+Cct step warmer
+
+Activate xy
+
+Activate cct
+
+Activate rgbwaf
+
+Corridor 1
+
+Corridor 2
+
+Voltage:
+
+Power:
+
+Warmest
+
+Coolest
+
+Current short address
+
+Short address auto increase
+
+Steps
+
+Latest short address
+
+The current short address will be increased by steps after each successful writing.
+
+Success
+
+Failure
+
+Start Writing
+
+Set Consecutively
+
+DALI CV DIM
+
+Psuh-DALI 2KEY
+
+Clear
+
+Are you sure you want to clear all configurations.
+
+X coordinate step up
+
+X coordinate step down
+
+Y coordinate step up
+
+Y coordinate step down
+
+Voltage
+
+MASK
+

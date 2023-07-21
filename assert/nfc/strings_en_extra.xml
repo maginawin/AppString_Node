@@ -1,0 +1,100 @@
+<resources>
+
+    <string name="pf_efficiency_ratio">PF efficiency ratio</string>
+    <string name="load_efficiency_ratio">Load efficiency ratio</string>
+    <string name="maximum_power">Maximum power</string>
+    <string name="external_operating_voltage">External operating voltage</string>
+    <string name="external_operating_voltage_frequency">External operating voltage frequency</string>
+    <string name="identification_number_byte">Identification number byte</string>
+    <string name="dali_bus_power_supply_status">DALI bus power supply status</string>
+    <string name="power">Power</string>
+    <string name="byte_name">Byte</string>
+
+    <string name="clear_all">Clear All</string>
+    <string name="clear_all_configurations">Clear All Configurations</string>
+    <string name="clear_all_tip">Are you sure you want clear all configurations.</string>
+
+    <string name="key1_target">Key1 target</string>
+    <string name="key1_short">Key1 short press actions</string>
+    <string name="key1_long">Key1 long press actions</string>
+    <string name="key1_double">Key1 double click actions</string>
+    <string name="key2_target">Key2 target</string>
+    <string name="key2_short">Key2 short press actions</string>
+    <string name="key2_long">Key2 long press actions</string>
+    <string name="key2_double">Key2 double click actions</string>
+
+    <string name="direct_power">Direct power settings</string>
+    <string name="xy_settings">Xy settings</string>
+    <string name="cct_settings">Cct settings</string>
+    <string name="rgb_waf_settings">Rgbwaf settings</string>
+
+    <string name="action">Action</string>
+    <string name="value">Value</string>
+    <string name="xy">Xy</string>
+    <string name="rgb_waf">Rgbwaf</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="xy_unit">x 0.01</string>
+
+    <string name="r">R</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="w">W</string>
+    <string name="a">A</string>
+    <string name="f">F</string>
+
+    <string name="default_value">Default</string>
+    <string name="target_type">Target type</string>
+    <string name="device">Device</string>
+    <string name="type_group">Group</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="address">Address</string>
+    <string name="action_FF">None</string>
+    <string name="action_A0">Rgb loop1 (clockwise)</string>
+    <string name="action_A3">Rgb loop2 (anticlockwise)</string>
+    <string name="action_A1">Waf loop1 (clockwise)</string>
+    <string name="action_A4">Waf loop2 (anticlockwise)</string>
+    <string name="action_A2">W loop1 (increase)</string>
+    <string name="action_A5">W loop2 (decrease)</string>
+    <string name="action_direct_arc_power_control">Direct arc power control</string>
+    <string name="action_10">Off</string>
+    <string name="action_11">Up</string>
+    <string name="action_12">Down</string>
+    <string name="action_13">Step up</string>
+    <string name="action_14">Step down</string>
+    <string name="action_15">Recall max</string>
+    <string name="action_16">Recall min</string>
+    <string name="action_17">Step down and off</string>
+    <string name="action_18">On and step up</string>
+    <string name="action_19">Go to last level</string>
+    <string name="action_go_to_scene">Go to scene</string>
+    <string name="action_30">X-coordinate step up</string>
+    <string name="action_31">X-coordinate step down</string>
+    <string name="action_32">Y-coordinate step up</string>
+    <string name="action_33">Y-coordinate step down</string>
+    <string name="action_34">Cct step cooler</string>
+    <string name="action_35">Cct step warmer</string>
+    <string name="action_activate_xy">Activate xy</string>
+    <string name="action_activate_cct">Activate cct</string>
+    <string name="action_activate_rgbwaf">Activate rgbwaf</string>
+
+    <string name="corridor_1">Corridor 1</string>
+    <string name="corridor_2">Corridor 2</string>
+
+    <string name="voltage_range">Voltage:</string>
+    <string name="power_range">Power:</string>
+
+    <string name="warmest">Warmest</string>
+    <string name="coolest">Coolest</string>
+
+    <string name="current_short_address">Current short address</string>
+    <string name="short_address_auto_increase">Short address auto increase</string>
+    <string name="steps">Steps</string>
+    <string name="latest_short_address">Latest short address</string>
+    <string name="steps_tip">The current short address will be increased by steps after each successful writing.</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="start_writing">Start Writing</string>
+    <string name="set_consecutively">Set Consecutively</string>
+
+</resources>

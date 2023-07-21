@@ -1,0 +1,1597 @@
+
+Invalid request.
+
+No permissions.
+
+The gateway is already bound.
+
+Timeout
+
+The email is already registered.
+
+Invalid email.
+
+Login failed, email not registered or wrong password.
+
+The verification code does not exist.
+
+The size of the file exceeds the maximum limit.
+
+Invalid verification code.
+
+Invalid token.
+
+Login expired, please sign in again.
+
+Entity not found.
+
+Request are too frequent, please try again later.
+
+Too many login failures, please try again after 5 minutes.
+
+No updates.
+
+Unknown error.
+
+Unknown issue.
+
+The email is not registered yet.
+
+The user does not exist.
+
+Sign In
+
+Sign Up
+
+Password
+
+Email
+
+Please type an Email
+
+Please type a password
+
+Verification Code
+
+Obtain
+
+Forgot Password
+
+LAN login
+
+A verification code has bean sent to your Email.
+
+Wrong email format.
+
+The password must be 6-20 characters and can only contain numbers, uppercase and lowercase letters and @#$?.%^&+= characters.
+
+Reset Password
+
+I have read and agreed
+
+\"Privacy Policy\"
+
+Privacy Policy
+
+Home
+
+Zone
+
+Smart
+
+Security
+
+Me
+
+%ds
+
+Done
+
+Manage
+
+Discovering Gateways…
+
+Local Gateway Login
+
+You are about to add your ZigBee devices.
+
+Please put your devices in \'pair mode\'.\n\n Refer to your device\'s manual on how to enable \'pair mode\'.
+
+Stop
+
+Start
+
+Add Devices
+
+Favorite Scenes
+
+Favorite Devices
+
+Offline
+
+Color
+
+Temperature
+
+Remove Device
+
+Name
+
+Model
+
+Firmware
+
+Device ID
+
+Updates
+
+Device Name
+
+Edit Device
+
+Are you sure you want to remove this device?
+
+Remove
+
+Current Version
+
+Checking for updates...
+
+Update Now
+
+Select Zone
+
+Save
+
+%d%%
+
+%f%%
+
+%dK
+
+Please type a device name
+
+Scenes
+
+Automation
+
+Add Zone
+
+%d Devices
+
+Edit Name
+
+Default Zone
+
+Devices not in this zone
+
+Remove Zone
+
+Zone Name
+
+Lights
+
+Other
+
+Wallpaper
+
+Please type a zone name
+
+Zone Management
+
+Gateway
+
+Settings
+
+Message Center
+
+Energy
+
+About
+
+Profile Picture
+
+Profile
+
+Nickname
+
+Account
+
+Change Password
+
+Delete Account
+
+Sign Out
+
+Devices
+
+Actions
+
+Actions…
+
+Scene execute success
+
+Turned on
+
+Turned off
+
+Turn on
+
+Turn off
+
+Toggle on or off
+
+Set a brightness
+
+Set a temperature
+
+Set a color
+
+Brightness changed
+
+Color temperature changed
+
+Color changed
+
+Are you sure you want to remove this zone?
+
+Favorite
+
+Please type a name
+
+When…
+
+Add Trigger
+
+And… (optional)
+
+Add Condition
+
+Remove Scene
+
+Add Action
+
+Add Scene
+
+Add Automation
+
+Edit Scene
+
+Edit Automation
+
+Weekly
+
+Daily
+
+Brightness changed and %s %d%%
+
+The time is %02d:%02d,
+
+every
+
+<
+
+≤
+
+=
+
+>
+
+≥
+
+day
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
+
+Sunday
+
+Weekdays
+
+Weekends
+
+Conditions
+
+Triggers
+
+No response
+
+Edit Trigger
+
+Edit Condition
+
+Edit Action
+
+Execute %s
+
+Are you sure you want to remove this scene?
+
+Are you sure you want to remove this quick control?
+
+Are you sure you want to remove this auto?
+
+Timer
+
+Is turned on
+
+Is turned off
+
+Brightness is
+
+Repeat
+
+Hour
+
+Minute
+
+Time
+
+Date
+
+Gateway Name
+
+Local Gateway
+
+Gateway ID
+
+Family & Guests
+
+Firmware Version
+
+Reset Gateway
+
+Remove Gateway
+
+Are you sure you want to reset the settings of this gateway?
+
+Reset
+
+Waiting for Azoula to initialize…
+
+Select a gateway that you want to connect.
+
+Hello
+
+Thanks for inviting Azoula into your home.
+
+Let\'s get started by adding your first gateway.
+
+Add Gateway
+
+Role
+
+A manager can manage everything except users.
+
+Transfer Ownership
+
+Transfer ownership of this Gateway to %s. You  will become a manager.
+
+Guest
+
+A guest can control devices.
+
+Manager
+
+Please type a member account
+
+App Version
+
+Connect
+
+Adding…
+
+Connecting…
+
+Add failed
+
+The gateway is already bound, please ask the gateway owner invite you to join the gateway. If you are about to rebind the gateway, reset the gateway first.
+
+OK
+
+There are no devices in this zone, please add a device first.
+
+There are no automation in this gateway, please add a automation first.
+
+There are no scenes in this gateway, please add a scene first.
+
+No updates available
+
+New Version
+
+The gateway is disconnected, please check the network of the gateway.
+
+Gateway connection lost, reconnecting…
+
+There are no devices in this gateway, please add a device first.
+
+Connect Failed
+
+Connect Success
+
+Invite
+
+Add User
+
+Leave
+
+Your password has been changed.
+
+This gateway have been reset, please connect other gateway.
+
+Are you sure you want to remove this gateway?
+
+Reload Now
+
+You have been removed from this gateway, the App needs to be reloaded.
+
+Reset gateway success.
+
+Are you sure you want to leave?
+
+Are you sure you want to remove %s?
+
+Are you sure you want to transfer ownership to %s?
+
+Transfer
+
+A owner can manage everything.
+
+Updating…
+
+Update failed, please try again.
+
+Click again to exit
+
+Icon
+
+No Permissions
+
+Please type a nickname
+
+Please type a gateway name
+
+Edit Zone
+
+The login has expired, please sign in again.
+
+Are you sure you want to delete this account？You won’t be able to control any devices via the cloud.
+
+You are already the owner of this gateway.
+
+Device is offline.
+
+Reload Device Type
+
+The gateway is not responding.
+
+Press the button in the center of the gateway to connect.
+
+Network Error
+
+Failed to connect to the gateway, please check your network and your gateway.
+
+Failed to connect to server, please check your network and try again.
+
+This user has already been invited.
+
+Server connection lost, reconnecting…
+
+Try Again
+
+Then…
+
+Executed
+
+Owner
+
+Open
+
+Closed
+
+Reload State
+
+You need to active the device first to get the state of the device.
+
+- - -
+
+Turned open
+
+Turned closed
+
+Is open
+
+Is closed
+
+Enabled
+
+Disabled
+
+Sensor
+
+Generic
+
+Socket
+
+Lighting
+
+Turned occupied
+
+Turned unoccupied
+
+Is occupied
+
+Is unoccupied
+
+Turned alarmed
+
+Turned not alarmed
+
+Is alarmed
+
+Is not alarmed
+
+Temperature changed
+
+Humidity changed
+
+Measured value changed
+
+Temperature changed and %s %d℃
+
+Humidity changed and %s %d%%
+
+Measured value changed and %s %dLux
+
+℃
+
+%#.1f℃
+
+Lux
+
+%dLux
+
+The value is out of range.
+
+Value range:
+
+Occupied
+
+Unoccupied
+
+Not alarmed
+
+Alarmed
+
+Illuminance changed
+
+Illuminance changed and %s %dLux
+
+LAN IP
+
+Mode
+
+Off
+
+Dry
+
+Auto
+
+Manual
+
+Target temperature
+
+Room temperature
+
+Floor temperature
+
+Room temperature changed
+
+Floor temperature changed
+
+Room temperature is
+
+Floor temperature is
+
+Temperature is
+
+Humidity is
+
+Illuminance is
+
+Changed to off
+
+Changed to manual
+
+Changed to auto
+
+Changed to dry
+
+Changed to away
+
+Is off mode
+
+Is manual mode
+
+Is auto mode
+
+Is dry mode
+
+Is away mode
+
+You can only change to away  mode from your device.
+
+Away
+
+Room temperature changed and %s %d℃
+
+Floor temperature changed and %s %d℃
+
+Room temperature is %s %d℃
+
+Floor temperature is %s %d℃
+
+Temperature is %s %d℃
+
+Humidity is %s %d%%
+
+Illuminance is %s %dLux
+
+Brightness is %s %d%%
+
+New devices %d
+
+Count %d
+
+HVAC
+
+Zigbee Channel
+
+Change
+
+Change Zigbee Channel
+
+Change failed
+
+Successful
+
+Failed
+
+Are you sure you want to change this gateway\'s zigbee channel? You won\'t be able to control your devices after changing zigbee channel, you need to reset them and add them again.
+
+Choose the add method you\'d like to use.
+
+Zigbee - Standard
+
+Zigbee - Install Code
+
+Zigbee - Green Power
+
+You are about to add your Zigbee devices via Install Code.
+
+Add Install Code
+
+error
+
+Send install codes to the gateway is failed, please try again later.
+
+You cannot add devices right now, someone else is adding devices.Please try again after 3 minutes.
+
+To connect, hold the top-right button for 10 seconds, then release.
+
+To connect, hold the top-left button for 10 seconds, then release.
+
+To connect, hold the bottom-left button for 10 seconds, then release.
+
+To connect, hold the bottom-right button for 10 seconds, then release.
+
+Success!\nYour switch is connected.
+
+That worked! Now press the top-right and bottom-left buttons at the same time.
+
+Top-left button pressed
+
+Top-left button hold
+
+Top-right button pressed
+
+Top-right button hold
+
+Bottom-left button pressed
+
+Bottom-left button hold
+
+Bottom-right button pressed
+
+Bottom-right button hold
+
+Reset Settings
+
+Erase All Content and Settings
+
+Are you sure you want to erase all content and settings of this gateway?
+
+Erase
+
+Temperature display units
+
+℉
+
+%d℉
+
+Gateway Integration
+
+Cannot find my gateway?
+
+Add Sub-gateway
+
+This gateway has no sub-gateways.
+
+Primary Gateway
+
+Sub-gateway ID
+
+Sub-gateway
+
+Delete Gateway Integration
+
+Are you sure you want to remove this sub-gateway?
+
+Remove failed, please try again later.
+
+Remove successful!
+
+Removing sub-gateway…
+
+Are you sure you want to delete this gateway integration?
+
+Deleting gateway integration…
+
+Delete failed, please try again later.
+
+Delete successful, you need to reload your App right now.
+
+Add
+
+Getting configuration…
+
+Adding sub-gateway…
+
+Add successful, you need to reload you App right now.
+
+Add failed, please try again later.
+
+Select a gateway to add devices
+
+Select Gateway
+
+Get configuration failed, please try again later.
+
+This gateway has been set up as a sub-gateway, please connect to another gateway.
+
+Cancel
+
+Circadian Rhythm
+
+Loading...
+
+Change Mode
+
+Gradual Change
+
+Gradient all the way between two points.
+
+Make changes in %d minutes.
+
+Lasts %d minutes
+
+Points
+
+CCT
+
+DIM
+
+Add Point
+
+Restore to the preset points
+
+Point Name
+
+Color Temperature
+
+Edit Point
+
+Wake Up
+
+Sunlight
+
+Comfortable
+
+Night Light
+
+Edit Points
+
+Brightness
+
+Please enter a point name.
+
+Another point has been set to the same time.
+
+Please add at least 2 points.
+
+You can only add up to 24 points.
+
+Duration
+
+CCT:%dK
+
+DIM:%d%%
+
+"Power Up State "
+
+On
+
+Toggle
+
+Latest
+
+This device is not set up yet.
+
+Set Now
+
+Quick Controls
+
+Scene
+
+Quick Control
+
+Save the current state of the device as a scene.
+
+Perform device actions multiple times.
+
+Perform device actions automatically.
+
+You cannot add more than 20 scenes.
+
+Devices…
+
+Add Device
+
+Add Quick Control
+
+Repeat Count
+
+Keep repeating
+
+Value range: 1~65534
+
+Delay
+
+Value range: 0~999
+
+h
+
+m
+
+s
+
+ms
+
+%dh %dm %ds %dms
+
+No delay
+
+Change the device state
+
+Bound Devices
+
+Bind Now
+
+There are no bound devices.
+
+Edit Quick Control
+
+There are no quick controls in this gateway, please add a quick control first.
+
+Random Time
+
+No random time
+
+This device is offline.
+
+Save failed, some of the selected devices are offline.
+
+Cannot bind more than 30 devices.
+
+Please press one of the switch buttons to activate the switch.
+
+Binding…
+
+Unbinding…
+
+State
+
+Executing
+
+Stopped
+
+Change State
+
+Execute
+
+Edit Weekly
+
+Edit Daily
+
+Add scene successful! Some actions failed to be added, please check whether the devices are online.
+
+Some devices failed to be added, please check whether the devices are online. We recommend that you delete devices that you no longer use.
+
+Some devices failed to be removed, please check whether the devices are online. We recommend that you delete devices that you no longer use.
+
+Add device failed, please check whether this device are online.
+
+Save device failed, please check whether this device are online.
+
+Total Energy Consumption
+
+Latest Updated
+
+Total
+
+Zones
+
+No Data
+
+Select Target
+
+Power
+
+0-32768
+
+Save failed, this device is not responding.
+
+Power Settings
+
+There are no zones in this gateway, please add a zone first.
+
+OnOff Transition Time
+
+× 0.1s
+
+Value range: 0~65535
+
+Saved
+
+There are some devices that cannot be saved, please make sure that they are online and then try again.
+
+Failed devices
+
+Groups
+
+Sockets
+
+ON
+
+OFF
+
+Sensors
+
+Switches
+
+There are no sensors in this gateway, please add a sensor first.
+
+There are no switches in this gateway, please add a switch first.
+
+Others
+
+Multiple
+
+Multiple Selection
+
+There are no lights in this gateway, please add a light first.
+
+There are no sockets in this gateway, please add a socket first.
+
+Select All
+
+Next
+
+To connect, hold the top-right button for 10 seconds, then release.\n\nThen quickly press the top-right button 1 time(s).
+
+To connect, hold the top-right button for 10 seconds, then release.\n\nThen quickly press the top-right button 2 time(s).
+
+To connect, hold the top-right button for 10 seconds, then release.\n\nThen quickly press the top-right button 3 time(s).
+
+To connect, hold the top-left button for 10 seconds, then release.\n\nThen quickly press the top-left button 1 time(s).
+
+To connect, hold the top-left button for 10 seconds, then release.\n\nThen quickly press the top-left button 2 time(s).
+
+To connect, hold the top-left button for 10 seconds, then release.\n\nThen quickly press the top-left button 3 time(s).
+
+To connect, hold the bottom-left button for 10 seconds, then release.\n\nThen quickly press the bottom-left button 3 time(s).
+
+To connect, hold the bottom-left button for 10 seconds, then release.\n\nThen quickly press the bottom-left button 1 time(s).
+
+To connect, hold the bottom-left button for 10 seconds, then release.\n\nThen quickly press the bottom-left button 2 time(s).
+
+To connect, hold the bottom-right button for 10 seconds, then release.\n\nThen quickly press the bottom-right button 2 time(s).
+
+To connect, hold the bottom-right button for 10 seconds, then release.\n\nThen quickly press the bottom-right button 3 time(s).
+
+To connect, hold the bottom-right button for 10 seconds, then release.\n\nThen quickly press the bottom-right button 1 time(s).
+
+This action is not available, please remove it.
+
+Update Binding Devices
+
+Unfinished
+
+The zone name and image have been saved but the devices have not been saved, please make sure that they are online and then try again.
+
+Transition Time
+
+Remove Zone failed, please try again later.
+
+Save failed, please make sure your device is online.
+
+Then Delay
+
+No
+
+No sensor
+
+Unknown Device
+
+Unknown Scene
+
+Unknown Zone
+
+Identify
+
+Gateway Updates
+
+There are too many actions, you need to remove some actions first.
+
+There are too many conditions or actions, you need to remove some conditions or actions first.
+
+Level is
+
+Lift is
+
+Set a level
+
+Set a lift
+
+Level is %s %d%%
+
+lift percentage is %s %d%%
+
+Device No Response
+
+Please check:\n\n1. If the device is plugged to a power outlet.\n
+2. If the router and gateway are working normally.\n
+3. If the device is too far from the gateway or if there’s an obstacle in between.
+
+Close
+
+Pause
+
+Group
+
+Motion
+
+Humidity
+
+Illumination
+
+Select Sensor Type
+
+Motion Sensor
+
+Temperature Sensor
+
+Humidity Sensor
+
+Illumination Sensor
+
+Sub-gateway Name
+
+Lift percentage is
+
+Tilt percentage is
+
+Set a tilt
+
+tilt percentage is %s %d%%
+
+Step brightness up
+
+Step brightness down
+
+Step color temperature up
+
+Step color temperature down
+
+Step hue up
+
+Step hue down
+
+Move brightness up
+
+Move brightness down
+
+Stop moving brightness
+
+Move color temperature up
+
+Move color temperature down
+
+Stop moving color temperature
+
+Move hue up
+
+Move hue down
+
+Stop moving hue
+
+Max Color Temperature
+
+Min Color Temperature
+
+Rate
+
+Step Size
+
+Direct Change
+
+Are you sure you want to delete all of the gateway login information?
+
+Deleted
+
+An unknown error has occurred, please try again.
+
+LAN MQTT
+
+Username
+
+IP
+
+Copied
+
+Active Power
+
+Meter Power
+
+%dW
+
+kWh
+
+Home Assistant
+
+Failed to load.
+
+Retry
+
+MQTT Mode
+
+Server
+
+Client
+
+Language
+
+English
+
+Other clients will connect to this gateway.
+
+This gateway will connect to the server.
+
+Server Information
+
+Client ID
+
+Automatically generated
+
+Host
+
+Port
+
+MQTT Transfer
+
+TCP
+
+SSL
+
+Saving...
+
+Saved!
+
+Failed to save.
+
+Simplified Chinese
+
+Traditional Chinese
+
+Forced heating time
+
+Anti freezing temperature
+
+Child lock
+
+Battery percentage
+
+Forced
+
+Sleep
+
+Please select your green power device type.
+
+Switch (Key 4)
+
+Switch (Key 1)
+
+To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.\n\n
+If the next step operation instruction doesn\'t pop up, short press the button once and then wait for 5 seconds again.\n
+This operation shall be repeated until the next step operation instruction pops up.
+
+That worked! Now press and hold the button for over 10 seconds, then release.
+
+Lock
+
+Unlock
+
+Changed to sleep
+
+Changed to forced
+
+Is sleep mode
+
+Is forced mode
+
+Change to sleep
+
+Change to forced
+
+Button pressed
+
+Button hold
+
+Advanced
+
+External switch type
+
+PWM frequency
+
+Dimming curve
+
+Push button switch
+
+Normal on/off switch
+
+3 way switch
+
+Linear
+
+Logarithmic gamma 1.5
+
+Logarithmic gamma 1.8
+
+Value range: %d~%d
+
+Manufacturer Name
+
+M
+
+T
+
+W
+
+F
+
+S
+
+Every Month
+
+January
+
+February
+
+March
+
+April
+
+May
+
+June
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+I have read and agreed
+
+\Privacy Policy\
+
+Please type a valid Email.
+
+Registration successful
+
+The network request failed.
+
+A verification code has been sent to your Email.
+
+Rooms
+
+Connecting...
+
+Let's get started by adding your first gateway.
+
+Waiting for Azoula to initialize...
+
+Adding...
+
+Gateway connection lost, reconnecting...
+
+You can only change to away mode from your device.
+
+Room
+
+No firmware found
+
+Updating...
+
+Are you sure clear all messages?
+
+Select Room
+
+Choose the add method you'd like to use.
+
+Count
+
+New devices
+
+Please put your devices in 'pair mode'.
+
+Refer to your device's manual on how to enable 'pair mode'.
+
+You cannot add devices right now, someone else is adding devices. Please try again after 3 minutes.
+
+Adding devices is currently not possible as someone else is already doing so. If you choose to continue, it will interrupt their operation.
+
+Success! \nYour switch is connected.
+
+Scan the QR Code on your device
+
+There are no devices in this room, please add a device first.
+
+Default Room
+
+Add Room
+
+Devices not in this room
+
+There are no rooms in this gateway, please add a room first.
+
+Edit Room
+
+Remove Room
+
+Are you sure you want to remove this room?
+
+Room Name
+
+Please type a room name
+
+Actions...
+
+Change to off
+
+Change to manual
+
+Change to auto
+
+Change to dry
+
+When...
+
+And...(optional)
+
+Then...
+
+and
+
+The time is
+
+Are you sure you want to remove this repeater?
+
+Are you sure you want to remove this automation?
+
+Value range
+
+every
+
+Month
+
+Brightness changed and %@ %d%%
+
+Temperature changed and %@ %d℃
+
+Humidity changed and %@ %d%%
+
+Illuminance changed and %@ %dLux
+
+Room temperature changed and %@ %d℃
+
+Floor temperature changed and %@ %d℃
+
+Measured value changed and %@ %dLux
+
+Please send an Email verification code first.
+
+Unknown issue
+
+Delete
+
+Take Photo
+
+Select from Album
+
+Zigbee channel
+
+Change Zigbee channel
+
+Are you sure you want to change this gateway's zigbee channel? You won't be able to control your devices after changing zigbee channel, you need to reset them and add them again.
+
+Please Change Zigbee channel
+
+Fail
+
+Owners cannot be invited.
+
+Gateway not found
+
+Transfer ownership of this Gateway to %@. You will become a manager.
+
+Owners cannot be invited
+
+A owner can manage everything
+
+Server connection lost, reconnecting...
+
+Are you sure you want to transfer ownership to %@?
+
+Are you sure you want to remove %@?
+
+Removing sub-gateway...
+
+Deleting gateway integration...
+
+Getting configuration...
+
+Room Management
+
+Gradual
+
+Power Up State
+
+Repeaters
+
+Repeater
+
+Devices...
+
+Add Repeater
+
+Repeater Count
+
+delay
+
+no delay
+
+Edit Repeater
+
+There are no repeaters in this gateway, please add a repeater first.
+
+Binding...
+
+Unbinding...
+
+Some actions failed to be added, please check whether the devices are online. We recommend that you delete devices that you no longer use.
+
+Remove device failed, please check whether this device are online.
+
+This zone has been saved but the devices has not been added, please add the devices later.
+
+Then quickly press the top-right button 1 time(s).
+
+Then quickly press the top-right button 2 time(s).
+
+Then quickly press the top-right button 3 time(s).
+
+Then quickly press the top-left button 1 time(s).
+
+Then quickly press the top-left button 2 time(s).
+
+Then quickly press the top-left button 3 time(s).
+
+Then quickly press the bottom-left button 3 time(s).
+
+Then quickly press the bottom-left button 1 time(s).
+
+Then quickly press the bottom-left button 2 time(s).
+
+Then quickly press the bottom-right button 2 time(s).
+
+Then quickly press the bottom-right button 3 time(s).
+
+Then quickly press the bottom-right button 1 time(s).
+
+then delay
+
+Please check:
+
+1. If the device is plugged to a power outlet.\n2. If the router and gateway are working normally.\n3. If the device is too far from the gateway or if there’s an obstacle in between.
+
+1. If the device is plugged to a power outlet.
+
+2. If the router and gateway are working normally.
+
+3. If the device is too far from the gateway or if there’s an obstacle in between.
+
+To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.
+
+If the next step operation instruction doesn't pop up, short press the button once and then wait for 5 seconds again.\nThis operation shall be repeated until the next step operation instruction pops up.
+
