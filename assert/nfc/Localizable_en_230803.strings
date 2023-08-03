@@ -1,0 +1,30 @@
+
+"importConfigurations" = "Import Configurations";
+"shareConfigurations" = "Share Configurations";
+"shareConfigurations_message" = "You're about to share all configurations.";
+"shareConfigurations_updating" = "Updating…";
+"shareConfigurations_failed" = "Failed to upload, please check your internet connection and try again.";
+"shareConfigurations_noConfigurations" = "No configurations exist to be shared.";
+"shareID" = "Share ID";
+"scan_qrcode_message" = "Scan the given QR code or manually enter the share ID displayed on another phone. The share ID can be tapped to copy. ";
+"copy" = "Copy";
+"start_sharing" = "Start Sharing";
+"start_import" = "Start Importing";
+"importConfigurations_importing" = "Importing…";
+"importConfigurations_fail_network" = "Failed to import, please check your internet connection and try again.";
+"importConfigurations_fail_unknown" = "Unknown error, please try again later.";
+"importConfigurations_noConfigurations" = " No configurations is available with this share ID.";
+"importConfigurations_success" = "You have imported %d new configurations.";
+"importConfigurations_conflicts" = "There're %d new configurations, but %d had duplicate names compared to present configurations, causing conflicts.\n\nYou can ignore or replace these %d conflicting configurations.";
+"ignore" = "Ignore";
+"replace" = "Replace";
+"done" = "Done";
+"scan_qrcode" = "Scan QR Code";
+
+"camera_requires_alert_title" = "Requires Camera Access";
+"camera_requires_alert_message" = "The device configuration is obtained by scanning the camera code.";
+"settings" = "Settings";
+
+
+
+

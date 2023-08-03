@@ -1,0 +1,25 @@
+<resources>
+    <string name="import_configurations">Import Configurations</string>
+    <string name="share_configurations">Share Configurations</string>
+    <string name="share_id">Share ID</string>
+    <string name="start_importing">Start Importing</string>
+    <string name="importing">Importing…</string>
+    <string name="no_share_tip">No configurations is available with this share ID.</string>
+    <string name="failed_share_tip">Failed to import, please check your internet connection and try again.</string>
+    <string name="success_tip">You have imported 5 new configurations.</string>
+    <string name="success_replace_tip">There\'re 5 new configurations, but 3 had duplicate names compared to present
+        configurations, causing conflicts. You can ignore or replace these 3 conflicting configurations.
+    </string>
+    <string name="error_tip">Unknown error, please try again later.</string>
+    <string name="share_tip">You\'re about to share all configurations.</string>
+    <string name="updating">Updating…</string>
+    <string name="failed_upload_tip">Failed to upload, please check your internet connection and try again.</string>
+    <string name="no_upload_tip">No configurations exist to be shared.</string>
+    <string name="scan_tip">Scan the given QR code or manually enter the share ID displayed on another phone. The share
+        ID can be tapped to copy.
+    </string>
+    <string name="ignore">Ignore</string>
+    <string name="start_sharing">Start Sharing</string>
+    <string name="copy_share_id">Copy</string>
+    <string name="scan_qrcode">Scan QR Code</string>
+</resources>

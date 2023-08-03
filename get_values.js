@@ -18,6 +18,7 @@
 // node get_values.js -f ./assert/nfc/strings_en_230616.xml ./assert/Localizable_empty.strings ./assert/nfc/values_230616.txt
 // node get_values.js -f ./assert/nfc/strings_en_230719.xml ./assert/nfc/strings_en_230719.strings ./assert/nfc/values_230719.txt
 // node get_values.js -f ./assert/nfc/strings_en_extra.xml ./assert/nfc/Localizable_en_extra.strings ./assert/nfc/values_extra.txt
+// node get_values.js -f ./assert/nfc/strings_en_230803.xml ./assert/nfc/Localizable_en_230803.strings ./assert/nfc/values_230803.txt
 
 // Azoula Smart
 // node get_values.js -f ./assert/azoulasmart/strings_en_230712.xml ./assert/Localizable_empty.strings ./assert/azoulasmart/values_230712.txt
@@ -69,7 +70,7 @@ readAndroidStrings(androidFile).then(data => {
   // let data = "#!!! Please keep the '\\n', it's a placeholder.\n\n"
   let data = '\n'
   valueSet.forEach(value => {
-    data += value + '\n\n'
+    data += value + '\n'
   })
   return writeFile(outFile, data)
 }).then(() => {

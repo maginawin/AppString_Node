@@ -1,0 +1,32 @@
+
+Import Configurations
+Share Configurations
+Share ID
+Start Importing
+Importing…
+No configurations is available with this share ID.
+Failed to import, please check your internet connection and try again.
+You have imported 5 new configurations.
+There\'re 5 new configurations, but 3 had duplicate names compared to present
+        configurations, causing conflicts. You can ignore or replace these 3 conflicting configurations.
+Unknown error, please try again later.
+You\'re about to share all configurations.
+Updating…
+Failed to upload, please check your internet connection and try again.
+No configurations exist to be shared.
+Scan the given QR code or manually enter the share ID displayed on another phone. The share
+        ID can be tapped to copy.
+Ignore
+Start Sharing
+Copy
+Scan QR Code
+You're about to share all configurations.
+Scan the given QR code or manually enter the share ID displayed on another phone. The share ID can be tapped to copy. 
+ No configurations is available with this share ID.
+You have imported %d new configurations.
+There're %d new configurations, but %d had duplicate names compared to present configurations, causing conflicts.\n\nYou can ignore or replace these %d conflicting configurations.
+Replace
+Done
+Requires Camera Access
+The device configuration is obtained by scanning the camera code.
+Settings
