@@ -1,0 +1,768 @@
+<resources>
+    <string name="app_name">HomeeLife</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="obtain">Obtain</string>
+    <string name="seconds">Seconds</string>
+    <string name="user_agreement">User Agreement</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="read_agree_hint_leading">I have read and agree to the&#160;</string>
+    <string name="and">&#160;and&#160;</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="new_password">New Password</string>
+    <string name="done">Done</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_message">You don’t have a mesh network yet.</string>
+    <string name="create_network">Create Network</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="network_name">Network Name</string>
+    <string name="network_password">Network Password</string>
+    <string name="create">Create</string>
+    <string name="network_connecting_tint">Connecting to the Bluetooth device…</string>
+    <string name="devices">Devices</string>
+    <string name="rooms">Rooms</string>
+    <string name="scenes">Scenes</string>
+    <string name="me">Me</string>
+    <string name="connect_network_failed_tint_format">Connect to the network (%s) failed, </string>
+    <string name="try_again">try again.</string>
+    <string name="loading_devices_tint">Loading devices…</string>
+    <string name="no_devices_tint">You don\'t have a device yet.</string>
+    <string name="add">Add</string>
+    <string name="light">Light</string>
+    <string name="curtain">Curtain</string>
+    <string name="offline">Offline</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="network_management">Network Management</string>
+    <string name="device_settings">Device Settings</string>
+    <string name="device_name">Device Name</string>
+    <string name="timezone">Timezone</string>
+    <string name="date_time">Date-Time</string>
+    <string name="sync_with_phone">Sync with Phone</string>
+    <string name="short_address">Short Address</string>
+    <string name="mac_address">Mac Address</string>
+    <string name="main_type">Main Type</string>
+    <string name="sub_type">Sub Type</string>
+    <string name="firmware_version">Firmware Version</string>
+    <string name="remove_device">Delete Device</string>
+    <string name="rgb_independent_control">RGB Single Mode</string>
+    <string name="device_rename">Device Rename</string>
+    <string name="save">Save</string>
+    <string name="no_rooms_tint">You don\'t have a room yet.</string>
+    <string name="room_background">Room Background</string>
+    <string name="room_name">Room Name</string>
+    <string name="room_id">Room ID</string>
+    <string name="room_settings">Room Settings</string>
+    <string name="devices_not_in_this_room">Devices not in this room</string>
+    <string name="remove_room">Delete Room</string>
+    <string name="please_input_the_room_name">Please input the room name.</string>
+    <string name="room_rename">Room Rename</string>
+    <string name="no_scenes_tint">You don\'t have a scene yet.</string>
+    <string name="scene_devices_count_tint_format">%d device(s)</string>
+    <string name="scene_name">Scene Name</string>
+    <string name="please_input_the_scene_name">Please input the scene name.</string>
+    <string name="add_scene">Add Scene</string>
+    <string name="the_scene_has_been_added">The scene has been added.</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="devices_not_in_this_scene">Devices not in this scene</string>
+    <string name="action_editing">Edit Action</string>
+    <string name="on_off">On/Off</string>
+    <string name="brightness">Brightness</string>
+    <string name="color">Color</string>
+    <string name="color_temperature">Color Temperature</string>
+    <string name="white_color">White</string>
+    <string name="transition_time">Transition</string>
+    <string name="hours_simple">H</string>
+    <string name="minutes_simple">M</string>
+    <string name="seconds_simple">S</string>
+    <string name="scene_settings">Scene Settings</string>
+    <string name="remove_scene">Delete Scene</string>
+    <string name="scene_background">Scene Background</string>
+    <string name="account_and_security">Account and Security</string>
+    <string name="gateway_title">Gateway</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="nickname">Nickname</string>
+    <string name="no_nickname">No nickname</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="app_version">App Version</string>
+    <string name="network_id">Network ID</string>
+    <string name="network_members">Network Members</string>
+    <string name="owner">Owner</string>
+    <string name="admin">Admin</string>
+    <string name="member">Member</string>
+    <string name="remove_network">Delete Network</string>
+    <string name="remove_network_tint_title">Delete Network?</string>
+    <string name="remove_network_tint_message">After the network is removed, you need to manually reset the device and add it again.</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Delete</string>
+    <string name="add_member">Add Member</string>
+    <string name="member_name">Member Name</string>
+    <string name="member_email">Member Email</string>
+    <string name="member_name_with_colon">Member Name:</string>
+    <string name="member_email_with_colon">Member Email:</string>
+    <string name="network_role">Network Role</string>
+    <string name="please_input_the_member_name">Please input the member name.</string>
+    <string name="please_input_the_member_email">Please input the member email.</string>
+    <string name="role_settings">Role Settings</string>
+    <string name="admin_tint_message">Manage devices and rooms | Manage members</string>
+    <string name="member_tint_message">Control the devices</string>
+    <string name="remove_member">Delete Member</string>
+    <string name="member_settings">Member Settings</string>
+    <string name="leave_network">Leave Network</string>
+    <string name="state">State</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting</string>
+    <string name="all_devices">All Devices</string>
+    <string name="delete_account_tint_title">Are you sure you want to delete your account?</string>
+    <string name="delete_account_tint_message">All user data under this account will be deleted.</string>
+    <string name="please_input_the_verification_code">Verification Code</string>
+    <string name="confirm_delete_account">Delete Account</string>
+    <string name="add_device">Add Device</string>
+    <string name="add_bridge">Add Bridge</string>
+    <string name="add_device_tint_message">Please make sure that the devices are in factory mode.</string>
+    <string name="start">Start</string>
+    <string name="added_devices_tint_format">Found %d accessories</string>
+    <string name="pairing_tint">Pairing…</string>
+    <string name="stop">Stop</string>
+    <string name="add_bridge_tint_message">Please power on at least one of the following devices and make sure it is in factory mode: Light, Curtain, Outlet.\n\nPlease power on the bridge and make sure it is in the factory mode.</string>
+    <string name="pairing_is_complete">Pairing is complete.</string>
+    <string name="add_failed_other_device_type_tint">Please turn off unpaired devices except Light, Curtain, Socket, Bridge and then try again.</string>
+    <string name="add_failed_no_bridge_tint">No bridge found, please power on the bridge and make sure it is in factory mode.</string>
+    <string name="add_failed_cannot_add_more_tint">You can\'t add more devices, please delete some devices first.</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="select_from_album">Select from Album</string>
+    <string name="need_authorization">Need Authorization</string>
+    <string name="to_authorize">Authorize</string>
+    <string name="ok">OK</string>
+    <string name="add_failed_fail_to_connect_hint">No new device found, please reset your devices and then try again.</string>
+    <string name="add_room">Add Room</string>
+    <string name="default_title">Default</string>
+    <string name="custom_title">Custom</string>
+    <string name="add_color">Add Color</string>
+    <string name="timing">Timing</string>
+    <string name="monday_abbr">Mon.</string>
+    <string name="tuesday_abbr">Tue.</string>
+    <string name="wednesday_abbr">Wed.</string>
+    <string name="thursday_abbr">Thu.</string>
+    <string name="friday_abbr">Fri.</string>
+    <string name="saturday_abbr">Sat.</string>
+    <string name="sunday_abbr">Sun.</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="weekends">Weekends</string>
+    <string name="every_day">Every day</string>
+    <string name="do_not_repeat">No repeat</string>
+    <string name="add_timing">Add Timing</string>
+    <string name="timing_editing">Edit Timing</string>
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="repeat">Repeat</string>
+    <string name="action">Action</string>
+    <string name="remove_timing">Delete Timing</string>
+    <string name="turn_on_the_light">Turn on </string>
+    <string name="turn_off_the_light">Turn off</string>
+    <string name="sunrise_sunset">Sunrise Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="type">Type</string>
+    <string name="others">Others</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="there_are_no_available_scenes">There are no available scenes.</string>
+    <string name="advanced_settings">Advanced Settings</string>
+    <string name="enter_pairing_mode">Enter Pairing Mode</string>
+    <string name="smart_switch_configuration">Smart Switch Configuration</string>
+    <string name="sensor_configuration">Sensor Configuration</string>
+    <string name="switch_type">Switch Type</string>
+    <string name="normal_switch">Normal Switch</string>
+    <string name="push_switch">Push Switch</string>
+    <string name="three_channels_switch">3 Channels Switch</string>
+    <string name="pwm_frequency">PWM Frequency</string>
+    <string name="switch_id_title">Switch ID:</string>
+    <string name="save_configuration">Save Configuration</string>
+    <string name="buttons_count">Button Count</string>
+    <string name="buttons_position">Button Position</string>
+    <string name="short_press_action">Short Press Action</string>
+    <string name="long_press_action">Long Press Action</string>
+    <string name="delete_configuration">Delete Configuration</string>
+    <string name="door_sensor">Door Sensor</string>
+    <string name="sensor_id">Sensor ID</string>
+    <string name="door_open_action">Door Open Action</string>
+    <string name="door_closed_action">Door Closed Action</string>
+    <string name="scanning_hint">Scanning…</string>
+    <string name="device_scanning">Device Scanning</string>
+    <string name="device_scanning_message">Please short press the set button on the sensor 3 times to activate the device.</string>
+    <string name="default_running_01">Colorful Mixed</string>
+    <string name="default_running_02">Red Shade</string>
+    <string name="default_running_03">Green Shade</string>
+    <string name="default_running_04">Blue Shade</string>
+    <string name="default_running_05">Yellow Shade</string>
+    <string name="default_running_06">Cyan Shade</string>
+    <string name="default_running_07">Purple Shade</string>
+    <string name="default_running_08">White Shade</string>
+    <string name="default_running_09">Red Green Shade</string>
+    <string name="default_running_10">Red Blue Shade</string>
+    <string name="default_running_11">Green Blue Shade</string>
+    <string name="default_running_12">Colorful Strobe</string>
+    <string name="default_running_13">Red Strobe</string>
+    <string name="default_running_14">Green Strobe</string>
+    <string name="default_running_15">Blue Strobe</string>
+    <string name="default_running_16">Yellow Strobe</string>
+    <string name="default_running_17">Cyan Strobe</string>
+    <string name="default_running_18">Purple Strobe</string>
+    <string name="default_running_19">White Strobe</string>
+    <string name="default_running_20">Colorful Jump</string>
+    <string name="custom_running_1">Ascend Shade</string>
+    <string name="custom_running_2">Descend Shade</string>
+    <string name="custom_running_3">Ascend Descend Shade</string>
+    <string name="custom_running_4">Mixed Shade</string>
+    <string name="custom_running_5">Jump</string>
+    <string name="custom_running_6">Strobe</string>
+    <string name="switch_action_00">Undefined</string>
+    <string name="switch_action_01">Light on</string>
+    <string name="switch_action_02">Light off</string>
+    <string name="switch_action_03">Light on/off</string>
+    <string name="switch_action_04">White on</string>
+    <string name="switch_action_05">White off</string>
+    <string name="switch_action_06">White on/off</string>
+    <string name="switch_action_07">Brightness up</string>
+    <string name="switch_action_08">Brightness down</string>
+    <string name="switch_action_09">Brightness up/down</string>
+    <string name="switch_action_10">C/W up</string>
+    <string name="switch_action_11">C/W down</string>
+    <string name="switch_action_12">C/W up/down</string>
+    <string name="switch_action_13">C/W up (RGB disabled)</string>
+    <string name="switch_action_14">C/W down (RGB disabled)）</string>
+    <string name="switch_action_15">C/W up/down (RGB disabled)</string>
+    <string name="switch_action_16">Stop the brightness change</string>
+    <string name="switch_action_17">Brightness up</string>
+    <string name="switch_action_18">Brightness down</string>
+    <string name="switch_action_19">Brightness up/down</string>
+    <string name="switch_action_20">Stop the C/W change</string>
+    <string name="switch_action_21">C/W up</string>
+    <string name="switch_action_22">C/W down</string>
+    <string name="switch_action_23">C/W up/down</string>
+    <string name="switch_action_24">Stop the C/W change (RGB disabled)</string>
+    <string name="switch_action_25">C/W up (RGB disabled)</string>
+    <string name="switch_action_26">C/W down (RGB disabled)</string>
+    <string name="switch_action_27">C/W up/down (RGB disabled)</string>
+    <string name="switch_action_28">Stop the RGB change</string>
+    <string name="switch_action_29">Change RGB forward</string>
+    <string name="switch_action_30">Change RGB backward</string>
+    <string name="switch_action_31">Change RGB forward/backward</string>
+    <string name="switch_action_32">Stop the RGB change (C/W disabled)</string>
+    <string name="switch_action_33">Change RGB forward (C/W disabled)</string>
+    <string name="switch_action_34">Change RGB backward (C/W disabled)</string>
+    <string name="switch_action_35">Change RGB forward/backward (C/W disabled)</string>
+    <string name="switch_action_36">Stop running speed change</string>
+    <string name="switch_action_37">Run fast</string>
+    <string name="switch_action_38">Run slow</string>
+    <string name="switch_action_39">Run fast/slow</string>
+    <string name="switch_action_40">Save scene 1</string>
+    <string name="switch_action_41">Recall scene 1</string>
+    <string name="switch_action_42">Save scene 2</string>
+    <string name="switch_action_43">Recall 2</string>
+    <string name="switch_action_44">Save scene 3</string>
+    <string name="switch_action_45">Recall scene 3</string>
+    <string name="switch_action_46">Save scene 4</string>
+    <string name="switch_action_47">Recall 4</string>
+    <string name="switch_action_48">Switch C/W in 3 modes</string>
+    <string name="switch_action_49">Switch C/W in 3 modes (RGB disabled)</string>
+    <string name="switch_action_50">Switch RGB in 9 modes</string>
+    <string name="switch_action_51">Switch RGB in 9 modes (C/W disabled)</string>
+    <string name="switch_action_52">Switch default running modes 1~20</string>
+    <string name="panel">Panel</string>
+    <string name="bridge">Bridge</string>
+    <string name="other">Other</string>
+    <string name="outlet">Outlet</string>
+    <string name="sensor">Sensor</string>
+    <string name="rf_pa">RF PA</string>
+    <string name="remote">Remote</string>
+    <string name="scene">Scene</string>
+    <string name="network_settings">Network Settings</string>
+    <string name="scene_rename">Scene Rename</string>
+    <string name="status_msg_invalid_params">Invalid parameters.</string>
+    <string name="status_msg_invalid_code">Invalid code.</string>
+    <string name="status_msg_invalid_ref_token">Login failed.</string>
+    <string name="status_msg_email_not_reg">The email is not registered.</string>
+    <string name="status_msg_email_exists">The email is registered.</string>
+    <string name="status_msg_wrong_password">The password is incorrect.</string>
+    <string name="status_msg_no_auth">No authorization.</string>
+    <string name="status_msg_no_network">The network does not exist.</string>
+    <string name="status_msg_no_permission">No permissions.</string>
+    <string name="status_msg_no_member">The member does not exist.</string>
+    <string name="status_msg_member_exists">The member already exists.</string>
+    <string name="status_msg_network_exists">The network already exists.</string>
+    <string name="status_msg_invalid_network">The password can not be the same as the network name.</string>
+    <string name="status_msg_unknown_error">Unknown error.</string>
+    <string name="status_msg_device_exists">The device already exists.</string>
+    <string name="status_msg_no_device">The device does not exist.</string>
+    <string name="status_msg_room_exists">The room already exists.</string>
+    <string name="status_msg_no_room">The room does not exist.</string>
+    <string name="status_msg_scene_exists">The scene already exists.</string>
+    <string name="status_msg_no_scene">The scene does not exist.</string>
+    <string name="status_msg_send_code_success">We sent a verification code to the email.</string>
+    <string name="wrong_email_format">Please input a valid email.</string>
+    <!--    <string name="password_format_alert_message">The password must be 6-20 characters and can only contain numbers, uppercase and lowercase letters and @#$?.%^&amp;+= characters.</string>-->
+    <string name="file_upload_failed">File upload failed.</string>
+    <string name="failed_to_send_verification_code">Failed to get the verification code.</string>
+    <string name="please_get_the_verification_code_later">Please get the verification code later.</string>
+    <string name="you_cannot_delete_all_the_networks">You cannot delete all the networks.</string>
+    <string name="cannot_set_as_an_old_password">Cannot set as an old password.</string>
+    <string name="network_name_format_alert_message">Network name can only contain 2 to 16 letters, numbers or @#\$?.%^&amp;+=</string>
+    <string name="network_password_format_alert_message">Network password can only contain 4 to 16 letters, numbers or @#\$?.%^&amp;+=</string>
+    <string name="leave_network_tint_title">Are you sure you want to leave the network?</string>
+    <string name="leave">Leave</string>
+    <string name="delete">Delete</string>
+
+    <string name="add_accessory">Add Accessory</string>
+    <string name="add_device_hint_2">Please turn on at least one of the following devices and make sure they are in factory mode: Light, Curtain, Socket.\n\nSupported devices: Light, Curtain, Socket, Bridge.</string>
+    <string name="add_accessory_hint_2">Please make sure the devices are in factory mode.\n\nSupported devices: Remote Control, Sensor, RF PA, etc.</string>
+    <string name="range_1_255">Range: 1~255</string>
+    <string name="short_address_out_range">The short address is out of range.</string>
+
+    <string name="sync_all_devices">Sync All Devices</string>
+    <string name="getting_local_device_info">Getting local device information…</string>
+    <string name="failed_to_get_local_device_msg">Failed to get the device, make sure the device is reachable.</string>
+    <string name="uploading_local_device_msg">Uploading local device information…</string>
+    <string name="sync_local_device_failed_msg">Sync failed, make sure the phone network is reachable.</string>
+    <string name="syncing_msg">Syncing…</string>
+    <string name="sync_ok">Synchronized!</string>
+    <string name="cannot_add_more_dev_msg">Cannot add more devices, sync all devices or delete some devices and then try again.</string>
+    <string name="go_to_sync">Sync</string>
+    <string name="sync_local_devices_with_cloud">Synchronize the local devices with the cloud.</string>
+
+    <string name="start_sync">Start</string>
+    <string name="stop_sync">Cancel</string>
+    <string name="retry_btn_title">Retry</string>
+    <string name="please_enable_bluetooth">Please enable Bluetooth</string>
+    <string name="bluetooth_disabled">Requires Bluetooth</string>
+    <string name="the_value_entered_out_of_range_msg">The value entered is out of range.</string>
+    <string name="noLocationPermission">No location permission</string>
+    <string name="please_select_at_least_one_repeating_day">Please select at least one repeating day.</string>
+    <string name="remove_device_alert_msg">Are you sure you want to delete this device?</string>
+    <string name="remove_timing_alert_msg">Are you sure you want to delete this timing?</string>
+    <string name="remove_room_alert_msg">Are you sure you want to delete this room?</string>
+    <string name="remove_scene_alert_msg">Are you sure you want to delete this scene?</string>
+    <string name="the_network_request_failed">The network request failed.</string>
+    <string name="value_text">%d%%</string>
+    <string name="you_cannot_add_more_scenes">You cannot add more scenes.</string>
+    <string name="you_cannot_add_more_rooms">You cannot add more rooms.</string>
+    <string name="the_device_is_offline">The device is offline.</string>
+    <string name="remove_member_alert_msg">Are you sure you want to delete this member?</string>
+    <string name="password_has_been_reset_alert">Your password has been reset.</string>
+    <string name="executed">Executed!</string>
+    <string name="login_has_expired_please_login_again">Login has expired, please login again.</string>
+    <string name="back_again_alert_msg">Back again to exit the App.</string>
+    <string name="import_network">Import Network</string>
+    <string name="add_success">Add completed!</string>
+    <string name="settings">Settings</string>
+    <string name="share_network">Share Network</string>
+    <string name="upload_share_network">Upload and share network</string>
+    <string name="importing">Network importing…</string>
+    <string name="error_code">Invalid QR Code</string>
+    <string name="import_success">Import successful!</string>
+    <string name="net_exist">Network exists, please delete the network "%s" first.</string>
+    <string name="upload_fail">Upload failed, please try again later.</string>
+    <string name="import_fail">Import network data failed, please try again later.</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="no_entertainment_msg">You don’t have an entertainment yet.</string>
+    <string name="entertainment_running_msg">%s is running…</string>
+    <string name="add_entertainment">Add Entertainment</string>
+    <string name="input_entertainment_name_hint">Entertainment Name</string>
+    <string name="name_title">Name:</string>
+    <string name="add_action">Add Action</string>
+    <string name="select_target">Select Target</string>
+    <string name="all_lights">All Lights</string>
+    <string name="unknown_target">Unknown</string>
+    <string name="delay">Delay</string>
+    <string name="entertainment_editing">Edit Entertainment</string>
+    <string name="remove_entertainment">Delete Entertainment</string>
+    <string name="remove_entertainment_alert_msg">Are you sure you want to delete this entertainment?</string>
+    <string name="cannot_add_more_entertainment">Cannot add more entertainments.</string>
+    <string name="cannot_add_more_actions">Cannot add more actions.</string>
+    <string name="open_bluetooth">Open Bluetooth</string>
+    <string name="target">Target</string>
+    <string name="sync_local_devices_with_phone">Sync all devices in this network.</string>
+    <string name="optional">Optional</string>
+    <string name="lights">Lights</string>
+    <string name="network_name_psd_same_alert_msg">The password can not be the same as the network name.</string>
+
+
+    <string name="location_access_not_authorized">Location Access not authorized</string>
+    <string name="allow_location_message">Allow HomeeLife to access Location to set the location of the device.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="allow_location_for_bluetooth_message">Allow HomeeLife to access location information to connect devices using Bluetooth.</string>
+
+    <string name="smart_switch_settings">Set Smart Switch</string>
+    <string name="bind_smart_switch">Bind Smart Switch</string>
+    <string name="update_smart_switch_settings">Update Smart Switch Settings</string>
+    <string name="unbind_smart_switch">Unbind Smart Switch</string>
+    <string name="update_smart_switch_settings_detail">The smart switch may not be able to control the new device that is added to the room. Power on the new device first, and then update the smart switch settings.</string>
+    <string name="smart_switch_type">Smart Switch Type</string>
+    <string name="get_configuration">Get Configuration</string>
+    <string name="getting_configuration">Getting configuration…</string>
+    <string name="getting_successful">Successful!</string>
+    <string name="getting_failed_try_again">Failed, please try again.</string>
+    <string name="start_binding">Start Binding</string>
+    <string name="ready_to_scan">Ready to Scan</string>
+    <string name="read_to_scan_detail">Touch the smart switch with the back of the mobile device. Note that it may be necessary to move the smart switch around to find the NFC responsive area.</string>
+    <string name="binding_successful">Successful!</string>
+    <string name="binding_failed_try_again">Failed, please try again.</string>
+    <string name="nfc_is_not_available">NFC is not available.</string>
+    <string name="unbinding_successful">Successful!</string>
+    <string name="update_smart_switch_settings_alert">Updating Settings…</string>
+    <string name="update_successful">Successful!</string>
+    <string name="unbinding_failed_try_again">Failed, please try again.</string>
+    <string name="unbind_smart_switch_alert">Are you sure you want to unbind this smart switch?</string>
+    <string name="unbind">Unbind</string>
+    <string name="no_smart_switches_are_bound">No smart switches are bound.</string>
+    <string name="smart_switch">Smart Switch</string>
+    <string name="login_now">Login Now</string>
+    <string name="no_permission">No Permission</string>
+
+    <!--code-->
+    <string name="code_3001">Request timeout.</string>
+    <string name="code_3002">Failed to request.</string>
+    <string name="code_4000">Failed to request.</string>
+    <string name="code_4001">Login has expired, please sign in again.</string>
+    <string name="code_4004">The resource does not exist.</string>
+    <string name="code_4095">Invitation already exists.</string>
+    <string name="code_4097">The user already owns this network.</string>
+    <string name="code_4098">The gateway is already bound.</string>
+    <string name="code_4099">Someone is adding this gateway, please try again in a minute.</string>
+    <string name="code_4100">The user does not exist.</string>
+    <string name="code_4101">The network does not exist, please upload the network first.</string>
+    <string name="code_4102">The user already owns this network.</string>
+    <string name="code_4103">This network is already bound to a gateway.</string>
+    <string name="code_4104">The uploaded file is too large.</string>
+    <string name="code_4997">The network is already exist.</string>
+    <string name="code_4998">Not allowed.</string>
+    <string name="code_5000">An error occurred on the server.</string>
+    <string name="code_9999">An unknown error occurred.</string>
+    <string name="unknown_issue">Unknown issue.</string>
+    <string name="email_no_register">The email is not registered yet.</string>
+    <string name="no_user">The user does not exist.</string>
+    <string name="network_error">Network error</string>
+
+
+    <string name="please_input_email">Email</string>
+    <string name="please_input_password">Password</string>
+    <string name="sync_network">Sync Network</string>
+    <string name="connect_style">Connection Mode</string>
+    <string name="gateway_set">Gateway Settings</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="gateway">Gateway</string>
+    <string name="scan_gateway">Discovering gateway...</string>
+    <string name="delete_gateway">Delete Gateway</string>
+    <string name="status">Status</string>
+    <string name="product_key">Product Key</string>
+    <string name="product_id">Device ID</string>
+    <string name="syncing">Syncing...</string>
+    <string name="reset">Reset</string>
+    <string name="connecting_gw">Connecting gateway...</string>
+    <string name="share_to_user">Share the network to your friend</string>
+    <string name="send_invite">Send invitation</string>
+    <string name="send_invite_success">Send succeeded！</string>
+    <string name="send_invite_fail">The user does not exist.</string>
+    <string name="not_set_gw">Network doesn\'t set a gateway yet, please add a gateway first.</string>
+    <string name="gateway_add">Add Gateway</string>
+    <string name="invite_you">Do you accept to join %s ?</string>
+    <string name="wait_accept">Pending</string>
+    <string name="input_user_email">Invitee\'s Email</string>
+    <string name="accept">Accept</string>
+    <string name="refuse">Decline</string>
+    <string name="load_accept">Importing %s…</string>
+    <string name="cloud">Cloud</string>
+    <string name="invite">Invitation</string>
+    <string name="upload_network">Upload Network</string>
+    <string name="update_network">Update Network</string>
+    <string name="upNetworkTip">Network has not been uploaded to the cloud.</string>
+    <string name="downNetworkTip">The local network needs to be updated.</string>
+    <string name="download">Download</string>
+    <string name="update">Update</string>
+    <string name="upload">Upload</string>
+    <string name="upload_local_to_cloud">Upload local network to the cloud.</string>
+    <string name="start_upload">Start Upload</string>
+    <string name="upload_success">Upload succeeded!</string>
+    <string name="upload_cloud_fail">Upload failed, please try again later.</string>
+    <string name="local">Local</string>
+    <string name="download_network">Download Network</string>
+    <string name="download_net_from_cloud_to_local">Download cloud network to local.</string>
+    <string name="start_download">Start Download</string>
+    <string name="uploading">Uploading...</string>
+    <string name="downloading">Downloading...</string>
+    <string name="download_success">Download succeeded!</string>
+    <string name="start_update">Start Update</string>
+    <string name="update_net_from_cloud_to_local">Update the local network.</string>
+    <string name="updating">Updating...</string>
+    <string name="update_success">Update succeeded!</string>
+    <string name="update_fail">Update failed, please try again later.</string>
+    <string name="download_fail">Failed to download, please try again.</string>
+    <string name="import_net_success">Import succeeded!</string>
+    <string name="import_net_fail">Network request failed, please try again later.</string>
+    <string name="load_refuse">Declining invitation…</string>
+    <string name="refuse_success">Decline succeeded!</string>
+    <string name="code_40015">The use has already been invited.</string>
+    <string name="code_40016">The use is already in this network.</string>
+    <string name="code_40017">You cannot invite yourself.</string>
+    <string name="adding_gw">Adding gateway...</string>
+    <string name="add_gw_success">Add succeeded!</string>
+    <string name="add_gw_fail">Network request failed, please try again later.</string>
+    <string name="setting_gw">Setting gateway...</string>
+    <string name="remove_gw_alert_msg">Are you sure you want to delete this gateway?</string>
+    <string name="online">Online</string>
+    <string name="unactive">Not Activated</string>
+    <string name="network_upload_first_tip">You need to upload this network first.</string>
+    <string name="login_invalid_connect_ble">The login has expired and will switch to the Bluetooth connection.</string>
+    <string name="register_success">Registration successful!</string>
+    <string name="reset_success">Reset password succeeded！</string>
+    <string name="delete_account_success">Delete account successful!</string>
+    <string name="logOff">Delete Account</string>
+    <string name="password_format_alert_message">The password must be 8-20 characters and can only contain numbers, uppercase and lowercase letters and @#$?.%^&amp;+= characters.</string>
+    <string name="gw_offline">Gateway is offline, </string>
+    <string name="gw_unactive">Gateway is unactivated, </string>
+    <string name="gw_disable">Gateway is forbidden, </string>
+    <string name="connect_ble_to_use">You have to change connection mode to Bluetooth first.</string>
+    <string name="login_to_use">Please sign in first.</string>
+    <string name="gateway_connect_off">Gateway is disconnected</string>
+    <string name="app_connect_off">Server is disconnected</string>
+    <string name="user_not_confirm">You have not verified your account.</string>
+    <string name="login_failed">Failed to sign in, the email or the password is incorrect.</string>
+    <string name="verify">Verify</string>
+    <string name="confirm_success">Successful!</string>
+    <string name="registration_succeeded">Sign up succeeded!</string>
+    <string name="signup_fail">Failed to sign up, please try again.</string>
+    <string name="user_exist">This email has already been registered.</string>
+    <string name="code_send_success">The verification code has been sent to your email.</string>
+    <string name="code_send_fail">Failed to obtain, please try again.</string>
+    <string name="confirm_fail">Failed!</string>
+    <string name="delete_account_title">Delete Account?</string>
+    <string name="requires_bluetooth_access">Requires Bluetooth Access</string>
+    <string name="requires_bluetooth_access_tip">Allow this App to access Bluetooth to connect devices.</string>
+    <string name="requires_location_information">Requires Location Information</string>
+    <string name="requires_location_information_tip">Allow this App to access location information to connect devices using Bluetooth.</string>
+    <string name="verify_account">Verify Account</string>
+    <string name="upload_to_cloud">Upload to Cloud</string>
+    <string name="update_from_cloud">Update from Cloud</string>
+    <string name="register_gw_fail_tip">Register gateway failed, please try again.</string>
+    <string name="sure_add_gw">Are you sure you want to add %s?</string>
+    <string name="pairing">Pairing…</string>
+    <string name="reset_fail">Failed to reset password!</string>
+    <string name="try_again_new">Try Again</string>
+    <string name="connect_net_fail">Failed to connect to the Bluetooth device.</string>
+    <string name="gateway_connecting_tint">Connecting to the gateway…</string>
+    <string name="connect_gw_fail">Failed to connect to the gateway.</string>
+    <string name="close">Close</string>
+    <string name="copy">Copy</string>
+    <string name="loading_gateway">Loading Gateway…</string>
+    <string name="send_invite_fail_msg">Failed to send the invitation, please try again.</string>
+    <string name="user_own_net">The user already owns this network.</string>
+    <string name="gateway_id">Gateway ID</string>
+    <string name="adding">Adding…</string>
+    <string name="completed">Completed!</string>
+    <string name="execute_scene">Execute Scene</string>
+    <string name="delete_device">Delete Device?</string>
+    <string name="delete_room">Delete Room?</string>
+    <string name="delete_scene">Delete Scene?</string>
+    <string name="delete_timing">Delete Timing?</string>
+    <string name="smart_switches">Smart Switches</string>
+    <string name="sure_unbind_smart">Are you sure you want to unbind Smart %s?</string>
+    <string name="no_smart_bind">No Smart Switches are bound.</string>
+    <string name="need_wifi">You need to enable Wi-Fi on your phone, and then try again.</string>
+    <string name="password_at_least_8">The password must be at least 8 characters.</string>
+    <string name="delete_account_fail">Failed to delete account, please check your network or quit the App and then try again.</string>
+    <string name="internet_offline">The Internet connection appears to be offline.</string>
+    <string name="no_gw_bound">The network has not bound to a gateway and will switch to the Bluetooth connection.</string>
+    <string name="pic_allow_tip">Allow this App to access photos and media on your device.</string>
+    <string name="pic_allow_title">Requires Photos Access</string>
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="troubleshooting_tip_1">1. Make sure your device is powered on.\n\n2. Make sure your phone is within 10 meters of one of the devices.</string>
+    <string name="troubleshooting_tip_2">If you still cannot connect to your device, you may need to reset the device and then add it again.</string>
+    <string name="reset_methods">Reset Methods:</string>
+    <string name="troubleshooting_tip_3">Press and hold the reset button on the device until the light flashes.\n\nor\n\nPower off and then power on the device for 8 times.</string>
+    <string name="sensor_attributes">Sensor Attributes</string>
+    <string name="name">Name</string>
+    <string name="current_value">Current Value</string>
+    <string name="default_value">Default Value</string>
+    <string name="new_value">New Value</string>
+    <string name="auto">Auto</string>
+    <string name="independent">Independent</string>
+    <string name="attr_1">Human Induction Sensitivity</string>
+    <string name="attr_2">Working Brightness Threshold</string>
+    <string name="attr_3">Detected PWM Output Delay</string>
+    <string name="attr_4">Detected PWM Output Brightness</string>
+    <string name="attr_5">Detected PWM Output Percentage</string>
+    <string name="attr_6">Not Detected PWM Output Delay</string>
+    <string name="attr_7">Not Detected PWM Output Percentage</string>
+    <string name="attr_8">PWM Output Percentage After Not Detected Delay</string>
+    <string name="working_mode">Working Mode</string>
+    <string name="attribute">Attribute</string>
+    <string name="out_range">The value is out of range.</string>
+    <string name="failed_to_update">Failed to update.</string>
+    <string name="value_range">Value range: %d ~ %d</string>
+    <string name="second_unit">%d s</string>
+    <string name="brightness_unit">%d LUX</string>
+    <string name="percent_unit">%d %%</string>
+    <string name="brightness_simple">LUX</string>
+    <string name="upload_net_limited_10_tip">Failed to update, exceeded max networks in the cloud. You can have up to 10 networks in the cloud.</string>
+    <string name="invite_limited_10_tip">Failed to invite, invitee already has more than 10 networks in the cloud.</string>
+    <string name="accept_limited_10_tip">Failed to accept, exceeded max networks in the cloud. You can have up to 10 networks in the cloud.</string>
+    <string name="reset_nfc_device">Reset NFC Device</string>
+    <string name="touch_mobile">Touch the device with the back of the mobile device.</string>
+    <string name="nfc_unsupported">NFC Unsupported</string>
+    <string name="nfc_unsupported_tip">Sorry, your phone doesn’t support the NFC.</string>
+    <string name="nfc_disabled">NFC Disabled</string>
+    <string name="nfc_disabled_tip">Please enable the NFC first.</string>
+    <string name="enable">Enable</string>
+    <string name="reset_succeeded">Reset succeeded!</string>
+    <string name="unsupported_device">Unsupported device!</string>
+    <string name="failed_reset">Failed to reset, please try again.</string>
+    <string name="welcome_tip">Welcome to HomeeLife</string>
+    <string name="discover_devices">Discover Devices</string>
+    <string name="can_not_find_device">Can’t find devices?</string>
+    <string name="device_scan">Device Scanning…</string>
+    <string name="scanTip">Push Prog button twice on the receiver you want to add.</string>
+    <string name="next">Next</string>
+    <string name="device_count">Device count: %d</string>
+    <string name="no_device_find">You don’t find any devices, please reset your device and try again.</string>
+    <string name="device_repair">Device Repair</string>
+    <string name="waiting_for_repair">Waiting for repair: %d</string>
+    <string name="repair">Repair</string>
+    <string name="repairing">Repairing…</string>
+    <string name="repair_connect_fail">Failed to connect, please re-power your devices and then try again.</string>
+    <string name="repair_success">Repair succeeded!</string>
+    <string name="repair_fail">Failed to repair, the device is disconnected.</string>
+    <string name="export_network">Export Network</string>
+    <string name="fail_upload">Failed to upload, please try again.</string>
+    <string name="on_off_Transition">On/Off Transition</string>
+    <string name="export_network_tip">Upload network data and share it with other users.</string>
+    <string name="export">Export</string>
+    <string name="reset_net">Reset Network</string>
+    <string name="delete_smart_switch">Delete Smart Switch</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="id_invalidate_tip">Please enter a valid Switch ID.</string>
+    <string name="sure_delete_smart_set_tip">Are you sure you want to delete this Smart Switch?</string>
+    <string name="saved">Saved!</string>
+    <string name="deleted">Deleted!</string>
+    <string name="import_network_tip">Import network data from other network and replace current data.</string>
+    <string name="import_string">Import</string>
+    <string name="importing_text">Importing...</string>
+    <string name="reset_net_title">Reset Network?</string>
+    <string name="reset_net_tip">Reset network will erase all data on your phone, you need to manually reset the device and add it again.</string>
+    <string name="mode">Mode</string>
+    <string name="templates">Templates</string>
+    <string name="resetAll">Reset All Mode</string>
+    <string name="notSetNatural">Natural light has not been set</string>
+    <string name="invalidData">Invalid data</string>
+    <string name="cct">CCT</string>
+    <string name="dim">DIM</string>
+    <string name="standard_mode">Standard Mode </string>
+    <string name="office_mode">Office Mode</string>
+    <string name="health_care_mode">Health Care Mode</string>
+    <string name="natural_light">Natural Light</string>
+    <string name="sure_reset_all_tip">Are you sure you want to reset all modes?</string>
+    <string name="reset_natural_tip">Reset all before updating data.</string>
+    <string name="request_timeout">Request Timeout</string>
+    <string name="on_off_no_natural">This light only supports on/off, it does not support Natural Light.</string>
+    <string name="no_light_tip">You don’t have a light yet.</string>
+    <string name="activated">Activated</string>
+    <string name="groups">Groups</string>
+    <string name="all_on">ALL ON</string>
+    <string name="all_off">ALL OFF</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="white">White</string>
+    <string name="a">A</string>
+    <string name="activate">Activate</string>
+    <string name="try_again_2">Try Again</string>
+    <string name="dali_discover_tip">Discover DALI devices.\nDALI devices that do not have an address will be assigned an address.</string>
+    <string name="discovering">Discovering…</string>
+    <string name="no_dali_device_tip">No devices found, please make sure that your devices are working properly.</string>
+    <string name="dali_gateway">DALI Gateway</string>
+    <string name="fail_execute">Failed to execute!</string>
+    <string name="mask">MASK</string>
+
+    <string-array name="month_abb">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="shortPress">
+        <item>Turn On</item>
+        <item>Turn Off                           </item>
+        <item>Turn On/Off                        </item>
+        <item>Turn On White                      </item>
+        <item>Turn Off White                     </item>
+        <item>Turn On/Off White                  </item>
+        <item>Step Brightness Up                 </item>
+        <item>Step Brightness Down               </item>
+        <item>Step Brightness Up/Down               </item>
+        <item>Recall Scene 1                     </item>
+        <item>Recall Scene 2                     </item>
+        <item>Recall Scene 3                     </item>
+        <item>Recall Scene 4                     </item>
+        <item>Change CCT                         </item>
+        <item>Change RGB                         </item>
+        <item>Run Built-in Running Mode          </item>
+        <item>Set Brightness                     </item>
+        <item>Set CCT                            </item>
+        <item>Set Red                            </item>
+        <item>Set Green                          </item>
+        <item>Set Blue                           </item>
+        <item>Set RGB                            </item>
+    </string-array>
+    <string-array name="longPress">
+        <item>Undefined</item>
+        <item>Move Brightness Up</item>
+        <item>Move Brightness Down</item>
+        <item>Move Brightness Up/Down</item>
+        <item>Move CCT/White Up</item>
+        <item>Move CCT/White Down</item>
+        <item>Move CCT/White Up/Down</item>
+        <item>Move RGB Mix Fade Up</item>
+        <item>Move RGB Mix Fade Down</item>
+        <item>Move RGB Mix Fade Up/Down</item>
+        <item>Move Speed Up</item>
+        <item>Move Speed Down</item>
+        <item>Move Speed Up/Down</item>
+        <item>Save Scene 1</item>
+        <item>Recall Scene 1</item>
+        <item>Save Scene 2</item>
+        <item>Recall Scene 2</item>
+        <item>Save Scene 3</item>
+        <item>Recall Scene 3</item>
+        <item>Save Scene 4</item>
+        <item>Recall Scene 4</item>
+
+    </string-array>
+</resources>
