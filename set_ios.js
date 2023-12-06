@@ -3,6 +3,9 @@
 // HomeeLife
 // node set_ios.js -f ./assert/homeelife/Localizable_en_230511.strings ./assert/homeelife/230511.xlsx ./assert/homeelife/Localizable_cn_230511.strings
 
+// EasyThings
+// node set_ios.js -f ./assert/easythings/Localizable.strings ./assert/easythings/de_1206.xlsx ./assert/easythings/Localizable_de_231206.strings
+
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')
 

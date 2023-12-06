@@ -1,0 +1,163 @@
+Select your application
+Push Prog button twice on receiver you want to add.
+Normal on/off
+Push button
+3-way switch
+Enable RGB independence
+Clear all dynamic settings?
+Loading state...
+Dynamic 1
+Dynamic 2
+Dynamic 3
+Dynamic 4
+Dynamic 5
+Dynamic 6
+Dynamic 7
+Dynamic 8
+Dynamic 9
+Dynamic 10
+Dynamic 11
+Dynamic 12
+Dynamic 13
+Dynamic 14
+Dynamic 15
+Dynamic 16
+Select run mode
+Only one time
+Repeat several times
+Keep repeating
+need times
+Rename
+Previous
+Upgraded
+Are you sure reset network?
+After resetting the network, other phones will not be able to connect to this phone.
+Sensor
+Door sensor
+Sensor ID
+On Action
+Off Action
+Action type
+All attributes
+Invalid sensor ID
+Push Prog button three times on sensor you want to add.
+Natural Light
+This device is not supported.
+Mode
+Reset All
+Templates
+Standard mode
+Office mode
+Health care mode
+Reset all before updating the data.
+Reset all before setting the data.
+Are you sure you want to reset all modes?
+Invalid data
+Natural light has not been set
+Light On/Off Duration
+Set all the lights
+Microwave motion sensor
+PIR motion sensor
+Configure Microwave Motion Sensor
+Detection
+No detection
+Sensitivity
+Light duration
+Photoresistor threshold
+Radar settings
+Do not save
+Not set yet
+PWM duty ratio
+Radar on/off
+Radar state
+Detection distance
+Speed data
+Signal strength
+Human induction sensitivity
+Microwave module on/off state
+Light module on/off state
+Brightness threshold
+Detection PWM output duration
+Detection PWM output brightness
+lux
+Detection PWM output percentage
+No detection PWM output duration
+No detection PWM output percentage
+PWM output percentage after no detection
+Working mode
+Automatic
+Independent
+Response state interval
+Response state on/off
+Current value
+New value
+Default
+Attribute
+Update
+Set to default
+The update is complete
+No response
+Value
+The value is out of range.
+LUX zero deviation of the brightness sensor
+LUX scale factor of the brightness sensor
+LUX
+State
+Write DOOYA ID
+Settings
+Sync Host
+Available only on local network.
+Set a device as the sync host to synchronize the lights running in this group.
+Firmware Updates
+Check for updates
+Checking...
+There are no updates available.
+Recheck
+Updates
+Start updates
+Updating...
+Update successful!
+Update failed!
+Try again
+Auto Mode
+Set lum
+Set CT
+Set red
+Set green
+Set blue
+Set RGB
+Long press
+No device found, please check your devices and then try again.
+Rescan
+Manually set address
+Device count %d
+Sort by
+Search results
+Available new addresses
+Mac
+Address
+Status
+Default address
+New address
+Repeat
+No repeat
+Set address
+Connected, setting…
+Connect failed, please check your device and then try again.
+Set successful!
+Set failed, please check your device and then try again.
+Next
+Set a new address for this device, the address range is from 1 to 254.
+Current address %d
+It’s the same address.
+It’s out of range.
+Set
+Current address
+History records
+Are you sure you want to clear all  history records?
+Address count %d
+There are no available addresses.
+There are no history records yet.
+OK
+Modes
+Colors

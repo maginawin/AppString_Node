@@ -1,0 +1,190 @@
+"Select your application" = "Select your application";
+"Push Prog button twice on receiver you want to add." = "Push Prog button twice on receiver you want to add.";
+"Normal on/off" = "Normal on/off";
+"Push button" = "Push button";
+"3-way switch" = "3-way switch";
+
+"Enable RGB independence" =  "Enable RGB independence";
+
+"Clear all dynamic settings?" = "Clear all dynamic settings?";
+"Loading state..." = "Loading state...";
+"Dynamic 1" = "Dynamic 1";
+"Dynamic 2" = "Dynamic 2";
+"Dynamic 3" = "Dynamic 3";
+"Dynamic 4" = "Dynamic 4";
+"Dynamic 5" = "Dynamic 5";
+"Dynamic 6" = "Dynamic 6";
+"Dynamic 7" = "Dynamic 7";
+"Dynamic 8" = "Dynamic 8";
+"Dynamic 9" = "Dynamic 9";
+"Dynamic 10" = "Dynamic 10";
+"Dynamic 11" = "Dynamic 11";
+"Dynamic 12" = "Dynamic 12";
+"Dynamic 13" = "Dynamic 13";
+"Dynamic 14" = "Dynamic 14";
+"Dynamic 15" = "Dynamic 15";
+"Dynamic 16" = "Dynamic 16";
+"Select run mode" = "Select run mode";
+"Only one time" = "Only one time";
+"Repeat several times" = "Repeat several times";
+"Keep repeating" = "Keep repeating";
+"need times" ="need times";
+"Rename" = "Rename";
+"Previous" = "Previous";
+"Upgraded" = "Upgraded";
+
+"reset_network_alert_title" = "Are you sure reset network?";
+"reset_network_alert_message" = "After resetting the network, other phones will not be able to connect to this phone.";
+
+"Sensor" = "Sensor";
+"Door sensor" = "Door sensor";
+"Sensor ID" = "Sensor ID";
+"On Action" = "On Action";
+"Off Action" = "Off Action";
+"Action type" = "Action type";
+"All attributes" = "All attributes";
+
+"sensor_id_invalid" = "Invalid sensor ID";
+
+"scanning_note_sensor" = "Push Prog button three times on sensor you want to add.";
+
+//"Natural Light"
+"Natural Light" = "Natural Light";
+"This device is not supported." = "This device is not supported.";
+"Mode" = "Mode";
+"Reset All" = "Reset All";
+"Templates" = "Templates";
+"Standard mode" = "Standard mode";
+"Office mode" = "Office mode";
+"Health care mode" = "Health care mode";
+"Reset all before updating the data." = "Reset all before updating the data.";
+"Reset all before setting the data." = "Reset all before setting the data.";
+"Are you sure you want to reset all modes?" = "Are you sure you want to reset all modes?";
+"Invalid data" = "Invalid data";
+"Natural light has not been set" = "Natural light has not been set";
+
+"Light On/Off Duration" = "Light On/Off Duration";
+"Set all the lights" = "Set all the lights";
+
+//Motion Sensor
+"Microwave motion sensor" = "Microwave motion sensor";
+"PIR motion sensor" = "PIR motion sensor";
+"Configure Microwave Motion Sensor" = "Configure Microwave Motion Sensor";
+"Detection" = "Detection";
+"No detection" = "No detection";
+"Sensitivity" = "Sensitivity";
+"Light duration" = "Light duration";
+"Photoresistor threshold" = "Photoresistor threshold";
+"Radar settings" = "Radar settings";
+"Do not save" = "Do not save";
+"Not set yet" = "Not set yet";
+"PWM duty ratio" = "PWM duty ratio";
+"Radar on/off" = "Radar on/off";
+"Radar state" = "Radar state";
+"Detection distance" = "Detection distance";
+"Speed data" = "Speed data";
+"Signal strength" = "Signal strength";
+"Human induction sensitivity" = "Human induction sensitivity";
+"Microwave module on/off state" = "Microwave module on/off state";
+"Light module on/off state" = "Light module on/off state";
+"Brightness threshold" = "Brightness threshold";
+"Detection PWM output duration" = "Detection PWM output duration";
+"Detection PWM output brightness" = "Detection PWM output brightness";
+"lux" = "lux";
+"Detection PWM output percentage" = "Detection PWM output percentage";
+"No detection PWM output duration" = "No detection PWM output duration";
+"No detection PWM output percentage" = "No detection PWM output percentage";
+"PWM output percentage after no detection" = "PWM output percentage after no detection";
+"Working mode" = "Working mode";
+"Automatic" = "Automatic";
+"Independent" = "Independent";
+"Response state interval" = "Response state interval";
+"Response state on/off" = "Response state on/off";
+
+"Current value" = "Current value";
+"New value" = "New value";
+"Default" = "Default";
+"Attribute" = "Attribute";
+"Update" = "Update";
+"Set to default" = "Set to default";
+"The update is complete" = "The update is complete";
+"No response" = "No response";
+"Value" = "Value";
+
+"The value is out of range." = "The value is out of range.";
+"LUX zero deviation of the brightness sensor" = "LUX zero deviation of the brightness sensor";
+"LUX scale factor of the brightness sensor" = "LUX scale factor of the brightness sensor";
+
+"LUX" = "LUX";
+"State" = "State";
+"Detection" = "Detection";
+"No detection" = "No detection";
+"Write DOOYA ID" = "Write DOOYA ID";
+
+// OTA And Sync Host
+// 2022/03/22
+
+"settings" = "Settings";
+"sync_host" = "Sync Host";
+"available_only_on_local_network" = "Available only on local network.";
+"sync_host_header_text" = "Set a device as the sync host to synchronize the lights running in this group.";
+"firmware_updates" = "Firmware Updates";
+"check_for_updates" = "Check for updates";
+"checking..." = "Checking...";
+"no_updates_message" = "There are no updates available.";
+"recheck" = "Recheck";
+"updates" = "Updates";
+"start_updates" = "Start updates";
+"updating..." = "Updating...";
+"update_successful" = "Update successful!";
+"update_failed" = "Update failed!";
+"try_again" = "Try again";
+
+// 2022/04/15
+
+"Auto Mode" = "Auto Mode";
+
+"setLum" = "Set lum";
+"setCt" = "Set CT";
+"setRed" = "Set red";
+"setGreen" = "Set green";
+"setBlue" = "Set blue";
+"setRGB" = "Set RGB";
+"longPress" = "Long press";
+
+//Manually set address
+
+"no_device_and_try_again" = "No device found, please check your devices and then try again.";
+"rescan" = "Rescan";
+"manuallySetAddress" = "Manually set address";
+"device_count" = "Device count %d";
+"sort_by" = "Sort by";
+"search_results" = "Search results";
+"available_new_addresses" = "Available new addresses";
+"mac" = "Mac";
+"address" = "Address";
+"status" = "Status";
+"default_addr" = "Default address";
+"new_addr" = "New address";
+"repeat" = "Repeat";
+"noRepeat" = "No repeat";
+"set_address" = "Set address";
+"connected_setting" = "Connected, setting…";
+"connect_failed_try_again" = "Connect failed, please check your device and then try again.";
+"set_successful" = "Set successful!";
+"set_failed_try_again" = "Set failed, please check your device and then try again.";
+"next" = "Next";
+"set_address_tip" = "Set a new address for this device, the address range is from 1 to 254.";
+"currentAddress" = "Current address %d";
+"same_address" = "It’s the same address.";
+"address_out_range" = "It’s out of range.";
+"set" = "Set";
+"current_address" = "Current address";
+"history_records" = "History records";
+"clearHistoryTip" = "Are you sure you want to clear all  history records?";
+"address_count" = "Address count %d";
+"no_available_addresses" = "There are no available addresses.";
+"no_history_tip" = "There are no history records yet.";
+"ok_tip" = "OK";
+"Modes" = "Modes";
+"Colors" = "Colors";

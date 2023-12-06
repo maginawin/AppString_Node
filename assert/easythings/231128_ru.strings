@@ -1,0 +1,194 @@
+
+"Select your application" = "Выберите ваше приложение";
+"Push Prog button twice on receiver you want to add." = "Нажмите кнопку Prog дважды на приемнике, который вы хотите добавить.";
+"Normal on/off" = "Обычное вкл./выкл.";
+"Push button" = "Нажмите кнопку";
+"3-way switch" = "Трехпозиционный переключатель";
+
+"Enable RGB independence" =  "Включить независимость RGB";
+
+"Clear all dynamic settings?" = "Очистить все динамические настройки?";
+"Loading state..." = "Загрузка состояния...";
+"Dynamic 1" = "Динамический 1";
+"Dynamic 2" = "Динамический 2";
+"Dynamic 3" = "Динамический 3";
+"Dynamic 4" = "Динамический 4";
+"Dynamic 5" = "Динамический 5";
+"Dynamic 6" = "Динамический 6";
+"Dynamic 7" = "Динамический 7";
+"Dynamic 8" = "Динамический 8";
+"Dynamic 9" = "Динамический 9";
+"Dynamic 10" = "Динамический 10";
+"Dynamic 11" = "Динамический 11";
+"Dynamic 12" = "Динамический 12";
+"Dynamic 13" = "Динамический 13";
+"Dynamic 14" = "Динамический 14";
+"Dynamic 15" = "Динамический 15";
+"Dynamic 16" = "Динамический 16";
+"Select run mode" = "Выберите режим работы";
+"Only one time" = "Только один раз";
+"Repeat several times" = "Повторите несколько раз";
+"Keep repeating" = "Продолжайте повторять";
+"need times" ="нужное количество раз";
+"Rename" = "Переименовать";
+"Previous" = "Предыдущий";
+"Upgraded" = "Обновлен";
+
+"reset_network_alert_title" = "Вы уверены, что хотите сбросить сеть?";
+"reset_network_alert_message" = "После сброса сети другие телефоны не смогут подключиться к этому телефону.";
+
+"Sensor" = "Датчик";
+"Door sensor" = "Датчик двери";
+"Sensor ID" = "Идентификатор датчика";
+"On Action" = "Действие включено";
+"Off Action" = "Действие выключено";
+"Action type" = "Тип действия";
+"All attributes" = "Все атрибуты";
+
+"sensor_id_invalid" = "Неверный идентификатор датчика";
+
+"scanning_note_sensor" = "Нажмите кнопку Prog три раза на датчик, который вы хотите добавить.";
+
+//"Natural Light"
+"Natural Light" = "Естественный свет";
+"This device is not supported." = "Это устройство не поддерживается.";
+"Mode" = "Режим";
+"Reset All" = "Сбросить все";
+"Templates" = "Шаблоны";
+"Standard mode" = "Стандартный режим";
+"Office mode" = "Офисный режим";
+"Health care mode" = "Режим здравоохранения";
+"Reset all before updating the data." = "Сбросить все перед обновлением данных.";
+"Reset all before setting the data." = "Сбросить все перед установкой данных.";
+"Are you sure you want to reset all modes?" = "Вы уверены, что хотите сбросить все режимы?";
+"Invalid data" = "Недопустимые данные";
+"Natural light has not been set" = "Естественный свет не установлен";
+
+"Light On/Off Duration" = "Длительность включения/выключения света";
+"Set all the lights" = "Установите все света";
+
+//Motion Sensor
+"Microwave motion sensor" = "Микроволновой датчик движения";
+"PIR motion sensor" = "Датчик PIR движения";
+"Configure Microwave Motion Sensor" = "Настроить микроволновой датчик движения";
+"Detection" = "Обнаружение";
+"No detection" = "Без обнаружения";
+"Sensitivity" = "Чувствительность";
+"Light duration" = "Длительность света";
+"Photoresistor threshold" = "Порог фоторезистора";
+"Radar settings" = "Настройки радара";
+"Do not save" = "Не сохранять";
+"Not set yet" = "Еще не установлено";
+"PWM duty ratio" = "Соотношение рабочего цикла ШИМ";
+"Radar on/off" = "Включение/выключение радара";
+"Radar state" = "Состояние радара";
+"Detection distance" = "Дистанция обнаружения";
+"Speed data" = "Данные о скорости";
+"Signal strength" = "Уровень сигнала";
+"Human induction sensitivity" = "Чувствительность человеческого датчика";
+"Microwave module on/off state" = "Состояние включения/выключения микроволнового модуля";
+"Light module on/off state" = "Состояние включения/выключения модуля света";
+"Brightness threshold" = "Порог яркости";
+"Detection PWM output duration" = "Длительность выхода ШИМ обнаружения";
+"Detection PWM output brightness" = "Яркость выхода ШИМ обнаружения";
+"lux" = "люкс";
+"Detection PWM output percentage" = "Процент выхода ШИМ обнаружения";
+"No detection PWM output duration" = "Длительность выхода ШИМ без обнаружения";
+"No detection PWM output percentage" = "Процент выхода ШИМ без обнаружения";
+"PWM output percentage after no detection" = "Процент выхода ШИМ после отсутствия обнаружения";
+"Working mode" = "Рабочий режим";
+"Automatic" = "Автоматический";
+"Independent" = "Независимый";
+"Response state interval" = "Интервал состояния ответа";
+"Response state on/off" = "Состояние ответа вкл./выкл.";
+
+"Current value" = "Текущее значение";
+"New value" = "Новое значение";
+"Default" = "По умолчанию";
+"Attribute" = "Атрибут";
+"Update" = "Обновить";
+"Set to default" = "Установить по умолчанию";
+"The update is complete" = "Обновление завершено";
+"No response" = "Нет ответа";
+"Value" = "Значение";
+
+"The value is out of range." = "Значение вне допустимого диапазона.";
+"LUX zero deviation of the brightness sensor" = "Нулевое отклонение яркости датчика LUX";
+"LUX scale factor of the brightness sensor" = "Масштабный коэффициент яркости датчика LUX";
+
+"LUX" = "LUX";
+"State" = "Состояние";
+"Detection" = "Обнаружение";
+"No detection" = "Без обнаружения";
+"Write DOOYA ID" = "Записать идентификатор DOOYA";
+
+// OTA And Sync Host
+// 2022/03/22
+
+"settings" = "Настройки";
+"sync_host" = "Синхронизация хоста";
+"available_only_on_local_network" = "Доступно только в локальной сети.";
+"sync_host_header_text" = "Установите устройство в качестве хоста синхронизации для синхронизации работающих в этой группе светов.";
+"firmware_updates" = "Обновления прошивки";
+"check_for_updates" = "Проверить обновления";
+"checking..." = "Проверка...";
+"no_updates_message" = "Обновлений нет.";
+"recheck" = "Перепроверить";
+"updates" = "Обновления";
+"start_updates" = "Начать обновление";
+"updating..." = "Обновление...";
+"update_successful" = "Обновление успешно!";
+"update_failed" = "Обновление не удалось!";
+"try_again" = "Повторите попытку";
+
+// 2022/04/15
+
+"Auto Mode" = "Автоматический режим";
+
+"setLum" = "Установить свет";
+"setCt" = "Установить CT";
+"setRed" = "Установить красный";
+"setGreen" = "Установить зеленый";
+"setBlue" = "Установить синий";
+"setRGB" = "Установить RGB";
+"longPress" = "Долгое нажатие";
+
+
+
+
+//Ручная настройка адреса
+
+"no_device_and_try_again" = "Устройство не найдено, пожалуйста, проверьте ваши устройства и попробуйте снова.";
+"rescan" = "Повторный поиск";
+"manuallySetAddress" = "Установка адреса вручную";
+"device_count" = "Количество устройств %d";
+"sort_by" = "Сортировать по";
+"search_results" = "Результаты поиска";
+"available_new_addresses" = "Доступные новые адреса";
+"mac" = "MAC-адрес";
+"address" = "Адрес";
+"status" = "Статус";
+"default_addr" = "Адрес по умолчанию";
+"new_addr" = "Новый адрес";
+"repeat" = "Повтор";
+"noRepeat" = "Без повторения";
+"set_address" = "Установить адрес";
+"connected_setting" = "Подключено, настройка…";
+"connect_failed_try_again" = "Сбой подключения, проверьте ваше устройство и повторите попытку.";
+"set_successful" = "Установка прошла успешно!";
+"set_failed_try_again" = "Ошибка установки, проверьте ваше устройство и повторите попытку.";
+"next" = "Далее";
+"set_address_tip" = "Установите новый адрес для этого устройства, диапазон адресов от 1 до 254.";
+"currentAddress" = "Текущий адрес %d";
+"same_address" = "Это тот же адрес.";
+"address_out_range" = "Адрес вне допустимого диапазона.";
+"set" = "Установить";
+"current_address" = "Текущий адрес";
+"history_records" = "История записей";
+"clearHistoryTip" = "Вы уверены, что хотите очистить всю историю записей?";
+"address_count" = "Количество адресов %d";
+"no_available_addresses" = "Нет доступных адресов.";
+"no_history_tip" = "Пока нет истории записей.";
+"ok_tip" = "OK";
+"Modes" = "Режимы";
+"Colors" = "Цвета";

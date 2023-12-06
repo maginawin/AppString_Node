@@ -1,0 +1,818 @@
+<resources>
+    <string name="app_name">EasyThings</string>
+
+
+    <!--launch-->
+    <string name="mesh_error">Es gab ein paar unbekannte Fehler, sodass die App neu gestartet werden muss. Die App wird nun geschlossen.</string>
+
+    <!--mian-->
+    <string name="devices">Geräte</string>
+    <string name="rooms">Räume</string>
+    <string name="scenes">Szenen</string>
+    <string name="more">Mehr</string>
+    <string name="press_again_exit">Zum verlassen erneut drücken</string>
+    <string name="nobluetoothtip">Bluetooth ist nicht aktiviert. Lichter nicht verfügbar. Bitte aktivieren Sie zuerst Ihr Bluetooth.</string>
+    <string name="nolocationtip">Standortinformation wird benötigt um Bluetooth-Geräte hinzuzufügen. Bitte aktivieren Sie zuerst die Standortinformationen.</string>
+
+    <!--devices-->
+
+    <string name="rgb">RGB</string>
+    <string name="rgbw">RGBW</string>
+    <string name="rgbcct">RGBCCT</string>
+    <string name="cct">CCT</string>
+    <string name="dim">DIM</string>
+    <string name="onOff">An / Aus</string>
+
+    <!--control-->
+    <string name="white">Weiß</string>
+    <string name="brightness">Helligkeit</string>
+    <string name="red">Rot</string>
+    <string name="green">Grün</string>
+    <string name="blue">Blau</string>
+    <string name="option">Option</string>
+    <string name="name">Name</string>
+    <string name="default_run">Standard</string>
+    <string name="custom">Benutzerdefiniert</string>
+    <string name="speed">Geschwindigkeit</string>
+    <string name="select_colorMode"><![CDATA[Select a mode first ->]]></string>
+    <string name="ex_lightName">Bsp. Leselicht</string>
+    <string name="option_offRgb">Farbtemperatur deaktivieren, wenn RGB Farben geändert werden</string>
+    <string name="option_offCct">RGB Farben deaktivieren, wenn Farbtemperaturen geändert werden</string>
+    <string name="option_offWRgb">RGB Farben deaktivieren, wenn Weißtöne geändert werden</string>
+    <string name="option_offw">Weiß deaktivieren, wenn RGB Farben geändert werden</string>
+
+    <!--run-->
+    <string-array name="defaultrun">
+        <item>Bunt gemischt</item>
+        <item>Roter Farbton</item>
+        <item>Grüner Farbton</item>
+        <item>Blauer Farbton</item>
+        <item>Gelber Farbton</item>
+        <item>Türkiser Farbton</item>
+        <item>Lila Farbton</item>
+        <item>Weißer Farbton</item>
+        <item>Rot-Grüner Farbton</item>
+        <item>Rot-Blauer Farbton</item>
+        <item>Grün-Blauer Farbton</item>
+        <item>Bunter Stoboskop-Effekt</item>
+        <item>Roter Stoboskop-Effekt</item>
+        <item>Grüner Stoboskop-Effekt</item>
+        <item>Blauer Stoboskop-Effekt</item>
+        <item>Gelber Stoboskop-Effekt</item>
+        <item>Türkiser Stoboskop-Effekt</item>
+        <item>Lila Stoboskop-Effekt</item>
+        <item>Weißer Stoboskop-Effekt</item>
+        <item>Bunter Farbwechsel</item>
+    </string-array>
+
+    <string-array name="runmode">
+        <item>Aufsteigender Farbwechsel</item>
+        <item>Abfallender Farbwechsel</item>
+        <item>Auf-/Absteigender Farbwechsel</item>
+        <item>Mixed Farbwechsel</item>sss
+        <item>Jump Farbwechsel</item>
+        <item>Stroboskop-Effekt</item>
+    </string-array>
+    <string name="customTip">Bitte wählen Sie zuerste einen Modus aus</string>
+    <string name="mycolors">Meine Farben</string>
+    <string name="ex_colors">Bsp. Farben</string>
+
+    <!--scene-->
+    <string name="create_scene">Szene erstellen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="modes">Modus</string>
+    <string name="colors">Farben</string>
+    <string name="color_picker">Farbauswahl</string>
+
+    <!--room-->
+    <string name="defaultRoomName">Wohnzimmer</string>
+    <string name="ok">OK / Bestätigen</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="enable">Aktivieren</string>
+    <string name="defaults">Standardeinstellungen</string>
+    <string name="choose_photo">Foto auswählen</string>
+    <string name="take_photo">Foto aufnehmen</string>
+    <string name="change_pic">Foto ändern</string>
+    <string name="ex_atHome">Bsp. Zu Hause</string>
+    <string name="camera">Kamera</string>
+    <string name="create">Erstellen</string>
+    <string name="save">Speichern</string>
+    <string name="all_lights">Alle Lichter</string>
+    <string name="sure_delete">Are you sure delete </string>
+    <string name="delete">Löschen</string>
+
+    <!--more network-->
+    <string-array name="more_items">
+        <item />
+        <item>Netzwerkeinstellungen</item>
+        <item>Netzwerk wechseln</item>
+        <item>Cloud-Einstellungen</item>
+        <item />
+        <item>Terminplanung</item>
+        <item>Natürliches Licht</item>
+        <item>Sonnenaufgang / Sonnenuntergang</item>
+        <item>Firmware Update</item>
+        <item />
+        <item>Themen</item>
+        <item>Datenschutzrichtlinie</item>
+        <item>Über</item>
+    </string-array>
+    <string name="networks">Netzwerk</string>
+    <string name="create_network">Netzwerk erstellen</string>
+    <string name="networkSetup">Netzwerkeinstellungen</string>
+    <string name="import_network">Netzwerk importieren</string>
+    <string name="share_network">Netzwerk freigeben / teilen</string>
+    <string name="change_network">Change </string>
+    <string name="add_network">Netzwerk hinzufügen</string>
+    <string name="change_networkOfDevice">Netzwerk des Gerätes ändern</string>
+    <string name="change">Verändern</string>
+    <string name="net_tip">4-16 Buchstaben und Zahlen</string>
+    <string name="password">Passwort</string>
+    <string name="ex_myHome">Bsp. Mein Zuhause</string>
+    <string name="ex_pwd">Bsp. 123456</string>
+    <string name="done">Fertig</string>
+    <string name="errorfile">Ungültiges Dokument</string>
+    <string name="improt_success">Erfolgreich importiert</string>
+    <string name="improt_notsame">Daten können nicht zwischen verschiedenen Konten und Passwörtern ausgetauscht werden</string>
+    <string name="network">Netzwerk</string>
+    <string name="network_exist"><![CDATA[already exists, it will overwrite the existing network if you still import it. You can select network in \"More > Networks\".]]></string>
+    <string name="network_not_exist">Sie können ein Netzwerk unter "Mehr > Netzwerke" auswählen. </string>
+    <string name="importnet">Netzwerk importieren</string>
+    <string name="sureimportnet">Sind Sie sich sicher, dass Sie diese Konfiguration importieren möchten? Die aktuelle Konfiguration wird überschrieben.</string>
+    <string name="stillimports">Trotzdem importieren</string>
+    <string name="imports">Imortieren</string>
+    <string name="scheduling">Terminplanung</string>
+    <string name="themes">Themen</string>
+    <string name="sureswitch">Sind Sie sich sicher, dass Sie zu … wechseln möchten?</string>
+    <string name="removefrom">The light will remove from </string>
+    <string name="network_same_tip">Bitte wählen Sie ein anderes Netzwerk aus. Die Lichter befinden Sich im aktuellen Netzwerk.</string>
+    <string name="network_nolight_tip">Bitte wählen Sie die Lichter aus, deren Netzwerk Sie ändern möchten.</string>
+
+    <!--about-->
+    <string name="about">Über</string>
+    <string name="version">Version</string>
+    <string name="dark">Dunkel</string>
+    <string name="light">Hell / Licht</string>
+    <string name="lightTheme">Hell / Licht</string>
+
+    <!--timer-->
+    <string-array name="months">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+    <string-array name="allweeks">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+
+    </string-array>
+    <string-array name="weeks">
+        <item>Son.</item>
+        <item>Mo.</item>
+        <item>Di.</item>
+        <item>Mi.</item>
+        <item>Do.</item>
+        <item>Fr.</item>
+        <item>Sa.</item>
+    </string-array>
+    <string name="onallday">Jeden Tag</string>
+    <string name="onnoday">An keinem Tag / Nie</string>
+    <string name="onworkday">An Arbeitstagen</string>
+    <string name="onweekday">Am Wochenende / An Wochenenden</string>
+    <string name="target">Ziel</string>
+    <string name="action">Aktion</string>
+    <string name="time">Zeit</string>
+    <string name="days">Tage</string>
+    <string name="date">Datum</string>
+    <string name="label">Label / Bezeichnung</string>
+    <string name="lights">Lichter</string>
+    <string name="on">An</string>
+    <string name="off">Aus</string>
+    <string name="undefinedscene">Undefinierte / Nicht definierte Szene</string>
+    <string name="alarm">Alarm</string>
+    <string name="edit_mode">Bearbeitungsmodus</string>
+    <string name="add_mode">Modus hinzufügen</string>
+    <string name="week">Woche</string>
+    <string name="day">Tag</string>
+
+    <string name="no_schedule">Keine Terminplanung</string>
+    <string name="no_schedule_tip">Den "+" Knopf betätigen um eine Terminplanung anzulegen</string>
+    <string name="no_scene">Keine Szenen</string>
+    <string name="no_scene_tip">Den "+" Knopf betätigen um eine Szene anzulegen</string>
+    <string name="no_room">Keine Räume</string>
+    <string name="no_room_tip">Den "+" Knopf betätigen um eine Raum anzulegen</string>
+    <string name="no_device">Keine Geräte gefunden</string>
+    <string name="no_device_tip">Bitte stellen Sie sicher, dass unter [Mehr - Netzwerke] das korrekte Netzwerk ausgewählt ist</string>
+    <string name="no_device_tip2">Bitte drücken Sie den "Hinzufügen" - Knopf um die MAC - Adresse des Gerätes hinzuzufügen. Das Gerät kann nach dem hinzufügen der MAC-Adresse gesteuert werden</string>
+    <string name="music">Musik</string>
+    <string name="dynamic">Dynamik</string>
+    <string name="nomusic">Keine Musik zum abspielen vorhanden</string>
+    <string name="no_songs">Keine Musik zum abspielen vorhanden</string>
+    <string name="no_songs_tip">Unterstützt nur heruntergeladene Musik</string>
+    <string name="playlist">Wiedergabeliste</string>
+    <string name="suredeletealarm">Sind Sie sicher, dass sie den Alarm in … löschen möchten?</string>
+    <string name="noweektip">Der Wochenplaner muss einige Tage auswählen</string>
+    <string name="noTargetTip">Der Planer benötigt ein Ziel</string>
+    <string name="ex_roomname">Bsp. Wohnzimmer</string>
+    <string name="roomnametip">Ein Name wird benötigt</string>
+    <string name="time_0">0:00</string>
+
+    <!--login-->
+    <string name="app_home">Dein intelligentes Zuhause</string>
+    <string name="app_office">Dein intelligentes Büro</string>
+    <string name="app_shop">Dein intelligenter Laden</string>
+    <string name="app_hotel">Dein intelligentes Hotel</string>
+    <string name="login">Anmeldung</string>
+    <string name="savepassword">Passwort speichern</string>
+    <string name="autologin">Automatische Anmeldung</string>
+    <string name="input_net">Bitte geben Sie einen Netzwerknamen ein</string>
+    <string name="input_pwd">Bitte geben Sie ein Passwort ein</string>
+    <string name="input_name_pwd">Bitte geben Sie Name und Passwort ein</string>
+    <string name="start">Start / Los geht’s</string>
+    <string name="donotshow">Dies nicht mehr anzeigen</string>
+
+    <!--switch-->
+    <string name="switches">Schalter</string>
+    <string name="switchs">Schalter</string>
+    <string name="groups">Gruppen</string>
+    <string name="group">Gruppe</string>
+    <string name="bind">(Ver)binden</string>
+    <string name="enter_name">Bitte geben Sie einen Namen ein</string>
+    <string name="add_success">Das Hinzufügen des Gerätes war erfolgreich</string>
+    <string name="add_next">Noch etwas hinzufügen</string>
+    <string name="finish">Fertig</string>
+    <string name="cameraTip">Diese Funktion benötigt Kamera-Zugriff</string>
+
+
+    <!---->
+    <string name="app_picker_name">Anwendung</string>
+    <string name="bookmark_picker_name">Lesezeichen</string>
+    <string name="button_add_calendar">Zu Kalender hinzufügen</string>
+    <string name="button_add_contact">Kontakt hinzufügen</string>
+    <string name="button_book_search">Buchsuche</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_custom_product_search">Benutzerdefinierte Suche</string>
+    <string name="button_dial">Nummer wählen</string>
+    <string name="button_email">E-Mail versenden</string>
+    <string name="button_get_directions">Anfahrtsbeschreibung  / Wegbeschreibung </string>
+    <string name="button_mms">MMS versenden</string>
+    <string name="button_ok">OK / Bestätigen</string>
+    <string name="button_open_browser">Browser (Internetanwendung) </string>
+    <string name="button_product_search">Produktsuche</string>
+    <string name="button_search_book_contents">Nach Inhalten suchen</string>
+    <string name="button_share_app">Anwendungsprogramm</string>
+    <string name="button_share_bookmark">Lesezeichen</string>
+    <string name="button_share_by_email">Per Email weiterleiten</string>
+    <string name="button_share_by_sms">Per SMS weiterleiten</string>
+    <string name="button_share_clipboard">Zwischenablage</string>
+    <string name="button_share_contact">Kontakt</string>
+    <string name="button_show_map">Karte anzeigen</string>
+    <string name="button_sms">SMS versenden</string>
+    <string name="button_web_search">Internetsuche</string>
+    <string name="button_wifi">Mit Netzwerk verbinden</string>
+    <string name="contents_contact">Kontaktinformation(en)</string>
+    <string name="contents_email">E-Mail Adresse</string>
+    <string name="contents_location">Geografische Koordinaten</string>
+    <string name="contents_phone">Rufnummer</string>
+    <string name="contents_sms">Mobilnummer</string>
+    <string name="contents_text">Klartext </string>
+    <string name="history_clear_text">Verlauf löschen</string>
+    <string name="history_clear_one_history_text">Löschen</string>
+    <string name="history_email_title">Barcode Scanner - Verlauf</string>
+    <string name="history_empty">Leeren</string>
+    <string name="history_empty_detail">Es wurden keine Barcode-Scans aufgezeichnet</string>
+    <string name="history_send">Verlauf senden</string>
+    <string name="history_title">Verlauf</string>
+    <string name="menu_encode_mecard">"MeCard" benutzen</string>
+    <string name="menu_encode_vcard">"vCard" benutzen</string>
+    <string name="menu_help">Hilfe</string>
+    <string name="menu_history">Verlauf</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_share">Weiterleiten</string>
+    <string name="msg_bulk_mode_scanned">Bulk-Modus : Barcode gescannt und gespeichert</string>
+    <string name="msg_camera_framework_bug">Entschuldigung, Ihre Android-Kamera ist auf einen Fehler gestoßen. Bitte starten Sie das Gerät neu</string>
+    <string name="msg_default_format">Format (je nach Kontext auch "Formatieren")</string>
+    <string name="msg_default_meta">Metadaten</string>
+    <string name="msg_default_mms_subject">Hallo</string>
+    <string name="msg_default_status">Bitte platzieren Sie einen Barcode im rechteckigen Suchfeld um ihn zu scannen.</string>
+    <string name="msg_default_time">Zeit</string>
+    <string name="msg_default_type">Typ, Art, oder auch Eingeben</string>
+    <string name="msg_encode_contents_failed">Es konnte kein Barcode aus den angegebenen Daten kodiert werden</string>
+    <string name="msg_error">Fehler</string>
+    <string name="msg_google_books">Google</string>
+    <string name="msg_google_product">Google</string>
+    <string name="msg_intent_failed">Entschuldigung, die gewünschte Anwendung konnte nicht gestartet werden. Der Inhalt des Barcodes scheint ungültig zu sein. </string>
+    <string name="msg_invalid_value">Ungültiger Wert</string>
+    <string name="msg_redirect">Weiterleiten</string>
+    <string name="msg_sbc_book_not_searchable">Entschuldigung, das Buch ist nicht auffindbar</string>
+    <string name="msg_sbc_failed">Entschuldigung, die Suche ist auf ein Problem gestoßen</string>
+    <string name="msg_sbc_no_page_returned">Keine Seite gefunden</string>
+    <string name="msg_sbc_page">Seite</string>
+    <string name="msg_sbc_results">Ergebnisse</string>
+    <string name="msg_sbc_searching_book">Ich suche buch\u206</string>
+    <string name="msg_sbc_snippet_unavailable">Ausschnitt nicht verfügbar</string>
+    <string name="msg_share_explanation">Sie können die Daten zur Verfügung stellen, indem sie den Barcode auf Ihrem Gerät aufrufen und ihn mit einem anderen Telefon scannen.</string>
+    <string name="msg_share_text">oder tippen Sie einen Text und drücken Sie die Eingabetaste</string>
+    <string name="msg_sure">Sind Sie sicher?</string>
+    <string name="msg_unmount_usb">Entschuldigung, der Zugriff auf die SD-Karte ist zur Zeit nicht möglich.</string>
+    <string name="preferences_actions_title">Wenn ein Barcode gefunden wurde\u2026</string>
+    <string name="preferences_auto_focus_title">Benutzen Sie die Autofokussierung</string>
+    <string name="preferences_auto_open_web_title">Webseite automatisch öffnen</string>
+    <string name="preferences_bulk_mode_summary">Scannen und speichern Sie mehrere Barcodes auf einmal</string>
+    <string name="preferences_bulk_mode_title">Bulk-Scan-Modus</string>
+    <string name="preferences_copy_to_clipboard_title">In der Zwischenablage speichern</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Platzhalter: %s= Inhalt, %f = Format, %t = Art</string>
+    <string name="preferences_custom_product_search_title">Benutzerdefinierte URL - Suche</string>
+    <string name="preferences_decode_1D_industrial_title">1D industriell</string>
+    <string name="preferences_decode_1D_product_title">1D Produkt</string>
+    <string name="preferences_decode_Aztec_title">Azteke / aztekisch / Aztkeken</string>
+    <string name="preferences_decode_Data_Matrix_title">Datenmatrix</string>
+    <string name="preferences_decode_PDF417_title">PDF417 (ß)</string>
+    <string name="preferences_decode_QR_title">QR Code</string>
+    <string name="preferences_device_bug_workarounds_title">Workarounds für Gerätefehler</string>
+    <string name="preferences_disable_barcode_scene_mode_title">Kein Barcode-Szenen-Modus</string>
+    <string name="preferences_disable_continuous_focus_summary">Nur Standard-Fokus-Modus benutzen</string>
+    <string name="preferences_disable_continuous_focus_title">Kein kontinuierlicher Fokus</string>
+    <string name="preferences_disable_exposure_title">Keine Belichtung</string>
+    <string name="preferences_disable_metering_title">Keine Messung</string>
+    <string name="preferences_front_light_summary">Verbessert das scannen bei schlechter Beleuchtung, kann aber Überbelichtung verursachen. Nicht auf allen Geräten verfügbar.</string>
+    <string name="preferences_front_light_title">Benutzen Sie das vordere Licht</string>
+    <string name="preferences_front_light_auto">Automatik</string>
+    <string name="preferences_front_light_off">Aus</string>
+    <string name="preferences_front_light_on">An</string>
+    <string name="preferences_general_title">Allgmeine Einstellungen</string>
+    <string name="preferences_history_summary">Speichern Sie die Scans in Ihrem Verlauf</string>
+    <string name="preferences_history_title">Im Verlauf speichern</string>
+    <string name="preferences_invert_scan_title">Scan umkehren / invertieren</string>
+    <string name="preferences_invert_scan_summary">Scannen von weißen Barcodes auf schwarzem Hintergrund. Nicht auf allen Geräten verfügbar</string>
+    <string name="preferences_name">Einstellungen</string>
+    <string name="preferences_orientation_title">Keine automatische Rotation</string>
+    <string name="preferences_play_beep_title">Piep</string>
+    <string name="preferences_remember_duplicates_summary">Mehrere Scans desselben Barcodes im Verlauf speichern</string>
+    <string name="preferences_remember_duplicates_title">An Duplikate erinnnern</string>
+    <string name="preferences_result_title">Ergebnis-Einstellungen</string>
+    <string name="preferences_scanning_title">Wenn Barcodes gescannt werden, dekodieren\u2026</string>
+    <string name="preferences_search_country">Nach Land suchen</string>
+    <string name="preferences_supplemental_summary">Versuchen Sie bitte mehr über den Inhalt des Barcodes herauszufinden</string>
+    <string name="preferences_supplemental_title">Weitere Informationen erhalten</string>
+    <string name="preferences_vibrate_title">Vibration</string>
+    <string name="result_address_book">Gefundene Kontaktinformationen / Alternativ: Diese Kontaktinformationen habe ich gefunden</string>
+    <string name="result_calendar">Gefundene Kalender-Ereignisse / Alternativ: Diese/s Kalender-Ereignis/se habe ich gefunden</string>
+    <string name="result_email_address">Gefundene E-Mail Adressen / Alternativ: Diese E-Mail Adressen habe ich gefunden</string>
+    <string name="result_geo">Gefundene geografische Koordinaten / Alternativ: Diese geografischen Koordinaten habe ich gefunden</string>
+    <string name="result_isbn">Gefundene Bücher / Alternativ: Diese Bücher habe ich gefunden</string>
+    <string name="result_product">Gefundene Produkte / Alternativ: Diese Produkte habe ich gefunden</string>
+    <string name="result_sms">Gefundene SMS Handynummer(n)</string>
+    <string name="result_tel">Gefundene Telefonnummern</string>
+    <string name="result_text">Gefundener Klartext </string>
+    <string name="result_uri">Gefundene URL </string>
+    <string name="result_wifi">Gefundene WLAN Konfiguration </string>
+    <string name="sbc_name">Google Books - Suche</string>
+    <string name="wifi_changing_network">Ich versuche eine Verbindung zum Netzwerk herzustellen\u2026</string>
+
+
+    <string name="delete_action">Aktion löschen</string>
+    <string name="color">Farbe</string>
+    <string name="color_temperature">Farbtemperatur</string>
+    <string name="ct_enabled">CT aktiviert (Falls CT = Farbtemperatur: FT aktiviert)</string>
+    <string name="edit_action">Aktion bearbeiten</string>
+    <string name="add_action">Aktion hinzufügen</string>
+    <string name="remove_all">Alle/s entfernen</string>
+    <string name="required">Erforderlich</string>
+    <string name="network_id">Netzwerk ID</string>
+    <string name="current_network">Aktuelles Netzwerk</string>
+    <string name="gateway">Gateway </string>
+    <string name="gatewayStatus">Gateway-Status</string>
+    <string name="more_information">Weitere Informationen</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="whitelist_setup">Whitelist-Einstellungen</string>
+    <string name="reset_network">Netzwerk zurücksetzen</string>
+    <string name="local">Lokal</string>
+    <string name="connected">Verbunden</string>
+    <string name="disconnected">Getrennt</string>
+    <string name="connecting">Verbinde</string>
+    <string name="disable">Deaktiviert</string>
+    <string name="copy">Kopieren</string>
+    <string name="add_user">Benutzer hinzufügen</string>
+    <string name="device_type">Gerätetyp</string>
+    <string name="optional">Optional</string>
+    <string name="add_net">Netzwerk hinzufügen</string>
+    <string name="need27">Es tut mir leid. Die aktuelle Android-Systemversion ist zu niedrig, um diese Funktion zu unterstützen. 
+Bitte aktalisieren Sie das System auf Android 7.0 oder höher, um diese Funktion nutzen zu können.</string>
+    <string name="tip">Hinweis</string>
+    <string name="remoteNotSupport">Das Remote- Netzwerk unterstützt diese Funktion nicht.</string>
+    <string name="manually">Manuell</string>
+    <string name="scan_qr_code">QR-Code scannen</string>
+    <string name="add_mac_address">MAC - Adresse hinzufügen</string>
+    <string name="mac_address">MAC - Adresse</string>
+    <string name="ex_cc8823779078">(ex.?) CC8823779078</string>
+    <string name="Show">Anzeigen</string>
+    <string name="app_noDevice_tip">Es wurde kein Gerät im aktuellen Netz gefunden</string>
+    <string name="light_type">Licht-Typ / Art</string>
+    <string name="pwm_frequency">PWM-Frequenz (Pulsweitenmodulations-Frequenz)</string>
+    <string name="types">Arten</string>
+    <string name="type">Typ, Art, oder auch Eingeben</string>
+    <string name="ex_pwm">500-10000</string>
+    <string name="outOfRange">Ausser Reichweite</string>
+    <string name="id_exist">Diese ID existiert bereits</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="username">Benutzername</string>
+    <string name="device_setup">Gerät einrichten</string>
+    <string name="create_account">Konto erstellen</string>
+    <string name="forgot_password">Kennwort vergessen?</string>
+    <string name="forgot_password2">Kennwort vergessen</string>
+    <string name="reset_password">Kennwort wieder herstellen</string>
+    <string name="logout">Abmelden</string>
+    <string name="email">E-Mail</string>
+    <string name="old_password">Altes Kennwort</string>
+    <string name="new_password">Neues Kennwort</string>
+    <string name="repeat_new_password">Neues Kennwort wiederholen</string>
+    <string name="sync_to_local_network">Mit lokalem Netzwerk synchronisieren</string>
+    <string name="set_device_list">Geräteliste erstellen</string>
+    <string name="clear_all_devices">Alle Geräte löschen</string>
+    <string name="loading">Lade…</string>
+    <string name="cloud_setup">Cloud-Einstellungen</string>
+    <string name="user">Benutzer</string>
+    <string name="copy_success">In der Zwischenablage gespeichert</string>
+    <string name="clear">Löschen</string>
+    <string name="clearAllDevice">Möchten Sie wirklich alle Geräte löschen?</string>
+    <string name="select_target">Bitte wählen Sie zuerst ein Ziel aus</string>
+    <string name="clear_all_devices_success">Alle Geräte in der Cloud wurden gelöscht</string>
+    <string name="clear_all_devices_faild">Das Löschen aller Geräte ist fehlgeschlagen. Bitte versuchen Sie es erneut.</string>
+    <string name="token_tip">Entschuldigen Sie, Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.</string>
+    <string name="enter_email">Bitte geben Sie Ihre hinterlegte E-Mail Adresse ein</string>
+    <string name="continues">Weiter</string>
+    <string name="enter_right_email">Bitte geben Sie eine E-Mail Adresse ein</string>
+    <string name="exist_email">Diese E-Mail existiert nicht</string>
+    <string name="email_error">Leider ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.</string>
+    <string name="verification_code_tip">Der Verifizierungscode wurde erfolgreich an Ihre E-Mail Adresse versendet.</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="verification_code">Verifizierungscode</string>
+    <string name="code_invalid">Der Verifizierungscode ist leider ungültig. Bitte versuchen Sie es erneut</string>
+    <string name="error_occurred">Leider ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.</string>
+    <string name="sign_again">Das Zurücksetzen war erfolgreich. Bitte melden Sie sich erneut an.</string>
+    <string name="name_pwd_require">Der Benutzername und das Kennwort erfordern jeweils 6 -20 Zahlen oder Buchstaben</string>
+    <string name="pwd_require">Das Kennwort erfordert 6 - 20 Zahlen oder Buchstaben</string>
+    <string name="email_require">Bitte geben Sie eine gültige E-Mail Adresse ein</string>
+    <string name="name_pwd_error">Benutzername oder Kennwort sind nicht korrekt</string>
+    <string name="name_email_exist">Benutzername oder Kennwort existieren bereits</string>
+    <string name="sign_now">Jetzt Anmelden</string>
+    <string name="pwd_not_match">Die beiden neuen Kennwörter stimmen nicht miteinander überein</string>
+    <string name="old_password_error">Das alte Kennwort ist nicht korrekt</string>
+    <string name="pwd_update_tip">Kennwort wurde aktualisiert. Bitte melden Sie sich erneut an.</string>
+    <string name="email_exist">Diese E-Mail existiert bereits</string>
+    <string name="create_success">Das Erstellen des Kontos war erfolgreich</string>
+    <string name="help">Hilfe</string>
+    <string name="discover_devices">Geräte finden</string>
+    <string name="requires_bluetooth">Bluetooth benötigt</string>
+    <string name="please_enable">Bitte aktivieren Sie Ihr Bluetooth um Geräte zu finden</string>
+    <string name="scanTip">Bitte betätigen Sie die "Prog"-Taste zweimal am Empfänger den Sie hinzufügen möchten.</string>
+    <string name="add">Hinzufügen</string>
+    <string name="discovery">Entdeckung</string>
+    <string name="enable_pairing">Kopplung aktivieren</string>
+    <string name="sure_restore">Sind Sie sicher, dass Sie die Werkseinstellung wiederherstellen möchten</string>
+    <string name="restore_to_factory_settings">Auf Werkseinstellung zurücksetzen</string>
+    <string name="energy_consumption">Energieverbrauch</string>
+    <string name="input_voltage">Eingangsspannung</string>
+    <string name="output_voltage">Ausgangsspannung</string>
+    <string name="output_current">Ausgangsstrom</string>
+    <string name="output_power">Ausgangsleistung</string>
+    <string name="total_energy_used">Gesamtverbrauch</string>
+    <string name="energy_used">Verbrauchte Leistung</string>
+    <string name="clear_energy_used">Energieverbrauch löschen</string>
+    <string name="sure_clear">Sind Sie sicher, dass Sie den Energieverbrauch löschen möchten?</string>
+
+    <string name="ioset">E/A Einstellungen</string>
+    <string name="curtain">Vorhang</string>
+    <string name="shutter">Fensterladen</string>
+    <string name="calibration">Kalibrierung</string>
+    <string name="calibrating">Kalibriere…</string>
+    <string name="calibration_success">Kalibrierung erfolgreich</string>
+    <string name="calibration_fail">Kalibrierung ist fehlgeschlagen</string>
+    <string name="successful">Erfolgreich</string>
+    <string name="failed">Fehlgeschlagen</string>
+    <string name="set_switch">Intelligenten Schalter konfigurieren</string>
+    <string name="switch_id">Schalter ID</string>
+    <string name="number_of">Anzahl der Tasten</string>
+    <string name="button_index">Tasten Index </string>
+    <string name="press_type">Betätigungsart </string>
+    <string name="long_press_start">Lange drücken - Start</string>
+    <string name="long_press_end">Lange drücken - Ende</string>
+    <string name="short_press">Kurz drücken</string>
+    <string name="choose_link">Mechanischen Energieschalter einstellen</string>
+    <string name="linkSwitch">Schalter verbinden</string>
+    <string name="unlinkSwitch">Schalter trennen</string>
+    <string name="customSwitchAction">Benutzerdefinierte Schalter - Aktion</string>
+    <string name="link">Verbinden</string>
+    <string name="unlink">Trennen</string>
+    <string name="selectAction">Aktion wählen</string>
+
+    <string-array name="types">
+        <item>An / Aus</item>
+        <item>DIM</item>
+        <item>CCT</item>
+        <item>RGB</item>
+        <item>RGBW</item>
+        <item>RGBCCT</item>
+        <item>E/A Einstellungen</item>
+    </string-array>
+    <string-array name="curtainTypes">
+        <item>Vorhang</item>
+        <item>Fensterladen</item>
+    </string-array>
+    <string-array name="helps">
+        <item>Manche Geräte konnten nicht gefunden werden.</item>
+        <item>Es gibt Geräte, die doppelt vorhanden sind.</item>
+        <item>Adresse manuell eingeben</item>
+
+    </string-array>
+
+
+    <string name="mechanical_energy_switch_action_mode_00">Undefiniert </string>
+    <string name="mechanical_energy_switch_action_mode_01">Licht an</string>
+    <string name="mechanical_energy_switch_action_mode_02">Licht aus</string>
+    <string name="mechanical_energy_switch_action_mode_03">Licht an/aus</string>
+    <string name="mechanical_energy_switch_action_mode_04">White on </string>
+    <string name="mechanical_energy_switch_action_mode_05">White off </string>
+    <string name="mechanical_energy_switch_action_mode_06">White on/off </string>
+    <string name="mechanical_energy_switch_action_mode_07">Schritt hoch</string>
+    <string name="mechanical_energy_switch_action_mode_08">Schritt runter</string>
+    <string name="mechanical_energy_switch_action_mode_09">Schritt hoch/runter</string>
+    <string name="mechanical_energy_switch_action_mode_10">Step CCT/white up </string>
+    <string name="mechanical_energy_switch_action_mode_11">Step CCT/white down </string>
+    <string name="mechanical_energy_switch_action_mode_12">Step CCT/white up/down </string>
+    <string name="mechanical_energy_switch_action_mode_13">Step CCT/white up </string>
+    <string name="mechanical_energy_switch_action_mode_14">Step CCT/white down </string>
+    <string name="mechanical_energy_switch_action_mode_15">Step CCT/white up/down </string>
+    <string name="mechanical_energy_switch_action_mode_16">Level Bewegung stop</string>
+    <string name="mechanical_energy_switch_action_mode_17">Level Bewegung hoch</string>
+    <string name="mechanical_energy_switch_action_mode_18">Level Bewegung runter</string>
+    <string name="mechanical_energy_switch_action_mode_19">Level Bewegung hoch/runter</string>
+    <string name="mechanical_energy_switch_action_mode_20">Move CCT/white stop </string>
+    <string name="mechanical_energy_switch_action_mode_21">Move CCT/white up </string>
+    <string name="mechanical_energy_switch_action_mode_22">Move CCT/white down </string>
+    <string name="mechanical_energy_switch_action_mode_23">Move CCT/white up/down </string>
+    <string name="mechanical_energy_switch_action_mode_24">Move CCT/white stop </string>
+    <string name="mechanical_energy_switch_action_mode_25">Move CCT/white up </string>
+    <string name="mechanical_energy_switch_action_mode_26">Move CCT/white down </string>
+    <string name="mechanical_energy_switch_action_mode_27">Move CCT/white up/down </string>
+    <string name="mechanical_energy_switch_action_mode_28">Move RGB mix fade stop </string>
+    <string name="mechanical_energy_switch_action_mode_29">Move RGB mix fade up </string>
+    <string name="mechanical_energy_switch_action_mode_30">Move RGB mix fade down </string>
+    <string name="mechanical_energy_switch_action_mode_31">Move RGB mix fade up/down </string>
+    <string name="mechanical_energy_switch_action_mode_32">Move RGB mix fade stop </string>
+    <string name="mechanical_energy_switch_action_mode_33">Move RGB mix fade up </string>
+    <string name="mechanical_energy_switch_action_mode_34">Move RGB mix fade down </string>
+    <string name="mechanical_energy_switch_action_mode_35">Move RGB mix fade up/down </string>
+    <string name="mechanical_energy_switch_action_mode_36">Geschwindigkeiteinstellung hoch/runter stop</string>
+    <string name="mechanical_energy_switch_action_mode_37">Geschwindigkeiteinstellung hoch</string>
+    <string name="mechanical_energy_switch_action_mode_38">Geschwindigkeiteinstellung runter</string>
+    <string name="mechanical_energy_switch_action_mode_39">Geschwindigkeiteinstellung hoch/runter </string>
+    <string name="mechanical_energy_switch_action_mode_40">Szene 1 speichern</string>
+    <string name="mechanical_energy_switch_action_mode_41">Szene 1 wieder aufrufen</string>
+    <string name="mechanical_energy_switch_action_mode_42">Szene 2 speichern</string>
+    <string name="mechanical_energy_switch_action_mode_43">Szene 2 wieder aufrufen</string>
+    <string name="mechanical_energy_switch_action_mode_44">Szene 3 speichern</string>
+    <string name="mechanical_energy_switch_action_mode_45">Szene 3 wieder aufrufen</string>
+    <string name="mechanical_energy_switch_action_mode_46">Szene 4 speichern</string>
+    <string name="mechanical_energy_switch_action_mode_47">Szene 4 wieder aufrufen</string>
+    <string name="mechanical_energy_switch_action_mode_48">Change CCT </string>
+    <string name="mechanical_energy_switch_action_mode_49">Change CCT </string>
+    <string name="mechanical_energy_switch_action_mode_50">Change RGB </string>
+    <string name="mechanical_energy_switch_action_mode_51">Change RGB </string>
+    <string name="mechanical_energy_switch_action_mode_52">Eingebauten Betriebsmodus ausführen</string>
+    <string name="mechanical_energy_switch_action_mode_53">Lum einstellen</string>
+    <string name="mechanical_energy_switch_action_mode_54">CT einstellen</string>
+    <string name="mechanical_energy_switch_action_mode_55">Rot einstellen</string>
+    <string name="mechanical_energy_switch_action_mode_56">Grün einstellen</string>
+    <string name="mechanical_energy_switch_action_mode_57">Blau einstellen</string>
+    <string name="mechanical_energy_switch_action_mode_58">RGB einstellen</string>
+    <string name="fix_tip">Please make sure that only this phone is running this App nearby. Please re-power on all devices if some devices are not found here.
+\n\n\nThe short address of the device with a red MAC address conflicts in the Mesh network, please select it to fix this issue.</string>
+    <string name="fix_conflict">Probleme beheben</string>
+    <string name="failed_connect">Verbindung zum Gerät fehlgeschlagen</string>
+    <string name="updatingMeshAddress">Kurzadresse wird aktualisiert</string>
+    <string name="Connecting">Verbinde</string>
+    <string name="cannotSupportMore">Es tut mir leid. Ich kann keine weiteren Geräte bedienen.</string>
+    <string name="switchIdNotEmpty">Schalter ID darf nicht leer sein</string>
+    <string name="idformatError">Formatfehler in der Schalter ID</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="privacy_policy_tip">Wenn Sie sich anmelden, stimmen Sie unseren Datenschutzrichtlinien zu </string>
+    <string name="notice">Hinweis</string>
+    <string name="notice_content">Wir wissen um die Bedeutung des Datenschutzes. 
+Um unsere Erfassung und Verwendung Ihrer persönlichen Daten umfassender darzustellen, haben wir unsere Datenschutzrichtlinie und unsere Nutzungsvereinbarung in Übereinstimmung mit den neuesten Gesetzen und Vorschriften detailliert überarbeitet. 
+Wenn Sie auf [Zustimmen] klicken, haben Sie die aktualisierte Datenschutzrichtlinie vollständig gelesen, verstanden und akzeptiert. 
+Bitte nehmen Sie sich etwas Zeit, um sich mit unserer Datenschutzrichtlinie vertraut zu machen, und wenn Sie Fragen haben, können Sie sich gerne an uns wenden.</string>
+    <string name="agree">Zustimmen</string>
+    <string name="disagree">Ablehnen</string>
+    <string name="agree_with_privacy_policy">Ich stimme der Datenschutzrichtlinie zu</string>
+    <string name="third_party_access_service">Zugangsdienst für Drittanbieter</string>
+    <string name="chooseOne">Bitte wählen Sie eine Option</string>
+    <string name="hours">Stunden</string>
+    <string name="minutes">Minuten</string>
+    <string name="seconds">Sekunden</string>
+    <string name="reset_duration">Dauer zurücksetzen</string>
+    <string name="max_scenetime">Max: 18 Stunden, 12 Minuten, 15 Sekunden</string>
+    <string name="duration_out_range">Die Dauer, die sie eingegeben haben, liegt ausserhalb des möglichen Bereichs </string>
+    <string name="duration_setup">Einstellungen für die Dauer</string>
+    <string name="sun">Sonnenaufgang / Sonnenuntergang</string>
+    <string name="needLocation">Diese Funktion benötigt Zugriff auf Ihre Standortinformationen</string>
+    <string name="openGps">Das GPS öffnen? / Navigation öffnen?</string>
+    <string name="sunrise">Sonnenaufgang</string>
+    <string name="scene">Szene</string>
+    <string name="duration">Dauer</string>
+    <string name="sunset">Sonnenuntergang</string>
+    <string name="basic">Basic</string>
+    <string name="timezone">Zeitzone</string>
+    <string name="longitude">Längengrad</string>
+    <string name="latitude">Breitengrad</string>
+    <string name="syncPhone">Mit Mobiltelefon synchronisieren</string>
+    <string name="change_action_type">Aktionsart ändern </string>
+    <string name="noSelection">Keine Auswahl</string>
+    <string name="date_time">Datum und Uhrzeit</string>
+    <string name="configure_network">Netzwerk konfigurieren</string>
+    <string name="share">Weiterleiten</string>
+    <string name="local_network_id">ID des lokalen Netzwerks</string>
+    <string name="share_local_network">Lokales Netzwerk freigeben</string>
+    <string name="import_net_success">Netzwerkimport erfolgreich</string>
+    <string name="enter_net_id">Bitte geben Sie die Netzwerk ID ein</string>
+    <string name="data_upload">Data uploading...</string>
+    <string name="upload_success">Daten erfolgreich hochgeladen. Sie können ihr Netzwerk jetzt auf andere Mobiltelefone importieren.</string>
+    <string name="upload_failed"> Data uploaded failed, please try again later</string>
+    <string name="connect_lost">Netzwerkverbindung verloren. Bitte versuchen Sie es später erneut.</string>
+    <string name="have_shared">Keine Daten. Haben Sie das lokale Netzwerk freigegeben? Ist die Netzwerk ID korrekt?</string>
+    <string name="request_failed">Datenabfrage fehlgeschlagen. Bitte versuchen Sie es später noch einmal.</string>
+    <string name="request_data">Ich fordere Daten an…</string>
+    <string name="clear_all_data">Alle Daten löschen</string>
+    <string name="sure_clear_all_data">Wollen Sie wirklich alle Daten löschen?</string>
+    <string name="switch_type">Auswahl Schalterart</string>
+    <string name="normal_on_off">Schalter</string>
+    <string name="push_button">Taster</string>
+    <string name="way_3">3 - fach Schalter</string>
+    <string name="cannotAdd">Ich kann nichts mehr hinzufügen</string>
+    <string name="noLocationPermission">Keine Standortfreigabe</string>
+
+    <string name="enable_rgb_independence">RGB-Unabhängigkeit aktivieren</string>
+    <string name="upgraded">Verbessert</string>
+    <string name="previous">Vorherige</string>
+    <string name="select_run_mode">Betriebsmodus wählen</string>
+    <string name="only_one_time">Nur einmal</string>
+    <string name="keep_repeating">Wiederholen</string>
+    <string name="times">Zeit</string>
+    <string name="repeat_several_times">Mehrmals wiederholen</string>
+    <string name="edit_name">Name ändern</string>
+    <string name="load_actions">Ich lade Aktionen …</string>
+    <string name="whiteEnable">Weiß aktivieren</string>
+    <string name="max_dynamic_time">Maximal 24h</string>
+    <string name="rename">Umbenennen</string>
+    <string name="long_press">Lange drücken</string>
+
+    <string name="sureResetNet">Sind Sie sicher, dass sie das Netzwerk zurücksetzen möchten? Nachdem Sie das Netzwerk zurückgesetzt haben, 
+werden andere Mobiltelefone sich nicht mehr mit diesem Mobiltelefon verbinden können.</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="sensor">Sensor</string>
+    <string name="door_sensor">Türsensor</string>
+    <string name="sensor_id">Sensoren ID</string>
+    <string name="on_action">Aktion an</string>
+    <string name="off_action">Aktion aus</string>
+    <string name="light_on">Licht an</string>
+    <string name="light_off">Licht aus</string>
+    <string name="allAttr">Alle Attribute</string>
+    <string name="actionType">Aktionsart</string>
+    <string name="sensorIdNotEmpty">Sensoren ID darf nicht leer sein</string>
+
+    <string name="scanSensorTip">Betätigen Sie den "Prog" - Knopf dreimal, an dem Gerät, das Sie hinzufügen möchten.</string>
+    <string name="invalidSensorID">Ungültige Sensoren ID</string>
+    <string name="naturalLight">Natürliches Licht</string>
+    <string name="mode">Modus</string>
+    <string name="templates">Vorlagen</string>
+    <string name="notSetNatural">Natürliches Licht wurde noch nicht eingestellt.</string>
+    <string name="standardMode">Standardmodus</string>
+    <string name="officeMode">Büromodus</string>
+    <string name="healthCareMode">HCL-Modus</string>
+    <string name="resetAll">Alles zurücksetzen</string>
+    <string name="invalidData">Ungültige Daten</string>
+    <string name="setResetTip">Alles zurücksetzen bevor Daten eingestellt werden / Setzen Sie alles zurück, bevor Sie Daten einstellen</string>
+    <string name="updateResetTip">Alles zurücksetzen bevor Daten aktualisiert werden / Setzen Sie alles zurück, bevor Sie Daten aktualisieren</string>
+    <string name="sureResetAll">Sind Sie sicher, dass Sie alle Modi zurücksetzen möchten?</string>
+    <string name="notSupport">Dieser Dienst wird nicht unterstützt.</string>
+    <string name="scanning">Ich scanne … </string>
+    <string name="requestTimeout">Zeitüberschreitung bei der Anfrage</string>
+    <string name="on_off_duration">Licht An / Aus Duer</string>
+    <string name="set_all_the_lights">Alle Lichter einstellen</string>
+
+    <string name="configure_microwave_motion_sensor">Bewegungsmelder der Mikrowelle konfigurieren</string>
+    <string name="microwave_motion_sensor">Mikrowellen - Bewegungsmelder</string>
+    <string name="detection">Erkennung</string>
+    <string name="no_detection">Keine Erkennung </string>
+    <string name="do_not_save">Nicht speichern</string>
+    <string name="not_set_yet">Noch nicht festlegen</string>
+    <string name="detection_distance">Erkennungsdistanz</string>
+    <string name="speed_data">Datengeschwindigkeit</string>
+    <string name="signal_strength">Signalstärke</string>
+    <string name="lux">Lux</string>
+    <string name="automatic">Automatik</string>
+    <string name="independent">Unabhängig</string>
+    <string-array name="sensorAttrs">
+
+        <item>Bewegungsempfindlichkeit</item>
+        <item>Mikrowellen-Sensor an/aus Status</item>
+        <item>Licht-Sensor an/aus Status</item>
+        <item>Helligkeitsschwelle</item>
+        <item>Nachlaufzeit bei Bewegung</item>
+        <item>Dimmwert bei Bewegung - Ausgang</item>
+        <item>Bewegungsempfindlickeit bei Bewegung</item>
+        <item>Nachlaufzeit nach Bewegung</item>
+        <item>Bewegungsempfindlickeit nach Bewegung</item>
+        <item>Bewegungsempfindlickeit nach Bewegung</item>
+        <item>Betriebsmodus</item>
+        <item>Status Abfrage Interval</item>
+        <item>Status Abfrage für Test an/aus</item>
+        <item>Helligkeitssensor LUX-Wert anpassen</item>
+        <item>LUX - Skalierungsfaktor des Hellikkeitssensors </item>
+    </string-array>
+    <string name="current_value">Aktueller Wert</string>
+    <string name="new_value">Neuer Wert</string>
+    <string name="sttribute">Merkmal</string>
+    <string name="update">Update</string>
+    <string name="set_to_default">Auf Standard setzen</string>
+    <string name="update_complete">Die Aktualisierung ist fertig</string>
+    <string name="no_response">Keine Antwort</string>
+    <string name="attribute">Merkmal</string>
+    <string name="edit_value">Wert bearbeiten</string>
+    <string name="value_out_range">Dieser Wert liegt ausserhalb des zulässigen Bereichs</string>
+    <string name="set_new_value">Bitte geben Sie einen neuen Wert ein.</string>
+    <string name="value">Wert</string>
+    <string name="state">Status</string>
+    <string name="lux_upcase">LUX</string>
+    <string name="write_dooya_id">DOOYA ID eingeben</string>
+    <string name="offline">Offline</string>
+    <string name="checking">Überprüfen…</string>
+    <string name="check_for_updates">Nach Updates suchen</string>
+    <string name="there_are_no_updates_available">Kein Update verfügbar</string>
+    <string name="start_updates">Update starten</string>
+    <string name="firmware_updates">Firmware Update</string>
+    <string name="recheck">Erneut überprüfen</string>
+    <string name="try_again">Erneut versuchen</string>
+    <string name="update_failed">Update fehlgeschlagen</string>
+    <string name="sync_host">Sync Host</string>
+    <string name="set_sync_host">Dieses Gerät als Sync Host festlegen, mit dem sich die anderen Lichter dieser Gruppe verbinden</string>
+    <string name="updating">Aktualisiere …</string>
+    <string name="update_success">Update successful! </string>
+    <string name="autoMode">Automatik-Modus</string>
+    <string name="range_0_255">0-255</string>
+    <string name="range_0_100">0-100</string>
+    <string name="range_R_0_255">R:0-255</string>
+    <string name="range_G_0_255">G:0-255</string>
+    <string name="range_B_0_255">B:0-255</string>
+    <string name="no_device_and_try_again">Gerät nicht gefunden </string>
+    <string name="rescan">Erneut scannen</string>
+    <string name="device_count">Geräte-Zähler %d</string>
+    <string name="sort_by">Sortieren nach</string>
+    <string name="search_results">Suchergebnisse</string>
+    <string name="available_new_addresses">Verfügbare neue Adressen</string>
+    <string name="sbus_light">SBUS LICHT</string>
+    <string name="mac">Mac</string>
+    <string name="address">Adresse</string>
+    <string name="status">Status</string>
+    <string name="manuallySetAddress">Adresse manuell eingeben</string>
+    <string name="default_addr">Standardadresse</string>
+    <string name="new_addr">Neue Adresse</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="noRepeat">Nicht wiederholen</string>
+    <string name="set_address">Adresse eingeben</string>
+    <string name="connected_setting">Verbunden, einstellen</string>
+    <string name="connect_failed_try_again">Verbindung fehlgeschlagen, bitte überprüfen Sie Ihr Gerät und versuchen es erneut.</string>
+    <string name="set_successful">Einstellen erfolgreich!</string>
+    <string name="set_failed_try_again">Einstellen fehlgeschlagen, bitte überprüfen Sie Ihr Gerät und versuchen es erneut.</string>
+    <string name="next">Weiter</string>
+    <string name="set_address_tip">Geben Sie dem Gerät eine neue Adresse. Der Adressraum ist 1 bis 254. </string>
+    <string name="currentAddress">Die aktuelle Adresse ist %d</string>
+    <string name="same_address">Dies ist die gleiche Adresse</string>
+    <string name="address_out_range">Das ist ausserhalb des erlaubten Raums</string>
+    <string name="set">Einstellen</string>
+    <string name="current_address">Aktuelle Adresse</string>
+    <string name="history_records">Aufzeichnungen</string>
+    <string name="clearHistoryTip">Sind Sie sicher, dass sie alle Aufzeichnungen löschen möchten?</string>
+    <string name="address_count">Anzahl Adressen %d</string>
+    <string name="no_available_addresses">Derzeit keine verfügbaren Adressen vorhanden.</string>
+    <string name="no_history_tip">Derzeit keine verfügbaren Aufzeichnungen vorhanden.</string>
+    <string name="pir_motion_sensor">PIR motion sensor</string>
+</resources>
+

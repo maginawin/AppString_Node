@@ -10,6 +10,9 @@
 // nfc
 // node set_android -f ./assert/nfc/strings_en_230616.xml ./assert/nfc/230616.xlsx ./assert/nfc/strings_cn_230616.xml
 
+// easythings
+// node set_android -f ./assert/easythings/strings_en_1206.xml ./assert/easythings/de_1206.xlsx ./assert/easythings/strings_de_231206.xml
+
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')
 
