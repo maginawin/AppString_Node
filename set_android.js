@@ -6,6 +6,7 @@
 
 // HomeeLife
 // node set_android.js -f ./assert/homeelife/strings_en_230511.xml ./assert/homeelife/230511.xlsx ./assert/homeelife/strings_cn_230511.xml
+// node set_android.js -f ./assert/homeelife/strings_en_240127.xml ./assert/homeelife/en_fr_240127.xlsx ./assert/homeelife/strings_fr_240127.xml
 
 // nfc
 // node set_android -f ./assert/nfc/strings_en_230616.xml ./assert/nfc/230616.xlsx ./assert/nfc/strings_cn_230616.xml

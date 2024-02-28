@@ -1,0 +1,902 @@
+
+"sign_in" = "Se Connecter";
+"sign_up" = "S'inscrire";
+"email" = "E-mail";
+"password" = "Mot de passe";
+"verification_code" = "Code de Vérification";
+"obtain" = "Obtenir";
+"seconds_simple" = "s";
+"Seconds" = "Secondes";
+"user_agreement" = "Accord de l'Utilisateur";
+"privacy_policy_prompt" = "I have read and agree to the ";
+"privacy_policy" = "Politique de Confidentialité";
+"read_agree_hint_leading " = "I have read and agree ";
+" and " = " and ";
+"forgot_password" = "Mot de Passe Oublié";
+"reset_password" = "Réinitialiser le Mot de Passe";
+"reset_password_btn" = "Réinitialiser";
+"new_password" = "Nouveau Mot de Passe";
+"done" = "Terminé";
+"login_immediately" = "Se Connecter";
+"login_email_placeholder" = "E-mail";
+"login_password_placeholder" = "Mot de passe";
+"login_agree_policy" = "Veuillez d'abord lire et accepter l'accord de confidentialité";
+"register_verify" = "Vérifier";
+"register_verify_title" = "Vérifier le Compte";
+"verfity_send_success" = "Le code de vérification a été envoyé à votre email.";
+"account_verfity_alert" = "Vous n'avez pas vérifié votre compte.";
+"account_verfity_action" = "Vérifier";
+"account_verfity_success" = "Réussi !";
+"account_verfity_failed" = "Échec !";
+"reset_password_success" = "Réinitialisation du mot de passe réussie !";
+"reset_password_failed" = "Échec de la réinitialisation du mot de passe !";
+
+"account_code_mismatch" = "Échec de l'obtention, veuillez réessayer.";
+
+"account_email_format_alert_message" = "Veuillez entrer un email valide.";
+"account_password_format_alert_message" = "Le mot de passe doit comporter au moins 8 caractères.";
+
+"account_token_invalid_message" = "La connexion a expiré, veuillez vous reconnecter.";
+"account_changed_bluetooth_mode_message" = "La connexion a expiré et passera à la connexion Bluetooth.";
+
+//设备
+"devices" = "Appareils";
+"add_device" = "Ajouter un Appareil";
+"add_bridge" = "Ajouter un Pont";
+"add_accessory" = "Ajouter un Accessoire";
+"add_device_tint_message" = "Veuillez vous assurer que les appareils sont en mode usine.";
+"add_reset_nfc_device" = "Réinitialiser le Dispositif NFC";
+"nfc_unsupported_alert_title" = "NFC Non Pris en Charge";
+"nfc_unsupported_alert_message" = "Désolé, votre téléphone ne prend pas en charge le NFC.";
+"nfc_reset_succeeded_message" = "Réinitialisation réussie !";
+"nfc_reset_failed_message" = "Échec de la réinitialisation, veuillez réessayer.";
+"nfc_device_unsupported_message" = "Appareil non pris en charge !";
+
+
+"add_device_hint_2" = "Veuillez allumer au moins un des appareils suivants et vous assurer qu'ils sont en mode usine : Lumière, Rideau, Prise.\n\nAppareils pris en charge : Lumière, Rideau, Prise, Pont.";
+"add_accessory_hint_2" = "Veuillez vous assurer que l'appareil est en mode usine.\n\nAppareils pris en charge : Télécommande, Capteur, RF PA, etc.";
+"start" = "Commencer";
+"added_devices_tint_format" = "Analyser jusqu'à %d appareils.";
+"pairing_tint" = "Ajout en cours...";
+"stop" = "Arrêter";
+"Scan to %d device(s)." = "Analyser jusqu'à %d appareil(s).";
+"add_bridge_tint_message" = "Veuillez allumer au moins un des appareils suivants et vous assurer qu'il est en mode usine : Lumière, Rideau, Prise.\n\nVeuillez allumer le pont et vous assurer qu'il est en mode usine.";
+"ok" = "OK";
+"add_failed_fail_to_connect_hint" = "Aucun nouvel appareil trouvé, veuillez réinitialiser vos appareils puis réessayer.";
+"add_failed_other_device_type_tint" = "Veuillez éteindre les appareils non appairés à l'exception de Lumière, Rideau, Prise.";
+"add_failed_no_bridge_tint" = "Aucun pont trouvé, veuillez allumer le pont et vous assurer qu'il est en mode usine.";
+"add_failed_cannot_add_more_tint" = "Vous ne pouvez pas ajouter plus d'appareils, veuillez en supprimer quelques-uns d'abord.";
+"pairing_is_complete" = "Terminé !";
+
+//控制设备
+"loading_devices_tint" = "Chargement des appareils...";
+"network_no_devices_tint" = "Vous n'avez pas encore d'appareil.";
+"no_devices_tint" = "Il n'y a pas d'appareils dans cette pièce.";
+"network_connecting_tint" = "Connexion au réseau...";
+"connect_network_failed_tint_format" = "Échec de la connexion au réseau.";
+"network_connecting_gateway" = "Connexion à la passerelle...";
+"network_connecting_gateway_failed" = "Échec de la connexion à la passerelle.";
+
+"network_connecting_device_tint" = "Connexion à l'appareil Bluetooth...";
+"network_connecting_device_failed_tint" = "Échec de la connexion à l'appareil Bluetooth.";
+"network_connecting_device_troubleshooting" = "Dépannage";
+"network_throubleshooting_message_1" = "1. Assurez-vous que votre appareil est allumé.\n\n2. Assurez-vous que votre téléphone se trouve à moins de 10 mètres de l'un des appareils.\n\n";
+"network_throubleshooting_message_2" = "Si vous ne parvenez toujours pas à vous connecter à votre appareil, vous devrez peut-être le réinitialiser puis l'ajouter à nouveau.\n\n";
+"network_throubleshooting_message_3" = "Méthodes de Réinitialisation :\n\n";
+"network_throubleshooting_message_4" = "Appuyez et maintenez le bouton de réinitialisation sur l'appareil jusqu'à ce que la lumière clignote.\n\nou\n\nÉteignez puis rallumez l'appareil 8 fois.\n";
+
+
+"try_again" = "réessayez.";
+"light" = "Lumière";
+"lights" = "Lumières";
+"curtain" = "Rideau";
+"offline" = "Hors-ligne";
+"on" = "Allumé";
+"off" = "Éteint";
+"device_settings" = "Paramètres de l'Appareil";
+"device_name" = "Nom de l'Appareil";
+"timezone" = "Fuseau Horaire";
+"date_time" = "Date-Heure";
+"sync_with_phone" = "Synchroniser avec le Téléphone";
+"short_address" = "Adresse Courte";
+"mac_address" = "Adresse Mac";
+"main_type" = "Type Principal";
+"sub_type" = "Sous-type";
+"firmware_version" = "Version du Firmware";
+"remove_device" = "Supprimer l'Appareil";
+"rgb_independent_control" = "Mode RGB Unique";
+"device_rename" = "Renommer l'Appareil";
+"Please enter a devicename" = "Veuillez entrer un nom d'appareil";
+"device_mode_color_empty" = "Vous n'avez pas encore de couleur.";
+
+//网络
+"network_name_format_alert_message" = "Network name can only contain 2 to 16 letters, numbers or @#\\$?.%^&+=";
+"network_password_format_alert_message" = "Network password can only contain 4 to 16 letters, numbers or @#\\$?.%^&+=";
+"welcome_title" = "Bienvenue !";
+"welcome_message" = "Vous n'avez pas encore de réseau maillé.";
+"create_network" = "Créer un Réseau";
+
+"hello_title" = "Bonjour !";
+"welcome_homeelife_message" = "Bienvenue chez HomeeLife.";
+"start_network" = "Commencer";
+
+"sign_out" = "Se Déconnecter";
+"network_name" = "Nom du Réseau";
+"network_password" = "Mot de Passe du Réseau";
+"create" = "Créer";
+"network_settings" = "Paramètres du Réseau";
+"network_id" = "ID du Réseau";
+"remove_network" = "Supprimer le Réseau";
+"network_members" = "Membres du Réseau";
+"remove_network_failed_message" = "Échec de la suppression du réseau, veuillez réessayer plus tard.";
+
+"reset_network" = "Réinitialiser le Réseau";
+
+"network_connection_mode" = "Mode de Connexion";
+"network_gateway_setting" = "Paramètres de la Passerelle";
+"network_upload" = "Télécharger le Réseau";
+
+"network_update_to_cloud" = "Télécharger sur le Cloud";
+"network_update_form_cloud" = "Mise à Jour depuis le Cloud";
+"network_download" = "Télécharger le Réseau";
+
+"network_upload_cloud_message" = "Télécharger le réseau local sur le cloud.";
+"network_upload_success" = "Téléchargement réussi !";
+"network_upload_loading" = "Téléchargement…";
+"network_upload_failed" = "Échec du téléchargement, veuillez réessayer.";
+"network_upload_btn_text" = "Commencer le Téléchargement";
+
+"network_update_cloud_message" = "Mettre à jour le réseau local depuis le cloud.";
+"network_update_success" = "Mise à jour réussie !";
+"network_update_loading" = "Mise à jour…";
+"network_update_failed" = "Échec de la mise à jour, veuillez réessayer.";
+"network_update_btn_text" = "Commencer la Mise à Jour";
+
+"network_download_message" = "Télécharger le réseau cloud en local.";
+"network_download_success" = "Téléchargement réussi !";
+"network_download_loading" = "Téléchargement…";
+"network_download_failed" = "Échec du téléchargement, veuillez réessayer.";
+"network_download_btn_text" = "Commencer le Téléchargement";
+
+"network_upload_message" = "Le réseau n'a pas été téléchargé sur le cloud.";
+
+"network_upload_alert_message" = "Vous devez d'abord télécharger le réseau.";
+
+"network_connection_mode_bluetooth" = "Bluetooth";
+"network_connection_mode_gateway" = "Passerelle";
+
+"network_share_email_placeholder" = "Email de l'Invité";
+"network_share_send_invitation" = "Envoyer une Invitation";
+"network_share_email_invalid_alert" = "Veuillez saisir un email valide.";
+"network_share_success_message" = "Envoi réussi !";
+
+"network_share_invalid_userNotExist" = "L'utilisateur n'existe pas.";
+"network_share_invalid_cannotMyself" = "L'utilisateur possède déjà ce réseau.";
+"network_share_invalid_failed" = "Échec de l'envoi de l'invitation, veuillez réessayer.";
+"network_share_invalid_networkNotExist" = "Le réseau n'existe pas, veuillez d'abord télécharger le réseau.";
+"network_share_invalid_alreadyOwns" = "L'utilisateur possède déjà ce réseau.";
+
+"network_import_join_message" = "Acceptez-vous de rejoindre ";
+"network_import_accept" = "Accepter";
+"network_import_decline" = "Refuser";
+
+"network_import_accept_importing" = "Importation ";
+"network_import_decline_importing" = "Refus de l'invitation…";
+"network_import_success" = "Importation réussie !";
+"network_import_decline_success" = "Refus réussi !";
+"network_import_failed" = "La demande réseau a échoué, veuillez réessayer.";
+"network_import_failed_networkNotExist" = "Le réseau n'existe pas.";
+
+"network_gateway_loading" = "Chargement de la Passerelle…";
+"network_gateway_empty" = "Le réseau n'a pas encore défini de passerelle, veuillez d'abord ajouter une passerelle.";
+"network_gateway_discovering" = "Découverte de la Passerelle…";
+"network_gateway_add_alert" = "Êtes-vous sûr de vouloir ajouter ";
+"network_gateway_add" = "Ajouter une Passerelle";
+"network_gateway_adding" = "Ajout de la Passerelle…";
+"network_gateway_add_setting" = "Configuration de la Passerelle…";
+"network_gateway_add_success" = "Ajout réussi !";
+"network_gateway_add_failed" = "Échec de l'enregistrement de la passerelle, veuillez réessayer.";
+"network_wifi_authority_message" = "Vous devez activer le Wi-Fi sur votre téléphone, puis réessayer.";
+"network_wifi_tryAgain" = "Réessayer";
+
+"network_gateway_status" = "Statut";
+"network_gateway_status_online" = "En ligne";
+"network_gateway_status_offline" = "Hors-ligne";
+"network_gateway_status_activated" = "Activé";
+"network_gateway_status_not_activated" = "Non activé";
+
+"network_gateway_id" = "ID de la Passerelle";
+"network_gateway_delete" = "Supprimer la Passerelle";
+"network_gateway_delete_alert" = "Êtes-vous sûr de vouloir supprimer cette passerelle ?";
+"network_gateway_delete_failed" = "Échec de la suppression de la passerelle, veuillez réessayer.";
+"network_gateway_delete_success" = "Suppression réussie !";
+"network_gateway_connect_failed_tryAgain" = "Réessayer";
+/// 网关已被绑定
+"network_gateway_already_bind_failed" = "La passerelle est déjà liée.";
+/// 网络已有网关
+"network_gateway_bind_exist_failed" = "Ce réseau est déjà lié à une passerelle.";
+/// 网关正在被添加
+"network_gateway_adding_failed" = "Quelqu'un ajoute cette passerelle, veuillez réessayer dans une minute.";
+
+"network_change_mode_bluetooth" = "Vous devez d'abord changer le mode de connexion en Bluetooth.";
+
+"network_auto_change_bluetooth" = "Le réseau n'est pas lié à une passerelle et passera à la connexion Bluetooth.";
+/// 上传云端限制网络个数
+"network_upload_cloud_exceeded_failed" = "Échec de la mise à jour, dépassement du nombre maximum de réseaux dans le cloud. Vous pouvez avoir jusqu'à 10 réseaux dans le cloud.";
+/// 邀请云端限制网络个数
+"network_invitee_cloud_exceeded_failed" = "Échec de l'invitation, l'invité a déjà plus de 10 réseaux dans le cloud.";
+/// 同意加入云端限制网络个数
+"network_join_cloud_exceeded_failed" = "Échec de l'acceptation, dépassement du nombre maximum de réseaux dans le cloud. Vous pouvez avoir jusqu'à 10 réseaux dans le cloud.";
+
+
+"close" = "Fermer";
+"copy" = "Copier";
+"upload" = "Télécharger";
+"Try_Again" = "Réessayer";
+
+"add" = "Ajouter";
+"add_member" = "Ajouter un Membre";
+"owner" = "Propriétaire";
+"admin" = "Admin";
+"member" = "Membre";
+"remove_network_tint_title" = "Supprimer le Réseau ?";
+"remove_network_tint_message" = "Après la suppression du réseau, vous devez réinitialiser manuellement l'appareil et l'ajouter à nouveau.";
+"remove" = "Supprimer";
+
+"reset_network_tint_title" = "Réinitialiser le Réseau ?";
+"reset_network_tint_message" = "La réinitialisation du réseau effacera toutes les données sur votre téléphone, vous devrez réinitialiser manuellement l'appareil et l'ajouter à nouveau.";
+"reset_network_failed_message" = "Échec de la réinitialisation du réseau, veuillez réessayer plus tard.";
+"reset" = "Réinitialiser";
+
+
+"Member Name: " = "Nom du membre:";
+"member_name" = "Nom du Membre";
+"Member Email: " = "Email du membre: ";
+"member_email" = "E-mail du Membre";
+"please_input_the_member_name" = "Veuillez saisir le nom du membre.";
+"please_input_the_member_email" = "Veuillez saisir l'e-mail du membre.";
+"role_settings" = "Paramètres du Rôle";
+"network_role" = "Rôle dans le Réseau";
+"admin_tint_message" = "Gérer les appareils et les pièces | Gérer les membres";
+"member_tint_message" = "Contrôler les appareils";
+"member_settings" = "Paramètres du Membre";
+"remove_member" = "Supprimer le Membre";
+"Are your sure you want to remove %@ from the %@?" = "Êtes-vous sûr de vouloir retirer %@ du %@ ?";
+"Rename Memmer" = "Renommer";
+"leave_network" = "Quitter le Réseau";
+"leave_network_tint_title" = "Êtes-vous sûr de vouloir quitter le réseau ?";
+"leave" = "Quitter";
+
+"network_manager_state_upload" = "Télécharger";
+"network_manager_state_download" = "Télécharger";
+"network_manager_local" = "Local";
+"network_manager_cloud" = "Cloud";
+"network_manager_invitation" = "Invitation";
+
+//房间
+"rooms" = "Pièces";
+"no_rooms_tint" = "Vous n'avez pas encore de pièce.";
+"Room Name: " = "Nom de la pièce: ";
+"room_name" = "Nom de la Pièce";
+"please_input_the_room_name" = "Veuillez entrer le nom de la pièce.";
+"add_room" = "Ajouter une Pièce";
+"room_background" = "Arrière-plan de la Pièce";
+"light" = "Lumière";
+"room_settings" = "Paramètres de la Pièce";
+"room_id" = "ID de la Pièce";
+"room_smart_switch" = "Configurer l'Interrupteur Intelligent";
+"remove_room" = "Supprimer la Pièce";
+"devices_not_in_this_room" = "Appareils non inclus dans cette pièce";
+"room_rename" = "Renommer la Pièce";
+"all_devices" = "Toutes les Lumières";
+"Please enter a roomname" = "Veuillez entrer un nom de pièce";
+
+"smart_switch_bind" = "Lier l'Interrupteur Intelligent";
+"smart_switch_update" = "Mettre à jour les Paramètres de l'Interrupteur Intelligent";
+"smart_switch_unbind" = "Délié l'Interrupteur Intelligent";
+"smart_switch_set_hint" = "L'interrupteur intelligent pourrait ne pas être capable de contrôler le nouvel appareil, allumez d'abord votre nouvel appareil puis mettez à jour les paramètres de l'interrupteur intelligent.";
+"smart_switch_bind_type" = "Type d'Interrupteur Intelligent";
+"smart_switch_bind_get_configuration" = "Obtenir la Configuration";
+"smart_switch_bind_start_binding" = "Commencer le Lien";
+"smart_switch_get_configuration_alert" = "Obtention de la Configuration";
+"smart_switch_get_configuration_alert_failed" = "Échec, veuillez réessayer.";
+"successful" = "Réussi !";
+
+"smart_switch_nfc_scaning" = "Touchez le dispositif avec l'arrière de votre téléphone mobile.";
+"smart_switch_nfc_bind_success" = "Liaison réussie !";
+"smart_switch_nfc_bind_failed" = "Échec de la liaison, veuillez réessayer.";
+
+"smart_switch_nfc_unbind_success" = "Déliaison réussie !";
+"smart_switch_nfc_unbind_failed" = "Échec de la déliaison, veuillez réessayer.";
+
+"smart_switch_updatating" = "Mise à jour des Paramètres...";
+
+"smart_switch_qrcode_title" = "Scanner l'ID de l'Interrupteur";
+"smart_switch_qrcode_message" = "Veuillez scanner le code QR sur l'Interrupteur Intelligent.";
+"smart_switch_qrcode_invalid_message" = "Veuillez entrer un ID d'Interrupteur valide.";
+"saved" = "Enregistré !";
+"deleted" = "Supprimé !";
+"smart_switch_delete_alert_message" = "Êtes-vous sûr de vouloir supprimer cet Interrupteur Intelligent ?";
+
+
+//场景
+"scenes" = "Scènes";
+"scene" = "Scène";
+"scene_add" = "Ajouter une Scène";
+"no_scenes_tint" = "Vous n'avez pas encore de scène.";
+"scene_name_with_colon" = "Nom de la Scène";
+"scene_name" = "Nom de la Scène";
+"scene_rename" = "Renommer la Scène";
+"please_input_the_scene_name" = "Veuillez entrer le nom de la scène.";
+"scene_background" = "Arrière-plan de la Scène";
+"scene_settings" = "Paramètres de la Scène";
+"action_settings" = "Paramètres d'Action";
+"remove_scene" = "Supprimer la Scène";
+"devices_not_in_this_scene" = "Appareils non inclus dans cette scène";
+"action_editing" = "Modifier l'Action";
+"on_off" = "Allumé/Éteint";
+"brightness" = "Luminosité";
+"color" = "Couleur";
+"color_temperature" = "Température de Couleur";
+"white_color" = "Blanc";
+"transition_time" = "Transition";
+"hours_simple" = "H";
+"minutes_simple" = "M";
+"seconds_simple" = "S";
+"the_scene_has_been_added" = "La scène a été ajoutée.";
+
+//我
+"me" = "Moi";
+"account_and_security" = "Compte et Sécurité";
+"network_management" = "Gestion du Réseau";
+"gateway_title" = "Passerelle";
+"about" = "À Propos";
+"profile" = "Profil";
+"profile_picture" = "Image de Profil";
+"nickname" = "Surnom";
+"no_nickname" = "Pas de surnom";
+"nickname_update_failed" = "échec de la modification du surnom !";
+"Please enter a nickname" = "Veuillez entrer un surnom";
+"save" = "Sauvegarder";
+"change_password" = "Changer de Mot de Passe";
+"delete_account" = "Supprimer le Compte";
+"confirm_delete_account" = "Supprimer le Compte";
+"app_version" = "Version de l'App";
+"take_photo" = "Prendre une Photo";
+"select_from_album" = "Sélectionner depuis l'Album";
+"cancel" = "Annuler";
+"delete" = "Supprimer";
+"delete_account_tint_title" = "Supprimer le Compte ?";
+"delete_account_tint_message" = "Êtes-vous sûr de vouloir supprimer votre compte ?";
+"delete_account_success" = "Suppression réussie !";
+"delete_account_failed" = "Échec de la suppression du compte, veuillez vérifier votre réseau ou quitter l'application puis réessayer.";
+
+"sign_out_failed" = "Déconnexion échouée !";
+
+
+"please_input_the_verification_code" = "Code de Vérification";
+"state" = "État";
+"connected" = "Connecté";
+"disconnected" = "Déconnecté";
+"connecting" = "En cours de connexion";
+
+"profile_image_compression_failed" = "Échec de la compression de l'image.";
+"profile_image_update_failed" = "Échec de la mise à jour de l'avatar.";
+
+
+//定时
+"timing" = "Minuterie";
+"monday_abbr" = "Lun";
+"tuesday_abbr" = "Mar";
+"wednesday_abbr" = "Mer";
+"thursday_abbr" = "Jeu";
+"friday_abbr" = "Ven";
+"saturday_abbr" = "Sam";
+"sunday_abbr" = "Dim";
+"monday" = "Lundi";
+"tuesday" = "Mardi";
+"wednesday" = "Mercredi";
+"thursday" = "Jeudi";
+"friday" = "Vendredi";
+"saturday" = "Samedi";
+"sunday" = "Dimanche";
+"weekdays" = "Jours de Semaine";
+"weekends" = "Weekend";
+"every_day" = "Tous les jours";
+"do_not_repeat" = "Pas de Répétition";
+"add_timing" = "Ajouter une Minuterie";
+"timing_editing" = "Modifier la Minuterie";
+"week" = "Semaine";
+"day" = "Jour";
+"time" = "Heure";
+"date" = "Date";
+"repeat" = "Répétition";
+"action" = "Action";
+"remove_timing" = "Supprimer la Minuterie";
+"turn_on_the_light" = "Allumer";
+"turn_off_the_light" = "Éteindre";
+"execute_scene" = "Exécuter la Scène";
+"sunrise_sunset" = "Lever et Coucher du Soleil";
+"sunrise" = "Lever du Soleil";
+"sunset" = "Coucher du Soleil";
+"disabled" = "Désactivé";
+"enabled" = "Activé";
+"type" = "Type";
+"others" = "Autres";
+"longitude" = "Longitude";
+"latitude" = "Latitude";
+"there_are_no_available_scenes" = "Il n'y a pas de scènes disponibles.";
+"default_title" = "Défaut";
+"custom_title" = "Personnalisé";
+"add_color" = "Ajouter une Couleur";
+"advanced_settings" = "Paramètres Avancés";
+"enter_pairing_mode" = "Activer le Mode de Pairage";
+"pairing" = "Pairage";
+"smart_switch_configuration" = "Configuration de l'Interrupteur Intelligent";
+"sensor_configuration" = "Configuration du Capteur";
+"onoff_transition" = "Transition Marche/Arrêt";
+
+"sensor_attributes" = "Attributs du Capteur";
+"sensor_attributes_human_induction_sensitivity" = "Sensibilité à l'Induction Humaine";
+"sensor_attributes_working_brightness_threshold" = "Seuil de Luminosité de Fonctionnement";
+"sensor_attributes_detected_pwm_output_delay" = "Délai de Sortie PWM Détecté";
+"sensor_attributes_detected_pwm_output_brightness" = "Luminosité de Sortie PWM Détectée";
+"sensor_attributes_detected_pwm_output_percentage" = "Pourcentage de Sortie PWM Détecté";
+"sensor_attributes_not_detected_pwm_output_delay" = "Délai de Sortie PWM Non Détecté";
+"sensor_attributes_not_detected_pwm_output_percentage" = "Pourcentage de Sortie PWM Non Détecté";
+"sensor_attributes_pwm_output_percentage_after_not_detected_delay" = "Pourcentage de Sortie PWM Après Délai Non Détecté";
+"sensor_attributes_working_mode" = "Mode de Fonctionnement";
+"sensor_attributes_working_mode_auto" = "Auto";
+"sensor_attributes_working_mode_independent" = "Indépendant";
+"attribute" = "Attribut";
+"update" = "Mettre à Jour";
+"name" = "Nom";
+"current_value" = "Valeur Actuelle";
+"new_value" = "Nouvelle Valeur";
+"defualt_value" = "Valeur par Défaut";
+"value_range" = "Plage de valeurs";
+"value_range_out_failed_msg" = "La valeur est hors de portée.";
+"update_succeeded" = "Mise à jour réussie !";
+"update_failed" = "Échec de la mise à jour.";
+"seconds_simple_lower" = "s";
+
+"enable" = "Activer";
+"mode" = "Mode";
+"biorhythm_templates" = "Modèles";
+"biorhythm_resetAll" = "Réinitialiser Tout";
+"biorhythm_title" = "Lumière Naturelle";
+"biorhythm_stanadrd_mode" = "Mode Standard";
+"biorhythm_office_mode" = "Mode Bureau";
+"biorhythm_health_care_mode" = "Mode Santé";
+"biorhythm_notset_tip" = "La lumière naturelle n'a pas été définie";
+"biorhythm_invalidData_tip" = "Données invalides";
+"birhythm_resetAlldata_message" = "Réinitialiser tout avant la mise à jour des données.";
+
+"birhythm_resetAll_alert_message" = "Êtes-vous sûr de vouloir réinitialiser tous les modes ?";
+"birhythm_resetAll_success" = "Réinitialisé !";
+"birhythm_resetAll_failed" = "Échec !";
+"birhythm_save_failed" = "Échec !";
+
+"birhythm_empty_tip" = "La lumière naturelle n'a pas été définie.";
+"birhythm_not_support_message" = "Cette lumière ne prend en charge que le marche/arrêt, elle ne supporte pas la Lumière Naturelle.";
+
+"network_no_light_devices_tint" = "Vous n'avez pas encore de lumière.";
+
+"cct" = "CCT";
+"dim" = "DIM";
+
+
+"switch_type" = "Type d'Interrupteur";
+"smart_switches" = "Interrupteurs Intelligents";
+"smart_switch" = "Interrupteur Intelligent";
+"smart_switch_empty" = "Aucun Interrupteur Intelligent lié.";
+"smart_switch_unbind_alert_title" = "Délier";
+"smart_switch_unbind_alert_message" = "Êtes-vous sûr de vouloir délier %@ ?";
+"unknown" = "Inconnu";
+"normal_switch" = "Interrupteur Normal";
+"push_switch" = "Interrupteur à Bouton-Poussoir";
+"three_channels_switch" = "Interrupteur 3 Canaux";
+"pwm_frequency" = "Fréquence PWM";
+"switch_id_title" = "ID de l'Interrupteur";
+"The new address is out of range." = "La nouvelle adresse est hors de portée.";
+"save_configuration" = "Sauvegarder la Configuration";
+"buttons_count" = "Nombre de Boutons";
+"buttons_position" = "Position du Bouton";
+"short_press_action" = "Action à Court Appui";
+"long_press_action" = "Action à Long Appui";
+"delete_configuration" = "Supprimer la Configuration";
+
+"delete_smart_switch" = "Supprimer l'Interrupteur Intelligent";
+
+"door_sensor" = "Capteur de Porte";
+"sensor_id" = "ID du Capteur";
+"door_open_action" = "Action Ouverture de Porte";
+"door_closed_action" = "Action Fermeture de Porte";
+"scanning_hint" = "Numérisation...";
+"device_scanning" = "Numérisation de l'Appareil";
+"device_scanning_message" = "Veuillez appuyer brièvement trois fois sur le bouton de réglage du capteur pour activer l'appareil.";
+"default_running_01" = "Mixte Coloré";
+"default_running_02" = "Nuance de Rouge";
+"default_running_03" = "Nuance de Vert";
+"default_running_04" = "Nuance de Bleu";
+"default_running_05" = "Nuance de Jaune";
+"default_running_06" = "Nuance de Cyan";
+"default_running_07" = "Nuance de Pourpre";
+"default_running_08" = "Nuance de Blanc";
+"default_running_09" = "Nuance Rouge-Vert";
+"default_running_10" = "Nuance Rouge-Bleu";
+"default_running_11" = "Nuance Vert-Bleu";
+"default_running_12" = "Stroboscope Coloré";
+"default_running_13" = "Stroboscope Rouge";
+"default_running_14" = "Stroboscope Vert";
+"default_running_15" = "Stroboscope Bleu";
+"default_running_16" = "Stroboscope Jaune";
+"default_running_17" = "Stroboscope Cyan";
+"default_running_18" = "Stroboscope Pourpre";
+"default_running_19" = "Stroboscope Blanc";
+"default_running_20" = "Saut Coloré";
+"custom_running_1" = "Nuance Ascendante";
+"custom_running_2" = "Nuance Descendante";
+"custom_running_3" = "Nuance Ascendante-Descendante";
+"custom_running_4" = "Nuance Mixte";
+"custom_running_5" = "Saut";
+"custom_running_6" = "Stroboscope";
+"switch_action_00" = "Indéfini";
+"switch_action_01" = "Allumer";
+"switch_action_02" = "Éteindre";
+"switch_action_03" = "Allumer/Éteindre";
+"switch_action_04" = "Allumer Blanc";
+"switch_action_05" = "Éteindre Blanc";
+"switch_action_06" = "Allumer/Éteindre Blanc";
+"switch_action_07" = "Augmenter la Luminosité";
+"switch_action_08" = "Diminuer la Luminosité";
+"switch_action_09" = "Augmenter/Diminuer la Luminosité";
+"switch_action_10" = "Augmenter C/W";
+"switch_action_11" = "Diminuer C/W";
+"switch_action_12" = "Augmenter/diminuer C/W";
+"switch_action_13" = "Augmenter C/W (RGB désactivé)";
+"switch_action_14" = "Diminuer C/W (RGB désactivé)";
+"switch_action_15" = "Augmenter/diminuer C/W (RGB désactivé)";
+"switch_action_16" = "Arrêter le changement de luminosité";
+"switch_action_17" = "Augmenter la luminosité";
+"switch_action_18" = "Diminuer la luminosité";
+"switch_action_19" = "Augmenter/diminuer la luminosité";
+"switch_action_20" = "Arrêter le changement de C/W";
+"switch_action_21" = "Augmenter C/W";
+"switch_action_22" = "Diminuer C/W";
+"switch_action_23" = "Augmenter/diminuer C/W";
+"switch_action_24" = "Arrêter le changement de C/W (RGB désactivé)";
+"switch_action_25" = "Augmenter C/W (RGB désactivé)";
+"switch_action_26" = "Diminuer C/W (RGB désactivé)";
+"switch_action_27" = "Augmenter/diminuer C/W (RGB désactivé)";
+"switch_action_28" = "Arrêter le changement de RGB";
+"switch_action_29" = "Changer le RGB en avant";
+"switch_action_30" = "Changer le RGB en arrière";
+"switch_action_31" = "Changer le RGB en avant/arrière";
+"switch_action_32" = "Arrêter le changement de RGB (C/W désactivé)";
+"switch_action_33" = "Changer le RGB en avant (C/W désactivé)";
+"switch_action_34" = "Changer le RGB en arrière (C/W désactivé)";
+"switch_action_35" = "Changer le RGB en avant/arrière (C/W désactivé)";
+"switch_action_36" = "Arrêter le changement de vitesse de course";
+"switch_action_37" = "Courir vite";
+"switch_action_38" = "Courir lentement";
+"switch_action_39" = "Courir vite/lentement";
+"switch_action_40" = "Sauvegarder la Scène 1";
+"switch_action_41" = "Rappeler la Scène 1";
+"switch_action_42" = "Sauvegarder la Scène 2";
+"switch_action_43" = "Rappeler la Scène 2";
+"switch_action_44" = "Sauvegarder la Scène 3";
+"switch_action_45" = "Rappeler la Scène 3";
+"switch_action_46" = "Sauvegarder la Scène 4";
+"switch_action_47" = "Rappeler la Scène 4";
+"switch_action_48" = "Basculer C/W en 3 modes";
+"switch_action_49" = "Basculer C/W en 3 modes (RGB désactivé)";
+"switch_action_50" = "Basculer RGB en 9 modes";
+"switch_action_51" = "Basculer RGB en 9 modes (C/W désactivé)";
+"switch_action_52" = "Basculer les modes de course par défaut 1~20";
+"switch_action_53" = "Changer CCT";
+"switch_action_54" = "Changer RGB";
+"switch_action_55" = "Exécuter le Mode de Fonctionnement Intégré";
+"switch_action_56" = "Régler la Luminosité";
+"switch_action_57" = "Régler CCT";
+"switch_action_58" = "Régler Rouge";
+"switch_action_59" = "Régler Vert";
+"switch_action_60" = "Régler Bleu";
+"switch_action_61" = "Régler RGB";
+"switch_action_62" = "Augmenter la Luminosité";
+"switch_action_63" = "Diminuer la Luminosité";
+"switch_action_64" = "Augmenter/Diminuer la Luminosité";
+"switch_action_65" = "Augmenter CCT/Blanc";
+"switch_action_66" = "Diminuer CCT/Blanc";
+"switch_action_67" = "Augmenter/Diminuer CCT/Blanc";
+"switch_action_68" = "Augmenter le Fondu Mixte RGB";
+"switch_action_69" = "Diminuer le Fondu Mixte RGB";
+"switch_action_70" = "Augmenter/Diminuer le Fondu Mixte RGB";
+"switch_action_71" = "Augmenter la Vitesse";
+"switch_action_72" = "Diminuer la Vitesse";
+"switch_action_73" = "Augmenter/Diminuer la Vitesse";
+
+"red" = "Rouge";
+"green" = "Vert";
+"blue" = "Bleu";
+
+
+"panel" = "Panneau";
+"bridge" = "Pont";
+"other" = "Autre";
+"outlet" = "Prise";
+"sensor" = "Capteur";
+"rf_pa" = "RF PA";
+"remote" = "Télécommande";
+
+//提示框
+"status_msg_invalid_params" = "Paramètres invalides.";
+"status_msg_invalid_code" = "Code invalide.";
+"status_msg_invalid_ref_token" = "Échec de la connexion.";
+"status_msg_email_not_reg" = "L'email n'est pas enregistré.";
+"status_msg_email_exists" = "L'email est enregistré.";
+"status_msg_wrong_password" = "Le mot de passe est incorrect.";
+"status_msg_no_auth" = "Pas d'autorisation.";
+"status_msg_no_network" = "Le réseau n'existe pas.";
+"status_msg_no_permission" = "Pas de permissions.";
+"status_msg_no_member" = "Le membre n'existe pas.";
+"status_msg_member_exists" = "Le membre existe déjà.";
+"status_msg_network_exists" = "Le réseau existe déjà.";
+"status_msg_invalid_network" = "Le mot de passe ne peut pas être le même que le nom du réseau.";
+"status_msg_unknown_error" = "Erreur inconnue.";
+"status_msg_device_exists" = "L'appareil existe déjà.";
+"status_msg_no_device" = "L'appareil n'existe pas.";
+"status_msg_room_exists" = "La pièce existe déjà.";
+"status_msg_no_room" = "La pièce n'existe pas.";
+"status_msg_scene_exists" = "La scène existe déjà.";
+"status_msg_no_scene" = "La scène n'existe pas.";
+"status_msg_send_code_success" = "Nous avons envoyé un code de vérification à l'email.";
+"wrong_email_format" = "Format d'email incorrect.";
+"password_format_alert_message" = "Le mot de passe doit contenir entre 6 et 20 caractères, incluant des lettres et des chiffres.";
+"file_upload_failed" = "Échec du téléchargement du fichier.";
+"failed_to_send_verification_code" = "Échec de l'obtention du code de vérification.";
+"please_get_the_verification_code_later" = "Veuillez obtenir le code de vérification plus tard.";
+"you_cannot_delete_all_the_networks" = "Vous ne pouvez pas supprimer tous les réseaux.";
+"cannot_set_as_an_old_password" = "Impossible de définir comme ancien mot de passe.";
+"range_1_255" = "Portée : 1~255";
+"short_address_out_range" = "L'adresse courte est hors de portée.";
+"sync_all_devices" = "Synchroniser Tous les Appareils";
+"getting_local_device_info" = "Obtention des informations locales de l'appareil...";
+"failed_to_get_local_device_msg" = "Échec de l'obtention de l'appareil, assurez-vous que l'appareil est accessible.";
+"uploading_local_device_msg" = "Téléchargement des informations locales de l'appareil...";
+"sync_local_device_failed_msg" = "Échec de la synchronisation, assurez-vous que le réseau du téléphone est accessible.";
+"syncing_msg" = "Obtention des informations locales de l'appareil…";
+"sync_ok" = "Terminé !";
+"cannot_add_more_dev_msg" = "Vous ne pouvez pas ajouter plus d'appareils, synchronisez tous les appareils ou retirez-en quelques-uns avant d'essayer.";
+"go_to_sync" = "Synchroniser";
+"sync_local_devices_with_cloud" = "Synchroniser tous les appareils de ce réseau.";
+"sync_syncing" = "Obtention des informations locales de l'appareil...";
+"start_sync" = "Commencer la Synchronisation";
+"stop_sync" = "Arrêter la Synchronisation";
+"retry_btn_title" = "Réessayer";
+"the_value_entered_out_of_range_msg" = "La valeur saisie est hors de portée.";
+"bluetooth_is_currently_disabled" = "Bluetooth requis";
+"please_enable_bluetooth" = "Veuillez activer le Bluetooth.";
+"please_select_at_least_one_repeating_day" = "Veuillez sélectionner au moins un jour de répétition.";
+"remove_device_alert_msg" = "Êtes-vous sûr de vouloir supprimer cet appareil ?";
+"remove_timing_alert_msg" = "Êtes-vous sûr de vouloir supprimer cette minuterie ?";
+"remove_room_alert_msg" = "Êtes-vous sûr de vouloir supprimer cette pièce ?";
+"remove_scene_alert_msg" = "Êtes-vous sûr de vouloir supprimer cette scène ?";
+"the_network_request_failed" = "La demande réseau a échoué.";
+"you_cannot_add_more_rooms" = "Vous ne pouvez pas ajouter plus de pièces.";
+"you_cannot_add_more_scenes" = "Vous ne pouvez pas ajouter plus de scènes.";
+"the_device_is_offline" = "L'appareil est hors ligne.";
+"executed" = "Exécuté !";
+"remove_member_alert_msg" = "Êtes-vous sûr de vouloir retirer ce membre ?";
+"password_has_been_reset_alert" = "Votre mot de passe a été réinitialisé.";
+"login_has_expired_please_login_again" = "La connexion a expiré, veuillez vous reconnecter.";
+"Registration successful" = "Inscription réussie !";
+"request_timeout" = "Délai de la demande expiré.";
+
+
+"login_success_msg" = "connexion réussie";
+"login_failed_msg" = "échec de la connexion";
+"login_userOrPasswordError_msg" = "Échec de la connexion, l'email ou le mot de passe est incorrect.";
+
+"register_failed_msg" = "Échec de l'inscription, veuillez réessayer.";
+"register_emailalready_msg" = "Cet email a déjà été enregistré.";
+"verification_code_get_fail" = "Échec de l'obtention, veuillez réessayer.";
+/// 上传文件过大
+"upload_file_large_fail" = "Le fichier téléchargé est trop volumineux.";
+
+"export_network" = "Exporter le Réseau";
+"export_network_alert_message" = "Télécharger les données du réseau et les partager avec d'autres utilisateurs.";
+"export" = "Exporter";
+
+"import_network_alert_message" = "Importer des données de réseau d'un autre réseau et remplacer les données actuelles.";
+"import" = "Importer";
+"import_network_qrcode_message" = "Veuillez scanner le code QR sur la page d'exportation du réseau.";
+
+"import_network_importing" = "Importation…";
+
+"import_network" = "Importer un Réseau";
+"add_success" = "Ajout réussi!";
+"completed" = "Terminé !";
+"settings" = "Paramètres";
+"share_network" = "Partager le Réseau";
+"upload_share_network" = "Télécharger et partager le réseau";
+"importing" = "Importation du réseau...";
+"error_code" = "Code QR invalide";
+"import_success" = "Importation réussie !";
+"net_exist" = "Le réseau existe déjà, veuillez d'abord retirer le réseau “%@”.";
+"upload_fail" = "Échec du téléchargement, veuillez réessayer plus tard.";
+"import_fail" = "Échec de l'importation des données du réseau, veuillez réessayer plus tard.";
+
+"entertainment" = "Divertissement";
+"no_entertainment_msg" = "Vous n'avez pas encore de divertissement.";
+"entertainment_running_msg" = "%@ est en cours d'exécution...";
+"add_entertainment" = "Ajouter un Divertissement";
+"input_entertainment_name_hint" = "Nom du Divertissement";
+"name_title" = "Nom :";
+"add_action" = "Ajouter une Action";
+"select_target" = "Sélectionner la Cible";
+"all_lights" = "Toutes les Lumières";
+"unknown_target" = "Cible Inconnue";
+"target" = "Cible";
+"delay" = "Délai";
+"entertainment_editing" = "Modifier le Divertissement";
+"remove_entertainment" = "Supprimer le Divertissement";
+"remove_entertainment_alert_msg" = "Êtes-vous sûr de vouloir supprimer ce divertissement ?";
+"cannot_add_more_entertainment" = "Impossible d'ajouter plus de divertissements.";
+"cannot_add_more_actions" = "Impossible d'ajouter plus d'actions.";
+"optional" = "Options";
+"add_success" = "Ajout terminé !";
+"network_name_psd_same_alert_msg" = "Le mot de passe ne peut pas être le même que le nom du réseau.";
+
+"bluetooth_access_not_authorized" = "Accès Bluetooth Requis";
+"allow_bluetooth_message" = "Autoriser cette application à accéder au Bluetooth pour connecter des appareils.";
+"location_access_not_authorized" = "Accès à la localisation non autorisé";
+"allow_location_message" = "Autoriser HomeeLife à accéder à la localisation pour définir l'emplacement de l'appareil.";
+"open_settings" = "Ouvrir les Paramètres";
+
+"network_without_internet" = "La connexion Internet semble être hors ligne.";
+
+
+/// HomeLife发现设备
+"device_discover" = "Découvrir les Appareils";
+"device_repair" = "Réparation de l'Appareil";
+
+"device_add_scanning" = "Numérisation de l'Appareil…";
+"device_add_scanning_message" = "Appuyez deux fois sur le bouton Prog du récepteur que vous souhaitez ajouter.";
+"device_scanning_count" = "Nombre d'appareils: ";
+"device_waiting_repair" = "En attente de réparation: ";
+
+"next" = "Suivant";
+"repair" = "Réparer";
+/// 找不到设备文本
+"device_scanning_notfind_message" = "Vous ne trouvez aucun appareil, veuillez réinitialiser votre appareil et réessayer.";
+/// 找不到设备弹窗
+"device_notfind_alert_title" = "Vous ne trouvez pas d'appareils ?";
+"device_notfind_alert_message_1" = "1. Assurez-vous que votre appareil est allumé.\n\n2. Assurez-vous que votre téléphone se trouve à moins de 10 mètres de l'un des appareils.\n\n";
+"device_notfind_alert_message_2" = "Si vous ne parvenez toujours pas à vous connecter à votre appareil, vous devrez peut-être le réinitialiser puis l'ajouter à nouveau.\n\n";
+"device_notfind_alert_message_3" = "Méthodes de Réinitialisation :\n\n";
+"device_notfind_alert_message_4" = "Appuyez et maintenez le bouton de réinitialisation sur l'appareil jusqu'à ce que la lumière clignote.\n\nou\n\nÉteignez puis rallumez l'appareil 8 fois.";
+"device_repair_action" = "Réparation de l'Appareil";
+/// 设备连接
+"device_connecting" = "Connexion…";
+"device_connect_failed" = "Échec de la connexion, veuillez rebrancher vos appareils puis réessayer.";
+/// 设备配对
+"device_repairing" = "Réparation en cours…";
+"device_repair_success" = "Réparation réussie !";
+"device_repair_failed" = "Échec de la réparation, l'appareil est déconnecté.";
+
+
+"all_on" = "Tout Allumer";
+"all_off" = "Tout Éteindre";
+"dali_devices_empty" = "Il n'y a pas d'appareils DALI, veuillez les découvrir.";
+"discovering" = "Découverte...";
+"dali_found_devices" = "Trouvé %d appareils.";
+"dali_discover_devices_message" = "Découvrir les dispositifs DALI.\nLes dispositifs DALI qui n'ont pas d'adresse se verront attribuer une adresse.";
+"dali_discover_devices_empty" = "Aucun appareil trouvé, veuillez vous assurer que vos appareils fonctionnent correctement.";
+"input_value_empty_message" = "Veuillez entrer des valeurs valides";
+"groups" = "Groupes";
+"activate" = "Activer";
+"dali_scene_executed_fail" = "Échec de l'Exécution !";
+"amber" = "Ambre";
+"to" = "vers";
+"form" = "de";
+"adding" = "Ajout en cours...";
+"added" = "Ajouté";
+"add_fail" = "Échec de l'ajout";
+"removing" = "Retrait en cours…";
+"removed" = "Retiré";
+"remove_fail" = "Échec du retrait";
+"loading" = "Chargement...";
+"mask" = "MASK";
+"updating" = "Mise à jour…";
+"updated" = "Mis à jour";
+"dali_scene_update_failed" = "Échec de la mise à jour";
+
+
+"settings_powerOnState" = "État de Mise sous Tension";
+"latest_state" = "Dernier État";
+"custom_brightness" = "Luminosité Personnalisée";
+"powerOnState_latest_state_message" = "La lumière reprendra son dernier état.";
+"powerOnState_off_message" = "Éteindre la lumière.";
+"powerOnState_brightnee_message" = "Définir une luminosité personnalisée pour votre lumière.";
+"failed" = "Échec !";
+
+"sensor_bindToLightings" = "Lier aux Éclairages";
+"sensor_bindToLightings_empty" = "Il n'y a pas d'éclairages à lier.";
+"lightings" = "Éclairages";
+"binding" = "Liaison...";
+"unbinding" = "Déliaison...";
+
+"edit_devices" = "Modifier les Appareils";
+"add_devices" = "Ajouter des Appareils";
+"dali_address" = "Adresse DALI";
+"dali_address_message" = "La plage d'adresses est de 0-63.";
+"dali_address_exists" = "L'adresse existe déjà.";
+"dali_address_exceed" = "L'adresse est hors de portée 0-63.";
+"dali_address_empty" = "Veuillez saisir une adresse.";
+"dali_device_add_exceed" = "Vous ne pouvez plus ajouter d'appareils.";
+"device_type" = "Type d'Appareil";
+"level_range" = "Plage de Niveau";
+"cct_range" = "Plage CCT";
+"cct_physical_range" = "Plage Physique CCT";
+"system_failure_state" = "État de Défaillance du Système";
+"fade_time" = "Temps d'Estompage";
+"fade_rate" = "Taux d'Estompage";
+"min_level" = "Niveau Min";
+"max_level" = "Niveau Max";
+"min_cct" = "CCT Min";
+"max_cct" = "CCT Max";
+"value_range_is" = "La plage de valeurs est";
+"extended_fade" = "Estompage étendu";
+"steps/s" = "Étapes/s";
+"min_cct_empty" = "CCT Min est vide.";
+"max_cct_empty" = "CCT Max est vide.";
+"min_cct_exceed" = "CCT Min est hors de portée.";
+"max_cct_exceed" = "CCT Max est hors de portée.";
+"min_higher_max" = "CCT Min ne peut pas être supérieur à CCT Max.";
+"load_device_failed" = "Échec du chargement de l'appareil.";
+"reload" = "Recharger";
+"dali_device_delete_message" = "Êtes-vous sûr de vouloir supprimer cet appareil de la Passerelle DALI ?";
+"dali_device_delete_title" = "Supprimer de la Passerelle DALI";
+"edit_device" = "Modifier l'Appareil";
+"dali_devices_exceeded" = "Vous ne pouvez plus ajouter d'appareils.";
+"dali_value_same" = "Les deux valeurs ne doivent pas être identiques.";
+
+"software" = "logiciel";
+"firmware" = "firmware";
+"software_version" = "Version du Logiciel";
+"firmware_version" = "Version du Firmware";
+"upgrade_now" = "Mettre à Jour Maintenant";
+"firmware_upgrade" = "Mise à Jour du Firmware";
+"software_upgrade" = "Mise à Jour du Logiciel";
+"gateway_upgrade_confirm" = "Êtes-vous sûr de vouloir mettre à jour le %@ vers la dernière version ?";
+"gateway_upgrade_message" = "La passerelle perdra la connexion jusqu'à ce que la mise à jour soit terminée.";
+"gateway_upgrade_download" = "La passerelle télécharge maintenant le fichier ota, veuillez patienter quelques minutes.";
+"gateway_upgrade_started" = "La passerelle a commencé le processus de mise à jour. Veuillez ne pas éteindre son alimentation.";
+"gateway_upgrade_failed" = "Échec de la mise à jour de la passerelle. Veuillez redémarrer la passerelle et l'application, puis réessayer.";
+"new_version" = "Nouvelle Version";
+
+"device_upgrade" = "Mise à Jour de l'Appareil";
+"device_connect_message" = "Veuillez d'abord vous connecter à l'appareil.";
+"device_getting_version" = "Obtention de la version de l'appareil...";
+"no_updates" = "Pas de Mises à Jour";
+"device_upgrade_message" = "Êtes-vous sûr de vouloir mettre à jour l'appareil vers la dernière version ?";
+"device_upgrade_prompt" = "Vous devez être proche de l'appareil, l'application doit se connecter directement à l'appareil.";
+"device_upgrade_connect_failed" = "Échec de la connexion.";
+"no_detected" = "Non détecté";
+"detected" = "Détecté";
+
+"sync_host" = "Synchroniser l'Hôte";
+"sync_host_message" = "Définir une lumière comme hôte de synchronisation pour synchroniser les lumières fonctionnant dans cette pièce.";
+"room_no_lights" = "Il n'y a pas de lumières dans cette pièce.";
+"no_sync_host" = "Pas d'hôte de synchronisation.";
+"sync_host_correctly" = "L'hôte de synchronisation est correctement configuré.";
+"sync_host_overrun" = "Vous ne pouvez définir qu'un seul hôte de synchronisation.";
+
+
+"datetime_set_titile" = "Fuseau Horaire & Date-Heure";
+"current" = "Actuel";
+"new" = "Nouveau";
+
+"color_mode" = "Mode Couleur";
+

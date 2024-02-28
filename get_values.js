@@ -14,6 +14,7 @@
 // HomeeLife
 // node get_values.js -f ./assert/homeelife/strings_en_230511.xml ./assert/homeelife/Localizable_en_230511.strings ./assert/homeelife/values_230511.txt
 // node get_values.js -f ./assert/homeelife/strings_en_230911.xml ./assert/homeelife/Localizable_en_230911.strings ./assert/homeelife/values_230911.txt
+// node get_values.js -f ./assert/homeelife/strings_en_240127.xml ./assert/homeelife/Localizable_en_240127.strings ./assert/homeelife/values_240127.txt
 
 // nfc
 // node get_values.js -f ./assert/nfc/strings_en_230616.xml ./assert/Localizable_empty.strings ./assert/nfc/values_230616.txt

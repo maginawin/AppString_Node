@@ -2,6 +2,7 @@
 
 // HomeeLife
 // node set_ios.js -f ./assert/homeelife/Localizable_en_230511.strings ./assert/homeelife/230511.xlsx ./assert/homeelife/Localizable_cn_230511.strings
+// node set_ios.js -f ./assert/homeelife/Localizable_en_240127.strings ./assert/homeelife/en_fr_240127.xlsx ./assert/homeelife/Localizable_fr_240127.strings
 
 // EasyThings
 // node set_ios.js -f ./assert/easythings/Localizable.strings ./assert/easythings/de_1206.xlsx ./assert/easythings/Localizable_de_231206.strings

@@ -1,0 +1,959 @@
+
+Sign In
+Sign Up
+Email
+Password
+Verification Code
+Obtain
+Seconds
+User Agreement
+Privacy Policy
+I have read and agree to the
+and
+Forgot Password?
+Reset Password
+New Password
+Done
+Welcome!
+You don’t have a mesh network yet.
+Create Network
+Sign Out
+Network Name
+Network Password
+Create
+Connecting to the Bluetooth device…
+Devices
+Rooms
+Scenes
+Me
+Connect to the network (%s) failed,
+try again.
+Loading devices…
+You don\'t have a device yet.
+Add
+Light
+Curtain
+Offline
+On
+Off
+Network Management
+Device Settings
+Device Name
+Timezone
+Date-Time
+Sync with Phone
+Short Address
+Mac Address
+Main Type
+Sub Type
+Firmware Version
+Delete Device
+RGB Single Mode
+Device Rename
+Save
+You don\'t have a room yet.
+Room Background
+Room Name
+Room ID
+Room Settings
+Devices not in this room
+Delete Room
+Please input the room name.
+Room Rename
+You don\'t have a scene yet.
+%d device(s)
+Scene Name
+Please input the scene name.
+Add Scene
+The scene has been added.
+Action Settings
+Devices not in this scene
+Edit Action
+On/Off
+Brightness
+Color
+Color Temperature
+White
+Transition
+H
+M
+S
+Scene Settings
+Delete Scene
+Scene Background
+Account and Security
+Gateway
+About
+Profile
+Profile Picture
+Nickname
+No nickname
+Change Password
+Delete Account
+App Version
+Network ID
+Network Members
+Owner
+Admin
+Member
+Delete Network
+Delete Network?
+After the network is removed, you need to manually reset the device and add it again.
+Cancel
+Delete
+Add Member
+Member Name
+Member Email
+Member Name:
+Member Email:
+Network Role
+Please input the member name.
+Please input the member email.
+Role Settings
+Manage devices and rooms | Manage members
+Control the devices
+Delete Member
+Member Settings
+Leave Network
+State
+Connected
+Disconnected
+Connecting
+All Devices
+Are you sure you want to delete your account?
+All user data under this account will be deleted.
+Add Device
+Add Bridge
+Please make sure that the devices are in factory mode.
+Start
+Found %d accessories
+Pairing…
+Stop
+Please power on at least one of the following devices and make sure it is in factory mode: Light, Curtain, Outlet.\n\nPlease power on the bridge and make sure it is in the factory mode.
+Pairing is complete.
+Please turn off unpaired devices except Light, Curtain, Socket, Bridge and then try again.
+No bridge found, please power on the bridge and make sure it is in factory mode.
+You can\'t add more devices, please delete some devices first.
+Take Photo
+Select from Album
+Need Authorization
+Authorize
+OK
+No new device found, please reset your devices and then try again.
+Add Room
+Default
+Custom
+Add Color
+Timing
+Mon.
+Tue.
+Wed.
+Thu.
+Fri.
+Sat.
+Sun.
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Weekdays
+Weekends
+Every day
+No repeat
+Add Timing
+Edit Timing
+Week
+Day
+Time
+Date
+Repeat
+Action
+Delete Timing
+Turn on
+Turn off
+Sunrise Sunset
+Sunrise
+Sunset
+Disabled
+Enabled
+Type
+Others
+Longitude
+Latitude
+There are no available scenes.
+Advanced Settings
+Enter Pairing Mode
+Smart Switch Configuration
+Sensor Configuration
+Switch Type
+Normal Switch
+Push Switch
+3 Channels Switch
+PWM Frequency
+Switch ID:
+Save Configuration
+Button Count
+Button Position
+Short Press Action
+Long Press Action
+Delete Configuration
+Door Sensor
+Sensor ID
+Door Open Action
+Door Closed Action
+Scanning…
+Device Scanning
+Please short press the set button on the sensor 3 times to activate the device.
+Colorful Mixed
+Red Shade
+Green Shade
+Blue Shade
+Yellow Shade
+Cyan Shade
+Purple Shade
+White Shade
+Red Green Shade
+Red Blue Shade
+Green Blue Shade
+Colorful Strobe
+Red Strobe
+Green Strobe
+Blue Strobe
+Yellow Strobe
+Cyan Strobe
+Purple Strobe
+White Strobe
+Colorful Jump
+Ascend Shade
+Descend Shade
+Ascend Descend Shade
+Mixed Shade
+Jump
+Strobe
+Undefined
+Light on
+Light off
+Light on/off
+White on
+White off
+White on/off
+Brightness up
+Brightness down
+Brightness up/down
+C/W up
+C/W down
+C/W up/down
+C/W up (RGB disabled)
+C/W down (RGB disabled)）
+C/W up/down (RGB disabled)
+Stop the brightness change
+Stop the C/W change
+Stop the C/W change (RGB disabled)
+C/W down (RGB disabled)
+Stop the RGB change
+Change RGB forward
+Change RGB backward
+Change RGB forward/backward
+Stop the RGB change (C/W disabled)
+Change RGB forward (C/W disabled)
+Change RGB backward (C/W disabled)
+Change RGB forward/backward (C/W disabled)
+Stop running speed change
+Run fast
+Run slow
+Run fast/slow
+Save scene 1
+Recall scene 1
+Save scene 2
+Recall 2
+Save scene 3
+Recall scene 3
+Save scene 4
+Recall 4
+Switch C/W in 3 modes
+Switch C/W in 3 modes (RGB disabled)
+Switch RGB in 9 modes
+Switch RGB in 9 modes (C/W disabled)
+Switch default running modes 1~20
+Panel
+Bridge
+Other
+Outlet
+Sensor
+RF PA
+Remote
+Scene
+Network Settings
+Scene Rename
+Invalid parameters.
+Invalid code.
+Login failed.
+The email is not registered.
+The email is registered.
+The password is incorrect.
+No authorization.
+The network does not exist.
+No permissions.
+The member does not exist.
+The member already exists.
+The network already exists.
+The password can not be the same as the network name.
+Unknown error.
+The device already exists.
+The device does not exist.
+The room already exists.
+The room does not exist.
+The scene already exists.
+The scene does not exist.
+We sent a verification code to the email.
+Please input a valid email.
+File upload failed.
+Failed to get the verification code.
+Please get the verification code later.
+You cannot delete all the networks.
+Cannot set as an old password.
+Network name can only contain 2 to 16 letters, numbers or @#\$?.%^&+=
+Network password can only contain 4 to 16 letters, numbers or @#\$?.%^&+=
+Are you sure you want to leave the network?
+Leave
+Add Accessory
+Please turn on at least one of the following devices and make sure they are in factory mode: Light, Curtain, Socket.\n\nSupported devices: Light, Curtain, Socket, Bridge.
+Please make sure the devices are in factory mode.\n\nSupported devices: Remote Control, Sensor, RF PA, etc.
+Range: 1~255
+The short address is out of range.
+Sync All Devices
+Getting local device information…
+Failed to get the device, make sure the device is reachable.
+Uploading local device information…
+Sync failed, make sure the phone network is reachable.
+Syncing…
+Synchronized!
+Cannot add more devices, sync all devices or delete some devices and then try again.
+Sync
+Synchronize the local devices with the cloud.
+Retry
+Please enable Bluetooth
+Requires Bluetooth
+The value entered is out of range.
+No location permission
+Please select at least one repeating day.
+Are you sure you want to delete this device?
+Are you sure you want to delete this timing?
+Are you sure you want to delete this room?
+Are you sure you want to delete this scene?
+The network request failed.
+%d%%
+You cannot add more scenes.
+You cannot add more rooms.
+The device is offline.
+Are you sure you want to delete this member?
+Your password has been reset.
+Executed!
+Login has expired, please login again.
+Back again to exit the App.
+Import Network
+Add completed!
+Settings
+Share Network
+Upload and share network
+Network importing…
+Invalid QR Code
+Import successful!
+Network exists, please delete the network "%s" first.
+Upload failed, please try again later.
+Import network data failed, please try again later.
+Entertainment
+You don’t have an entertainment yet.
+%s is running…
+Add Entertainment
+Entertainment Name
+Name:
+Add Action
+Select Target
+All Lights
+Unknown
+Delay
+Edit Entertainment
+Delete Entertainment
+Are you sure you want to delete this entertainment?
+Cannot add more entertainments.
+Cannot add more actions.
+Open Bluetooth
+Target
+Sync all devices in this network.
+Optional
+Lights
+Location Access not authorized
+Allow HomeeLife to access Location to set the location of the device.
+Open Settings
+Allow HomeeLife to access location information to connect devices using Bluetooth.
+Set Smart Switch
+Bind Smart Switch
+Update Smart Switch Settings
+Unbind Smart Switch
+The smart switch may not be able to control the new device that is added to the room. Power on the new device first, and then update the smart switch settings.
+Smart Switch Type
+Get Configuration
+Getting configuration…
+Successful!
+Failed, please try again.
+Start Binding
+Ready to Scan
+Touch the smart switch with the back of the mobile device. Note that it may be necessary to move the smart switch around to find the NFC responsive area.
+NFC is not available.
+Updating Settings…
+Are you sure you want to unbind this smart switch?
+Unbind
+No smart switches are bound.
+Smart Switch
+Login Now
+No Permission
+Request timeout.
+Failed to request.
+Login has expired, please sign in again.
+The resource does not exist.
+Invitation already exists.
+The user already owns this network.
+The gateway is already bound.
+Someone is adding this gateway, please try again in a minute.
+The user does not exist.
+The network does not exist, please upload the network first.
+This network is already bound to a gateway.
+The uploaded file is too large.
+The network is already exist.
+Not allowed.
+An error occurred on the server.
+An unknown error occurred.
+Unknown issue.
+The email is not registered yet.
+Network error
+Sync Network
+Connection Mode
+Gateway Settings
+Bluetooth
+Discovering gateway...
+Delete Gateway
+Status
+Product Key
+Device ID
+Syncing...
+Reset
+Connecting gateway...
+Share the network to your friend
+Send invitation
+Send succeeded！
+Network doesn\'t set a gateway yet, please add a gateway first.
+Add Gateway
+Do you accept to join %s ?
+Pending
+Invitee\'s Email
+Accept
+Decline
+Importing %s…
+Cloud
+Invitation
+Upload Network
+Update Network
+Network has not been uploaded to the cloud.
+The local network needs to be updated.
+Download
+Update
+Upload
+Upload local network to the cloud.
+Start Upload
+Upload succeeded!
+Local
+Download Network
+Download cloud network to local.
+Start Download
+Uploading...
+Downloading...
+Download succeeded!
+Start Update
+Update the local network.
+Updating...
+Update succeeded!
+Update failed, please try again later.
+Failed to download, please try again.
+Import succeeded!
+Network request failed, please try again later.
+Declining invitation…
+Decline succeeded!
+The use has already been invited.
+The use is already in this network.
+You cannot invite yourself.
+Adding gateway...
+Add succeeded!
+Setting gateway...
+Are you sure you want to delete this gateway?
+Online
+Not Activated
+You need to upload this network first.
+The login has expired and will switch to the Bluetooth connection.
+Registration successful!
+Reset password succeeded！
+Delete account successful!
+The password must be 8-20 characters and can only contain numbers, uppercase and lowercase letters and @#$?.%^&+= characters.
+Gateway is offline,
+Gateway is unactivated,
+Gateway is forbidden,
+You have to change connection mode to Bluetooth first.
+Please sign in first.
+Gateway is disconnected
+Server is disconnected
+You have not verified your account.
+Failed to sign in, the email or the password is incorrect.
+Verify
+Sign up succeeded!
+Failed to sign up, please try again.
+This email has already been registered.
+The verification code has been sent to your email.
+Failed to obtain, please try again.
+Failed!
+Delete Account?
+Requires Bluetooth Access
+Allow this App to access Bluetooth to connect devices.
+Requires Location Information
+Allow this App to access location information to connect devices using Bluetooth.
+Verify Account
+Upload to Cloud
+Update from Cloud
+Register gateway failed, please try again.
+Are you sure you want to add %s?
+Failed to reset password!
+Try Again
+Failed to connect to the Bluetooth device.
+Connecting to the gateway…
+Failed to connect to the gateway.
+Close
+Copy
+Loading Gateway…
+Failed to send the invitation, please try again.
+Gateway ID
+Adding…
+Completed!
+Execute Scene
+Delete Device?
+Delete Room?
+Delete Scene?
+Delete Timing?
+Smart Switches
+Are you sure you want to unbind Smart %s?
+No Smart Switches are bound.
+You need to enable Wi-Fi on your phone, and then try again.
+The password must be at least 8 characters.
+Failed to delete account, please check your network or quit the App and then try again.
+The Internet connection appears to be offline.
+The network has not bound to a gateway and will switch to the Bluetooth connection.
+Allow this App to access photos and media on your device.
+Requires Photos Access
+Troubleshooting
+1. Make sure your device is powered on.\n\n2. Make sure your phone is within 10 meters of one of the devices.
+If you still cannot connect to your device, you may need to reset the device and then add it again.
+Reset Methods:
+Press and hold the reset button on the device until the light flashes.\n\nor\n\nPower off and then power on the device for 8 times.
+Sensor Attributes
+Name
+Current Value
+Default Value
+New Value
+Auto
+Independent
+Human Induction Sensitivity
+Working Brightness Threshold
+Detected PWM Output Delay
+Detected PWM Output Brightness
+Detected PWM Output Percentage
+Not Detected PWM Output Delay
+Not Detected PWM Output Percentage
+PWM Output Percentage After Not Detected Delay
+Working Mode
+Attribute
+The value is out of range.
+Failed to update.
+Value range: %d ~ %d
+%d s
+%d LUX
+%d %%
+LUX
+Failed to update, exceeded max networks in the cloud. You can have up to 10 networks in the cloud.
+Failed to invite, invitee already has more than 10 networks in the cloud.
+Failed to accept, exceeded max networks in the cloud. You can have up to 10 networks in the cloud.
+Reset NFC Device
+Touch the device with the back of the mobile device.
+NFC Unsupported
+Sorry, your phone doesn’t support the NFC.
+NFC Disabled
+Please enable the NFC first.
+Enable
+Reset succeeded!
+Unsupported device!
+Failed to reset, please try again.
+Welcome to HomeeLife
+Discover Devices
+Can’t find devices?
+Device Scanning…
+Push Prog button twice on the receiver you want to add.
+Next
+Device count: %d
+You don’t find any devices, please reset your device and try again.
+Device Repair
+Waiting for repair: %d
+Repair
+Repairing…
+Failed to connect, please re-power your devices and then try again.
+Repair succeeded!
+Failed to repair, the device is disconnected.
+Export Network
+Failed to upload, please try again.
+On/Off Transition
+Upload network data and share it with other users.
+Export
+Reset Network
+Delete Smart Switch
+Red
+Green
+Blue
+Please enter a valid Switch ID.
+Are you sure you want to delete this Smart Switch?
+Saved!
+Deleted!
+Import network data from other network and replace current data.
+Import
+Importing...
+Reset Network?
+Reset network will erase all data on your phone, you need to manually reset the device and add it again.
+Mode
+Templates
+Reset All Mode
+Natural light has not been set
+Invalid data
+CCT
+DIM
+Standard Mode
+Office Mode
+Health Care Mode
+Natural Light
+Are you sure you want to reset all modes?
+Reset all before updating data.
+Request Timeout
+This light only supports on/off, it does not support Natural Light.
+You don’t have a light yet.
+Activated
+Groups
+All On
+All Off
+X
+Y
+Amber
+Activate
+Discover DALI devices.\nDALI devices that do not have an address will be assigned an address.
+Discovering…
+No devices found, please make sure that your devices are working properly.
+There are no DALI devices, please discover them.
+DALI Gateway
+Failed to execute!
+MASK
+Found %d devices.
+Loading...
+Add %s to %s
+Remove %s from %s
+Removing…
+Added
+Failed to add
+Removed
+Failed to remove
+Update %s to %s
+Updated
+You don’t have a color yet.
+Power On State
+Latest State
+The light will restore to the latest state.
+Custom Brightness
+Set a custom brightness for your light.
+Bind to Lightings
+Turn off the light.
+Binding…
+Unbinding…
+Lightings
+There are no lightings to bind.
+Failed to load device.
+Reload
+Edit Devices
+The address is out of range 0-63.
+Device Type
+DALI Address
+Level Range
+System Failure State
+Fade Time
+Fade Rate
+CCT Range
+CCT Physical Range
+Are you sure you want to delete this device from the DALI Gateway?
+Min Level
+Max Level
+Min CCT
+Max CCT
+Value range is %d-%d.
+Min CCT is empty.
+Max CCT is empty.
+Min CCT is out range.
+Max CCT is out range.
+Min CCT cannot be higher than Max CCT.
+You cannot add any more devices.
+Steps/s
+Address range is 0-63.
+Please input an address.
+The address already exists.
+Delete From DALI Gateway
+Edit Device
+The two values should not be the same.
+New Version
+Software Version
+Software Upgrade
+Are you sure you want to upgrade the software to the latest version?
+The gateway will lost connection until the upgrade is completed.
+Upgrade Now
+The gateway has started the upgrade process. Please do not turn off its power.
+Gateway upgrade failed. Please restart the gateway and the App, then try again.
+Firmware Upgrade
+Are you sure you want to upgrade the firmware to the latest version?
+The gateway is downloading the ota file now, please wait for a few minutes.
+No Updates
+Device Upgrade
+You have to close to the device, the App has to connect to the device directly.
+Are you sure you want to upgrade the device to the latest version?
+Failed to connect.
+Updating... %d%%
+Please connect to the device first.
+No detected
+Detected
+lux
+Getting device version...
+Sync Host
+Set a light as the sync host to synchronize the lights running in this room.
+There are no lights in this room.
+No sync host.
+The sync host is set up correctly.
+You can set only one sync host.
+Current
+New
+Timezone & Date-Time
+Set brightness to
+Go to the last brightness
+Recall scene %s
+Set Brightness
+Broadcast
+Group
+Target Type
+Last Brightness
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Turn On
+Turn Off
+Turn On/Off
+Turn On White
+Turn Off White
+Turn On/Off White
+Step Brightness Up
+Step Brightness Down
+Step Brightness Up/Down
+Recall Scene 1
+Recall Scene 2
+Recall Scene 3
+Recall Scene 4
+Change CCT
+Change RGB
+Run Built-in Running Mode
+Set Brightness
+Set CCT
+Set Red
+Set Green
+Set Blue
+Set RGB
+Move Brightness Up
+Move Brightness Down
+Move Brightness Up/Down
+Move CCT/White Up
+Move CCT/White Down
+Move CCT/White Up/Down
+Move RGB Mix Fade Up
+Move RGB Mix Fade Down
+Move RGB Mix Fade Up/Down
+Move Speed Up
+Move Speed Down
+Move Speed Up/Down
+Save Scene 1
+Recall Scene 1
+Save Scene 2
+Recall Scene 2
+Save Scene 3
+Recall Scene 3
+Save Scene 4
+Recall Scene 4
+I have read and agree to the
+I have read and agree
+ and
+Forgot Password
+Please read and agree to the privacy agreement first
+Reset password succeeded!
+Please enter a valid email.
+Please make sure that the device is in factory mode.\n\nSupported devices: Remote, Sensor, RF PA, etc.
+Scan to %d devices.
+Adding...
+Scan to %d device(s).
+Please power off the unpaired devices except Light, Curtain, Outlet.
+You can\'t add more devices, please remove some devices first.
+Completed！
+Loading devices...
+You don’t have a device yet.
+There are no devices in this room.
+Connecting to the network...
+Failed to connect to the network.
+Connecting to the gateway...
+Connecting to the Bluetooth device...
+1. Make sure your device is powered on.\n\n2. Make sure your phone is within 10 meters of one of the devices.\n\n
+If you still cannot connect to your device, you may need to reset the device and then add it again.\n\n
+Reset Methods:\n\n
+Press and hold the reset button on the device until the light flashes.\n\nor\n\nPower off and then power on the device for 8 times.\n
+Please enter a device name
+Hello!
+Welcome to HomeeLife.
+Failed to delete network, plesae try again later.
+Update form Cloud
+Upload local network to cloud.
+Uploading…
+Update local network from cloud.
+Updating…
+Failed to update, please try again.
+Downloading…
+You need to upload the network first.
+Invitee's Email
+Send Invitation
+Send succeeded!
+Do you accept to join
+Importing
+Network request failed, please try again.
+Network does not exist.
+Network doesn’t set a gateway yet, please add a gateway first.
+Discovering Gateway…
+Are you sure you want to add
+Adding Gateway…
+Setting Gateway…
+Failed to delete gateway, please try again.
+Delete succeeded!
+After the network is delete, you need to manually reset the device and add it again.
+Remove
+Failed to reset network, plesae try again later.
+Member Name:
+Member Email:
+Remove Member
+Are your sure you want to remove %@ from the %@?
+Rename
+Room Name:
+Please enter a room name
+The smart switch may not be able to control the new device, turn on your new device first and then update smart switch settings.
+Getting Configuration
+Bind succeeded!
+Failed to bind, please try again.
+Unbind succeeded!
+Failed to unbind, please try again.
+Updating Settings...
+Scan Switch ID
+Please scan the QR code on the Smart Switch.
+Profile Image
+nickname modify failed!
+Please enter a nickname
+Sign out failed!
+Image compression failed.
+Avatar update failed.
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Weekend
+No Repeat
+Turn Off
+Enable Pairing Mode
+Pairing
+Value range
+s
+Reset All
+Reset!
+Natural light has not been set.
+Are you sure you want to unbind %@?
+PWM Frequence
+Switch ID
+The new address is out of range.
+Scanning...
+Turn On/Off
+Turn On White
+Turn Off White
+Turn On/Off White
+Step Brightness Up
+Step Brightness Down
+Step Brightness Up/Down
+Change CCT
+Change RGB
+Run Built-in Running Mode
+Set CCT
+Set Red
+Set Green
+Set Blue
+Set RGB
+Wrong email format.
+Password must be between 6 and 20 characters, contains both letters and digits.
+Getting local device information...
+Uploading local device information...
+Geting local device information…
+You cannot add more devices, sync all devices or remove some devices before trying.
+Start Sync
+Stop Sync
+Please enable Bluetooth.
+Are you sure you want to remove this member?
+login successfully
+login failure
+Failed to sign up, pleass try again.
+Failed to obtain, pleass try again.
+Please scan the QR code on the export network page.
+Importing…
+Network importing...
+Network exists, please remove the network “%@” first.
+%@ is running...
+Unknown Target
+Options
+Device count:
+Waiting for repair:
+You don't find any devices, please reset your device and try again.
+Connecting…
+Discovering...
+Please enter valid values
+Fail to Executed!
+to
+form
+Failed to update
+Binding...
+Unbinding...
+Add Devices
+Value range is
+Extended fade
+software
+firmware
+Are you sure you want to upgrade the %@ to the latest version?
+Color Mode
