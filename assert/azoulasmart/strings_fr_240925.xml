@@ -1,0 +1,1182 @@
+<resources>
+    <string name="app_name">Azoula Smart</string>
+    <!--code-->
+    <string name="code_20001">Demande non valide</string>
+    <string name="code_20002">Aucune autorisation</string>
+    <string name="code_20003">La passerelle est déjà liée</string>
+    <string name="code_30001">Temps mort</string>
+    <string name="code_40001">L'e-mail est déjà enregistré</string>
+    <string name="code_40002">E-mail non valide</string>
+    <string name="code_40003">Echec de connexion, e-mail non enregistré ou le mot de passe est erroné</string>
+    <string name="code_40004">Le code de vérification n'existe pas</string>
+    <string name="code_40005">La taille du fichier dépasse la limite maximale</string>
+    <string name="code_40006">Code de vérification est non valise</string>
+    <string name="code_40007">Jeton non valide</string>
+    <string name="code_40008">La connecion a expiré, veuillez vous reconnecter.</string>
+    <string name="code_40009">Entité introuvable</string>
+    <string name="code_40010">Les demandes sont trop fréquentes, veuillez réessayer plus tard</string>
+    <string name="code_40011">Trop d'échecs de connexion, veuillez réessayer après 5 minutes</string>
+    <string name="code_40018">Aucune mise à jour</string>
+    <string name="code_99999">Erreur inconnue</string>
+    <string name="unknown_issue">Problème inconnu</string>
+    <string name="email_no_register">L'e-mail n'est pas encore enregistré</string>
+    <string name="no_user">L'utilisateur n'existe pas</string>
+
+    <!--login-->
+    <string name="sign_in">Connecion</string>
+    <string name="sign_up">S'enregistrer</string>
+    <string name="password">Mot de passe</string>
+    <string name="email">E-mail  </string>
+    <string name="type_an_email">Veuillez saisir un e-mail</string>
+    <string name="type_a_password">Veuillez saisir un mot de passe</string>
+    <string name="verification_code">Code de vérification</string>
+    <string name="obtain">Obtenir</string>
+    <string name="forgot_password">Mot de passe oublié</string>
+    <string name="lan_login">Connexion LAN</string>
+    <string name="send_code_success">Un code de vérification a été envoyé à votre adresse e-mail</string>
+    <string name="wrong_email_format">Mauvais format d'e-mail</string>
+    <string name="password_format_alert_message">Le mot de passe doit contenir 6 à 20 caractères et peut uniquement inclure des chiffres, des lettres majuscules et minuscules ainsi que les caractères @#$?.%^&+=.</string>
+    <string name="reset_password">Réinitialiser le mot de passe</string>
+    <string name="read_agree">J'ai lu et accepté &#160;</string>
+    <string name="privacy_policy">\"Politique de confidentialité\"</string>
+    <string name="privacy_policy2">Politique de confidentialité</string>
+    <!--root-->
+    <string name="home">Domicile</string>
+    <string name="room">Zone</string>
+    <string name="smart">Intelligent</string>
+    <string name="security">Sécurité</string>
+    <string name="me">Moi</string>
+    <string name="seconds_simple">%ds</string>
+    <string name="done">fait</string>
+    <string name="network_management">gérer</string>
+    <string name="discovering_gateways">Recherche des passerelles</string>
+    <string name="local_gateway_login">Connexion à la passerelle locale</string>
+    <!--add device -->
+    <string name="add_device_tip">Vous êtes sur le point d'ajouter vos appareils ZigBee</string>
+    <string name="scan_device_tip">Veuillez mettre vos appareils en \'mode paire\'.\n\n. Reportez vous au manuel de votre appareil pour savoir comment activer le \'mode paire\'.</string>
+    <string name="stop">Arrêter</string>
+    <string name="start">Commencer</string>
+    <string name="add_devices">Ajouter des appareils</string>
+    <!--home-->
+    <string name="favorite_scenes">Scènes préférées</string>
+    <string name="favorite_devices">Appareils favoris</string>
+    <string name="offline">Hors-ligne</string>
+    <string name="color">Couleur</string>
+    <string name="temperature">Température</string>
+    <string name="remove_device">Supprimer l'appareil</string>
+    <string name="name">Nom</string>
+    <string name="model">Modèle</string>
+    <string name="firmware">Microprogramme</string>
+    <string name="device_id">ID de l'appareil</string>
+    <string name="updates">Mises à jour</string>
+    <string name="device_name">Nom de l'appareil</string>
+    <string name="edit_device">Modifier l'appareil</string>
+    <string name="remove_device_tip">Etes-vous sûr de vouloir supprimer cet appareil ?</string>
+    <string name="remove">Enlever</string>
+    <string name="current_version">Version actuelle</string>
+    <string name="checking_for_updates">Vérification des mise à jour</string>
+    <string name="update_now">Mettre à jour</string>
+    <string name="select_room">Sélectionner une zone</string>
+    <string name="save">Sauvegarder</string>
+    <string name="value_percent">%d%%</string>
+    <string name="value_f_percent">%f%%</string>
+    <string name="cct_format">%dK</string>
+    <string name="type_device_name">Veuillez saisir un nom d'appareil</string>
+
+    <!--smart-->
+    <string name="scenes">Scènes  </string>
+    <string name="automation">Automatisation</string>
+    <!--zone-->
+    <string name="add_room">Ajouter une zone</string>
+    <string name="deviceCount">%d Périphériques</string>
+    <string name="edit_name">Modifier le nom</string>
+    <string name="default_room">Zone de défaut</string>
+    <string name="devices_not_in_this_room">Appareils ne se trouvant pas dans cette zone</string>
+    <string name="remove_room">Supprimer la zone</string>
+    <string name="room_name">Nom de la zone</string>
+    <string name="lights">Lumières</string>
+    <string name="other">Autre</string>
+    <string name="wallpaper">Papier peint</string>
+    <string name="please_type_a_room_name">Veuillez saisir un nom de zone</string>
+
+    <!--me-->
+    <string name="room_manage">Gestion des zones</string>
+    <string name="gateway">Passerelle</string>
+    <string name="settings">Paramètres</string>
+    <string name="message_center">Centre de messagerie</string>
+    <string name="energy">Energie</string>
+    <string name="about">Environ</string>
+
+    <string name="profile_picture">Photo de profil</string>
+    <string name="profile">Profil</string>
+    <string name="nickname">Surnom</string>
+    <string name="account">Compte</string>
+    <string name="change_password">Changer le mot de passe</string>
+    <string name="delete_account">Supprimer le compte</string>
+    <string name="sign_out">Se déconnecter</string>
+    <!--scene-->
+    <string name="devices">Dispositifs</string>
+    <string name="actions">Actions</string>
+    <string name="actionsLot">Actions…</string>
+    <string name="scene_execute">Succès de l'exécution de la scène</string>
+    <string name="turned_on">Allumé</string>
+    <string name="turned_off">Eteint</string>
+    <string name="turn_on">Allumer</string>
+    <string name="turn_off">Désactiver</string>
+    <string name="toggle_on_off">Activer ou désactiver</string>
+    <string name="set_a_brightness">Définir une luminosité</string>
+    <string name="set_a_color_temperature">Régler une température</string>
+    <string name="set_a_color">Définir une couleur</string>
+    <string name="brightness_changed">Luminosité modifiée</string>
+    <string name="color_temperature_changed">Changement de température de couleur</string>
+    <string name="color_changed">Couleur changée</string>
+    <string name="remove_room_tip">Etes-vous sûr de vouloir supprimer cette zone ?</string>
+    <string name="favorite">Favori</string>
+    <string name="please_type_a_scene_name">Veuillez saisir un nom</string>
+    <string name="when">Quand…</string>
+    <string name="add_trigger">Ajouter un déclencheur</string>
+    <string name="and_optional">Et… (facultatif)</string>
+    <string name="add_condition">Ajouter une condition</string>
+    <string name="remove_scene">Supprimer la scène</string>
+    <string name="add_action">Ajouter une action</string>
+    <string name="add_scene">Ajouter une scène</string>
+    <string name="add_auto">Ajouter de l'automatisation</string>
+    <string name="edit_scene">Modifier la scène</string>
+    <string name="edit_auto">Automatisation des modifications</string>
+    <string name="weekly">Hebdomadaire</string>
+    <string name="daily">Quotidien</string>
+    <string name="brightness_change">Luminosité modifiée et %s %d%%</string>
+    <string name="time_is">L'heure est %02d:%02d,&#160;</string>
+    <string name="every">chaque</string>
+    <string name="math_less">&lt;</string>
+    <string name="math_less_equal">≤</string>
+    <string name="math_equal">=</string>
+    <string name="math_more">&gt;</string>
+    <string name="math_more_equal">≥</string>
+    <string name="day">jour</string>
+    <string name="monday_abbr">Lun</string>
+    <string name="tuesday_abbr">Mar</string>
+    <string name="wednesday_abbr">Mer</string>
+    <string name="thursday_abbr">Jeu</string>
+    <string name="friday_abbr">Vend</string>
+    <string name="saturday_abbr">Sam</string>
+    <string name="sunday_abbr">Dim</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="weekdays">Semaine</string>
+    <string name="weekends">Week-end</string>
+    <string name="conditions">Conditions</string>
+    <string name="triggers">Déclenche</string>
+    <string name="no_response">Pas de réponse</string>
+    <string name="edit_trigger">Modifier le déclencheur</string>
+    <string name="edit_condition">Modifier la condition</string>
+    <string name="edit_action">Modifier l'action</string>
+    <string name="execute_scene">Exécuter %s</string>
+    <string name="remove_scene_tip">Êtes-vous sûr de vouloir supprimer cette scène ?</string>
+    <string name="remove_repeater_tip">Voulez-vous vraiment supprimer ce contrôle rapide ?</string>
+    <string name="remove_auto_tip">Êtes-vous sûr de vouloir supprimer cette auto ?</string>
+    <string name="timer">Minuteur</string>
+    <string name="is_turned_on">Est allumé</string>
+    <string name="is_turned_off">Est désactivé</string>
+    <string name="brightness_is">La luminosité est</string>
+
+    <string name="repeat">Répéter</string>
+    <string name="hour">Heure</string>
+    <string name="minute">Minute </string>
+    <string name="time">Heure</string>
+    <string name="date">Date</string>
+    <string-array name="repeats">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="month">
+        <item>Chaque mois</item>
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+
+    <!--me-->
+    <string name="gateway_name">Nom de la passerelle</string>
+    <string name="local_gateway">Passerelle locale</string>
+    <string name="gateway_id">ID de passerelle</string>
+    <string name="family_guests">Famille &amp; Invités</string>
+    <string name="firmware_version">Verion du micrologiciel</string>
+    <string name="reset_gateway">Réinitialiser la passerelle</string>
+    <string name="remove_gateway">Supprimer la passerelle</string>
+    <string name="reset_gateway_tip">Voulez-vous vraiment réinitialiser les paramètres de cette passerelle ?</string>
+    <string name="reset">Réinitialisation</string>
+    <string name="waiting_initialize">En attendant qu'Azoula s'initialise…</string>
+    <string name="select_one_connect">Sélectionnez une passerelle que vous souhaitez connecter.</string>
+    <string name="hello">Bonjour</string>
+    <string name="welcome_tip">Merci d'avoir invité Azoula chez vous.</string>
+    <string name="add_gateway_tip">Commençons par ajouter votre première passerelle.</string>
+    <string name="add_gateway">Ajouter une passerelle</string>
+    <string name="role">Rôle</string>
+    <string name="manager_tip">Un gestionnaire peut  tout gérer sauf les utilisateurs.</string>
+    <string name="transfer_ownership">Transfert de propriété</string>
+    <string name="transfer_tip">Tranférez la propriété de cette passerelle à %s. Vous deviendrez manager.</string>
+    <string name="guest">Invités</string>
+    <string name="guest_tip">Un invité peut contrôler les appareils.</string>
+    <string name="manager">Gérante</string>
+    <string name="please_type_a_member_account">Veuillez saisir un compte membre </string>
+    <string name="app_version">Version de l'application</string>
+    <string name="connect">Relier</string>
+    <string name="adding">Additionnant…</string>
+    <string name="connecting">Connectant…</string>
+    <string name="add_failed">Echec de l'ajout</string>
+    <string name="bind_tip">La passerelle est déjà liée, veuillez demander au propriétaire de la passerelle de vous inviter à rejoindre la passerelle. Si vous êtes sur le point de relier à nouveau la passerelle, réinitialisez-la d'abord.</string>
+    <string name="ok">D'accord</string>
+
+
+    <string name="no_device_in_room">Il n'y a pas d'appareils dans cette zone, veuillez d'abord ajouter un appareil.</string>
+    <string name="no_auto_scene">Il n’y a pas d’automatisations dans cette passerelle, veuillez d’abord ajouter une automatisation.</string>
+    <string name="no_scene">Il n’y a pas de scènes dans cette passerelle, veuillez d’abord ajouter une scène.</string>
+    <string name="no_update">Aucune mise à jour disponible</string>
+    <string name="new_version">Nouvelle version</string>
+    <string name="connect_lost">La passerelle est déconnectée, veuillez vérifier le réseau de la passerelle.</string>
+    <string name="connectTip">Connexion passerelle perdue, reconnexion...</string>
+    <string name="no_device_in_gateway">Il n’y a pas d’appareils dans cette passerelle, veuillez d’abord ajouter un appareil.</string>
+    <string name="connect_failed">Échec de la connexion</string>
+    <string name="connect_success">Connexion réussie</string>
+    <string name="invite">Inviter</string>
+    <string name="add_user">Ajouter un utilisateur</string>
+    <string name="leave">Partir</string>
+    <string name="reset_pwd_success">Votre mot de passe a été modifié.</string>
+    <string name="gateway_reset_tip">Cette passerelle a été réinitialisée, veuillez connecter une autre passerelle.</string>
+    <string name="remove_gateway_tip">Voulez-vous vraiment supprimer cette passerelle ?</string>
+    <string name="reload_now">Recharger maintenant</string>
+    <string name="remove_from_gateway_tip">Vous avez été supprimé de cette passerelle, l’application doit être rechargée.</string>
+    <string name="reset_success">Réinitialiser la réussite de la passerelle.</string>
+    <string name="leave_tip">Êtes-vous sûr de vouloir partir ?</string>
+    <string name="remove_user_by_owner_tip">Voulez-vous vraiment supprimer %s ?</string>
+    <string name="transfer_dialog_tip">Voulez-vous vraiment transférer la propriété à %s ?</string>
+    <string name="transfer">Transfert</string>
+    <string name="owner_tip">Un propriétaire peut tout gérer.</string>
+    <string name="updating">Actualisation...</string>
+    <string name="update_fail">La mise à jour a échoué, veuillez réessayer.</string>
+    <string name="back_again_alert_msg">Cliquez à nouveau pour quitter</string>
+    <string name="icon">Icône</string>
+    <string name="no_permission">Aucune autorisation</string>
+    <string name="type_nickname">Veuillez saisir un pseudo</string>
+    <string name="type_gateway_name">Saisissez un nom de passerelle</string>
+    <string name="edit_room">Modifier la zone</string>
+    <string name="token_invalidate">La connexion a expiré, veuillez vous reconnecter.</string>
+    <string name="delete_account_tip">Voulez-vous vraiment supprimer ce compte ? Vous ne pourrez contrôler aucun appareil via le cloud.</string>
+    <string name="user_be_owner">Vous êtes déjà propriétaire de cette passerelle.</string>
+    <string name="device_offline_tip">L’appareil est hors ligne.</string>
+    <string name="reload_device_type">Type d’appareil de rechargement</string>
+    <string name="gw_timeout">La passerelle ne répond pas.</string>
+    <string name="press_tip">Appuyez sur le bouton situé au centre de la passerelle pour vous connecter.</string>
+    <string name="network_error">Erreur réseau</string>
+    <string name="local_connect_fail">Échec de la connexion à la passerelle, vérifiez votre réseau et votre passerelle.</string>
+    <string name="remote_connect_fail">Échec de la connexion au serveur, veuillez vérifier votre réseau et réessayer.</string>
+    <string name="code_20008">Cet utilisateur a déjà été invité.</string>
+    <string name="remoteConnectTip">Connexion serveur perdue, reconnexion...</string>
+    <string name="try_again">Réessayez</string>
+    <string name="then">Alors...</string>
+    <string name="executed">Exécuté</string>
+    <string name="owner">Propriétaire</string>
+    <string name="open">Ouvrir</string>
+    <string name="closed">Fermé</string>
+    <string name="reload_state">État de rechargement</string>
+    <string name="reload_sensor_tip">Vous devez d’abord activer l’appareil pour obtenir l’état de l’appareil.</string>
+    <string name="empty_value">- -</string>
+    <string name="turned_open">Ouvert</string>
+    <string name="turned_closed">Fermé</string>
+    <string name="is_open">Est ouvert</string>
+    <string name="is_closed">Est fermé</string>
+    <string name="enabled">Activé</string>
+    <string name="disabled">Désactivé</string>
+    <string name="sensor">Capteur</string>
+    <string name="generic">Générique</string>
+    <string name="socket">Prise</string>
+    <string name="lighting">Éclairage</string>
+    <string name="turned_occupied">Devenu occupé</string>
+    <string name="turned_unoccupied">Inoccupé</string>
+    <string name="is_occupied">Est occupé</string>
+    <string name="is_unoccupied">Est inoccupé</string>
+    <string name="turned_alarmed">S’est alarmé</string>
+    <string name="turned_not_alarmed">Tourné sans s’alarmer</string>
+    <string name="is_alarmed">Est alarmé</string>
+    <string name="is_not_alarmed">N’est pas alarmé</string>
+    <string name="temperature_changed">Changement de température</string>
+    <string name="humidity_changed">L’humidité a changé</string>
+    <string name="measured_value_changed">Valeur mesurée modifiée</string>
+    <string name="temperature_change">Changement de température et %s %d°C</string>
+    <string name="humidity_change">L’humidité a changé et %s %d%%</string>
+    <string name="measured_value_change">Valeur mesurée modifiée et %s %dLux</string>
+    <string name="unit_temperature">℃</string>
+    <string name="value_temperature">%#.1f℃</string>
+    <string name="unit_lux">Lux</string>
+    <string name="value_lux">%dLux</string>
+    <string name="out_range">La valeur est hors plage.</string>
+    <string name="range_value">Fourchette de valeurs :</string>
+    <string name="occupied">Occupé</string>
+    <string name="unoccupied">Inoccupé</string>
+    <string name="not_alarmed">Pas alarmé</string>
+    <string name="alarmed">Alarmé</string>
+    <string name="illuminance_changed">Éclairement modifié</string>
+    <string name="illuminance_change">Éclairement modifié et %s %dLux</string>
+    <string name="lan_ip">LAN IP</string>
+    <string name="mode">Mode</string>
+    <string name="off">Eteint</string>
+    <string name="dry">Sec</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manuelle</string>
+    <string name="target_temperature">Température cible</string>
+    <string name="room_temperature">Température ambiante</string>
+    <string name="floor_temperature">Température du sol</string>
+    <string name="room_temperature_changed">Température ambiante modifiée</string>
+    <string name="floor_temperature_changed">Température du sol modifiée</string>
+    <string name="room_temperature_is">La température ambiante est</string>
+    <string name="floor_temperature_is">La température du sol est</string>
+    <string name="temperature_is">La température est</string>
+    <string name="humidity_is">L’humidité est</string>
+    <string name="illuminance_is">L’éclairement est</string>
+    <string name="changed_to_off">Désactivé</string>
+    <string name="changed_to_manual">Changé en manuel</string>
+    <string name="changed_to_auto">Changed to auto</string>
+    <string name="changed_to_dry">Changé en sec</string>
+    <string name="changed_to_away">Changé en absent</string>
+    <string name="is_off_mode">Est en mode éteint</string>
+    <string name="is_manual_mode">Est en mode manuel</string>
+    <string name="is_auto_mode">Est en mode automatique</string>
+    <string name="is_dry_mode">Est en mode sec</string>
+    <string name="is_away_mode">Mode absent</string>
+    <string name="away_mode_tip">Vous ne pouvez passer en mode absent qu’à partir de votre appareil.</string>
+    <string name="away">Loin</string>
+    <string name="room_temperature_change">Changement de température ambiante et %s %d°C</string>
+    <string name="floor_temperature_change">Température du sol modifiée et %s %d°C</string>
+    <string name="room_temperature_is_format">La température ambiante est de %s %d°C</string>
+    <string name="floor_temperature_is_format">La température du sol est de %s %d°C</string>
+    <string name="temperature_is_format">La température est de %s %d°C</string>
+    <string name="humidity_is_format">L’humidité est de %s %d%%</string>
+    <string name="illuminance_is_format">L’éclairement est de %s %dLux</string>
+    <string name="brightness_is_format">La luminosité est %s %d%%</string>
+    <string name="newDevices">Nouveaux périphériques %d</string>
+    <string name="counts">Nombre %d</string>
+    <string name="hvac">CHAUFFAGE</string>
+    <string name="zigbee_channel">Canal Zigbee</string>
+    <string name="change">Changement</string>
+    <string name="change_zigbee_channel">Changer de chaîne Zigbee</string>
+    <string name="change_channel_fail">Échec de la modification</string>
+    <string name="successful">Réussi</string>
+    <string name="failed">Echec</string>
+    <string name="changChannelTip">Assurez-vous que tous les appareils sont en ligne avant de changer de chaîne. Si certains appareils ne fonctionnent pas après avoir changé de chaîne, réinitialisez-les et ajoutez-les à nouveau.</string>
+    <string name="choose_add_mode">Choisissez la méthode d’ajout que vous souhaitez utiliser.</string>
+    <string name="zigbee_standard">Zigbee - Standard</string>
+    <string name="zigbee_install_code">Zigbee - Code d’installation</string>
+    <string name="zigbee_green_power">Zigbee - Énergie verte</string>
+    <string name="zi_code_tip">Vous êtes sur le point d’ajouter vos appareils Zigbee via le code d’installation.</string>
+    <string name="add_install_code">Ajouter un code d’installation</string>
+    <string name="error_qrcode">erreur</string>
+    <string name="send_installcode_fail_tip">L’envoi des codes d’installation à la passerelle a échoué, veuillez réessayer ultérieurement.</string>
+    <string name="is_adding_tip">Vous ne pouvez pas ajouter d’appareils pour le moment, quelqu’un d’autre ajoute des appareils. Veuillez réessayer après 3 minutes.</string>
+    <string name="top_right_press_tip">Pour vous connecter, maintenez le bouton en haut à droite enfoncé pendant 10 secondes, puis relâchez.</string>
+    <string name="top_left_press_tip">Pour vous connecter, maintenez le bouton en haut à gauche enfoncé pendant 10 secondes, puis relâchez.</string>
+    <string name="bottom_left_press_tip">Pour vous connecter, maintenez le bouton en bas à gauche enfoncé pendant 10 secondes, puis relâchez.</string>
+    <string name="bottom_right_press_tip">Pour vous connecter, maintenez le bouton en bas à droite enfoncé pendant 10 secondes, puis relâchez.</string>
+    <string name="add_green_success_tip">Succès !nVotre interrupteur est connecté.</string>
+    <string name="green_power_active_tip">Cela a fonctionné ! Appuyez maintenant sur les boutons en haut à droite et en bas à gauche en même temps.</string>
+
+    <string name="top_left_pressed">Bouton en haut à gauche enfoncé</string>
+    <string name="top_left_hold">Bouton en haut à gauche</string>
+    <string name="top_right_pressed"> Bouton supérieur droit pressé</string>
+    <string name="top_right_hold">    Bouton supérieur droit maintenu</string>
+    <string name="bottom_left_pressed">    Bouton inférieur gauche pressé</string>
+    <string name="bottom_left_hold">    Bouton inférieur gauche maintenu</string>
+    <string name="bottom_right_pressed">    Bouton inférieur droit pressé</string>
+    <string name="bottom_right_hold">    Bouton inférieur droit maintenu</string>
+    <string name="reset_settings">Réinitialiser les paramètres</string>
+    <string name="reset_clear">Effacer tout le contenu et les paramètres</string>
+    <string name="reset_clear_tip">Êtes-vous sûr de vouloir effacer tout le contenu et les paramètres de cette passerelle ?</string>
+    <string name="erase">Effacer</string>
+    <string name="temperature_display_units">Unités d’affichage de la température</string>
+    <string name="unit_temperature_F">°c</string>
+    <string name="value_temperature_F">%d°C</string>
+    <string name="gateway_integration">Intégration de la passerelle</string>
+    <string name="cannot_find_my_gateway">Vous ne trouvez pas ma passerelle ?</string>
+    <string name="add_sub_gw">Ajouter une sous-passerelle</string>
+    <string name="gateway_has_no_sub_gateways">Cette passerelle n’a pas de sous-passerelles.</string>
+    <string name="primary_gateway">Passerelle principale</string>
+    <string name="sub_gateway_id">ID de la sous-passerelle</string>
+    <string name="sub_gateway">Sous-passelle </string>
+    <string name="delete_gateway_integration">Supprimer l’intégration de la passerelle</string>
+    <string name="sure_remove_sub_gw">Voulez-vous vraiment supprimer cette sous-passerelle ?</string>
+    <string name="remove_subgw_fail">Échec de la suppression, veuillez réessayer plus tard.</string>
+    <string name="remove_subgw_success">Suppression réussie !</string>
+    <string name="remove_subgw_tip">Suppression de la sous-passerelle...</string>
+    <string name="sure_delete_gw_integration">Voulez-vous vraiment supprimer cette intégration de passerelle ?</string>
+    <string name="remove_gw_integration_tip">Suppression de l’intégration de la passerelle...</string>
+    <string name="remove_ge_integrater_fail">Échec de la suppression, veuillez réessayer plus tard.</string>
+    <string name="remove_gw_intergrater_success">Suppression réussie, vous devez recharger votre application dès maintenant.</string>
+    <string name="add">Ajouter</string>
+    <string name="get_config">Obtenir la configuration...</string>
+    <string name="add_subgw_tip">Ajout d’une sous-passerelle...</string>
+    <string name="add_subgw_success">Ajoutez réussi, vous devez recharger votre application dès maintenant.</string>
+    <string name="add_subgw_fail">Echec de l’ajout, veuillez réessayer plus tard.</string>
+    <string name="select_a_gateway_to_add_devices">Sélectionner une passerelle pour ajouter des appareils</string>
+    <string name="select_gateway">Sélectionner la passerelle</string>
+    <string name="get_config_fail">Échec de la configuration, veuillez réessayer plus tard.</string>
+    <string name="gw_be_sub">Cette passerelle a été configurée en tant que sous-passerelle, veuillez vous connecter à une autre passerelle.</string>
+    <string name="cancel">Annuler</string>
+    <string name="circadian_rhythm">Rythme circadien</string>
+    <string name="loading">Chargement...</string>
+    <string name="change_mode">Changer de mode</string>
+    <string name="gradual">Changement progressif</string>
+    <string name="gradient_mode_tip">Pente entre deux points.</string>
+    <string name="chage_delay_tip">Apportez des modifications en %d minutes.</string>
+    <string name="last_minutes">Dure %d minutes</string>
+    <string name="points">Aiguillage</string>
+    <string name="cct">Le CCT</string>
+    <string name="dim">DIM</string>
+    <string name="add_point">Ajouter un point</string>
+    <string name="restore_to_the_preset_points">Restaurer aux points prédéfinis</string>
+    <string name="point_name">Nom du point</string>
+    <string name="color_temperature">Température de couleur</string>
+    <string name="edit_point">Point d’édition</string>
+    <string name="wake_up">Réveillez-vous</string>
+    <string name="sunlight">Lumière du soleil</string>
+    <string name="comfortable">Confortable</string>
+    <string name="night_light">Veilleuse</string>
+    <string name="edit_points">Modifier les points</string>
+    <string name="brightness">Luminosité</string>
+    <string name="no_point_name_tip">Veuillez saisir un nom de point.</string>
+    <string name="same_start_time_tip">Un autre point a été fixé à la même heure.</string>
+    <string name="point_least_2_size_tip">Veuillez ajouter au moins 2 points.</string>
+    <string name="most_24_points_tip">Vous ne pouvez ajouter que 24 points.</string>
+    <string name="duration">Durée</string>
+    <string name="cct_k_format">CCT:%dK</string>
+    <string name="dim_format">DIM:%d%%</string>
+    <string name="power_up_state">État de mise sous tension</string>
+    <string name="on">Sur</string>
+    <string name="toggle">Cabillot</string>
+    <string name="latest">Dernier</string>
+    <string name="this_device_is_not_set_up_yet">Cet appareil n’est pas encore configuré.</string>
+    <string name="set_now">Définir maintenant</string>
+    <string name="repeaters">Commandes rapides</string>
+    <string name="scene">Scène</string>
+    <string name="repeater">Contrôle rapide</string>
+    <string name="scene_desc">Enregistrez l’état actuel de l’appareil en tant que scène.</string>
+    <string name="repeater_desc">Effectuez plusieurs actions sur l’appareil.</string>
+    <string name="automation_desc">Effectuez automatiquement des actions sur l’appareil.</string>
+    <string name="devicesLot">Dispositifs...</string>
+    <string name="add_device">Ajouter un appareil</string>
+    <string name="add_repeater">Ajouter un contrôle rapide</string>
+    <string name="repeat_count">Nombre de répétitions</string>
+    <string name="keep_repeating">Répéter</string>
+    <string name="value_range_1_65534">Plage de valeur : 1~65534</string>
+    <string name="delay">Retarder</string>
+    <string name="value_range_0_999">Plage de valeurs : 0 ~ 999</string>
+    <string name="hour_abb">h</string>
+    <string name="minute_abb">m</string>
+    <string name="second_abb">s</string>
+    <string name="millisecond_abb">ms</string>
+    <string name="delay_format">%dh %dm %ds %dms</string>
+    <string name="no_delay">Pas de retard</string>
+    <string name="change_the_device_state">Modifier l’état de l’appareil</string>
+    <string name="bound_devices">Appareils liés</string>
+    <string name="bind_now">Lier maintenant</string>
+    <string name="there_are_no_bound_devices">Il n’y a pas d’appareils liés.</string>
+    <string name="edit_repeater">Contrôle rapide de l’édition</string>
+    <string name="most_20_scenes">Vous ne pouvez pas ajouter plus de 255 scènes.</string>
+    <string name="no_repeater">Il n’y a pas de contrôles rapides dans cette passerelle, veuillez d’abord ajouter un contrôle rapide.</string>
+    <string name="random_time">Temps aléatoire</string>
+    <string name="no_random_time">Pas de temps aléatoire</string>
+    <string name="device_is_offline">Cet appareil est hors ligne.</string>
+    <string name="contains_offline_device">Échec de l’enregistrement, certains des appareils sélectionnés sont hors ligne.</string>
+    <string name="most_30_bind">Impossible de lier plus de 30 appareils.</string>
+    <string name="bind_press_tip">Veuillez appuyer sur l’un des boutons de l’interrupteur pour activer l’interrupteur.</string>
+    <string name="binding">Reliure...</string>
+    <string name="unbinding">Dissocier...</string>
+    <string name="state">État</string>
+    <string name="executing">Exécution</string>
+    <string name="stopped">Arrêté</string>
+    <string name="change_state">Changer d’état</string>
+    <string name="execute">Exécuter</string>
+    <string name="edit_weekly">Modifier chaque semaine</string>
+    <string name="edit_daily">Modifier quotidiennement</string>
+    <string name="add_scene_part_success_tip">Ajouter une scène réussie ! Certaines actions n’ont pas pu être ajoutées, veuillez vérifier si les appareils sont en ligne.</string>
+    <string name="update_scene_part_success_tip">Certains appareils n’ont pas pu être ajoutés, veuillez vérifier s’ils sont en ligne. Nous vous recommandons de supprimer les appareils que vous n’utilisez plus.</string>
+    <string name="delete_scene_part_success_tip">Certains appareils n’ont pas pu être supprimés, veuillez vérifier s’ils sont en ligne. Nous vous recommandons de supprimer les appareils que vous n’utilisez plus.</string>
+    <string name="device_scene_add_fail">Echec de l’ajout d’un appareil, veuillez vérifier si cet appareil est en ligne.</string>
+    <string name="device_scene_save_fail">Échec de l’enregistrement de l’appareil, veuillez vérifier si cet appareil est en ligne.</string>
+    <string name="total_energy_consumption">Consommation totale d’énergie</string>
+    <string name="latest_updated">Dernière mise à jour</string>
+    <string name="total">Total</string>
+    <string name="rooms">Zones</string>
+    <string name="no_data">Pas de données</string>
+    <string name="selectTarget">Sélectionnez la cible</string>
+    <string name="power">Pouvoir</string>
+    <string name="power_range">0-32768</string>
+    <string name="save_power_fail">Échec de l’enregistrement, cet appareil ne répond pas.</string>
+    <string name="power_setting">Paramètres d’alimentation</string>
+    <string name="no_zone_in_gw">Il n’y a pas de zones dans cette passerelle, veuillez d’abord ajouter une zone.</string>
+    <string name="onoff_transition_time">Heure de transition OnOff</string>
+    <string name="_0_1s">× 0.1s</string>
+    <string name="value_range_0_65535">Plage de valeurs : 0 ~ 65535</string>
+    <string name="saved">Sauvegardé</string>
+    <string name="saved_tip">Certains appareils ne peuvent pas être enregistrés, assurez-vous qu’ils sont en ligne, puis réessayez.</string>
+    <string name="failed_devices">Appareils défaillants</string>
+    <string name="groups">Groupe</string>
+    <string name="sockets">Prises</string>
+    <string name="on_uppercase">MARCHE</string>
+    <string name="off_uppercase">ARRÊT</string>
+    <string name="sensors">Capteurs</string>
+    <string name="switches">Commutateurs</string>
+    <string name="no_sensor_in_gateway">Il n’y a pas de capteurs dans cette passerelle, veuillez d’abord ajouter un capteur.</string>
+    <string name="no_switch_in_gateway">Il n’y a pas de commutateurs dans cette passerelle, veuillez d’abord ajouter un commutateur.</string>
+    <string name="others">Autres</string>
+    <string name="multiple">Multiple</string>
+    <string name="multiple_selection">Sélection multiple</string>
+    <string name="no_light_in_gateway">Il n’y a pas de lumières dans cette passerelle, veuillez d’abord ajouter une lumière.</string>
+    <string name="no_socket_in_gateway">Il n’y a pas de sockets dans cette passerelle, veuillez d’abord ajouter un socket.</string>
+    <string name="select_all">Tout sélectionner</string>
+    <string name="next">Prochain</string>
+    <string name="top_right_press_tip_12">Pour vous connecter, maintenez le bouton en haut à droite enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en haut à droite 1 fois.</string>
+    <string name="top_right_press_tip_13">Pour vous connecter, maintenez le bouton en haut à droite enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en haut à droite 2 fois.</string>
+    <string name="top_right_press_tip_14">Pour vous connecter, maintenez le bouton en haut à droite enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en haut à droite 3 fois.</string>
+    <string name="top_left_press_tip_16">Pour vous connecter, maintenez le bouton en haut à gauche enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en haut à gauche 1 fois.</string>
+    <string name="top_left_press_tip_17">Pour vous connecter, maintenez le bouton en haut à gauche enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en haut à gauche 2 fois.</string>
+    <string name="top_left_press_tip_18">Pour vous connecter, maintenez le bouton en haut à gauche enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en haut à gauche 3 fois.</string>
+    <string name="bottom_left_press_tip_19">Pour vous connecter, maintenez le bouton en bas à gauche enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en bas à gauche 3 fois.</string>
+    <string name="bottom_left_press_tip_21">Pour vous connecter, maintenez le bouton en bas à gauche enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en bas à gauche 1 fois.</string>
+    <string name="bottom_left_press_tip_22">Pour vous connecter, maintenez le bouton en bas à gauche enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en bas à gauche 2 fois.</string>
+    <string name="bottom_right_press_tip_23">Pour vous connecter, maintenez le bouton en bas à droite enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en bas à droite 2 fois.</string>
+    <string name="bottom_right_press_tip_24">Pour vous connecter, maintenez le bouton en bas à droite enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en bas à droite 3 fois.</string>
+    <string name="bottom_right_press_tip_26">Pour vous connecter, maintenez le bouton en bas à droite enfoncé pendant 10 secondes, puis relâchez.nnAppuyez ensuite rapidement sur le bouton en bas à droite 1 fois.</string>
+    <string name="no_device_in_zone_tip">Il n'y a pas d'appareils dans cette zone, veuillez d'abord ajouter un appareil.</string>
+    <string name="action_not_available">Cette action n’est pas disponible, veuillez la supprimer.</string>
+    <string name="update_binding_devices">Mettre à jour les périphériques de liaison</string>
+    <string name="unfinished">Inachevé</string>
+    <string name="zone_create_device_fail">Le nom et l’image de la zone ont été enregistrés mais les appareils n’ont pas été enregistrés, assurez-vous qu’ils sont en ligne, puis réessayez.</string>
+    <string name="transition_time">Temps de transition</string>
+    <string name="delete_zone_fail">Échec de la suppression de la zone, veuillez réessayer plus tard.</string>
+    <string name="save_faild_sure_online">Échec de l’enregistrement, assurez-vous que votre appareil est en ligne.</string>
+    <string name="then_delay">Puis Retarder</string>
+    <string name="no">Non</string>
+    <string name="no_sensor">Pas de capteur</string>
+    <string name="unknown_device">Périphérique inconnu</string>
+    <string name="unknown_scene">Scène inconnue</string>
+    <string name="unknown_group">Zone inconnue</string>
+    <string name="identify">Identifier</string>
+    <string name="gateway_updates">Mises à jour de la passerelle</string>
+    <string name="too_many_actions">Il y a trop d’actions, vous devez d’abord supprimer certaines actions.</string>
+    <string name="too_many_actions_conditions">Il y a trop de conditions ou d’actions, vous devez d’abord supprimer certaines conditions ou actions.</string>
+    <string name="level_is">Le niveau est</string>
+    <string name="lift_is">L’ascenseur est</string>
+    <string name="set_a_level">Définir un niveau</string>
+    <string name="set_a_lift">Définir un ascenseur</string>
+    <string name="level_is_format">Le niveau est %s %d%%</string>
+    <string name="lift_is_format">Le pourcentage de portance est %s %d%%</string>
+    <string name="device_no_response">Absence de réponse de l’appareil</string>
+    <string name="no_response_tip">Please check:\n\n1. If the device is plugged to a power outlet.\n
+2. If the router and gateway are working normally.\n
+3. If the device is too far from the gateway or if there’s an obstacle in between.</string>
+    <string name="close">Fermer</string>
+    <string name="pause">Pause</string>
+    <string name="group">Groupe</string>
+
+    <string name="motion">Mouvement</string>
+    <string name="sensor_temperature">Température</string>
+    <string name="humidity">Humidité</string>
+    <string name="illumination">Illumination</string>
+    <string name="select_sensor_type">Sélectionnez le type de capteur</string>
+    <string name="motion_sensor">Capteur de mouvement</string>
+    <string name="temperature_sensor">Capteur de température</string>
+    <string name="humidity_sensor">Capteur d’humidité</string>
+    <string name="illumination_sensor">Capteur d’éclairage</string>
+    <string name="sub_gateway_name">Nom de la sous-passerelle</string>
+    <string name="lift_percentage_is">Le pourcentage de portance est</string>
+    <string name="tilt_percentage_is">Le pourcentage d’inclinaison est</string>
+    <string name="set_a_tilt">Définir une inclinaison</string>
+    <string name="tilt_is_format">Le pourcentage d’inclinaison est %s %d%%</string>
+
+    <string name="step_brightness_up">Augmenter la luminosité</string>
+    <string name="step_brightness_down">Baisser la luminosité</string>
+    <string name="step_color_temperature_up">Augmenter la température de couleur</string>
+    <string name="step_color_temperature_down">Baisser la température de couleur</string>
+    <string name="step_hue_up">Augmenter la teinte</string>
+    <string name="step_hue_down">Baisser la teinte</string>
+    <string name="move_brightness_up">Augmenter la luminosité</string>
+    <string name="move_brightness_down">Baisser la luminosité</string>
+    <string name="stop_moving_brightness">Arrêtez de déplacer la luminosité</string>
+    <string name="move_color_temperature_up">Déplacer la température de couleur vers le haut</string>
+    <string name="move_color_temperature_down">Déplacer la température de couleur vers le bas</string>
+    <string name="stop_moving_color_temperature">Arrêter de déplacer la température de couleur</string>
+    <string name="move_hue_up">Déplacer la teinte vers le haut</string>
+    <string name="move_hue_down">Déplacer la teinte vers le bas</string>
+    <string name="stop_moving_hue">Arrêter de déplacer la teinte</string>
+    <string name="max_color_temperature">Température de couleur maximale</string>
+    <string name="min_color_temperature">Température de couleur min</string>
+    <string name="rate">Taux</string>
+    <string name="step_size">Taille de la marche</string>
+    <string name="direct_change">Changement direct</string>
+    <string name="delete_gw_name_pwd_tip">Voulez-vous vraiment supprimer toutes les informations de connexion à la passerelle ?</string>
+    <string name="deleted">Supprimé</string>
+    <string name="bind_other_tip">Une erreur inconnue s’est produite, veuillez réessayer.</string>
+    <string name="closed_2">Fermé</string>
+    <string name="open_2">Ouvrir</string>
+    <string name="lan_mqtt">LAN MQTT</string>
+    <string name="username">Nom d’utilisateur</string>
+    <string name="ip">IP</string>
+    <string name="copied">Copié</string>
+    <string name="active_power">Puissance active</string>
+    <string name="meter_power">Puissance du compteur</string>
+    <string name="unit_w_format">%dW</string>
+    <string name="unit_kwh">kWh</string>
+    <string name="home_assistant">Assistant à domicile</string>
+    <string name="failed_to_load">Échec du chargement.</string>
+    <string name="retry">Réessayer</string>
+    <string name="mqtt_mode">MQTT Mode</string>
+    <string name="server">Serveur</string>
+    <string name="client">Client</string>
+    <string name="language">Langue</string>
+    <string name="english">Anglais</string>
+    <string name="other_clients_connect_tip">D’autres clients se connecteront à cette passerelle.</string>
+    <string name="gateway_connect_server_tip">Cette passerelle se connectera au serveur.</string>
+    <string name="server_information">Informations sur le serveur</string>
+    <string name="client_id">Client ID</string>
+    <string name="automatically_generated">Généré automatiquement</string>
+    <string name="host">Hôte</string>
+    <string name="port">Port</string>
+    <string name="mqtt_transfer">Transfert MQTT</string>
+    <string name="tcp">TCP</string>
+    <string name="SSL">SSL</string>
+    <string name="saving">Épargne...</string>
+    <string name="saved2">Sauvé!</string>
+    <string name="failed_to_save">Échec de l’enregistrement.</string>
+    <string name="simplified_chinese">Chinois simplifié</string>
+    <string name="traditional_chinese">Chinois traditionnel</string>
+    <string name="forced_heating_time">Temps de chauffage forcé</string>
+    <string name="anti_freezing_temperature">Température antigel</string>
+    <string name="child_lock">Sécurité enfant</string>
+    <string name="battery_percentage">Pourcentage de batterie</string>
+    <string name="forced">Forcé</string>
+    <string name="sleep">Dormir</string>
+    <string name="select_green_type">Veuillez sélectionner votre type d’appareil d’alimentation verte.</string>
+    <string name="switch_key_4">Interrupteur (touche 4)</string>
+    <string name="switch_key_1">Interrupteur (touche 1)</string>
+    <string name="green_one_tip">To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.\n\n
+If the next step operation instruction doesn\'t pop up, short press the button once and then wait for 5 seconds again.\n
+This operation shall be repeated until the next step operation instruction pops up.</string>
+    <string name="green_one_work_tip">Cela a fonctionné ! Appuyez maintenant sur le bouton et maintenez-le enfoncé pendant plus de 10 secondes, puis relâchez.</string>
+    <string name="lock">Serrure</string>
+    <string name="unlock">Ouvrir</string>
+    <string name="changed_to_sleep">Changé en sommeil</string>
+    <string name="changed_to_forced">Changé en forcé</string>
+    <string name="is_sleep_mode">Est en mode veille</string>
+    <string name="is_forced_mode">Est en mode forcé</string>
+    <string name="change_to_sleep">Changement de sommeil</string>
+    <string name="change_to_forced">Passer à forcé</string>
+    <string name="button_pressed">Bouton enfoncé</string>
+    <string name="button_hold">Bouton maintenu enfoncé</string>
+    <string name="advanced">Avancé</string>
+    <string name="external_switch_type">Type de commutateur externe</string>
+    <string name="pwm_frequency">Fréquence PWM</string>
+    <string name="dimming_curve">Courbe de gradation</string>
+    <string name="push_button_switch">Interrupteur à bouton-poussoir</string>
+    <string name="normal_on_off_switch">Interrupteur marche/arrêt normal</string>
+    <string name="_3_way_switch">Interrupteur à 3 voies</string>
+    <string name="linear">Linéaire</string>
+    <string name="logarithmic_gamma_1_5">Gamma logarithmique 1.5</string>
+    <string name="logarithmic_gamma_1_8">Gamma logarithmique 1.8</string>
+    <string name="value_range_format">Plage de valeurs : %d~%d</string>
+    <string name="manufacturer_name">Nom du fabricant</string>
+    <string name="delete">Supprimer</string>
+    <string name="trigger_method">Méthode de déclenchement</string>
+    <string name="trigger_manually_tip">L’événement est déclenché manuellement par l’utilisateur.</string>
+    <string name="trigger_auto_tip">L’événement est déclenché par toutes les méthodes.</string>
+    <string name="manually">Manuellement</string>
+    <string name="automations">Automatismes</string>
+    <string name="enable_auto">Activer l’automatisation</string>
+    <string name="disable_auto">Désactiver l’automatisation</string>
+    <string name="all">Tout</string>
+    <string name="entertainment">Divertissement</string>
+    <string name="add_entertainment">Ajouter du divertissement</string>
+    <string name="edit_entertainment">Modifier le divertissement</string>
+    <string name="entertainment_desc">Modifiez l’état des zones ou des périphériques de manière séquentielle.</string>
+    <string name="zonesLot">Zones…</string>
+    <string name="beat">Battre</string>
+    <string name="spectrum">Spectre</string>
+    <string name="music_mode">Mode musique</string>
+    <string name="app_need_music_tip">Azoula Smart aimerait connaître vos fichiers musicaux</string>
+    <string name="no_group_set_tip">Veuillez sélectionner la zone</string>
+    <string name="use_local_connect">Veuillez utiliser la connexion à la passerelle locale</string>
+    <string name="nomusic">Ajouter de la musique à cet appareil</string>
+    <string name="setting">Réglage</string>
+    <string name="set_cct_or_color">Définir une température ou une couleur</string>
+    <string name="action">Action</string>
+    <string name="circleText">●</string>
+    <string name="support_6_light">Prend en charge jusqu’à 6 lumières</string>
+    <string name="remove_fun_tip">Êtes-vous sûr de vouloir supprimer ce divertissement ?</string>
+    <string name="set_same_trans_tip">Veuillez définir le même temps de transition pour la luminosité et la couleur</string>
+    <string name="select_cct_color_tip">Veuillez définir une température ou une couleur</string>
+    <string name="zones">Zones</string>
+    <string name="set_color_tip">Veuillez définir une couleur</string>
+    <string name="set_cct_tip">Veuillez régler une température</string>
+    <string name="support_13_zone">Prend en charge jusqu’à %d zones</string>
+    <string name="set_br_tip">Veuillez définir une luminosité</string>
+    <string name="transition_time_value">Temps de transition %s</string>
+    <string name="no_fun_scene">Il n’y a pas de divertissement dans cette passerelle, veuillez d’abord ajouter un divertissement.</string>
+    <string name="change_to_color_tip">La température ne sera pas valide, êtes-vous sûr de modifier les propriétés ?</string>
+    <string name="change_to_cct_tip">La couleur ne sera pas valide, êtes-vous sûr de modifier les propriétés ?</string>
+    <string name="no_music">Pas de musique</string>
+    <string name="add_music_to_this_device">Ajouter de la musique à cet appareil</string>
+    <string name="allow_to_music_permission">To use the music mode of this app, please enable access to music and other audio files.\n\n
+Click the button below to open settings and authorize</string>
+    <string name="spi_set_tip">Veuillez définir le nombre total de lumières (ampoules) avant de définir la valeur de chaque segment. Tous les segments fonctionnent sur une plage. EX)'Des ampoules 1-100'. Déplacez le curseur pour définir le nombre d’ampoules dans chaque segment. Ajustez les positions du curseur pour modifier la plage de réglage.</string>
+    <string name="of_bulbs">Des bulbes</string>
+    <string name="number_of_bulbs_in_segment">Nombre de bulbes dans le segment %d</string>
+    <string name="running">Course</string>
+    <string name="speed">Vitesse</string>
+    <string name="spi_ic_setting">Réglage SPI IC</string>
+    <string name="segmented_light_strip">Bande lumineuse segmentée</string>
+    <string name="value_range_4_1020">Plage de valeurs : 4~1020</string>
+    <string name="sure_reset_segmented_tip">Êtes-vous sûr de vouloir réinitialiser \"Bande lumineuse segmentée\ » ?</string>
+    <string name="set_seg_max_tip">Définir la valeur (max. : %d)</string>
+    <string name="set_seg_min_tip">Valeur de consigne (min : 1)</string>
+    <string name="repower_spi">Vous devez recharger votre appareil après avoir modifié le paramètre SPI IC.</string>
+    <string name="getting_spi_ic_setting">Obtenir le réglage SPI IC...</string>
+    <string name="getting_spi_ic_setting_timeout">Obtention du délai d’expiration du réglage SPI IC.</string>
+    <string name="make_sure_device_works_tip">Assurez-vous que l’appareil fonctionne correctement, puis réessayez.</string>
+    <string name="fan_only">Ventilateur uniquement</string>
+    <string name="cool">Refroidir</string>
+    <string name="heat">Chaleur</string>
+    <string name="fan_speed">Vitesse du ventilateur</string>
+    <string name="low">Bas</string>
+    <string name="medium">Douleur moyenne</string>
+    <string name="high">Haut</string>
+    <string name="change_to_away">Changer pour absent</string>
+    <string name="changed_to_cool">Changé en froid</string>
+    <string name="changed_to_heat">Changé en chaleur</string>
+    <string name="changed_to_fan_only">Changé en ventilateur uniquement</string>
+    <string name="is_cool_mode">Est en mode froid</string>
+    <string name="is_heat_mode">Est en mode chauffage</string>
+    <string name="is_fan_only_mode">Est en mode ventilateur uniquement</string>
+    <string name="alarms_permission_is_required">L’autorisation d’alarmes est requise pour la connexion à la passerelle et à la connexion au cloud.</string>
+    <string name="please_input_remote_name">Veuillez saisir le nom de la télécommande</string>
+    <string name="btn_learn">Apprentissage</string>
+    <string name="btn_learn_tip">Veuillez pointer la télécommande vers le contrôleur infrarouge et appuyer brièvement sur le bouton que vous souhaitez apprendre.</string>
+    <string name="most_64_btns">Jusqu’à %d boutons peuvent être ajoutés pour l’apprentissage.</string>
+    <string name="btn_name_not_be_null">Le nom du bouton ne peut pas être vide</string>
+    <string name="learn_success">Apprendre avec succès</string>
+    <string name="please_input_btn_name">Veuillez saisir le nom du bouton</string>
+    <string name="remote_name">Nom de la télécommande</string>
+    <string name="rename">Renommer</string>
+    <string name="remove_remote_tip">Voulez-vous vraiment supprimer la télécommande « %s » ?</string>
+    <string name="relearn_key">Réapprendre</string>
+    <string name="remove_remote_btn_tip">Voulez-vous vraiment supprimer le bouton « %s » ?</string>
+    <string name="remotes">Télécommandes</string>
+    <string name="sure">Confirmer</string>
+    <string name="invalid_action">Action non valide</string>
+    <string name="homekit_qr_code">HomeKit QR Code</string>
+    <string name="matter_qr_code">Matter QR Code</string>
+    <string name="qr_code_empty_tip">Si vous ne parvenez pas à obtenir le code QR, veuillez mettre à niveau la passerelle vers le dernier micrologiciel.</string>
+    <string name="remote_name_not_be_null">Le nom de la télécommande ne peut pas être vide</string>
+    <string name="add_remote">Ajouter une télécommande</string>
+    <string name="history">Histoire</string>
+    <string name="gateway_upgrade_history">Historique de mise à niveau de la passerelle</string>
+    <string name="switch_key_4_azoula_16_channels">Switch (Touche 4) - Azoula 16 Canaux</string>
+    <string name="gateway_channel">Canal de passerelle</string>
+    <string name="gateway_channel_tip">Le canal de cette passerelle ne prend pas en charge le commutateur d’alimentation vert normal, vous devez changer de canal avant d’ajouter le commutateur d’alimentation vert normal. Veuillez noter que tous les appareils qui ont déjà été ajoutés devront être ajoutés à nouveau après le changement de chaîne.</string>
+    <string name="switch_key_4_standard_4_channels">Commutateur (touche 4) - Standard 4 canaux</string>
+    <string name="occupancy">Occupation</string>
+    <string name="co_detection">Détection de CO</string>
+    <string name="alarm_duration">Durée de l’alarme</string>
+    <string name="detected">Détecté</string>
+    <string name="normal">Normal</string>
+    <string name="gas_detection">Détection de gaz</string>
+    <string name="smoke_detection">Détection de fumée</string>
+    <string name="co_detected">CO détecté</string>
+    <string name="gas_detected">Gaz détecté</string>
+    <string name="smoke_detected">Fumée détectée</string>
+    <string name="co_is_detected">Du CO est détecté</string>
+    <string name="co_is_not_detected">Le CO n’est pas détecté</string>
+    <string name="gas_is_detected">Du gaz est détecté</string>
+    <string name="gas_is_not_detected">Le gaz n’est pas détecté</string>
+    <string name="smoke_is_detected">De la fumée est détectée</string>
+    <string name="smoke_is_not_detected">La fumée n’est pas détectée</string>
+    <string name="co_not_detected">CO non détecté</string>
+    <string name="gas_not_detected">Gaz non détecté</string>
+    <string name="smoke_not_detected">Fumée non détectée</string>
+    <string name="water_overflow">Débordement d’eau</string>
+    <string name="water_overflow_detected">Water overflow detected</string>
+    <string name="water_overflow_not_detected">Débordement d’eau non détecté</string>
+    <string name="water_overflow_is_detected">Un débordement d’eau est détecté</string>
+    <string name="water_overflow_is_not_detected">Le débordement d’eau n’est pas détecté</string>
+    <string name="rotation">Rotation</string>
+    <string name="top_right">En haut à droite</string>
+    <string name="top_left">En haut à gauche</string>
+    <string name="center">Centre</string>
+    <string name="bottom_left">En bas à gauche</string>
+    <string name="bottom_right">En bas à droite</string>
+    <string name="short_press">Appui court</string>
+    <string name="long_press">Appui long</string>
+    <string name="double_click">Double-cliquer</string>
+    <string name="no_action">Aucune action</string>
+    <string name="target">Cible</string>
+    <string name="add_target">Ajouter une cible</string>
+    <string name="remove_key_event_tip">Êtes-vous sûr de vouloir supprimer cet événement ?</string>
+    <string name="clockwise_rotation">Rotation dans le sens des aiguilles d’une montre</string>
+    <string name="anticlockwise_rotation">Rotation dans le sens inverse des aiguilles d’une montre</string>
+    <string name="anticlockwise">Dans le sens inverse des aiguilles d’une montre</string>
+    <string name="clockwise">Dans le sens des aiguilles d’une montre</string>
+    <string name="execute_scene_text">Exécuter la scène</string>
+    <string name="channel_successful_tip">La passerelle met à jour son canal. Veuillez patienter quelques minutes pour que la bonne chaîne s’affiche.</string>
+    <string name="log_watch">Montre de journal</string>
+    <string name="search">Rechercher</string>
+    <string name="unknown">Inconnu</string>
+    <string name="last_2_days">2 derniers jours</string>
+    <string name="last_7_days">7 derniers jours</string>
+    <string name="last_1_month">1 dernier mois</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="copy_log">Copier le journal</string>
+    <string name="fail_get_log">Impossible d’obtenir le journal.</string>
+    <string name="knob">Pommeau</string>
+    <string name="key_x">Clé %d</string>
+    <string name="air_conditioner">Climatiseur</string>
+    <string name="tv">TV</string>
+    <string name="tv_box">Boîtier TV</string>
+    <string name="internet_box">Internet Box</string>
+    <string name="fan">Éventail</string>
+    <string name="sound">Son</string>
+    <string name="projector">Projecteur</string>
+    <string name="custom_control">Contrôle personnalisé</string>
+    <string name="select_brand">Sélectionnez la marque</string>
+    <string name="no_brand_found">Aucune marque trouvée.</string>
+    <string name="select_type">Sélectionner le type</string>
+    <string name="uncontrollable">Incontrôlable</string>
+    <string name="controllable">Contrôlable</string>
+    <string name="can_the_device_be_controlled_properly">L’appareil peut-il être contrôlé correctement ?</string>
+    <string name="pairing">Appariement</string>
+    <string name="temp">TEMP</string>
+    <string name="vol">VOL</string>
+    <string name="ch">CH</string>
+    <string name="on_speed">ON/VITESSE</string>
+    <string name="shake">Secouer</string>
+    <string name="anion">Anion</string>
+    <string name="air_vol">Air VOL</string>
+    <string name="sleep_ir">Dormir</string>
+    <string name="timer_ir">Minuteur</string>
+    <string name="light">Lumière du soleil</string>
+    <string name="on_ir">MARCHE</string>
+    <string name="off_ir">ARRÊT</string>
+    <string name="fast_hot">F.Chaud</string>
+    <string name="fast_cool">F.Froid</string>
+    <string name="swing">BALANÇOIRE</string>
+    <string name="aux_heat">CHALEUR AUXILIAIRE</string>
+    <string name="mute">MUET</string>
+    <string name="power_uppercase">POUVOIR</string>
+    <string name="energy_uppercase">ÉNERGIE</string>
+    <string name="light_uppercase">LUMIÈRE</string>
+    <string name="sleep_uppercase">DORMIR</string>
+    <string name="mode_uppercase">MODE</string>
+    <string name="cooling">Refroidissement</string>
+    <string name="heating">Chauffage</string>
+    <string name="middle">Milieu</string>
+    <string name="up">En haut</string>
+    <string name="down">En bas</string>
+    <string name="zoom">ZOOM</string>
+    <string name="changed_to_auto_mode">Passer en mode automatique</string>
+    <string name="changed_to_cooling_mode">Passer en mode refroidissement</string>
+    <string name="changed_to_dry_mode">Passer en mode sec</string>
+    <string name="changed_to_fan_only_mode">Passer en mode ventilateur uniquement</string>
+    <string name="changed_to_heating_mode">Passer en mode chauffage</string>
+    <string name="set_a_temperature">Régler une température</string>
+    <string name="set_fan_speed_to_auto">Réglez la vitesse du ventilateur sur auto</string>
+    <string name="set_fan_speed_to_low">Réglez la vitesse du ventilateur sur faible</string>
+    <string name="set_fan_speed_to_middle">Réglez la vitesse du ventilateur sur le milieu</string>
+    <string name="set_fan_speed_to_higt">Réglez la vitesse du ventilateur sur élevé</string>
+    <string name="set_air_direction_to_up">Réglez la direction de l’air sur le haut</string>
+    <string name="set_air_direction_to_middle">Réglez la direction de l’air au milieu</string>
+    <string name="set_air_direction_to_down">Réglez la direction de l’air sur vers le bas</string>
+    <string name="set_auto_swing_to_off">Réglez l’oscillation automatique sur désactivé</string>
+    <string name="set_auto_swing_to_on">Réglez l’oscillation automatique sur on</string>
+    <string name="enable_sleep_mode">Activer le mode veille</string>
+    <string name="disable_sleep_mode">Désactiver le mode veille</string>
+    <string name="enable_aux_heat">Activer la chaleur auxiliaire</string>
+    <string name="disable_aux_heat">Désactiver la chaleur auxiliaire</string>
+    <string name="turn_off_the_light">Éteindre la lumière</string>
+    <string name="tun_on_the_light">Allumer la lumière</string>
+    <string name="enable_energy_saving_mode">Activer le mode d’économie d’énergie</string>
+    <string name="disable_energy_saving_mode">Désactiver le mode d’économie d’énergie</string>
+    <string name="enable_fast_cooling">Permettre un refroidissement rapide</string>
+    <string name="enable_fast_heating">Permettre un chauffage rapide</string>
+    <string name="enable_mute_mode">Activer le mode muet</string>
+    <string name="enable_powerful_mode">Activer le mode puissant</string>
+    <string name="led_state">État de la LED</string>
+    <string name="auto_ir">AUTO</string>
+    <string name="most_16_standard">Il est possible d’ajouter jusqu’à 16 télécommandes standard.</string>
+    <string name="air_direction">Direction de l’air</string>
+    <string name="no_btn_in_remote">Il n’y a pas de boutons dans cette télécommande, veuillez d’abord ajouter un bouton.</string>
+    <string name="sonos">Sonos</string>
+    <string name="add_sonos_tip">Vous êtes sur le point d’ajouter vos appareils Sonos.</string>
+    <string name="paused">Pause</string>
+    <string name="playing">Jeu</string>
+    <string name="play">Jouer</string>
+    <string name="set_vol">Régler le volume</string>
+    <string name="toggle_play_pause">Basculer Lecture/Pause</string>
+    <string name="previous">Précédent</string>
+    <string name="no_repeat">Pas de répétition</string>
+    <string name="repeat_one">Répétez l’opération</string>
+    <string name="repeat_playlist">Répéter la liste de lecture</string>
+    <string name="mute_the_vol">Couper le volume</string>
+    <string name="unmute_the_vol">Réactiver le volume</string>
+    <string name="shuffle_on">Lecture aléatoire activée</string>
+    <string name="shuffle_off">Lecture aléatoire désactivée </string>
+    <string name="next_music">Prochain</string>
+    <string name="sonos_error_tip">Quelque chose s’est mal passé lors du contrôle du salon, veuillez vérifier que votre haut-parleur SONOS fonctionne correctement.</string>
+    <string name="aborted">Abandonné</string>
+    <string name="sonos_systems">Systèmes SONOS</string>
+    <string name="delete_sonos_tip">Êtes-vous sûr de vouloir supprimer ce système SONOS ?</string>
+    <string name="sonos_name_tip">Entrez le nom du système SONOS</string>
+    <string name="sonos_system_name">Nom du système SONOS</string>
+    <string name="name_not_be_null">Le nom ne peut pas être null.</string>
+    <string name="no_sonos_systems_found">Aucun système SONOS n’a été détecté.</string>
+    <string name="sonos_music_tip">Veuillez d’abord ajouter des chansons à la liste de lecture dans l’application SONOS.</string>
+    <string name="add_sonos_start_tip">Assurez-vous que votre application SONOS peut lire de la musique normalement avec le son.nnAjoutez ensuite le son SONOS dans cette application.</string>
+    <string name="green_power_settings">Paramètres d’alimentation verte</string>
+    <string name="long_press_detection_time">Temps de détection d’appui long</string>
+    <string name="custom">Personnalisé</string>
+    <string name="value_range_1000_5000">Gamme de valeurs : 1000~5000</string>
+    <string name="top_left_released">Bouton supérieur gauche relâché</string>
+    <string name="top_right_released">Bouton supérieur droit relâché</string>
+    <string name="bottom_left_released">Bouton inférieur gauche relâché</string>
+    <string name="bottom_right_released">Bouton inférieur droit relâché</string>
+    <string name="button_released">Bouton relâché</string>
+    <string name="gateway_timezone">Fuseau horaire du portail</string>
+    <string name="sync">Synchronisation</string>
+    <string name="timezone_tip">Fuseau horaire du téléphone : %s</string>
+    <string name="timezone_tip2">Synchronisez le fuseau horaire du téléphone avec le portail.</string>
+    <string name="edit_zone">Modifier la zone</string>
+    <string name="stop_auto">Arrêter l'automatisation</string>
+    <string name="new_firmware">Nouveau micrologiciel</string>
+    <string name="new_firmware_tip">Nous avons publié une nouvelle version du micrologiciel. Veuillez mettre à jour le micrologiciel pour profiter d'une meilleure expérience.</string>
+    <string name="got_to_update">Accéder à la mise à jour</string>
+    <string name="ca_file_url_or_string">URL du fichier CA ou chaîne</string>
+    <string name="client_certificate_url_or_string">URL du certificat client ou chaîne</string>
+    <string name="client_key_url_or_string">URL de la clé client ou chaîne</string>
+    <string name="caInfo">Lors de l'utilisation de certificats auto-signés, spécifiez l'URL de téléchargement du certificat CA ou la chaîne du certificat CA.</string>
+    <string name="ckInfo">Lors de l'utilisation de certificats auto-signés, spécifiez l'URL de téléchargement de la clé client ou la chaîne de la clé client.</string>
+    <string name="ccInfo">Lors de l'utilisation de certificats auto-signés, spécifiez l'URL de téléchargement du certificat client ou la chaîne du certificat client.</string>
+    <string name="new_gateway_firmware">Nouveau micrologiciel du portail</string>
+    <string name="timezone_different_tip">Le fuseau horaire du portail est différent du fuseau horaire actuel du téléphone.</string>
+    <string name="no_notifications">Pas de notifications</string>
+    <string name="notifications">Notifications</string>
+    <string name="current_compensation">Courant actuel &amp; Compensation</string>
+    <string name="target_current">Courant cible</string>
+    <string name="unit_ma">mA</string>
+    <string name="value_range_100_6000_0">Plage de valeurs : 100.0~6000.0</string>
+    <string name="minimum_current_compensation">Compensation minimum du courant</string>
+    <string name="value_range_5000_20000">Plage de valeurs : 5000~20000</string>
+    <string name="min_current_tip">Vous devez redémarrer l'appareil pour que cette mise à jour de propriété prenne effet. Cette propriété est uniquement prise en charge par l'alimentation NFC.</string>
+    <string name="current_out_range">Le courant cible est hors de portée</string>
+    <string name="mincurrent_out_range">La compensation minimum du courant est hors de portée</string>
+    <string name="experiments">Expériences</string>
+    <string name="experimental_tip">Ce sont des fonctionnalités expérimentales et non supportées de l'application et peuvent disparaître à tout moment. Utilisez-les à vos propres risques.</string>
+    <string name="_4_screen_content">Contenu de l'écran 4″</string>
+    <string name="needs_screen_gateway_tip">Doit être utilisé avec un portail à écran de 4″.</string>
+    <string name="zone">Zone</string>
+    <string name="settings_screen_devices">Vos paramètres seront synchronisés avec les appareils à écran de 4″.</string>
+    <string name="no_devices_tip">Pas d'appareils, veuillez d'abord ajouter un appareil.</string>
+    <string name="no_scene_tip">Pas de scènes, veuillez d'abord ajouter une scène.</string>
+    <string name="no_zone_tip">Pas de zones, veuillez d'abord ajouter une zone.</string>
+    <string name="device_type">Type d'appareil</string>
+    <string name="curtain_type">Type de rideau</string>
+    <string name="reverse_output">Sortie inversée</string>
+    <string name="calibration">Calibrage</string>
+    <string name="curtain">Rideau</string>
+    <string name="normal_curtain">Rideau normal</string>
+    <string name="shutter">Volet</string>
+    <string name="change_type_tip">L'appareil sera supprimé. Êtes-vous sûr de vouloir changer le type d'appareil ?</string>
+    <string name="curtain_opening_time">Temps d'ouverture du rideau</string>
+    <string name="curtain_closing_time">Temps de fermeture du rideau</string>
+    <string name="blinds_opening_time">Temps d'ouverture des stores</string>
+    <string name="gap_travel_ratio">Ratio de déplacement de l'ouverture</string>
+    <string name="value_range_0_655_35">Plage de valeurs : 0-655.35</string>
+    <string name="blinds_closing_time">Temps de fermeture des stores</string>
+    <string name="curtain_opening_time_tip">Temps pour que les rideaux s'ouvrent à partir de la position fermée (unité : s). Affiche 0 si non calibré. Ajustable si des écarts sont trouvés après calibrage.</string>
+    <string name="curtain_closing_time_tip">Temps pour que les rideaux se ferment à partir de la position ouverte (unité : s). Affiche 0 si non calibré. Ajustable si des écarts sont trouvés après calibrage.</string>
+    <string name="blinds_opening_time_tip">Temps pour que les stores s'ouvrent à partir de la position fermée (unité : s). Affiche 0 si non calibré. Ajustable si des écarts sont trouvés après calibrage.</string>
+    <string name="blinds_closing_time_tip">Temps pour que les stores se ferment à partir de la position ouverte (unité : s). Affiche 0 si non calibré. Ajustable si des écarts sont trouvés après calibrage.</string>
+    <string name="gap_travel_tip">Définissez le ratio de déplacement de l'ouverture (plage : 0,1 % à 90 %, unité : 0,001). Formule de calcul : Ratio = 1000 * Déplacement de l'ouverture / Déplacement total. Applicable aux stores roulants et stores vénitiens calibrés.</string>
+    <string name="value_range_0_1_90">Plage de valeurs : 0.1-90</string>
+    <string name="illuminance_threshold">Seuil d'illuminance</string>
+    <string name="occupancy_detection_sensitivity">Sensibilité de détection de présence</string>
+    <string name="occupancy_led">LED de présence</string>
+    <string name="sensitivity">Sensibilité</string>
+    <string name="select_server">Sélectionner le serveur</string>
+    <string name="aws">AWS</string>
+    <string name="non_mainland_china_preferred">Préférence hors de la Chine continentale</string>
+    <string name="update_your_gateway_tip">Vous devez d'abord mettre à jour votre portail.</string>
+    <string name="aliyun">Aliyun</string>
+    <string name="mainland_china_preferred">Préférence pour la Chine continentale</string>
+    <string name="cloud_server">Serveur cloud</string>
+    <string name="change_cloud_server">Changer de serveur cloud</string>
+    <string name="change_cloud_server_tip">"Êtes-vous sûr de vouloir changer de serveur cloud ?  "</string>
+    <string name="change_server_fail">Échec du changement de serveur cloud</string>
+    <string name="manufacturer">Fabricant</string>
+    <string name="ip_mode">Mode IP</string>
+    <string name="automatic">Automatique</string>
+    <string name="ip_addr">Adresse IP</string>
+    <string name="subnet_mask">Masque de sous-réseau</string>
+    <string name="router">Routeur</string>
+    <string name="dns_1">DNS-1</string>
+    <string name="dns_2_optional">DNS-2 (Optionnel)</string>
+    <string name="hint_ip">0.0.0.0</string>
+    <string name="hint_subnet">255.255.255.0</string>
+    <string name="hint_dns">8.8.8.8</string>
+    <string name="phase_a">Phase A</string>
+    <string name="phase_b">Phase B</string>
+    <string name="phase_c">Phase C</string>
+    <string name="total_reactive_power">Puissance réactive totale</string>
+    <string name="total_active_power">Puissance active totale</string>
+    <string name="total_apparent_power">Puissance apparente totale</string>
+    <string name="total_meter_power">Puissance totale du compteur</string>
+    <string name="ac_frequency">Fréquence CA</string>
+    <string name="neutral_line_current">Courant de la ligne neutre</string>
+    <string name="phase_a_effective_voltage">Tension effective de la phase A</string>
+    <string name="phase_a_effective_current">Courant effectif de la phase A</string>
+    <string name="phase_a_active_power">Puissance active de la phase A</string>
+    <string name="phase_a_reactive_power">Puissance réactive de la phase A</string>
+    <string name="phase_a_apparent_power">Puissance apparente de la phase A</string>
+    <string name="phase_a_power_factor">Facteur de puissance de la phase A</string>
+    <string name="phase_b_effective_voltage">Tension effective de la phase B</string>
+    <string name="phase_b_effective_current">Courant effectif de la phase B</string>
+    <string name="phase_b_active_power">Puissance active de la phase B</string>
+    <string name="phase_b_reactive_power">Puissance réactive de la phase B</string>
+    <string name="phase_b_apparent_power">Puissance apparente de la phase B</string>
+    <string name="phase_b_power_factor">Facteur de puissance de la phase B</string>
+    <string name="phase_c_effective_voltage">Tension effective de la phase C</string>
+    <string name="phase_c_effective_current">Courant effectif de la phase C</string>
+    <string name="phase_c_active_power">Puissance active de la phase C</string>
+    <string name="phase_c_reactive_power">Puissance réactive de la phase C</string>
+    <string name="phase_c_apparent_power">Puissance apparente de la phase C</string>
+    <string name="phase_c_power_factor">Facteur de puissance de la phase C</string>
+
+
+    <string-array name="tvActions">
+        <item>Basculer l’alimentation</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>Basculer en mode muet</item>
+        <item>CH+ </item>
+        <item>CH- </item>
+    </string-array>
+    <string-array name="funActions">
+        <item>Activer ou désactiver</item>
+        <item>Basculer le secouement</item>
+        <item>Basculer le mode air</item>
+        <item>Basculer air VOL</item>
+        <item>Allumer ou éteindre la lumière</item>
+        <item>Basculer en mode veille</item>
+        <item>Réglé sur basse vitesse</item>
+        <item>Réglé sur vitesse moyenne</item>
+        <item>Réglé sur haute vitesse</item>
+    </string-array>
+
+    <string-array name="soundActions">
+        <item>Basculer l’alimentation</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>Basculer en mode muet</item>
+        <item>Jouer</item>
+        <item>Dernier</item>
+        <item>Arrêter</item>
+        <item>Prochain</item>
+        <item>Pause</item>
+    </string-array>
+
+    <string-array name="projectActions">
+        <item>Basculer l’alimentation</item>
+        <item>Quitter</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>ZOOM+ </item>
+        <item>ZOOM- </item>
+        <item>Basculer en mode muet</item>
+    </string-array>
+
+    <string-array name="prog_type_abb">
+        <item>App</item>
+        <item>Auto</item>
+        <item>HK</item>
+        <item>HA</item>
+        <item>Z2M</item>
+    </string-array>
+    <string-array name="month_abb">
+        <item>Janv. </item>
+        <item>Févr.</item>
+        <item>Mars </item>
+        <item>Avr.</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juill.</item>
+        <item>Août</item>
+        <item>Sept.</item>
+        <item>Oct.</item>
+        <item>Nov.</item>
+        <item>Déc.</item>
+    </string-array>
+
+    <string-array name="runModes">
+        <item>Pause</item>
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+        <item>Mode 9</item>
+        <item>Mode 10</item>
+        <item>Mode 11</item>
+        <item>Mode 12</item>
+        <item>Mode 13</item>
+        <item>Mode 14</item>
+        <item>Mode 15</item>
+        <item>Mode 16</item>
+        <item>Mode 17</item>
+        <item>Mode 18</item>
+        <item>Mode 19</item>
+        <item>Mode 20</item>
+        <item>Mode 21</item>
+        <item>Mode 22</item>
+        <item>Mode 23</item>
+        <item>Mode 24</item>
+        <item>Mode 25</item>
+        <item>Mode 26</item>
+        <item>Mode 27</item>
+        <item>Mode 28</item>
+        <item>Mode 29</item>
+        <item>Mode 30</item>
+        <item>Mode 31</item>
+        <item>Mode 32</item>
+        <item>Mode 33</item>
+        <item>Mode 34</item>
+        <item>Mode 35</item>
+
+    </string-array>
+</resources>
