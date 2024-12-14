@@ -1,0 +1,1227 @@
+<resources>
+    <string name="app_name">Azoula Smart</string>
+    <!--code-->
+    <string name="code_20001">Ungültige Anfrage.</string>
+    <string name="code_20002">Keine Berechtigungen.</string>
+    <string name="code_20003">Das Gateway ist bereits belegt.</string>
+    <string name="code_30001">Zeitlimit</string>
+    <string name="code_40001">Die E-Mail ist bereits registriert.</string>
+    <string name="code_40002">Ungültige E-Mail-Adresse.</string>
+    <string name="code_40003">Anmeldung fehlgeschlagen, E-Mail nicht registriert oder falsches Passwort.</string>
+    <string name="code_40004">Der Verifizierungscode ist nicht vorhanden.</string>
+    <string name="code_40005">Die Größe der Datei überschreitet die Höchstgrenze.</string>
+    <string name="code_40006">Ungültiger Bestätigungscode.</string>
+    <string name="code_40007">Ungültiges Zeichen.</string>
+    <string name="code_40008">Die Anmeldung ist abgelaufen, bitte melde dich erneut an.</string>
+    <string name="code_40009">Entität nicht gefunden.</string>
+    <string name="code_40010">Die Anfragen sind zu umfangreich, bitte versuche es später noch einmal.</string>
+    <string name="code_40011">Zu viele Login-Fehler, bitte versuche es nach 5 Minuten erneut.</string>
+    <string name="code_40018">Keine Aktualisierungen.</string>
+    <string name="code_99999">Unbekannter Fehler.</string>
+    <string name="unknown_issue">Unbekanntes Problem.</string>
+    <string name="email_no_register">Die E-Mail ist noch nicht registriert.</string>
+    <string name="no_user">Der Benutzer existiert nicht.</string>
+
+    <!--login-->
+    <string name="sign_in">Anmelden</string>
+    <string name="sign_up">Registrieren</string>
+    <string name="password">Passwort</string>
+    <string name="email">E-Mail</string>
+    <string name="type_an_email">Bitte gebe eine E-Mail ein</string>
+    <string name="type_a_password">Bitte gebe ein Passwort ein</string>
+    <string name="verification_code">Bestätigungscode</string>
+    <string name="obtain">Erhalte</string>
+    <string name="forgot_password">Passwort vergessen</string>
+    <string name="lan_login">LAN-Login</string>
+    <string name="send_code_success">Ein Verifizierungscode wurde an Deine E-Mail-Adresse gesendet.</string>
+    <string name="wrong_email_format">Falsches E-Mail-Format.</string>
+    <string name="password_format_alert_message">Das Passwort muss 6-20 Zeichen lang sein und darf nur Zahlen, Groß- und Kleinbuchstaben sowie die Zeichen @#$?.%^&amp;+= enthalten.</string>
+    <string name="reset_password">Passwort zurücksetzen</string>
+    <string name="read_agree">Ich habe die Bedingungen gelesen und zugestimmt &#160;</string>
+    <string name="privacy_policy">\"Datenschutzrichtlinie\"</string>
+    <string name="privacy_policy2">Datenschutzrichtlinie</string>
+    <!--root-->
+    <string name="home">Startseite</string>
+    <string name="room">Zone</string>
+    <string name="smart">Smart</string>
+    <string name="security">Sicherheit</string>
+    <string name="me">Me</string>
+    <string name="seconds_simple">%d</string>
+    <string name="done">Fertig</string>
+    <string name="network_management">Verwalte</string>
+    <string name="discovering_gateways">Gateways entdecken...</string>
+    <string name="local_gateway_login">Anmeldung am lokalen Gateway</string>
+    <!--add device -->
+    <string name="add_device_tip">Du bist dabei, deine Zigbee-Geräte hinzuzufügen.</string>
+    <string name="scan_device_tip">Bitte versetze deine Geräte in den "Kopplungsmodus". Wie du den "Kopplungsmodus" aktivierst, entnehme bitte dem Handbuch deines Geräts.</string>
+    <string name="stop">Stopp</string>
+    <string name="start">Start</string>
+    <string name="add_devices">Gerät(e) hinzufügen</string>
+    <!--home-->
+    <string name="favorite_scenes">Bevorzugte Szenen</string>
+    <string name="favorite_devices">Bevorzugte Geräte</string>
+    <string name="offline">Offline</string>
+    <string name="color">Farbe</string>
+    <string name="temperature">Temperatur</string>
+    <string name="remove_device">Gerät entfernen</string>
+    <string name="name">Bezeichnung</string>
+    <string name="model">Modell</string>
+    <string name="firmware">Firmware</string>
+    <string name="device_id">Geräte-ID</string>
+    <string name="updates">Aktualisierungen</string>
+    <string name="device_name">Name des Gerätes</string>
+    <string name="edit_device">Gerät bearbeiten</string>
+    <string name="remove_device_tip">Bist du sicher, dass du dieses Gerät entfernen willst?</string>
+    <string name="remove">Entfernen</string>
+    <string name="current_version">Aktuelle Version</string>
+    <string name="checking_for_updates">Nach Aktualisierungen suchen...</string>
+    <string name="update_now">Jetzt aktualisieren</string>
+    <string name="select_room">Zone auswählen</string>
+    <string name="save">Speichern</string>
+    <string name="value_percent">%d%%</string>
+    <string name="value_f_percent">%f%%</string>
+    <string name="cct_format">%dK</string>
+    <string name="type_device_name">Bitte gebe einen Gerätenamen ein</string>
+
+    <!--smart-->
+    <string name="scenes">Szenen</string>
+    <string name="automation">Automatisierung</string>
+    <!--zone-->
+    <string name="add_room">Zone hinzufügen</string>
+    <string name="deviceCount">%d Geräte</string>
+    <string name="edit_name">Name bearbeiten</string>
+    <string name="default_room">Standard-Zone</string>
+    <string name="devices_not_in_this_room">Geräte, die nicht in dieser Zone liegen</string>
+    <string name="remove_room">Zone entfernen</string>
+    <string name="room_name">Zone Name</string>
+    <string name="lights">Beleuchtung</string>
+    <string name="other">Andere</string>
+    <string name="wallpaper">Bildschirmhintergrund</string>
+    <string name="please_type_a_room_name">Bitte gebe einen Zonennamen ein</string>
+
+    <!--me-->
+    <string name="room_manage">Verwaltung der Zonen</string>
+    <string name="gateway">Gateway (Kabelmodem)</string>
+    <string name="settings">Einstellungen</string>
+    <string name="message_center">Nachrichtenzentrum</string>
+    <string name="energy">Energie</string>
+    <string name="about">Über</string>
+
+    <string name="profile_picture">Profilbild</string>
+    <string name="profile">Profil</string>
+    <string name="nickname">Spitzname</string>
+    <string name="account">Konto</string>
+    <string name="change_password">Passwort ändern</string>
+    <string name="delete_account">Konto löschen</string>
+    <string name="sign_out">Abmelden</string>
+    <!--scene-->
+    <string name="devices">Geräte</string>
+    <string name="actions">Aktionen</string>
+    <string name="actionsLot">Aktionen...</string>
+    <string name="scene_execute">Szene erfolgreich ausführen????</string>
+    <string name="turned_on">Gewechselt zu Ein</string>
+    <string name="turned_off">Gewechselt zu Aus</string>
+    <string name="turn_on">Schalte ein</string>
+    <string name="turn_off">Schalte aus</string>
+    <string name="toggle_on_off">Umschalten auf ein oder aus</string>
+    <string name="set_a_brightness">Einstellen der Helligkeit</string>
+    <string name="set_a_color_temperature">Temperatur einstellen</string>
+    <string name="set_a_color">Einstellen einer Farbe</string>
+    <string name="brightness_changed">Helligkeit wurde geändert</string>
+    <string name="color_temperature_changed">Farbtemperatur geändert</string>
+    <string name="color_changed">Farbe geändert</string>
+    <string name="remove_room_tip">Bist du sicher, dass du diese Zone entfernen willst?</string>
+    <string name="favorite">Favoriten</string>
+    <string name="please_type_a_scene_name">Bitte gebe einen Namen ein</string>
+    <string name="when">Wenn</string>
+    <string name="add_trigger">Auslöser hinzufügen</string>
+    <string name="and_optional">Und... (optional)</string>
+    <string name="add_condition">Bedingung hinzufügen</string>
+    <string name="remove_scene">Szene entfernen</string>
+    <string name="add_action">Aktion hinzufügen</string>
+    <string name="add_scene">Szene hinzufügen</string>
+    <string name="add_auto">Automatisierung hinzufügen</string>
+    <string name="edit_scene">Szene bearbeiten</string>
+    <string name="edit_auto">Automatisierung bearbeiten</string>
+    <string name="weekly">Wöchentlich</string>
+    <string name="daily">Täglich</string>
+    <string name="brightness_change">Helligkeit wurde geändert und %s %d%%</string>
+    <string name="time_is">Die Zeit ist %02d:%02d,&#160;</string>
+    <string name="every">Alle</string>
+    <string name="math_less">&lt;</string>
+    <string name="math_less_equal">≤</string>
+    <string name="math_equal">=</string>
+    <string name="math_more">&gt;</string>
+    <string name="math_more_equal">≥</string>
+    <string name="day">Tag</string>
+    <string name="monday_abbr">Mo</string>
+    <string name="tuesday_abbr">Di</string>
+    <string name="wednesday_abbr">Mit</string>
+    <string name="thursday_abbr">Do</string>
+    <string name="friday_abbr">Fr.</string>
+    <string name="saturday_abbr">Sa</string>
+    <string name="sunday_abbr">So</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+    <string name="weekdays">Werktags</string>
+    <string name="weekends">Am Wochenende</string>
+    <string name="conditions">Bedingungen</string>
+    <string name="triggers">Auslöser</string>
+    <string name="no_response">Keine Antwort</string>
+    <string name="edit_trigger">Auslöser bearbeiten</string>
+    <string name="edit_condition">Zustand bearbeiten</string>
+    <string name="edit_action">Aktion bearbeiten</string>
+    <string name="execute_scene">Ausführen von %s</string>
+    <string name="remove_scene_tip">Bist du sicher, dass du diese Szene entfernen willst?</string>
+    <string name="remove_repeater_tip">Bist du sicher, dass du diesen Schnellzugriff entfernen willst?</string>
+    <string name="remove_auto_tip">Bist du sicher, dass du dieses Auto entfernen willst?</string>
+    <string name="timer">Zeitschaltuhr</string>
+    <string name="is_turned_on">Ist eingeschaltet</string>
+    <string name="is_turned_off">Ist ausgeschaltet</string>
+    <string name="brightness_is">Die Helligkeit ist</string>
+
+    <string name="repeat">Wiederholen</string>
+    <string name="hour">Stunde</string>
+    <string name="minute">Minute</string>
+    <string name="time">Uhrzeit</string>
+    <string name="date">Datum</string>
+    <string-array name="repeats">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="month">
+        <item>Jeden Monat</item>
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+
+    <!--me-->
+    <string name="gateway_name">Gateway-Name</string>
+    <string name="local_gateway">Lokales Gateway</string>
+    <string name="gateway_id">Gateway-ID</string>
+    <string name="family_guests">Familie &amp; Gäste</string>
+    <string name="firmware_version">Firmware-Version</string>
+    <string name="reset_gateway">Gateway zurücksetzen</string>
+    <string name="remove_gateway">Gateway entfernen</string>
+    <string name="reset_gateway_tip">Bist du sicher, dass du die Einstellungen dieses Gateways zurücksetzen willst?</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="waiting_initialize">Warten auf die Initialisierung von Azoula...</string>
+    <string name="select_one_connect">Wähle ein Gateway aus, das du verbinden willst.</string>
+    <string name="hello">Hallo</string>
+    <string name="welcome_tip">Danke, dass Du Azoula in dein Haus eingeladen hast.</string>
+    <string name="add_gateway_tip">Beginnen wir mit dem Hinzufügen deines ersten Gateways.</string>
+    <string name="add_gateway">Gateway hinzufügen</string>
+    <string name="role">Rolle</string>
+    <string name="manager_tip">Ein Manager kann alles außer Benutzer verwalten.</string>
+    <string name="transfer_ownership">Übertragung des Eigentums</string>
+    <string name="transfer_tip">Übertrage das Eigentum an diesem Gateway an %s. Du wirst ein Manager.</string>
+    <string name="guest">Gast</string>
+    <string name="guest_tip">Ein Gast kann Geräte steuern.</string>
+    <string name="manager">Manager</string>
+    <string name="please_type_a_member_account">Bitte gebe ein Mitgliedskonto ein</string>
+    <string name="app_version">App-Version</string>
+    <string name="connect">Verbinden</string>
+    <string name="adding">füge hinzu ...</string>
+    <string name="connecting">Verbinden...</string>
+    <string name="add_failed">Das Hinzufügen ist fehlgeschlagen</string>
+    <string name="bind_tip">Das Gateway ist bereits verbunden. Bitte den Eigentümer des Gateways, dich einzuladen, dem Gateway beizutreten. Wenn Du das Gateway neu verbinden willst, setze es zuerst zurück.</string>
+    <string name="ok">OK</string>
+
+
+    <string name="no_device_in_room">Es gibt keine Geräte in dieser Zone, bitte füge zuerst ein Gerät hinzu.</string>
+    <string name="no_auto_scene">In diesem Gateway gibt es keine Automationen, bitte fügen Sie zuerst eine Automation hinzu.</string>
+    <string name="no_scene">Es gibt keine Szenen in diesem Gateway, bitte füge zuerst eine Szene hinzu.</string>
+    <string name="no_update">Keine Aktualisierungen verfügbar</string>
+    <string name="new_version">Neue Version</string>
+    <string name="connect_lost">Die Verbindung zum Gateway ist unterbrochen, bitte überprüfe das Netzwerk des Gateways.</string>
+    <string name="connectTip">Gateway-Verbindung verloren, Wiederherstellung der Verbindung...</string>
+    <string name="no_device_in_gateway">Es sind keine Geräte in diesem Gateway vorhanden, bitte füge zuerst ein Gerät hinzu.</string>
+    <string name="connect_failed">Verbindung fehlgeschlagen</string>
+    <string name="connect_success">Verbindung erfolgreich</string>
+    <string name="invite">Einladen</string>
+    <string name="add_user">Benutzer hinzufügen</string>
+    <string name="leave">Verlasse</string>
+    <string name="reset_pwd_success">Dein Passwort wurde geändert.</string>
+    <string name="gateway_reset_tip">Dieses Gateway wurde zurückgesetzt, bitte schließe ein anderes Gateway an.</string>
+    <string name="remove_gateway_tip">Bist du sicher, dass du dieses Gateway entfernen willst?</string>
+    <string name="reload_now">Jetzt neu laden</string>
+    <string name="remove_from_gateway_tip">Du wurdest von diesem Gateway entfernt, die App muss neu geladen werden.</string>
+    <string name="reset_success">Zurücksetzen des Gateways erfolgreich.</string>
+    <string name="leave_tip">Bist du sicher, dass du die App verlassen willst?</string>
+    <string name="remove_user_by_owner_tip">Bist du sicher, dass du %s entfernen willst?</string>
+    <string name="transfer_dialog_tip">Bist du sicher, dass du das Eigentum an %s übertragen willst?</string>
+    <string name="transfer">Übertragung</string>
+    <string name="owner_tip">Ein Besitzer kann alles verwalten.</string>
+    <string name="updating">Aktualisierung...</string>
+    <string name="update_fail">Aktualisierung fehlgeschlagen, bitte versuche es erneut.</string>
+    <string name="back_again_alert_msg">Zum Beenden erneut klicken</string>
+    <string name="icon">Icon</string>
+    <string name="no_permission">Keine Berechtigungen</string>
+    <string name="type_nickname">Bitte gebe einen Spitznamen ein</string>
+    <string name="type_gateway_name">Bitte gebe den Namen des Gateways ein</string>
+    <string name="edit_room">Zone bearbeiten</string>
+    <string name="token_invalidate">Das Login ist abgelaufen, bitte melde Dich erneut an.</string>
+    <string name="delete_account_tip">Bist du sicher, dass du dieses Konto löschen willst？Du kannst dann keine Geräte mehr über die Cloud steuern.</string>
+    <string name="user_be_owner">Du bist bereits der Besitzer dieses Gateways.</string>
+    <string name="device_offline_tip">Gerät ist offline.</string>
+    <string name="reload_device_type">Gerätetyp neu laden</string>
+    <string name="gw_timeout">Das Gateway antwortet nicht.</string>
+    <string name="press_tip">Drücke die Taste in der Mitte des Gateways, um eine Verbindung herzustellen.</string>
+    <string name="network_error">Netzwerkfehler</string>
+    <string name="local_connect_fail">Die Verbindung zum Gateway konnte nicht hergestellt werden. Bitte überprüfe dein Netzwerk und dein Gateway.</string>
+    <string name="remote_connect_fail">Die Verbindung zum Server konnte nicht hergestellt werden. Bitte überprüfe dein Netzwerk und versuche es erneut.</string>
+    <string name="code_20008">Dieser Benutzer ist bereits eingeladen worden.</string>
+    <string name="remoteConnectTip">Server-Verbindung unterbrochen, Wiederherstellung der Verbindung...</string>
+    <string name="try_again">Erneuter Versuch</string>
+    <string name="then">Und dann...</string>
+    <string name="executed">Ausgeführt</string>
+    <string name="owner">Eigentümer</string>
+    <string name="open">Öffne</string>
+    <string name="closed">Geschlossen</string>
+    <string name="reload_state">Status neu laden</string>
+    <string name="reload_sensor_tip">Du musst das Gerät zuerst aktivieren, um den Status des Geräts zu erhalten.</string>
+    <string name="empty_value">- -</string>
+    <string name="turned_open">Gewechselt zu Offen</string>
+    <string name="turned_closed">Gewechselt zu Geschlossen</string>
+    <string name="is_open">Ist offen</string>
+    <string name="is_closed">Ist geschlossen</string>
+    <string name="enabled">Aktiviert</string>
+    <string name="disabled">Deaktiviert</string>
+    <string name="sensor">Sensor</string>
+    <string name="generic">Allgemein</string>
+    <string name="socket">Steckdose</string>
+    <string name="lighting">Beleuchtung</string>
+    <string name="turned_occupied">Gewechselt zu Belegt</string>
+    <string name="turned_unoccupied">Gewechselt zu Unbelegt</string>
+    <string name="is_occupied">Ist besetzt</string>
+    <string name="is_unoccupied">Ist unbesetzt</string>
+    <string name="turned_alarmed">Gewechselt zu Alarmiert</string>
+    <string name="turned_not_alarmed">Gewechselt zu Nicht alarmiert</string>
+    <string name="is_alarmed">Ist alarmiert</string>
+    <string name="is_not_alarmed">Ist nicht alarmiert</string>
+    <string name="temperature_changed">Temperatur geändert</string>
+    <string name="humidity_changed">Luftfeuchtigkeit geändert</string>
+    <string name="measured_value_changed">Messwert geändert</string>
+    <string name="temperature_change">Temperatur geändert und %s %d℃</string>
+    <string name="humidity_change">Luftfeuchtigkeit geändert und %s %d%%</string>
+    <string name="measured_value_change">Messwert geändert und %s %dLux</string>
+    <string name="unit_temperature">℃</string>
+    <string name="value_temperature">%#.1f℃</string>
+    <string name="unit_lux">Lux</string>
+    <string name="value_lux">%dLux</string>
+    <string name="out_range">Der Wert liegt außerhalb des zulässigen Bereichs.</string>
+    <string name="range_value">Wertebereich:</string>
+    <string name="occupied">Belegt</string>
+    <string name="unoccupied">Unbesetzt</string>
+    <string name="not_alarmed">Nicht alarmiert</string>
+    <string name="alarmed">Alarmiert</string>
+    <string name="illuminance_changed">Beleuchtungsstärke geändert</string>
+    <string name="illuminance_change">Beleuchtungsstärke geändert und %s %dLux</string>
+    <string name="lan_ip">LAN-IP-ADRESSE</string>
+    <string name="mode">Modus</string>
+    <string name="off">Aus</string>
+    <string name="dry">Trocken</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Anleitung</string>
+    <string name="target_temperature">Zieltemperatur</string>
+    <string name="room_temperature">Raumtemperatur</string>
+    <string name="floor_temperature">Fußbodentemperatur</string>
+    <string name="room_temperature_changed">Raumtemperatur geändert</string>
+    <string name="floor_temperature_changed">Fußbodentemperatur geändert</string>
+    <string name="room_temperature_is">Die Raumtemperatur beträgt</string>
+    <string name="floor_temperature_is">Die Bodentemperatur beträgt</string>
+    <string name="temperature_is">Die Temperatur beträgt</string>
+    <string name="humidity_is">Die Luftfeuchtigkeit beträgt</string>
+    <string name="illuminance_is">Die Beleuchtungsstärke beträgt</string>
+    <string name="changed_to_off">Geändert zu Aus</string>
+    <string name="changed_to_manual">Geändert zu Manuell</string>
+    <string name="changed_to_auto">Geändert zu Auto</string>
+    <string name="changed_to_dry">Geändert zu Trocknen</string>
+    <string name="changed_to_away">Geändert zu Abwesend</string>
+    <string name="is_off_mode">Ist ausgeschaltet</string>
+    <string name="is_manual_mode">Ist im Modus Manuell</string>
+    <string name="is_auto_mode">Ist im Automatikmodus</string>
+    <string name="is_dry_mode">Ist im Modus Trocken</string>
+    <string name="is_away_mode">Ist im Abwesenheitsmodus</string>
+    <string name="away_mode_tip">Du kannst nur von deinem Gerät aus in den Abwesenheitsmodus wechseln.</string>
+    <string name="away">Auswärts</string>
+    <string name="room_temperature_change">Raumtemperatur geändert und %s %d℃</string>
+    <string name="floor_temperature_change">Fußbodentemperatur geändert und %s %d℃</string>
+    <string name="room_temperature_is_format">Die Raumtemperatur beträgt %s %d℃</string>
+    <string name="floor_temperature_is_format">Die Bodentemperatur beträgt %s %d℃</string>
+    <string name="temperature_is_format">Die Temperatur beträgt %s %d℃.</string>
+    <string name="humidity_is_format">Die Luftfeuchtigkeit beträgt %s %d%%</string>
+    <string name="illuminance_is_format">Die Beleuchtungsstärke beträgt %s %dLux</string>
+    <string name="brightness_is_format">Die Helligkeit ist %s %d%%%</string>
+    <string name="newDevices">Neue Geräte %d</string>
+    <string name="counts">Zählung %d</string>
+    <string name="hvac">HVAC</string>
+    <string name="zigbee_channel">Zigbee-Kanal</string>
+    <string name="change">Ändern</string>
+    <string name="change_zigbee_channel">Zigbee-Kanal wechseln</string>
+    <string name="change_channel_fail">Änderung fehlgeschlagen</string>
+    <string name="successful">Erfolgreich</string>
+    <string name="failed">Fehlgeschlagen</string>
+    <string name="changChannelTip">Stellen Sie sicher, dass alle Geräte online sind, bevor Sie die Kanäle ändern. Wenn einige Geräte nach dem Ändern der Kanäle nicht funktionieren, setzen Sie sie zurück und fügen Sie sie erneut hinzu.</string>
+    <string name="choose_add_mode">Wähle die gewünschte Hinzufügemethode.</string>
+    <string name="zigbee_standard">Zigbee - Standard</string>
+    <string name="zigbee_install_code">Zigbee - Code installieren</string>
+    <string name="zigbee_green_power">Zigbee - Ökostrom</string>
+    <string name="zi_code_tip">Du bist dabei, deine Zigbee-Geräte über Install Code hinzuzufügen.</string>
+    <string name="add_install_code">Installationscode hinzufügen</string>
+    <string name="error_qrcode">Fehler</string>
+    <string name="send_installcode_fail_tip">Das Senden von Installationscodes an das Gateway ist fehlgeschlagen, bitte versuche es später noch einmal.</string>
+    <string name="is_adding_tip">Du kannst im Moment keine Geräte hinzufügen, da jemand anderes gerade Geräte hinzufügt. Bitte versuche es nach 3 Minuten erneut.</string>
+    <string name="top_right_press_tip">Um eine Verbindung herzustellen, halte die Taste oben rechts 10 Sekunden lang gedrückt und lasse sie dann los.</string>
+    <string name="top_left_press_tip">Um eine Verbindung herzustellen, halte die obere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.</string>
+    <string name="bottom_left_press_tip">Um eine Verbindung herzustellen, halte die untere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.</string>
+    <string name="bottom_right_press_tip">Um eine Verbindung herzustellen, halte die Taste unten rechts 10 Sekunden lang gedrückt und lasse sie dann los.</string>
+    <string name="add_green_success_tip">Erfolg!\ndein Schalter ist angeschlossen.</string>
+    <string name="green_power_active_tip">Das hat funktioniert! Drücke nun gleichzeitig die Tasten oben rechts und unten links.</string>
+
+    <string name="top_left_pressed">Linke obere Taste gedrückt</string>
+    <string name="top_left_hold">Taste oben links halten</string>
+    <string name="top_right_pressed">Oben-rechts Taste gedrückt</string>
+    <string name="top_right_hold">    Oben-rechts Taste gehalten</string>
+    <string name="bottom_left_pressed">    Unten-links Taste gedrückt</string>
+    <string name="bottom_left_hold">    Unten-links Taste gehalten</string>
+    <string name="bottom_right_pressed">    Unten-rechts Taste gedrückt</string>
+    <string name="bottom_right_hold">    Unten-rechts Taste gehalten</string>
+    <string name="reset_settings">Einstellungen zurücksetzen</string>
+    <string name="reset_clear">Alle Inhalte und Einstellungen löschen</string>
+    <string name="reset_clear_tip">Bist du sicher, dass du alle Inhalte und Einstellungen dieses Gateways löschen willst?</string>
+    <string name="erase">Löschen</string>
+    <string name="temperature_display_units">Einheiten für die Temperaturanzeige</string>
+    <string name="unit_temperature_F">℉</string>
+    <string name="value_temperature_F">%d℉</string>
+    <string name="gateway_integration">Gateway-Integration</string>
+    <string name="cannot_find_my_gateway">Ich kann mein Gateway nicht finden?</string>
+    <string name="add_sub_gw">Sub-Gateway hinzufügen</string>
+    <string name="gateway_has_no_sub_gateways">Dieses Gateway hat keine Sub-Gateways.</string>
+    <string name="primary_gateway">Primäres Gateway</string>
+    <string name="sub_gateway_id">Sub-Gateway-ID</string>
+    <string name="sub_gateway">Sub-Gateway</string>
+    <string name="delete_gateway_integration">Gateway-Integration löschen</string>
+    <string name="sure_remove_sub_gw">Bist du sicher, dass du dieses Sub-Gateway entfernen willst?</string>
+    <string name="remove_subgw_fail">Entfernen fehlgeschlagen, bitte versuche es später noch einmal.</string>
+    <string name="remove_subgw_success">Entfernen erfolgreich!</string>
+    <string name="remove_subgw_tip">Sub-Gateway entfernen...</string>
+    <string name="sure_delete_gw_integration">Bist du sicher, dass du diese Gateway-Integration löschen willst?</string>
+    <string name="remove_gw_integration_tip">Löschen der Gateway-Integration...</string>
+    <string name="remove_ge_integrater_fail">Löschen fehlgeschlagen, bitte versuche es später noch einmal.</string>
+    <string name="remove_gw_intergrater_success">Löschen erfolgreich, App jetzt neu laden.</string>
+    <string name="add">Hinzufügen</string>
+    <string name="get_config">Konfiguration erhalten...</string>
+    <string name="add_subgw_tip">Sub-Gateway hinzufügen...</string>
+    <string name="add_subgw_success">Hinzufügen erfolgreich, du musst deine App jetzt neu laden.</string>
+    <string name="add_subgw_fail">Das Hinzufügen ist fehlgeschlagen, bitte versuche es später erneut.</string>
+    <string name="select_a_gateway_to_add_devices">Wähle ein Gateway, um Geräte hinzuzufügen</string>
+    <string name="select_gateway">Gateway auswählen</string>
+    <string name="get_config_fail">Konfiguration abrufen fehlgeschlagen, bitte versuche es später noch einmal.</string>
+    <string name="gw_be_sub">Dieses Gateway wurde als Sub-Gateway eingerichtet, bitte verbinde dich mit einem anderen Gateway.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="circadian_rhythm">Zyklischer Rhythmus</string>
+    <string name="loading">Lade...</string>
+    <string name="change_mode">Modus ändern</string>
+    <string name="gradual">Schrittweise Veränderung</string>
+    <string name="gradient_mode_tip">Steigung über die gesamte Strecke zwischen zwei Punkten.</string>
+    <string name="chage_delay_tip">Änderungen in %d Minuten vornehmen.</string>
+    <string name="last_minutes">Dauert %d Minuten</string>
+    <string name="points">Punkte</string>
+    <string name="cct">CCT</string>
+    <string name="dim">DIM</string>
+    <string name="add_point">Punkt hinzufügen</string>
+    <string name="restore_to_the_preset_points">Wiederherstellung der voreingestellten Punkte</string>
+    <string name="point_name">Punktname</string>
+    <string name="color_temperature">Farbtemperatur</string>
+    <string name="edit_point">Punkt bearbeiten</string>
+    <string name="wake_up">Wecken</string>
+    <string name="sunlight">Sonnenlicht</string>
+    <string name="comfortable">Komfortabel</string>
+    <string name="night_light">Nachtlicht</string>
+    <string name="edit_points">Punkte bearbeiten</string>
+    <string name="brightness">Helligkeit</string>
+    <string name="no_point_name_tip">Bitte gebe einen Punktnamen ein.</string>
+    <string name="same_start_time_tip">Ein anderer Punkt wurde auf die gleiche Zeit gesetzt.</string>
+    <string name="point_least_2_size_tip">Bitte füge mindestens 2 Punkte hinzu.</string>
+    <string name="most_24_points_tip">Du kannst nur bis zu 24 Punkte hinzufügen.</string>
+    <string name="duration">Laufzeit</string>
+    <string name="cct_k_format">CCT:%dK</string>
+    <string name="dim_format">DIM:%d%%</string>
+    <string name="power_up_state">Einschaltstatus</string>
+    <string name="on">An</string>
+    <string name="toggle">Umschalten</string>
+    <string name="latest">Neueste</string>
+    <string name="this_device_is_not_set_up_yet">Dieses Gerät ist noch nicht eingerichtet.</string>
+    <string name="set_now">Jetzt einstellen</string>
+    <string name="repeaters">Schnellsteuerungen</string>
+    <string name="scene">Szene</string>
+    <string name="repeater">Schnellzugriff</string>
+    <string name="scene_desc">Speichere den aktuellen Zustand des Geräts als Szene.</string>
+    <string name="repeater_desc">Führe die Geräteaktionen mehrfach aus.</string>
+    <string name="automation_desc">Geräteaktionen automatisch ausführen.</string>
+    <string name="devicesLot">Geräte…</string>
+    <string name="add_device">Gerät hinzufügen</string>
+    <string name="add_repeater">Schnellzugriff hinzufügen</string>
+    <string name="repeat_count">Zählung wiederholen</string>
+    <string name="keep_repeating">Wiederhole</string>
+    <string name="value_range_1_65534">Wertebereich: 1~65534</string>
+    <string name="delay">Verzögerung</string>
+    <string name="value_range_0_999">Wertebereich: 0~999</string>
+    <string name="hour_abb">h</string>
+    <string name="minute_abb">m</string>
+    <string name="second_abb">s</string>
+    <string name="millisecond_abb">ms</string>
+    <string name="delay_format">%dh %dm %ds %dms</string>
+    <string name="no_delay">Keine Verzögerung</string>
+    <string name="change_the_device_state">Gerätestatus ändern</string>
+    <string name="bound_devices">Verbundene Geräte</string>
+    <string name="bind_now">Jetzt verbinden</string>
+    <string name="there_are_no_bound_devices">Es gibt keine gebundenen Geräte.</string>
+    <string name="edit_repeater">Schnellzugriff bearbeiten</string>
+    <string name="most_20_scenes">Sie können nicht mehr als 255 Szenen hinzufügen.</string>
+    <string name="no_repeater">Es gibt keinen Schnellzugriff in diesem Gateway, bitte füge zuerst eine Schnellzugriff hinzu.</string>
+    <string name="random_time">Zufallsgenerierte Zeit</string>
+    <string name="no_random_time">Keine zufallsgenerierte Zeit</string>
+    <string name="device_is_offline">Dieses Gerät ist offline.</string>
+    <string name="contains_offline_device">Speichern fehlgeschlagen, einige der ausgewählten Geräte sind offline.</string>
+    <string name="most_30_bind">Es können nicht mehr als 30 Geräte verbunden werden.</string>
+    <string name="bind_press_tip">Bitte drücke eine der Schalttasten, um den Schalter zu aktivieren.</string>
+    <string name="binding">Verbinde ...</string>
+    <string name="unbinding">Abkoppeln...</string>
+    <string name="state">Zustand</string>
+    <string name="executing">Ausführen von</string>
+    <string name="stopped">Gestoppt</string>
+    <string name="change_state">Status ändern</string>
+    <string name="execute">Ausführen</string>
+    <string name="edit_weekly">Wöchentlich bearbeiten</string>
+    <string name="edit_daily">Täglich bearbeiten</string>
+    <string name="add_scene_part_success_tip">Die Szene wurde erfolgreich hinzgefügt! Einige Aktionen konnten nicht hinzugefügt werden, bitte überprüfe, ob die Geräte online sind.</string>
+    <string name="update_scene_part_success_tip">Einige Geräte konnten nicht hinzugefügt werden. Bitte überprüfe, ob die Geräte online sind. Wir empfehlen, nicht mehr verwendete Geräte zu löschen.</string>
+    <string name="delete_scene_part_success_tip">Einige Geräte konnten nicht entfernt werden. Bitte überprüfe, ob die Geräte online sind. Wir empfehlen, nicht mehr verwendete Geräte zu löschen.</string>
+    <string name="device_scene_add_fail">Das Hinzufügen eines Geräts ist fehlgeschlagen. Bitte prüfe, ob dieses Gerät eingeschaltet und erreichbar ist.</string>
+    <string name="device_scene_save_fail">Gerät speichern fehlgeschlagen, bitte prüfe, ob dieses Gerät online ist.</string>
+    <string name="total_energy_consumption">Gesamtenergieverbrauch</string>
+    <string name="latest_updated">Letzte Aktualisierung</string>
+    <string name="total">Gesamt</string>
+    <string name="rooms">Zonen</string>
+    <string name="no_data">Keine Daten</string>
+    <string name="selectTarget">Ziel auswählen</string>
+    <string name="power">Strom</string>
+    <string name="power_range">0-32768</string>
+    <string name="save_power_fail">Speichern fehlgeschlagen, dieses Gerät antwortet nicht.</string>
+    <string name="power_setting">Stromeinstellungen</string>
+    <string name="no_zone_in_gw">Es sind keine Zonen in diesem Gateway vorhanden, bitte füge zuerst eine Zone hinzu.</string>
+    <string name="onoff_transition_time">EinAus Übergangszeit</string>
+    <string name="_0_1s">× 0.1s</string>
+    <string name="value_range_0_65535">Wertebereich: 0~65535</string>
+    <string name="saved">Gespeichert</string>
+    <string name="saved_tip">Einige Geräte können nicht gespeichert werden. Vergewissere dich, dass Du online bist, und versuche es dann erneut.</string>
+    <string name="failed_devices">Fehlgeschlagene Geräte</string>
+    <string name="groups">Gruppen</string>
+    <string name="sockets">Steckdosen</string>
+    <string name="on_uppercase">AN</string>
+    <string name="off_uppercase">AUS</string>
+    <string name="sensors">Sensoren</string>
+    <string name="switches">Schalter</string>
+    <string name="no_sensor_in_gateway">Es sind keine Sensoren in diesem Gateway vorhanden, bitte füge zuerst einen Sensor hinzu.</string>
+    <string name="no_switch_in_gateway">Es sind keine Schalter in diesem Gateway vorhanden, bitte füge zuerst einen Schalter hinzu.</string>
+    <string name="others">Andere</string>
+    <string name="multiple">Mehrere</string>
+    <string name="multiple_selection">Mehrfache Auswahl</string>
+    <string name="no_light_in_gateway">Es gibt keine Beleuchtung in diesem Gateway, bitte füge zuerst eine Beleuchtung hinzu.</string>
+    <string name="no_socket_in_gateway">Es gibt keine Steckdosen in diesem Gateway, bitte füge zuerst eine Steckdose hinzu.</string>
+    <string name="select_all">Alle auswählen</string>
+    <string name="next">Weiter</string>
+    <string name="top_right_press_tip_12">Um eine Verbindung herzustellen, halte die rechte obere Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell 1 Mal die rechte obere Taste(n).</string>
+    <string name="top_right_press_tip_13">Um eine Verbindung herzustellen, halte die rechte obere Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\n Drücke dann schnell 2 Mal die rechte obere Taste.</string>
+    <string name="top_right_press_tip_14">Um eine Verbindung herzustellen, halte die rechte obere Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\n Drücke dann schnell 3 Mal die rechte obere Taste.</string>
+    <string name="top_left_press_tip_16">Um eine Verbindung herzustellen, halte die obere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell 1 Mal die obere linke Taste(n).</string>
+    <string name="top_left_press_tip_17">Um eine Verbindung herzustellen, halte die obere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell 2 Mal die obere linke Taste(n).</string>
+    <string name="top_left_press_tip_18">Um eine Verbindung herzustellen, halte die obere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell 3 Mal die obere linke Taste(n).</string>
+    <string name="bottom_left_press_tip_19">Um eine Verbindung herzustellen, halte die untere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell 3 Mal die untere linke Taste(n).</string>
+    <string name="bottom_left_press_tip_21">Um eine Verbindung herzustellen, halte die untere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell die untere linke Taste 1 Mal(s).</string>
+    <string name="bottom_left_press_tip_22">Um eine Verbindung herzustellen, halte die untere linke Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDann drücke die untere linke Taste schnell 2 Mal(e).</string>
+    <string name="bottom_right_press_tip_23">Um eine Verbindung herzustellen, halte die untere rechte Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\n Drücke dann schnell 2 Mal die untere rechte Taste.</string>
+    <string name="bottom_right_press_tip_24">Um eine Verbindung herzustellen, halte die untere rechte Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\n Drücke dann schnell 3 Mal die untere rechte Taste.</string>
+    <string name="bottom_right_press_tip_26">Um eine Verbindung herzustellen, halte die untere rechte Taste 10 Sekunden lang gedrückt und lasse sie dann los.\n\nDrücke dann schnell 1 Mal die untere rechte Taste(n).</string>
+    <string name="no_device_in_zone_tip">Es gibt keine Geräte in dieser Zone, bitte füge zuerst ein Gerät hinzu.</string>
+    <string name="action_not_available">Diese Aktion ist nicht verfügbar, bitte entferne sie.</string>
+    <string name="update_binding_devices">Bindungsgeräte aktualisieren</string>
+    <string name="unfinished">Unvollendet</string>
+    <string name="zone_create_device_fail">Der Zonenname und das Bild wurden gespeichert, aber die Geräte wurden nicht gespeichert. Vergewissere dich, dass Du online bist, und versuche es erneut.</string>
+    <string name="transition_time">Übergangszeit</string>
+    <string name="delete_zone_fail">Zone entfernen ist fehlgeschlagen, bitte versuche es später noch einmal.</string>
+    <string name="save_faild_sure_online">Speichern fehlgeschlagen, bitte stelle sicher, dass dein Gerät online ist.</string>
+    <string name="then_delay">Dann verzögern</string>
+    <string name="no">Nein</string>
+    <string name="no_sensor">Kein Sensor</string>
+    <string name="unknown_device">Unbekanntes Gerät</string>
+    <string name="unknown_scene">Unbekannte Szene</string>
+    <string name="unknown_group">Unbekannte Zone</string>
+    <string name="identify">Identifiziere</string>
+    <string name="gateway_updates">Gateway-Aktualisierungen</string>
+    <string name="too_many_actions">Es gibt zu viele Aktionen, Du musst zuerst einige Aktionen entfernen.</string>
+    <string name="too_many_actions_conditions">Es gibt zu viele Bedingungen oder Aktionen, Du musst zuerst einige Bedingungen oder Aktionen entfernen.</string>
+    <string name="level_is">Die Stufe ist</string>
+    <string name="lift_is">Hub ist</string>
+    <string name="set_a_level">Ebene festlegen</string>
+    <string name="set_a_lift">Hub einstellen</string>
+    <string name="level_is_format">Die Stufe ist %s %d%%</string>
+    <string name="lift_is_format">Der Prozentsatz des Hubes beträgt %s %d%%</string>
+    <string name="device_no_response">Gerät antwortet nicht</string>
+    <string name="no_response_tip">Please check:\n\n1. If the device is plugged to a power outlet.\n
+2. If the router and gateway are working normally.\n
+3. If the device is too far from the gateway or if there’s an obstacle in between.</string>
+    <string name="close">Schließen</string>
+    <string name="pause">Pause</string>
+    <string name="group">Gruppe</string>
+
+    <string name="motion">Bewegung</string>
+    <string name="sensor_temperature">Temperatur</string>
+    <string name="humidity">Luftfeuchtigkeit</string>
+    <string name="illumination">Die Beleuchtung</string>
+    <string name="select_sensor_type">Sensortyp auswählen</string>
+    <string name="motion_sensor">Bewegungssensor</string>
+    <string name="temperature_sensor">Temperatursensor</string>
+    <string name="humidity_sensor">Luftfeuchtigkeitssensor</string>
+    <string name="illumination_sensor">Beleuchtungssensor</string>
+    <string name="sub_gateway_name">Sub-Gateway Name</string>
+    <string name="lift_percentage_is">Der Prozentsatz des Hubes beträgt</string>
+    <string name="tilt_percentage_is">Der Neigungsprozentsatz beträgt</string>
+    <string name="set_a_tilt">Neigung einstellen</string>
+    <string name="tilt_is_format">Der Neigungsprozentsatz beträgt %s %d%%</string>
+
+    <string name="step_brightness_up">Helligkeit erhöhen</string>
+    <string name="step_brightness_down">Helligkeit herunterschalten</string>
+    <string name="step_color_temperature_up">Farbtemperatur erhöhen</string>
+    <string name="step_color_temperature_down">Farbtemperatur herunterschalten</string>
+    <string name="step_hue_up">Farbton erhöhen</string>
+    <string name="step_hue_down">Farbton herunterschalten</string>
+    <string name="move_brightness_up">Helligkeit erhöhen</string>
+    <string name="move_brightness_down">Helligkeit herunterschalten</string>
+    <string name="stop_moving_brightness">Helligkeit nicht mehr verschieben</string>
+    <string name="move_color_temperature_up">Farbtemperatur erhöhen</string>
+    <string name="move_color_temperature_down">Farbtemperatur nach unten schalten</string>
+    <string name="stop_moving_color_temperature">Farbtemperatur nicht mehr verschieben</string>
+    <string name="move_hue_up">Farbton erhöhen</string>
+    <string name="move_hue_down">Farbton nach unten schalten</string>
+    <string name="stop_moving_hue">Farbton nicht mehr verschieben</string>
+    <string name="max_color_temperature">Max. Farbtemperatur</string>
+    <string name="min_color_temperature">Min. Farbtemperatur</string>
+    <string name="rate">Bewertung</string>
+    <string name="step_size">Schrittweite</string>
+    <string name="direct_change">Direkter Wechsel</string>
+    <string name="delete_gw_name_pwd_tip">Bist du sicher, dass du alle Anmeldeinformationen des Gateways löschen willst?</string>
+    <string name="deleted">Gelöscht</string>
+    <string name="bind_other_tip">Es ist ein unbekannter Fehler aufgetreten, bitte versuche es erneut.</string>
+    <string name="closed_2">Geschlossen</string>
+    <string name="open_2">Öffne</string>
+    <string name="lan_mqtt">LAN-MQTT</string>
+    <string name="username">Benutzername</string>
+    <string name="ip">IP</string>
+    <string name="copied">Kopiert</string>
+    <string name="active_power">Aktuelle Leistung</string>
+    <string name="meter_power">Messgerät Strom</string>
+    <string name="unit_w_format">%dW</string>
+    <string name="unit_kwh">kWh</string>
+    <string name="home_assistant">Home Assistentin</string>
+    <string name="failed_to_load">Der Ladevorgang ist fehlgeschlagen.</string>
+    <string name="retry">Wiederholungsversuch</string>
+    <string name="mqtt_mode">MQTT Modus</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="language">Sprache</string>
+    <string name="english">Englisch</string>
+    <string name="other_clients_connect_tip">Andere Clients stellen eine Verbindung zu diesem Gateway her.</string>
+    <string name="gateway_connect_server_tip">Dieses Gateway stellt die Verbindung zum Server her.</string>
+    <string name="server_information">Server-Informationen</string>
+    <string name="client_id">Client-ID</string>
+    <string name="automatically_generated">Automatisch generiert</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="mqtt_transfer">MQTT Transfer</string>
+    <string name="tcp">TCP</string>
+    <string name="SSL">SSL</string>
+    <string name="saving">Speichern...</string>
+    <string name="saved2">Gespeichert!</string>
+    <string name="failed_to_save">Das Speichern ist fehlgeschlagen.</string>
+    <string name="simplified_chinese">Vereinfachtes Chinesisch</string>
+    <string name="traditional_chinese">Traditionelles Chinesisch</string>
+    <string name="forced_heating_time">Erzwungene Aufheizzeit</string>
+    <string name="anti_freezing_temperature">Gefrierschutztemperatur</string>
+    <string name="child_lock">Kindersicherung</string>
+    <string name="battery_percentage">Prozentsatz der Batterie</string>
+    <string name="forced">Erzwungen</string>
+    <string name="sleep">Ruhen</string>
+    <string name="select_green_type">Bitte wähle dein Ökostrom-Gerätetyp.</string>
+    <string name="switch_key_4">Schalter (Taste 4)</string>
+    <string name="switch_key_1">Schalter (Taste 1)</string>
+    <string name="green_one_tip">To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.\n\n
+If the next step operation instruction doesn\'t pop up, short press the button once and then wait for 5 seconds again.\n
+This operation shall be repeated until the next step operation instruction pops up.</string>
+    <string name="green_one_work_tip">Das hat funktioniert! Halte nun die Taste für mehr als 10 Sekunden gedrückt und lasse sie dann los.</string>
+    <string name="lock">Sperre</string>
+    <string name="unlock">Freischaltung</string>
+    <string name="changed_to_sleep">Geändert zu Ruhestand</string>
+    <string name="changed_to_forced">Geändert zu Erzwungen</string>
+    <string name="is_sleep_mode">Ist im Ruhemodus</string>
+    <string name="is_forced_mode">Ist im Modus Erzwungen</string>
+    <string name="change_to_sleep">Ändern zu Ruhestand</string>
+    <string name="change_to_forced">Auslöse-Methode</string>
+    <string name="button_pressed">Taste gedrückt</string>
+    <string name="button_hold">Taste gedrückt</string>
+    <string name="advanced">Erweitert</string>
+    <string name="external_switch_type">Externer Schaltertyp</string>
+    <string name="pwm_frequency">PWM-Frequenz</string>
+    <string name="dimming_curve">Dimmkurve</string>
+    <string name="push_button_switch">Druckknopfschalter</string>
+    <string name="normal_on_off_switch">Normaler Ein/Aus-Schalter</string>
+    <string name="_3_way_switch">3-Wege-Schalter</string>
+    <string name="linear">Geradlinig</string>
+    <string name="logarithmic_gamma_1_5">Logarithmischer Gamma-Wert 1,5</string>
+    <string name="logarithmic_gamma_1_8">Logarithmischer Gamma-Wert 1,8</string>
+    <string name="value_range_format">Wertebereich: %d~%d</string>
+    <string name="manufacturer_name">Hersteller Name</string>
+    <string name="delete">Löschen</string>
+    <string name="trigger_method">Ereignis wird manuell vom Benutzer ausgelöst.</string>
+    <string name="trigger_manually_tip">Ereignis wird durch alle Methoden ausgelöst.</string>
+    <string name="trigger_auto_tip">Manuell</string>
+    <string name="manually">Automationen</string>
+    <string name="automations">Automation aktivieren</string>
+    <string name="enable_auto">Automation deaktivieren</string>
+    <string name="disable_auto">Alle</string>
+    <string name="all">Unterhaltung</string>
+    <string name="entertainment">Unterhaltung hinzufügen</string>
+    <string name="add_entertainment">Unterhaltung bearbeiten</string>
+    <string name="edit_entertainment">Den Zustand von Zonen oder Geräten nacheinander ändern.</string>
+    <string name="entertainment_desc">Zonen…</string>
+    <string name="zonesLot">Beat</string>
+    <string name="beat">Spektrum</string>
+    <string name="spectrum">Musikmodus</string>
+    <string name="music_mode">Azoula Smart möchte Ihre Musikdateien kennen</string>
+    <string name="app_need_music_tip">Bitte wählen Sie eine Zone aus</string>
+    <string name="no_group_set_tip">Bitte verwenden Sie die lokale Gateway-Anmeldung</string>
+    <string name="use_local_connect">Musik zu diesem Gerät hinzufügen</string>
+    <string name="nomusic">Einstellungen</string>
+    <string name="setting">Stellen Sie eine Temperatur oder Farbe ein</string>
+    <string name="set_cct_or_color">Aktion</string>
+    <string name="action">●</string>
+    <string name="circleText">Unterstützt bis zu 6 Lichter</string>
+    <string name="support_6_light">Sind Sie sicher, dass Sie diese Unterhaltung entfernen möchten?</string>
+    <string name="remove_fun_tip">Bitte stellen Sie die gleiche Übergangszeit für Helligkeit und Farbe ein</string>
+    <string name="set_same_trans_tip">Bitte stellen Sie eine Temperatur oder Farbe ein</string>
+    <string name="select_cct_color_tip">Bitte stellen Sie eine Farbe ein</string>
+    <string name="zones">Zonen</string>
+    <string name="set_color_tip">Bitte stellen Sie eine Temperatur ein</string>
+    <string name="set_cct_tip">Unterstützt bis zu %d Zonen</string>
+    <string name="support_13_zone">Bitte stellen Sie eine Helligkeit ein</string>
+    <string name="set_br_tip">Übergangszeit %s</string>
+    <string name="transition_time_value">Es gibt keine Unterhaltung in diesem Gateway, bitte fügen Sie zuerst eine Unterhaltung hinzu.</string>
+    <string name="no_fun_scene">Temperatur wird ungültig, sind Sie sicher, dass Sie die Eigenschaften ändern möchten?</string>
+    <string name="change_to_color_tip">Farbe wird ungültig, sind Sie sicher, dass Sie die Eigenschaften ändern möchten?</string>
+    <string name="change_to_cct_tip">Keine Musik</string>
+    <string name="no_music">Musik zu diesem Gerät hinzufügen</string>
+    <string name="add_music_to_this_device">Einstellungen</string>
+    <string name="allow_to_music_permission">To use the music mode of this app, please enable access to music and other audio files.\n\n
+Click the button below to open settings and authorize</string>
+    <string name="spi_set_tip">Von Glühbirnen</string>
+    <string name="of_bulbs">Anzahl der Glühbirnen im Segment %d</string>
+    <string name="number_of_bulbs_in_segment">Läuft</string>
+    <string name="running">Geschwindigkeit</string>
+    <string name="speed">SPI IC Einstellung</string>
+    <string name="spi_ic_setting">Segmentiertes Lichtband</string>
+    <string name="segmented_light_strip">Wertbereich: 4~1020</string>
+    <string name="value_range_4_1020">Sind Sie sicher, dass Sie das „Segmentierte Lichtband“ zurücksetzen möchten?</string>
+    <string name="sure_reset_segmented_tip">Wert einstellen (Max: %d)</string>
+    <string name="set_seg_max_tip">Wert einstellen (Min: 1)</string>
+    <string name="set_seg_min_tip">Sie müssen Ihr Gerät nach der Änderung der SPI IC-Einstellung neu starten.</string>
+    <string name="repower_spi">SPI IC-Einstellung wird abgerufen...</string>
+    <string name="getting_spi_ic_setting">Zeitüberschreitung beim Abrufen der SPI IC-Einstellung.</string>
+    <string name="getting_spi_ic_setting_timeout">Bitte stellen Sie sicher, dass das Gerät ordnungsgemäß funktioniert, und versuchen Sie es dann erneut.</string>
+    <string name="make_sure_device_works_tip">Nur Ventilator</string>
+    <string name="fan_only">Kühlung</string>
+    <string name="cool">Heizung</string>
+    <string name="heat">Ventilatorgeschwindigkeit</string>
+    <string name="fan_speed">Niedrig</string>
+    <string name="low">Mittel</string>
+    <string name="medium">Hoch</string>
+    <string name="high">Ändern zu Abwesenheit</string>
+    <string name="change_to_away">Geändert zu Kühlung</string>
+    <string name="changed_to_cool">Geändert zu Heizung</string>
+    <string name="changed_to_heat">Geändert zu Nur Ventilator</string>
+    <string name="changed_to_fan_only">Ist Kühlmodus</string>
+    <string name="is_cool_mode">Ist Heizmodus</string>
+    <string name="is_heat_mode">Ist Nur-Ventilator-Modus</string>
+    <string name="is_fan_only_mode">Alarmberechtigung ist für die Gateway-Verbindung und die Cloud-Verbindung erforderlich.</string>
+    <string name="alarms_permission_is_required">Bitte geben Sie den Namen der Fernbedienung ein</string>
+    <string name="please_input_remote_name">Lernen</string>
+    <string name="btn_learn">Bitte richten Sie die Fernbedienung auf den Infrarot-Controller und drücken Sie kurz die Taste, die Sie lernen möchten.</string>
+    <string name="btn_learn_tip">Bis zu %d Tasten können zum Lernen hinzugefügt werden.</string>
+    <string name="most_64_btns">Tastenname darf nicht leer sein</string>
+    <string name="btn_name_not_be_null">Lernen erfolgreich</string>
+    <string name="learn_success">Bitte geben Sie den Tastenname ein</string>
+    <string name="please_input_btn_name">Fernbedienungsname</string>
+    <string name="remote_name">Umbenennen</string>
+    <string name="rename">Sind Sie sicher, dass Sie die Fernbedienung „%s“ löschen möchten?</string>
+    <string name="remove_remote_tip">Erneut lernen</string>
+    <string name="relearn_key">Sind Sie sicher, dass Sie die Taste „%s“ löschen möchten?</string>
+    <string name="remove_remote_btn_tip">Fernbedienungen</string>
+    <string name="remotes">Bestätigen</string>
+    <string name="sure">Ungültige Aktion</string>
+    <string name="invalid_action">HomeKit QR-Code</string>
+    <string name="homekit_qr_code">Matter QR-Code</string>
+    <string name="matter_qr_code">QR-Code konnte nicht abgerufen werden, bitte aktualisieren Sie das Gateway auf die neueste Firmware.</string>
+    <string name="qr_code_empty_tip">Der Name der Fernbedienung darf nicht leer sein</string>
+    <string name="remote_name_not_be_null">Fernbedienung hinzufügen</string>
+    <string name="add_remote">Verlauf</string>
+    <string name="history">Gateway-Upgrade-Verlauf</string>
+    <string name="gateway_upgrade_history">Schalter (Taste 4) - Azoula 16 Kanäle</string>
+    <string name="switch_key_4_azoula_16_channels">Gateway-Kanal</string>
+    <string name="gateway_channel">Der Kanal dieses Gateways unterstützt den normalen Grünen Power-Schalter nicht, Sie müssen den Kanal ändern, bevor Sie den normalen Grünen Power-Schalter hinzufügen. Bitte beachten Sie, dass alle bereits hinzugefügten Geräte nach der Kanaländerung erneut hinzugefügt werden müssen.</string>
+    <string name="gateway_channel_tip">Schalter (Taste 4) - Standard 4 Kanäle</string>
+    <string name="switch_key_4_standard_4_channels">Belegung</string>
+    <string name="occupancy">CO-Erkennung</string>
+    <string name="co_detection">Alarmdauer</string>
+    <string name="alarm_duration">Erkannt</string>
+    <string name="detected">Normal</string>
+    <string name="normal">Gasdetektion</string>
+    <string name="gas_detection">Rauchdetektion</string>
+    <string name="smoke_detection">CO erkannt</string>
+    <string name="co_detected">Gas erkannt</string>
+    <string name="gas_detected">Rauch erkannt</string>
+    <string name="smoke_detected">CO ist erkannt</string>
+    <string name="co_is_detected">CO ist nicht erkannt</string>
+    <string name="co_is_not_detected">Gas ist erkannt</string>
+    <string name="gas_is_detected">Gas ist nicht erkannt</string>
+    <string name="gas_is_not_detected">Rauch ist erkannt</string>
+    <string name="smoke_is_detected">Rauch ist nicht erkannt</string>
+    <string name="smoke_is_not_detected">CO nicht erkannt</string>
+    <string name="co_not_detected">Gas nicht erkannt</string>
+    <string name="gas_not_detected">Rauch nicht erkannt</string>
+    <string name="smoke_not_detected">Wasserüberschuss</string>
+    <string name="water_overflow">Wasserüberschuss erkannt</string>
+    <string name="water_overflow_detected">Wasserüberschuss nicht erkannt</string>
+    <string name="water_overflow_not_detected">Wasserüberschuss ist erkannt</string>
+    <string name="water_overflow_is_detected">Wasserüberschuss ist nicht erkannt</string>
+    <string name="water_overflow_is_not_detected">Drehung</string>
+    <string name="rotation">Oben rechts</string>
+    <string name="top_right">Oben links</string>
+    <string name="top_left">Mitte</string>
+    <string name="center">Unten links</string>
+    <string name="bottom_left">Unten rechts</string>
+    <string name="bottom_right">Kurz drücken</string>
+    <string name="short_press">Lang drücken</string>
+    <string name="long_press">Doppelklick</string>
+    <string name="double_click">Keine Aktion</string>
+    <string name="no_action">Ziel</string>
+    <string name="target">Ziel hinzufügen</string>
+    <string name="add_target">Sind Sie sicher, dass Sie dieses Ereignis entfernen möchten?</string>
+    <string name="remove_key_event_tip">Im Uhrzeigersinn drehen</string>
+    <string name="clockwise_rotation">Gegen den Uhrzeigersinn drehen</string>
+    <string name="anticlockwise_rotation">Gegen den Uhrzeigersinn</string>
+    <string name="anticlockwise">Im Uhrzeigersinn</string>
+    <string name="clockwise">Szene ausführen</string>
+    <string name="execute_scene_text">Das Gateway aktualisiert seinen Kanal. Bitte warten Sie einige Minuten, bis der richtige Kanal angezeigt wird.</string>
+    <string name="channel_successful_tip">Protokoll beobachten</string>
+    <string name="log_watch">Suchen</string>
+    <string name="search">Unbekannt</string>
+    <string name="unknown">Letzte 2 Tage</string>
+    <string name="last_2_days">Letzte 7 Tage</string>
+    <string name="last_7_days">Letzten 1 Monat</string>
+    <string name="last_1_month">Aktualisieren</string>
+    <string name="refresh">Protokoll kopieren</string>
+    <string name="copy_log">Protokoll konnte nicht abgerufen werden.</string>
+    <string name="fail_get_log">Knopf</string>
+    <string name="knob">Taste %d</string>
+    <string name="key_x">Klimaanlage</string>
+    <string name="air_conditioner">TV</string>
+    <string name="tv">TV Box</string>
+    <string name="tv_box">Internet Box</string>
+    <string name="internet_box">Ventilator</string>
+    <string name="fan">Ton</string>
+    <string name="sound">Projektor</string>
+    <string name="projector">Benutzerdefinierte Steuerung</string>
+    <string name="custom_control">Marke auswählen</string>
+    <string name="select_brand">Keine Marke gefunden.</string>
+    <string name="no_brand_found">Typ auswählen</string>
+    <string name="select_type">Unkontrollierbar</string>
+    <string name="uncontrollable">Kontrollierbar</string>
+    <string name="controllable">Kann das Gerät ordnungsgemäß gesteuert werden?</string>
+    <string name="can_the_device_be_controlled_properly">Kopplung</string>
+    <string name="pairing">TEMP</string>
+    <string name="temp">VOL</string>
+    <string name="vol">CH</string>
+    <string name="ch">EIN/GESCHWINDIGKEIT</string>
+    <string name="on_speed">Schütteln</string>
+    <string name="shake">Anion</string>
+    <string name="anion">Luft VOL</string>
+    <string name="air_vol">Licht</string>
+    <string name="sleep_ir">Ruhen</string>
+    <string name="timer_ir">Zeitschaltuhr</string>
+    <string name="light">F.Hot</string>
+    <string name="on_ir">AN</string>
+    <string name="off_ir">AUS</string>
+    <string name="fast_hot">F.Kühl</string>
+    <string name="fast_cool">SWING</string>
+    <string name="swing">AUX HEIZUNG</string>
+    <string name="aux_heat">STUMM</string>
+    <string name="mute">STROM</string>
+    <string name="power_uppercase">ENERGIE</string>
+    <string name="energy_uppercase">LICHT</string>
+    <string name="light_uppercase">SCHLAF</string>
+    <string name="sleep_uppercase">MODE</string>
+    <string name="mode_uppercase">Kühlung</string>
+    <string name="cooling">Heizung</string>
+    <string name="heating">Mitte</string>
+    <string name="middle">Oben</string>
+    <string name="up">Unten</string>
+    <string name="down">ZOOM</string>
+    <string name="zoom">Ändern zu Automatikmodus</string>
+    <string name="changed_to_auto_mode">Ändern zu Kühlmodus</string>
+    <string name="changed_to_cooling_mode">Ändern zu Trockenmodus</string>
+    <string name="changed_to_dry_mode">Ändern zu Nur-Ventilator-Modus</string>
+    <string name="changed_to_fan_only_mode">Ändern zu Heizmodus</string>
+    <string name="changed_to_heating_mode">Stellen Sie die Lüftergeschwindigkeit auf Automatik</string>
+    <string name="set_a_temperature">Temperatur einstellen</string>
+    <string name="set_fan_speed_to_auto">Stellen Sie die Lüftergeschwindigkeit auf niedrig</string>
+    <string name="set_fan_speed_to_low">Stellen Sie die Lüftergeschwindigkeit auf mittel</string>
+    <string name="set_fan_speed_to_middle">Stellen Sie die Lüftergeschwindigkeit auf hoch</string>
+    <string name="set_fan_speed_to_higt">Stellen Sie die Luftrichtung auf oben</string>
+    <string name="set_air_direction_to_up">Stellen Sie die Luftrichtung auf mittel</string>
+    <string name="set_air_direction_to_middle">Stellen Sie die Luftrichtung auf unten</string>
+    <string name="set_air_direction_to_down">Automatische Schwingung deaktivieren</string>
+    <string name="set_auto_swing_to_off">Automatische Schwingung aktivieren</string>
+    <string name="set_auto_swing_to_on">Schlafmodus aktivieren</string>
+    <string name="enable_sleep_mode">Schlafmodus deaktivieren</string>
+    <string name="disable_sleep_mode">Aux-Heizung aktivieren</string>
+    <string name="enable_aux_heat">Aux-Heizung deaktivieren</string>
+    <string name="disable_aux_heat">Licht ausschalten</string>
+    <string name="turn_off_the_light">Licht einschalten</string>
+    <string name="tun_on_the_light">Energiesparmodus aktivieren</string>
+    <string name="enable_energy_saving_mode">Energiesparmodus deaktivieren</string>
+    <string name="disable_energy_saving_mode">Schnellkühlung aktivieren</string>
+    <string name="enable_fast_cooling">Schnellheizung aktivieren</string>
+    <string name="enable_fast_heating">Stummmodus aktivieren</string>
+    <string name="enable_mute_mode">Leistungsmodus aktivieren</string>
+    <string name="enable_powerful_mode">LED Status</string>
+    <string name="led_state">AUTO</string>
+    <string name="auto_ir">Es können bis zu 16 Standardfernbedienungen hinzugefügt werden.</string>
+    <string name="most_16_standard">Luftrichtung</string>
+    <string name="air_direction">In dieser Fernbedienung sind keine Tasten vorhanden, bitte fügen Sie zuerst eine Taste hinzu.</string>
+    <string name="no_btn_in_remote">Sonos</string>
+    <string name="sonos">Sie sind dabei, Ihre Sonos-Geräte hinzuzufügen.</string>
+    <string name="add_sonos_tip">Pause</string>
+    <string name="paused">Wiedergabe</string>
+    <string name="playing">Wiedergabe starten</string>
+    <string name="play">Wiedergabe</string>
+    <string name="set_vol">Wiedergabe/Pause umschalten</string>
+    <string name="toggle_play_pause">Vorherige</string>
+    <string name="previous">Kein Wiederholen</string>
+    <string name="no_repeat">Einzelne Wiederholung</string>
+    <string name="repeat_one">Wiedergabeliste wiederholen</string>
+    <string name="repeat_playlist">Lautstärke stummschalten</string>
+    <string name="mute_the_vol">Lautstärke wieder aktivieren</string>
+    <string name="unmute_the_vol">Shuffle aktivieren</string>
+    <string name="shuffle_on">Shuffle deaktivieren</string>
+    <string name="shuffle_off">Es ist ein Fehler beim Steuern des Wohnzimmers aufgetreten, bitte überprüfen Sie, ob Ihr SONOS-Lautsprecher ordnungsgemäß funktioniert.</string>
+    <string name="next_music">Weiter</string>
+    <string name="sonos_error_tip">Abgebrochen</string>
+    <string name="aborted">SONOS Systeme</string>
+    <string name="sonos_systems">Sind Sie sicher, dass Sie dieses SONOS-System löschen möchten?</string>
+    <string name="delete_sonos_tip">SONOS Systemname eingeben</string>
+    <string name="sonos_name_tip">SONOS Systemname</string>
+    <string name="sonos_system_name">Name darf nicht leer sein.</string>
+    <string name="name_not_be_null">Keine SONOS-Systeme gefunden.</string>
+    <string name="no_sonos_systems_found">Bitte fügen Sie zuerst Songs zur Wiedergabeliste in der SONOS App hinzu.</string>
+    <string name="sonos_music_tip">Bitte stellen Sie sicher, dass Ihre SONOS App Musik normal abspielen kann.</string>
+    <string name="add_sonos_start_tip">Fügen Sie dann den SONOS-Sound in dieser App hinzu.</string>
+    <string name="green_power_settings">Grüne Power-Einstellungen</string>
+    <string name="long_press_detection_time">Langdruck-Erkennungszeit</string>
+    <string name="custom">Benutzerdefiniert</string>
+    <string name="value_range_1000_5000">Wertbereich: 1000~5000</string>
+    <string name="top_left_released">Oben links Taste losgelassen</string>
+    <string name="top_right_released">Oben rechts Taste losgelassen</string>
+    <string name="bottom_left_released">Unten links Taste losgelassen</string>
+    <string name="bottom_right_released">Unten rechts Taste losgelassen</string>
+    <string name="button_released">Taste losgelassen</string>
+    <string name="gateway_timezone">Gateway-Zeitzone</string>
+    <string name="sync">Synchronisieren</string>
+    <string name="timezone_tip">Telefon-Zeitzone: %s</string>
+    <string name="timezone_tip2">Synchronisieren Sie die Telefonzeitzone mit dem Gateway.</string>
+    <string name="edit_zone">Zone bearbeiten</string>
+    <string name="stop_auto">Automation stoppen</string>
+    <string name="new_firmware">Neue Firmware</string>
+    <string name="new_firmware_tip">Wir haben eine neue Firmware-Version veröffentlicht. Bitte aktualisieren Sie die Firmware, um eine bessere Erfahrung zu genießen.</string>
+    <string name="got_to_update">Gehe zu Update</string>
+    <string name="ca_file_url_or_string">CA-Datei-URL oder String</string>
+    <string name="client_certificate_url_or_string">Client-Zertifikat URL oder String</string>
+    <string name="client_key_url_or_string">Client-Schlüssel URL oder String</string>
+    <string name="caInfo">Beim Verwenden von selbstsignierten Zertifikaten, geben Sie entweder die Download-URL des CA-Zertifikats oder den CA-Zertifikat-String an.</string>
+    <string name="ckInfo">Beim Verwenden von selbstsignierten Zertifikaten, geben Sie entweder die Download-URL des Client-Schlüssels oder den Client-Schlüssel-String an.</string>
+    <string name="ccInfo">Beim Verwenden von selbstsignierten Zertifikaten, geben Sie entweder die Download-URL des Client-Zertifikats oder den Client-Zertifikat-String an.</string>
+    <string name="new_gateway_firmware">Neue Gateway-Firmware</string>
+    <string name="timezone_different_tip">Die Zeitzone des Gateways ist anders als die aktuelle Zeitzone des Telefons.</string>
+    <string name="no_notifications">Keine Benachrichtigungen</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="current_compensation">Strom & Kompensation</string>
+    <string name="target_current">Zielstrom</string>
+    <string name="unit_ma">mA</string>
+    <string name="value_range_100_6000_0">Wertbereich: 100.0~6000.0</string>
+    <string name="minimum_current_compensation">Minimale Stromkompensation</string>
+    <string name="value_range_5000_20000">Wertbereich: 5000~20000</string>
+    <string name="min_current_tip">Sie müssen das Gerät neu starten, damit diese Eigenschaftsänderung wirksam wird. Diese Eigenschaft wird nur von NFC-Stromversorgung unterstützt.</string>
+    <string name="current_out_range">Zielstrom liegt außerhalb des Bereichs</string>
+    <string name="mincurrent_out_range">Minimale Stromkompensation liegt außerhalb des Bereichs</string>
+    <string name="experiments">Experimente</string>
+    <string name="experimental_tip">Dies sind experimentelle und nicht unterstützte Funktionen der App und können jederzeit verschwinden. Verwenden Sie sie auf eigenes Risiko.</string>
+    <string name="_4_screen_content">4″ Bildschirm Inhalt</string>
+    <string name="needs_screen_gateway_tip">Muss mit einem 4″ Bildschirm-Gateway verwendet werden.</string>
+    <string name="zone">Zone</string>
+    <string name="settings_screen_devices">Ihre Einstellungen werden auf 4″ Bildschirm-Geräte synchronisiert.</string>
+    <string name="no_devices_tip">Keine Geräte, bitte fügen Sie zuerst ein Gerät hinzu.</string>
+    <string name="no_scene_tip">Keine Szenen, bitte fügen Sie zuerst eine Szene hinzu.</string>
+    <string name="no_zone_tip">Keine Zonen, bitte fügen Sie zuerst eine Zone hinzu.</string>
+    <string name="device_type">Gerätetyp</string>
+    <string name="curtain_type">Vorhangtyp</string>
+    <string name="reverse_output">Umkehr-Ausgang</string>
+    <string name="calibration">Kalibrierung</string>
+    <string name="curtain">Vorhang</string>
+    <string name="normal_curtain">Normaler Vorhang</string>
+    <string name="shutter">Rollladen</string>
+    <string name="change_type_tip">Das Gerät wird gelöscht. Möchten Sie den Gerätetyp wirklich ändern?</string>
+    <string name="curtain_opening_time">Vorhang Öffnungszeit</string>
+    <string name="curtain_closing_time">Vorhang Schließzeit</string>
+    <string name="blinds_opening_time">Jalousien Öffnungszeit</string>
+    <string name="gap_travel_ratio">Spaltweg-Verhältnis</string>
+    <string name="value_range_0_655_35">Wertbereich: 0-655.35</string>
+    <string name="blinds_closing_time">Jalousien Schließzeit</string>
+    <string name="curtain_opening_time_tip">Zeit für Vorhänge, um von geschlossen zu geöffnet zu werden (Einheit: s). Zeigt 0 an, wenn nicht kalibriert. Einstellbar, wenn nach der Kalibrierung Abweichungen festgestellt werden.</string>
+    <string name="curtain_closing_time_tip">Zeit für Vorhänge, um von geöffnet zu geschlossen zu werden (Einheit: s). Zeigt 0 an, wenn nicht kalibriert. Einstellbar, wenn nach der Kalibrierung Abweichungen festgestellt werden.</string>
+    <string name="blinds_opening_time_tip">Zeit für Jalousien, um von geschlossen zu geöffnet zu werden (Einheit: s). Zeigt 0 an, wenn nicht kalibriert. Einstellbar, wenn nach der Kalibrierung Abweichungen festgestellt werden.</string>
+    <string name="blinds_closing_time_tip">Zeit für Jalousien, um von geöffnet zu geschlossen zu werden (Einheit: s). Zeigt 0 an, wenn nicht kalibriert. Einstellbar, wenn nach der Kalibrierung Abweichungen festgestellt werden.</string>
+    <string name="gap_travel_tip">Setzen Sie das Spaltweg-Verhältnis (Bereich: 0,1% bis 90%, Einheit: 0,001). Berechnungsformel: Verhältnis = 1000 * Spaltweg / Gesamter Weg. Anwendbar auf kalibrierte Rollos und Jalousien.</string>
+    <string name="value_range_0_1_90">Wertbereich: 0,1-90</string>
+    <string name="illuminance_threshold">Beleuchtungsgrenzwert</string>
+    <string name="occupancy_detection_sensitivity">Bewegungserkennungsempfindlichkeit</string>
+    <string name="occupancy_led">Bewegungserkennungs-LED</string>
+    <string name="sensitivity">Empfindlichkeit</string>
+    <string name="select_server">Server auswählen</string>
+    <string name="aws">AWS</string>
+    <string name="non_mainland_china_preferred">Bevorzugt Nicht-Festland-China</string>
+    <string name="update_your_gateway_tip">Sie müssen Ihr Gateway zuerst aktualisieren.</string>
+    <string name="aliyun">Aliyun</string>
+    <string name="mainland_china_preferred">Bevorzugt Festland-China</string>
+    <string name="cloud_server">Cloud-Server</string>
+    <string name="change_cloud_server">Cloud-Server ändern</string>
+    <string name="change_cloud_server_tip">"Möchten Sie den Cloud-Server wirklich ändern?"</string>
+    <string name="change_server_fail">Fehler beim Ändern des Cloud-Servers</string>
+    <string name="manufacturer">Hersteller</string>
+    <string name="ip_mode">IP-Modus</string>
+    <string name="automatic">Automatisch</string>
+    <string name="ip_addr">IP-Adresse</string>
+    <string name="subnet_mask">Subnetzmaske</string>
+    <string name="router">Router</string>
+    <string name="dns_1">DNS-1</string>
+    <string name="dns_2_optional">DNS-2 (Optional)</string>
+    <string name="hint_ip">0.0.0.0</string>
+    <string name="hint_subnet">255.255.255.0</string>
+    <string name="hint_dns">8.8.8.8</string>
+    <string name="phase_a">Phase A</string>
+    <string name="phase_b">Phase B</string>
+    <string name="phase_c">Phase C</string>
+    <string name="total_reactive_power">Gesamtreaktive Leistung</string>
+    <string name="total_active_power">Gesamtaktive Leistung</string>
+    <string name="total_apparent_power">Gesamtanscheinende Leistung</string>
+    <string name="total_meter_power">Gesamtzählerleistung</string>
+    <string name="ac_frequency">AC-Frequenz</string>
+    <string name="neutral_line_current">Neutralleitungsstrom</string>
+    <string name="phase_a_effective_voltage">Phase A Effektivspannung</string>
+    <string name="phase_a_effective_current">Phase A Effektivstrom</string>
+    <string name="phase_a_active_power">Phase A Aktive Leistung</string>
+    <string name="phase_a_reactive_power">Phase A Reaktive Leistung</string>
+    <string name="phase_a_apparent_power">Phase A Anschauliche Leistung</string>
+    <string name="phase_a_power_factor">Phase A Leistungsfaktor</string>
+    <string name="phase_b_effective_voltage">Phase B Effektivspannung</string>
+    <string name="phase_b_effective_current">Phase B Effektivstrom</string>
+    <string name="phase_b_active_power">Phase B Aktive Leistung</string>
+    <string name="phase_b_reactive_power">Phase B Reaktive Leistung</string>
+    <string name="phase_b_apparent_power">Phase B Anschauliche Leistung</string>
+    <string name="phase_b_power_factor">Phase B Leistungsfaktor</string>
+    <string name="phase_c_effective_voltage">Phase C Effektivspannung</string>
+    <string name="phase_c_effective_current">Phase C Effektivstrom</string>
+    <string name="phase_c_active_power">Phase C Aktive Leistung</string>
+    <string name="phase_c_reactive_power">Phase C Reaktive Leistung</string>
+    <string name="phase_c_apparent_power">Phase C Anschauliche Leistung</string>
+    <string name="phase_c_power_factor">Phase C Leistungsfaktor</string>
+    <string name="notification_settings">Benachrichtigungseinstellungen</string>
+    <string name="device_alert">Gerätealarm</string>
+    <string name="sys_noti_disable_tip">Bitte aktivieren Sie die Azoula Smart-Nachricht Benachrichtigungseinstellungen in den Systemeinstellungen.</string>
+    <string name="alerts">Alarme</string>
+    <string name="bulletin">Bulletin</string>
+    <string name="delete_messages">Nachrichten löschen</string>
+    <string name="load_success">Erfolgreich geladen.</string>
+    <string name="load_end">Alle Daten wurden geladen</string>
+    <string name="any_time">Jederzeit</string>
+    <string name="end">Ende</string>
+    <string name="start_end_time_tip">Wenn die Endzeit früher als die Startzeit ist, gilt es als der nächste Tag.</string>
+    <string name="every_">Jeder</string>
+    <string name="effective_period">Wirkungszeitraum</string>
+    <string name="gateway_backup_restore">Gateway-Sicherung & Wiederherstellung</string>
+    <string name="no_permission_tip">Keine Berechtigung, bitte kontaktieren Sie den Gateway-Besitzer.</string>
+    <string name="backup">Sicherung</string>
+    <string name="replace">Ersetzen</string>
+    <string name="backing_up_please_wait">Sichern, bitte warten...</string>
+    <string name="backup_successful">Sicherung erfolgreich</string>
+    <string name="backup_failed">Sicherung fehlgeschlagen</string>
+    <string name="backup_fail">Sicherung fehlgeschlagen</string>
+    <string name="replace_gateway">Gateway ersetzen</string>
+    <string name="replace_tip1">Sind Sie sicher, dass Sie dieses neue Gateway verwenden möchten, um das defekte Gateway zu ersetzen?</string>
+    <string name="replace_tip2">Jedes neue Gateway ist auf eine einzelne Wiederherstellung begrenzt. Der Versuch, ein Gateway mehr als einmal wiederherzustellen, macht das Gateway unbrauchbar.</string>
+    <string name="start_replacing">Starten Sie das Ersetzen</string>
+    <string name="replacing_please_wait">Ersetzen, bitte warten...</string>
+    <string name="no_buildin">Kein Bulletin</string>
+    <string name="no_alerts">Keine Alarme</string>
+    <string name="no_notify">Keine Benachrichtigungen</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="door_open">Tür geöffnet</string>
+    <string name="water_detected">Wasser erkannt</string>
+    <string name="no_backup">Keine Sicherung</string>
+    <string name="replace_diff_tw_tip">Bitte wählen Sie ein anderes Gateway aus. Dieses Gateway wurde bereits einmal wiederhergestellt und kann nicht erneut wiederhergestellt werden.</string>
+    <string name="replace_failed">Ersetzen fehlgeschlagen</string>
+    <string name="replace_successful">Ersetzen erfolgreich</string>
+    <string name="gateway_s_replace_successful">Gateway %s ersetzen erfolgreich.</string>
+    <string name="gateway_s_replace_failed">Gateway %s ersetzen fehlgeschlagen.</string>
+    <string name="warning_this_gateway">WARNUNG: Dieses Gateway ist bereits als Master- oder Sub-Gateway eingerichtet. Bevor Sie es verwenden, um ein anderes Gateway zu ersetzen, setzen Sie es bitte auf die Werkseinstellungen zurück.</string>
+    <string name="gateway_backup">Gateway-Sicherung</string>
+    <string name="gateway_backup_tip">Wenn Ihr Gateway nicht funktioniert und eine Sicherung verfügbar ist, können Sie es durch ein neues Gateway ersetzen.</string>
+    <string name="back_up_all_tip">Sind Sie sicher, dass Sie alle Gateways sichern möchten?</string>
+    <string name="no_backup_tip">Es gibt keine Sicherung für das fehlerhafte Gateway, daher ist ein Gateway-Austausch nicht möglich.</string>
+    <string name="updated_time">Aktualisiert: %s</string>
+
+
+    <string-array name="tvActions">
+        <item>Strom umschalten</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>Stummschaltmodus umschalten</item>
+        <item>CH+</item>
+        <item>CH-</item>
+    </string-array>
+    <string-array name="funActions">
+        <item>Umschalten auf ein oder aus</item>
+        <item>Vibration umschalten</item>
+        <item>Luftmodus umschalten</item>
+        <item>Luftlautstärke umschalten</item>
+        <item>Licht ein- oder ausschalten</item>
+        <item>Schlafmodus umschalten</item>
+        <item>Auf niedrige Geschwindigkeit setzen</item>
+        <item>Auf mittlere Geschwindigkeit setzen</item>
+        <item>Auf hohe Geschwindigkeit setzen</item>
+    </string-array>
+
+    <string-array name="soundActions">
+        <item>Strom umschalten</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>Stummschaltmodus umschalten</item>
+        <item>Wiedergabe</item>
+        <item>Zurück</item>
+        <item>Stopp</item>
+        <item>Weiter</item>
+        <item>Pause</item>
+    </string-array>
+
+    <string-array name="projectActions">
+        <item>Strom umschalten</item>
+        <item>Beenden</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>ZOOM+</item>
+        <item>ZOOM-</item>
+        <item>Stummschaltmodus umschalten</item>
+    </string-array>
+
+    <string-array name="prog_type_abb">
+        <item>App</item>
+        <item>Auto</item>
+        <item>HK</item>
+        <item>HA</item>
+        <item>Z2M</item>
+    </string-array>
+    <string-array name="month_abb">
+        <item>Jan.</item>
+        <item>Feb.</item>
+        <item>Mar</item>
+        <item>Apr.</item>
+        <item>Mai</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Aug.</item>
+        <item>Sep.</item>
+        <item>Okt.</item>
+        <item>Nov.</item>
+        <item>Dez.</item>
+    </string-array>
+
+    <string-array name="runModes">
+        <item>Pause</item>
+        <item>Modus 1</item>
+        <item>Modus 2</item>
+        <item>Modus 3</item>
+        <item>Modus 4</item>
+        <item>Modus 5</item>
+        <item>Modus 6</item>
+        <item>Modus 7</item>
+        <item>Modus 8</item>
+        <item>Modus 9</item>
+        <item>Modus 10</item>
+        <item>Modus 11</item>
+        <item>Modus 12</item>
+        <item>Modus 13</item>
+        <item>Modus 14</item>
+        <item>Modus 15</item>
+        <item>Modus 16</item>
+        <item>Modus 17</item>
+        <item>Modus 18</item>
+        <item>Modus 19</item>
+        <item>Modus 20</item>
+        <item>Modus 21</item>
+        <item>Modus 22</item>
+        <item>Modus 23</item>
+        <item>Modus 24</item>
+        <item>Modus 25</item>
+        <item>Modus 26</item>
+        <item>Modus 27</item>
+        <item>Modus 28</item>
+        <item>Modus 29</item>
+        <item>Modus 30</item>
+        <item>Modus 31</item>
+        <item>Modus 32</item>
+        <item>Modus 33</item>
+        <item>Modus 34</item>
+        <item>Modus 35</item>
+
+    </string-array>
+</resources>

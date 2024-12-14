@@ -24,7 +24,7 @@
 
 // Azoula Smart
 // node get_values.js -f ./assert/azoulasmart/strings_en_230712.xml ./assert/Localizable_empty.strings ./assert/azoulasmart/values_230712.txt
-// node get_values.js -f ./assert/azoulasmart/strings_en_230721.xml ./assert/azoulasmart/Localizable_en_230721.strings ./assert/azoulasmart/values_230721.txt
+// node get_values.js -f ./assert/azoulasmart/strings_en_241214.xml ./assert/azoulasmart/Localizable_en_241214.strings ./assert/azoulasmart/values_241214.txt
 
 // EasyTings
 // node get_values.js -f ./assert/easythings/empty.xml ./assert/easythings/231128.strings ./assert/easythings/values_231128.txt

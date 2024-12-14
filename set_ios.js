@@ -7,6 +7,8 @@
 // EasyThings
 // node set_ios.js -f ./assert/easythings/Localizable.strings ./assert/easythings/de_1206.xlsx ./assert/easythings/Localizable_de_231206.strings
 
+// node set_ios.js -f ./assert/azoulasmart/Localizable_en_241214.strings ./assert/azoulasmart/azoulasmart_ge_241214.xlsx ./assert/azoulasmart/Localizable_de_241214.strings
+
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')
 

@@ -1,0 +1,1227 @@
+<resources>
+    <string name="app_name">Azoula Smart</string>
+    <!--code-->
+    <string name="code_20001">Invalid request.</string>
+    <string name="code_20002">No permissions.</string>
+    <string name="code_20003">The gateway is already bound.</string>
+    <string name="code_30001">Timeout</string>
+    <string name="code_40001">The email is already registered.</string>
+    <string name="code_40002">Invalid email.</string>
+    <string name="code_40003">Login failed, email not registered or wrong password.</string>
+    <string name="code_40004">The verification code does not exist.</string>
+    <string name="code_40005">The size of the file exceeds the maximum limit.</string>
+    <string name="code_40006">Invalid verification code.</string>
+    <string name="code_40007">Invalid token.</string>
+    <string name="code_40008">Login expired, please sign in again.</string>
+    <string name="code_40009">Entity not found.</string>
+    <string name="code_40010">Request are too frequent, please try again later.</string>
+    <string name="code_40011">Too many login failures, please try again after 5 minutes.</string>
+    <string name="code_40018">No updates.</string>
+    <string name="code_99999">Unknown error.</string>
+    <string name="unknown_issue">Unknown issue.</string>
+    <string name="email_no_register">The email is not registered yet.</string>
+    <string name="no_user">The user does not exist.</string>
+
+    <!--login-->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="type_an_email">Please type an Email</string>
+    <string name="type_a_password">Please type a password</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="obtain">Obtain</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="lan_login">LAN login</string>
+    <string name="send_code_success">A verification code has bean sent to your Email.</string>
+    <string name="wrong_email_format">Wrong email format.</string>
+    <string name="password_format_alert_message">The password must be 6-20 characters and can only contain numbers, uppercase and lowercase letters and @#$?.%^&amp;+= characters.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="read_agree">I have read and agreed &#160;</string>
+    <string name="privacy_policy">\"Privacy Policy\"</string>
+    <string name="privacy_policy2">Privacy Policy</string>
+    <!--root-->
+    <string name="home">Home</string>
+    <string name="room">Zone</string>
+    <string name="smart">Smart</string>
+    <string name="security">Security</string>
+    <string name="me">Me</string>
+    <string name="seconds_simple">%ds</string>
+    <string name="done">Done</string>
+    <string name="network_management">Manage</string>
+    <string name="discovering_gateways">Discovering Gateways…</string>
+    <string name="local_gateway_login">Local Gateway Login</string>
+    <!--add device -->
+    <string name="add_device_tip">You are about to add your ZigBee devices.</string>
+    <string name="scan_device_tip">Please put your devices in \'pair mode\'.\n\n Refer to your device\'s manual on how to enable \'pair mode\'.</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="add_devices">Add Devices</string>
+    <!--home-->
+    <string name="favorite_scenes">Favorite Scenes</string>
+    <string name="favorite_devices">Favorite Devices</string>
+    <string name="offline">Offline</string>
+    <string name="color">Color</string>
+    <string name="temperature">Temperature</string>
+    <string name="remove_device">Remove Device</string>
+    <string name="name">Name</string>
+    <string name="model">Model</string>
+    <string name="firmware">Firmware</string>
+    <string name="device_id">Device ID</string>
+    <string name="updates">Updates</string>
+    <string name="device_name">Device Name</string>
+    <string name="edit_device">Edit Device</string>
+    <string name="remove_device_tip">Are you sure you want to remove this device?</string>
+    <string name="remove">Remove</string>
+    <string name="current_version">Current Version</string>
+    <string name="checking_for_updates">Checking for updates...</string>
+    <string name="update_now">Update Now</string>
+    <string name="select_room">Select Zone</string>
+    <string name="save">Save</string>
+    <string name="value_percent">%d%%</string>
+    <string name="value_f_percent">%f%%</string>
+    <string name="cct_format">%dK</string>
+    <string name="type_device_name">Please type a device name</string>
+
+    <!--smart-->
+    <string name="scenes">Scenes</string>
+    <string name="automation">Automation</string>
+    <!--zone-->
+    <string name="add_room">Add Zone</string>
+    <string name="deviceCount">%d Devices</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="default_room">Default Zone</string>
+    <string name="devices_not_in_this_room">Devices not in this zone</string>
+    <string name="remove_room">Remove Zone</string>
+    <string name="room_name">Zone Name</string>
+    <string name="lights">Lights</string>
+    <string name="other">Other</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="please_type_a_room_name">Please type a zone name</string>
+
+    <!--me-->
+    <string name="room_manage">Zone Management</string>
+    <string name="gateway">Gateway</string>
+    <string name="settings">Settings</string>
+    <string name="message_center">Message Center</string>
+    <string name="energy">Energy</string>
+    <string name="about">About</string>
+
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profile">Profile</string>
+    <string name="nickname">Nickname</string>
+    <string name="account">Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="sign_out">Sign Out</string>
+    <!--scene-->
+    <string name="devices">Devices</string>
+    <string name="actions">Actions</string>
+    <string name="actionsLot">Actions…</string>
+    <string name="scene_execute">Scene execute success</string>
+    <string name="turned_on">Turned on</string>
+    <string name="turned_off">Turned off</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="toggle_on_off">Toggle on or off</string>
+    <string name="set_a_brightness">Set a brightness</string>
+    <string name="set_a_color_temperature">Set a temperature</string>
+    <string name="set_a_color">Set a color</string>
+    <string name="brightness_changed">Brightness changed</string>
+    <string name="color_temperature_changed">Color temperature changed</string>
+    <string name="color_changed">Color changed</string>
+    <string name="remove_room_tip">Are you sure you want to remove this zone?</string>
+    <string name="favorite">Favorite</string>
+    <string name="please_type_a_scene_name">Please type a name</string>
+    <string name="when">When…</string>
+    <string name="add_trigger">Add Trigger</string>
+    <string name="and_optional">And… (optional)</string>
+    <string name="add_condition">Add Condition</string>
+    <string name="remove_scene">Remove Scene</string>
+    <string name="add_action">Add Action</string>
+    <string name="add_scene">Add Scene</string>
+    <string name="add_auto">Add Automation</string>
+    <string name="edit_scene">Edit Scene</string>
+    <string name="edit_auto">Edit Automation</string>
+    <string name="weekly">Weekly</string>
+    <string name="daily">Daily</string>
+    <string name="brightness_change">Brightness changed and %s %d%%</string>
+    <string name="time_is">The time is %02d:%02d,&#160;</string>
+    <string name="every">every</string>
+    <string name="math_less">&lt;</string>
+    <string name="math_less_equal">≤</string>
+    <string name="math_equal">=</string>
+    <string name="math_more">&gt;</string>
+    <string name="math_more_equal">≥</string>
+    <string name="day">day</string>
+    <string name="monday_abbr">Mon</string>
+    <string name="tuesday_abbr">Tue</string>
+    <string name="wednesday_abbr">Wed</string>
+    <string name="thursday_abbr">Thu</string>
+    <string name="friday_abbr">Fri</string>
+    <string name="saturday_abbr">Sat</string>
+    <string name="sunday_abbr">Sun</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="weekends">Weekends</string>
+    <string name="conditions">Conditions</string>
+    <string name="triggers">Triggers</string>
+    <string name="no_response">No response</string>
+    <string name="edit_trigger">Edit Trigger</string>
+    <string name="edit_condition">Edit Condition</string>
+    <string name="edit_action">Edit Action</string>
+    <string name="execute_scene">Execute %s</string>
+    <string name="remove_scene_tip">Are you sure you want to remove this scene?</string>
+    <string name="remove_repeater_tip">Are you sure you want to remove this quick control?</string>
+    <string name="remove_auto_tip">Are you sure you want to remove this auto?</string>
+    <string name="timer">Timer</string>
+    <string name="is_turned_on">Is turned on</string>
+    <string name="is_turned_off">Is turned off</string>
+    <string name="brightness_is">Brightness is</string>
+
+    <string name="repeat">Repeat</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string-array name="repeats">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="month">
+        <item>Every Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!--me-->
+    <string name="gateway_name">Gateway Name</string>
+    <string name="local_gateway">Local Gateway</string>
+    <string name="gateway_id">Gateway ID</string>
+    <string name="family_guests">Family &amp; Guests</string>
+    <string name="firmware_version">Firmware Version</string>
+    <string name="reset_gateway">Reset Gateway</string>
+    <string name="remove_gateway">Remove Gateway</string>
+    <string name="reset_gateway_tip">Are you sure you want to reset the settings of this gateway?</string>
+    <string name="reset">Reset</string>
+    <string name="waiting_initialize">Waiting for Azoula to initialize…</string>
+    <string name="select_one_connect">Select a gateway that you want to connect.</string>
+    <string name="hello">Hello</string>
+    <string name="welcome_tip">Thanks for inviting Azoula into your home.</string>
+    <string name="add_gateway_tip">Let\'s get started by adding your first gateway.</string>
+    <string name="add_gateway">Add Gateway</string>
+    <string name="role">Role</string>
+    <string name="manager_tip">A manager can manage everything except users.</string>
+    <string name="transfer_ownership">Transfer Ownership</string>
+    <string name="transfer_tip">Transfer ownership of this Gateway to %s. You  will become a manager.</string>
+    <string name="guest">Guest</string>
+    <string name="guest_tip">A guest can control devices.</string>
+    <string name="manager">Manager</string>
+    <string name="please_type_a_member_account">Please type a member account</string>
+    <string name="app_version">App Version</string>
+    <string name="connect">Connect</string>
+    <string name="adding">Adding…</string>
+    <string name="connecting">Connecting…</string>
+    <string name="add_failed">Add failed</string>
+    <string name="bind_tip">The gateway is already bound, please ask the gateway owner invite you to join the gateway. If you are about to rebind the gateway, reset the gateway first.</string>
+    <string name="ok">OK</string>
+
+
+    <string name="no_device_in_room">There are no devices in this zone, please add a device first.</string>
+    <string name="no_auto_scene">There are no automations in this gateway, please add a automation first.</string>
+    <string name="no_scene">There are no scenes in this gateway, please add a scene first.</string>
+    <string name="no_update">No updates available</string>
+    <string name="new_version">New Version</string>
+    <string name="connect_lost">The gateway is disconnected, please check the network of the gateway.</string>
+    <string name="connectTip">Gateway connection lost, reconnecting…</string>
+    <string name="no_device_in_gateway">There are no devices in this gateway, please add a device first.</string>
+    <string name="connect_failed">Connect Failed</string>
+    <string name="connect_success">Connect Success</string>
+    <string name="invite">Invite</string>
+    <string name="add_user">Add User</string>
+    <string name="leave">Leave</string>
+    <string name="reset_pwd_success">Your password has been changed.</string>
+    <string name="gateway_reset_tip">This gateway have been reset, please connect other gateway.</string>
+    <string name="remove_gateway_tip">Are you sure you want to remove this gateway?</string>
+    <string name="reload_now">Reload Now</string>
+    <string name="remove_from_gateway_tip">You have been removed from this gateway, the App needs to be reloaded.</string>
+    <string name="reset_success">Reset gateway success.</string>
+    <string name="leave_tip">Are you sure you want to leave?</string>
+    <string name="remove_user_by_owner_tip">Are you sure you want to remove %s?</string>
+    <string name="transfer_dialog_tip">Are you sure you want to transfer ownership to %s?</string>
+    <string name="transfer">Transfer</string>
+    <string name="owner_tip">A owner can manage everything.</string>
+    <string name="updating">Updating…</string>
+    <string name="update_fail">Update failed, please try again.</string>
+    <string name="back_again_alert_msg">Click again to exit</string>
+    <string name="icon">Icon</string>
+    <string name="no_permission">No Permissions</string>
+    <string name="type_nickname">Please type a nickname</string>
+    <string name="type_gateway_name">Please type a gateway name</string>
+    <string name="edit_room">Edit Zone</string>
+    <string name="token_invalidate">The login has expired, please sign in again.</string>
+    <string name="delete_account_tip">Are you sure you want to delete this account？You won’t be able to control any devices via the cloud.</string>
+    <string name="user_be_owner">You are already the owner of this gateway.</string>
+    <string name="device_offline_tip">Device is offline.</string>
+    <string name="reload_device_type">Reload Device Type</string>
+    <string name="gw_timeout">The gateway is not responding.</string>
+    <string name="press_tip">Press the button in the center of the gateway to connect.</string>
+    <string name="network_error">Network Error</string>
+    <string name="local_connect_fail">Failed to connect to the gateway, please check your network and your gateway.</string>
+    <string name="remote_connect_fail">Failed to connect to server, please check your network and try again.</string>
+    <string name="code_20008">This user has already been invited.</string>
+    <string name="remoteConnectTip">Server connection lost, reconnecting…</string>
+    <string name="try_again">Try Again</string>
+    <string name="then">Then…</string>
+    <string name="executed">Executed</string>
+    <string name="owner">Owner</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="reload_state">Reload State</string>
+    <string name="reload_sensor_tip">You need to active the device first to get the state of the device.</string>
+    <string name="empty_value">- -</string>
+    <string name="turned_open">Turned open</string>
+    <string name="turned_closed">Turned closed</string>
+    <string name="is_open">Is open</string>
+    <string name="is_closed">Is closed</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="sensor">Sensor</string>
+    <string name="generic">Generic</string>
+    <string name="socket">Socket</string>
+    <string name="lighting">Lighting</string>
+    <string name="turned_occupied">Turned occupied</string>
+    <string name="turned_unoccupied">Turned unoccupied</string>
+    <string name="is_occupied">Is occupied</string>
+    <string name="is_unoccupied">Is unoccupied</string>
+    <string name="turned_alarmed">Turned alarmed</string>
+    <string name="turned_not_alarmed">Turned not alarmed</string>
+    <string name="is_alarmed">Is alarmed</string>
+    <string name="is_not_alarmed">Is not alarmed</string>
+    <string name="temperature_changed">Temperature changed</string>
+    <string name="humidity_changed">Humidity changed</string>
+    <string name="measured_value_changed">Measured value changed</string>
+    <string name="temperature_change">Temperature changed and %s %d℃</string>
+    <string name="humidity_change">Humidity changed and %s %d%%</string>
+    <string name="measured_value_change">Measured value changed and %s %dLux</string>
+    <string name="unit_temperature">℃</string>
+    <string name="value_temperature">%#.1f℃</string>
+    <string name="unit_lux">Lux</string>
+    <string name="value_lux">%dLux</string>
+    <string name="out_range">The value is out of range.</string>
+    <string name="range_value">Value range:</string>
+    <string name="occupied">Occupied</string>
+    <string name="unoccupied">Unoccupied</string>
+    <string name="not_alarmed">Not alarmed</string>
+    <string name="alarmed">Alarmed</string>
+    <string name="illuminance_changed">Illuminance changed</string>
+    <string name="illuminance_change">Illuminance changed and %s %dLux</string>
+    <string name="lan_ip">LAN IP</string>
+    <string name="mode">Mode</string>
+    <string name="off">Off</string>
+    <string name="dry">Dry</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+    <string name="target_temperature">Target temperature</string>
+    <string name="room_temperature">Room temperature</string>
+    <string name="floor_temperature">Floor temperature</string>
+    <string name="room_temperature_changed">Room temperature changed</string>
+    <string name="floor_temperature_changed">Floor temperature changed</string>
+    <string name="room_temperature_is">Room temperature is</string>
+    <string name="floor_temperature_is">Floor temperature is</string>
+    <string name="temperature_is">Temperature is</string>
+    <string name="humidity_is">Humidity is</string>
+    <string name="illuminance_is">Illuminance is</string>
+    <string name="changed_to_off">Changed to off</string>
+    <string name="changed_to_manual">Changed to manual</string>
+    <string name="changed_to_auto">Changed to auto</string>
+    <string name="changed_to_dry">Changed to dry</string>
+    <string name="changed_to_away">Changed to away</string>
+    <string name="is_off_mode">Is off mode</string>
+    <string name="is_manual_mode">Is manual mode</string>
+    <string name="is_auto_mode">Is auto mode</string>
+    <string name="is_dry_mode">Is dry mode</string>
+    <string name="is_away_mode">Is away mode</string>
+    <string name="away_mode_tip">You can only change to away  mode from your device.</string>
+    <string name="away">Away</string>
+    <string name="room_temperature_change">Room temperature changed and %s %d℃</string>
+    <string name="floor_temperature_change">Floor temperature changed and %s %d℃</string>
+    <string name="room_temperature_is_format">Room temperature is %s %d℃</string>
+    <string name="floor_temperature_is_format">Floor temperature is %s %d℃</string>
+    <string name="temperature_is_format">Temperature is %s %d℃</string>
+    <string name="humidity_is_format">Humidity is %s %d%%</string>
+    <string name="illuminance_is_format">Illuminance is %s %dLux</string>
+    <string name="brightness_is_format">Brightness is %s %d%%</string>
+    <string name="newDevices">New devices %d</string>
+    <string name="counts">Count %d</string>
+    <string name="hvac">HVAC</string>
+    <string name="zigbee_channel">Zigbee Channel</string>
+    <string name="change">Change</string>
+    <string name="change_zigbee_channel">Change Zigbee Channel</string>
+    <string name="change_channel_fail">Change failed</string>
+    <string name="successful">Successful</string>
+    <string name="failed">Failed</string>
+    <string name="changChannelTip">Ensure all devices are online before changing channels. If some devices don\'t work after changing channels, reset and re-add them again.</string>
+    <string name="choose_add_mode">Choose the add method you\'d like to use.</string>
+    <string name="zigbee_standard">Zigbee - Standard</string>
+    <string name="zigbee_install_code">Zigbee - Install Code</string>
+    <string name="zigbee_green_power">Zigbee - Green Power</string>
+    <string name="zi_code_tip">You are about to add your Zigbee devices via Install Code.</string>
+    <string name="add_install_code">Add Install Code</string>
+    <string name="error_qrcode">error</string>
+    <string name="send_installcode_fail_tip">Send install codes to the gateway is failed, please try again later.</string>
+    <string name="is_adding_tip">You cannot add devices right now, someone else is adding devices.Please try again after 3 minutes.</string>
+    <string name="top_right_press_tip">To connect, hold the top-right button for 10 seconds, then release.</string>
+    <string name="top_left_press_tip">To connect, hold the top-left button for 10 seconds, then release.</string>
+    <string name="bottom_left_press_tip">To connect, hold the bottom-left button for 10 seconds, then release.</string>
+    <string name="bottom_right_press_tip">To connect, hold the bottom-right button for 10 seconds, then release.</string>
+    <string name="add_green_success_tip">Success!\nYour switch is connected.</string>
+    <string name="green_power_active_tip">That worked! Now press the top-right and bottom-left buttons at the same time.</string>
+
+    <string name="top_left_pressed">Top-left button pressed</string>
+    <string name="top_left_hold">Top-left button hold</string>
+    <string name="top_right_pressed"> Top-right button pressed</string>
+    <string name="top_right_hold">    Top-right button hold</string>
+    <string name="bottom_left_pressed">    Bottom-left button pressed</string>
+    <string name="bottom_left_hold">    Bottom-left button hold</string>
+    <string name="bottom_right_pressed">    Bottom-right button pressed</string>
+    <string name="bottom_right_hold">    Bottom-right button hold</string>
+    <string name="reset_settings">Reset Settings</string>
+    <string name="reset_clear">Erase All Content and Settings</string>
+    <string name="reset_clear_tip">Are you sure you want to erase all content and settings of this gateway?</string>
+    <string name="erase">Erase</string>
+    <string name="temperature_display_units">Temperature display units</string>
+    <string name="unit_temperature_F">℉</string>
+    <string name="value_temperature_F">%d℉</string>
+    <string name="gateway_integration">Gateway Integration</string>
+    <string name="cannot_find_my_gateway">Cannot find my gateway?</string>
+    <string name="add_sub_gw">Add Sub-gateway</string>
+    <string name="gateway_has_no_sub_gateways">This gateway has no sub-gateways.</string>
+    <string name="primary_gateway">Primary Gateway</string>
+    <string name="sub_gateway_id">Sub-gateway ID</string>
+    <string name="sub_gateway">Sub-gateway </string>
+    <string name="delete_gateway_integration">Delete Gateway Integration</string>
+    <string name="sure_remove_sub_gw">Are you sure you want to remove this sub-gateway?</string>
+    <string name="remove_subgw_fail">Remove failed, please try again later.</string>
+    <string name="remove_subgw_success">Remove successful!</string>
+    <string name="remove_subgw_tip">Removing sub-gateway…</string>
+    <string name="sure_delete_gw_integration">Are you sure you want to delete this gateway integration?</string>
+    <string name="remove_gw_integration_tip">Deleting gateway integration…</string>
+    <string name="remove_ge_integrater_fail">Delete failed, please try again later.</string>
+    <string name="remove_gw_intergrater_success">Delete successful, you need to reload your App right now.</string>
+    <string name="add">Add</string>
+    <string name="get_config">Getting configuration…</string>
+    <string name="add_subgw_tip">Adding sub-gateway…</string>
+    <string name="add_subgw_success">Add successful, you need to reload you App right now.</string>
+    <string name="add_subgw_fail">Add failed, please try again later.</string>
+    <string name="select_a_gateway_to_add_devices">Select a gateway to add devices</string>
+    <string name="select_gateway">Select Gateway</string>
+    <string name="get_config_fail">Get configuration failed, please try again later.</string>
+    <string name="gw_be_sub">This gateway has been set up as a sub-gateway, please connect to another gateway.</string>
+    <string name="cancel">Cancel</string>
+    <string name="circadian_rhythm">Circadian Rhythm</string>
+    <string name="loading">Loading...</string>
+    <string name="change_mode">Change Mode</string>
+    <string name="gradual">Gradual Change</string>
+    <string name="gradient_mode_tip">Gradient all the way between two points.</string>
+    <string name="chage_delay_tip">Make changes in %d minutes.</string>
+    <string name="last_minutes">Lasts %d minutes</string>
+    <string name="points">Points</string>
+    <string name="cct">CCT</string>
+    <string name="dim">DIM</string>
+    <string name="add_point">Add Point</string>
+    <string name="restore_to_the_preset_points">Restore to the preset points</string>
+    <string name="point_name">Point Name</string>
+    <string name="color_temperature">Color Temperature</string>
+    <string name="edit_point">Edit Point</string>
+    <string name="wake_up">Wake Up</string>
+    <string name="sunlight">Sunlight</string>
+    <string name="comfortable">Comfortable</string>
+    <string name="night_light">Night Light</string>
+    <string name="edit_points">Edit Points</string>
+    <string name="brightness">Brightness</string>
+    <string name="no_point_name_tip">Please enter a point name.</string>
+    <string name="same_start_time_tip">Another point has been set to the same time.</string>
+    <string name="point_least_2_size_tip">Please add at least 2 points.</string>
+    <string name="most_24_points_tip">You can only add up to 24 points.</string>
+    <string name="duration">Duration</string>
+    <string name="cct_k_format">CCT:%dK</string>
+    <string name="dim_format">DIM:%d%%</string>
+    <string name="power_up_state">Power Up State</string>
+    <string name="on">On</string>
+    <string name="toggle">Toggle</string>
+    <string name="latest">Latest</string>
+    <string name="this_device_is_not_set_up_yet">This device is not set up yet.</string>
+    <string name="set_now">Set Now</string>
+    <string name="repeaters">Quick Controls</string>
+    <string name="scene">Scene</string>
+    <string name="repeater">Quick Control</string>
+    <string name="scene_desc">Save the current state of the device as a scene.</string>
+    <string name="repeater_desc">Perform device actions multiple times.</string>
+    <string name="automation_desc">Perform device actions automatically.</string>
+    <string name="devicesLot">Devices…</string>
+    <string name="add_device">Add Device</string>
+    <string name="add_repeater">Add Quick Control</string>
+    <string name="repeat_count">Repeat Count</string>
+    <string name="keep_repeating">Keep repeating</string>
+    <string name="value_range_1_65534">Value range: 1~65534</string>
+    <string name="delay">Delay</string>
+    <string name="value_range_0_999">Value range: 0~999</string>
+    <string name="hour_abb">h</string>
+    <string name="minute_abb">m</string>
+    <string name="second_abb">s</string>
+    <string name="millisecond_abb">ms</string>
+    <string name="delay_format">%dh %dm %ds %dms</string>
+    <string name="no_delay">No delay</string>
+    <string name="change_the_device_state">Change the device state</string>
+    <string name="bound_devices">Bound Devices</string>
+    <string name="bind_now">Bind Now</string>
+    <string name="there_are_no_bound_devices">There are no bound devices.</string>
+    <string name="edit_repeater">Edit Quick Control</string>
+    <string name="most_20_scenes">You cannot add more than 255 scenes.</string>
+    <string name="no_repeater">There are no quick controls in this gateway, please add a quick control first.</string>
+    <string name="random_time">Random Time</string>
+    <string name="no_random_time">No random time</string>
+    <string name="device_is_offline">This device is offline.</string>
+    <string name="contains_offline_device">Save failed, some of the selected devices are offline.</string>
+    <string name="most_30_bind">Cannot bind more than 30 devices.</string>
+    <string name="bind_press_tip">Please press one of the switch buttons to activate the switch.</string>
+    <string name="binding">Binding…</string>
+    <string name="unbinding">Unbinding…</string>
+    <string name="state">State</string>
+    <string name="executing">Executing</string>
+    <string name="stopped">Stopped</string>
+    <string name="change_state">Change State</string>
+    <string name="execute">Execute</string>
+    <string name="edit_weekly">Edit Weekly</string>
+    <string name="edit_daily">Edit Daily</string>
+    <string name="add_scene_part_success_tip">Add scene successful! Some actions failed to be added, please check whether the devices are online.</string>
+    <string name="update_scene_part_success_tip">Some devices failed to be added, please check whether the devices are online. We recommend that you delete devices that you no longer use.</string>
+    <string name="delete_scene_part_success_tip">Some devices failed to be removed, please check whether the devices are online. We recommend that you delete devices that you no longer use.</string>
+    <string name="device_scene_add_fail">Add device failed, please check whether this device are online.</string>
+    <string name="device_scene_save_fail">Save device failed, please check whether this device are online.</string>
+    <string name="total_energy_consumption">Total Energy Consumption</string>
+    <string name="latest_updated">Latest Updated</string>
+    <string name="total">Total</string>
+    <string name="rooms">Zones</string>
+    <string name="no_data">No Data</string>
+    <string name="selectTarget">Select Target</string>
+    <string name="power">Power</string>
+    <string name="power_range">0-32768</string>
+    <string name="save_power_fail">Save failed, this device is not responding.</string>
+    <string name="power_setting">Power Settings</string>
+    <string name="no_zone_in_gw">There are no zones in this gateway, please add a zone first.</string>
+    <string name="onoff_transition_time">OnOff Transition Time</string>
+    <string name="_0_1s">× 0.1s</string>
+    <string name="value_range_0_65535">Value range: 0~65535</string>
+    <string name="saved">Saved</string>
+    <string name="saved_tip">There are some devices that cannot be saved, please make sure that they are online and then try again.</string>
+    <string name="failed_devices">Failed devices</string>
+    <string name="groups">Groups</string>
+    <string name="sockets">Sockets</string>
+    <string name="on_uppercase">ON</string>
+    <string name="off_uppercase">OFF</string>
+    <string name="sensors">Sensors</string>
+    <string name="switches">Switches</string>
+    <string name="no_sensor_in_gateway">There are no sensors in this gateway, please add a sensor first.</string>
+    <string name="no_switch_in_gateway">There are no switches in this gateway, please add a switch first.</string>
+    <string name="others">Others</string>
+    <string name="multiple">Multiple</string>
+    <string name="multiple_selection">Multiple Selection</string>
+    <string name="no_light_in_gateway">There are no lights in this gateway, please add a light first.</string>
+    <string name="no_socket_in_gateway">There are no sockets in this gateway, please add a socket first.</string>
+    <string name="select_all">Select All</string>
+    <string name="next">Next</string>
+    <string name="top_right_press_tip_12">To connect, hold the top-right button for 10 seconds, then release.\n\nThen quickly press the top-right button 1 time(s).</string>
+    <string name="top_right_press_tip_13">To connect, hold the top-right button for 10 seconds, then release.\n\nThen quickly press the top-right button 2 time(s).</string>
+    <string name="top_right_press_tip_14">To connect, hold the top-right button for 10 seconds, then release.\n\nThen quickly press the top-right button 3 time(s).</string>
+    <string name="top_left_press_tip_16">To connect, hold the top-left button for 10 seconds, then release.\n\nThen quickly press the top-left button 1 time(s).</string>
+    <string name="top_left_press_tip_17">To connect, hold the top-left button for 10 seconds, then release.\n\nThen quickly press the top-left button 2 time(s).</string>
+    <string name="top_left_press_tip_18">To connect, hold the top-left button for 10 seconds, then release.\n\nThen quickly press the top-left button 3 time(s).</string>
+    <string name="bottom_left_press_tip_19">To connect, hold the bottom-left button for 10 seconds, then release.\n\nThen quickly press the bottom-left button 3 time(s).</string>
+    <string name="bottom_left_press_tip_21">To connect, hold the bottom-left button for 10 seconds, then release.\n\nThen quickly press the bottom-left button 1 time(s).</string>
+    <string name="bottom_left_press_tip_22">To connect, hold the bottom-left button for 10 seconds, then release.\n\nThen quickly press the bottom-left button 2 time(s).</string>
+    <string name="bottom_right_press_tip_23">To connect, hold the bottom-right button for 10 seconds, then release.\n\nThen quickly press the bottom-right button 2 time(s).</string>
+    <string name="bottom_right_press_tip_24">To connect, hold the bottom-right button for 10 seconds, then release.\n\nThen quickly press the bottom-right button 3 time(s).</string>
+    <string name="bottom_right_press_tip_26">To connect, hold the bottom-right button for 10 seconds, then release.\n\nThen quickly press the bottom-right button 1 time(s).</string>
+    <string name="no_device_in_zone_tip">There are no devices in this zone, please add a device first.</string>
+    <string name="action_not_available">This action is not available, please remove it.</string>
+    <string name="update_binding_devices">Update Binding Devices</string>
+    <string name="unfinished">Unfinished</string>
+    <string name="zone_create_device_fail">The zone name and image have been saved but the devices have not been saved, please make sure that they are online and then try again.</string>
+    <string name="transition_time">Transition Time</string>
+    <string name="delete_zone_fail">Remove Zone failed, please try again later.</string>
+    <string name="save_faild_sure_online">Save failed, please make sure your device is online.</string>
+    <string name="then_delay">Then Delay</string>
+    <string name="no">No</string>
+    <string name="no_sensor">No sensor</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="unknown_scene">Unknown Scene</string>
+    <string name="unknown_group">Unknown Zone</string>
+    <string name="identify">Identify</string>
+    <string name="gateway_updates">Gateway Updates</string>
+    <string name="too_many_actions">There are too many actions, you need to remove some actions first.</string>
+    <string name="too_many_actions_conditions">There are too many conditions or actions, you need to remove some conditions or actions first.</string>
+    <string name="level_is">Level is</string>
+    <string name="lift_is">Lift is</string>
+    <string name="set_a_level">Set a level</string>
+    <string name="set_a_lift">Set a lift</string>
+    <string name="level_is_format">Level is %s %d%%</string>
+    <string name="lift_is_format">lift percentage is %s %d%%</string>
+    <string name="device_no_response">Device No Response</string>
+    <string name="no_response_tip">Please check:\n\n1. If the device is plugged to a power outlet.\n
+2. If the router and gateway are working normally.\n
+3. If the device is too far from the gateway or if there’s an obstacle in between.</string>
+    <string name="close">Close</string>
+    <string name="pause">Pause</string>
+    <string name="group">Group</string>
+
+    <string name="motion">Motion</string>
+    <string name="sensor_temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="illumination">Illumination</string>
+    <string name="select_sensor_type">Select Sensor Type</string>
+    <string name="motion_sensor">Motion Sensor</string>
+    <string name="temperature_sensor">Temperature Sensor</string>
+    <string name="humidity_sensor">Humidity Sensor</string>
+    <string name="illumination_sensor">Illumination Sensor</string>
+    <string name="sub_gateway_name">Sub-gateway Name</string>
+    <string name="lift_percentage_is">Lift percentage is</string>
+    <string name="tilt_percentage_is">Tilt percentage is</string>
+    <string name="set_a_tilt">Set a tilt</string>
+    <string name="tilt_is_format">tilt percentage is %s %d%%</string>
+
+    <string name="step_brightness_up">Step brightness up</string>
+    <string name="step_brightness_down">Step brightness down</string>
+    <string name="step_color_temperature_up">Step color temperature up</string>
+    <string name="step_color_temperature_down">Step color temperature down</string>
+    <string name="step_hue_up">Step hue up</string>
+    <string name="step_hue_down">Step hue down</string>
+    <string name="move_brightness_up">Move brightness up</string>
+    <string name="move_brightness_down">Move brightness down</string>
+    <string name="stop_moving_brightness">Stop moving brightness</string>
+    <string name="move_color_temperature_up">Move color temperature up</string>
+    <string name="move_color_temperature_down">Move color temperature down</string>
+    <string name="stop_moving_color_temperature">Stop moving color temperature</string>
+    <string name="move_hue_up">Move hue up</string>
+    <string name="move_hue_down">Move hue down</string>
+    <string name="stop_moving_hue">Stop moving hue</string>
+    <string name="max_color_temperature">Max Color Temperature</string>
+    <string name="min_color_temperature">Min Color Temperature</string>
+    <string name="rate">Rate</string>
+    <string name="step_size">Step Size</string>
+    <string name="direct_change">Direct Change</string>
+    <string name="delete_gw_name_pwd_tip">Are you sure you want to delete all of the gateway login information?</string>
+    <string name="deleted">Deleted</string>
+    <string name="bind_other_tip">An unknown error has occurred, please try again.</string>
+    <string name="closed_2">Closed</string>
+    <string name="open_2">Open</string>
+    <string name="lan_mqtt">LAN MQTT</string>
+    <string name="username">Username</string>
+    <string name="ip">IP</string>
+    <string name="copied">Copied</string>
+    <string name="active_power">Active Power</string>
+    <string name="meter_power">Meter Power</string>
+    <string name="unit_w_format">%dW</string>
+    <string name="unit_kwh">kWh</string>
+    <string name="home_assistant">Home Assistant</string>
+    <string name="failed_to_load">Failed to load.</string>
+    <string name="retry">Retry</string>
+    <string name="mqtt_mode">MQTT Mode</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="other_clients_connect_tip">Other clients will connect to this gateway.</string>
+    <string name="gateway_connect_server_tip">This gateway will connect to the server.</string>
+    <string name="server_information">Server Information</string>
+    <string name="client_id">Client ID</string>
+    <string name="automatically_generated">Automatically generated</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="mqtt_transfer">MQTT Transfer</string>
+    <string name="tcp">TCP</string>
+    <string name="SSL">SSL</string>
+    <string name="saving">Saving...</string>
+    <string name="saved2">Saved!</string>
+    <string name="failed_to_save">Failed to save.</string>
+    <string name="simplified_chinese">Simplified Chinese</string>
+    <string name="traditional_chinese">Traditional Chinese</string>
+    <string name="forced_heating_time">Forced heating time</string>
+    <string name="anti_freezing_temperature">Anti freezing temperature</string>
+    <string name="child_lock">Child lock</string>
+    <string name="battery_percentage">Battery percentage</string>
+    <string name="forced">Forced</string>
+    <string name="sleep">Sleep</string>
+    <string name="select_green_type">Please select your green power device type.</string>
+    <string name="switch_key_4">Switch (Key 4)</string>
+    <string name="switch_key_1">Switch (Key 1)</string>
+    <string name="green_one_tip">To connect, press and hold the button of the switch for over 10 seconds, then release and wait for 5 seconds.\n\n
+If the next step operation instruction doesn\'t pop up, short press the button once and then wait for 5 seconds again.\n
+This operation shall be repeated until the next step operation instruction pops up.</string>
+    <string name="green_one_work_tip">That worked! Now press and hold the button for over 10 seconds, then release.</string>
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
+    <string name="changed_to_sleep">Changed to sleep</string>
+    <string name="changed_to_forced">Changed to forced</string>
+    <string name="is_sleep_mode">Is sleep mode</string>
+    <string name="is_forced_mode">Is forced mode</string>
+    <string name="change_to_sleep">Change to sleep</string>
+    <string name="change_to_forced">change to forced</string>
+    <string name="button_pressed">Button pressed</string>
+    <string name="button_hold">Button hold</string>
+    <string name="advanced">Advanced</string>
+    <string name="external_switch_type">External switch type</string>
+    <string name="pwm_frequency">PWM frequency</string>
+    <string name="dimming_curve">Dimming curve</string>
+    <string name="push_button_switch">Push button switch</string>
+    <string name="normal_on_off_switch">Normal on/off switch</string>
+    <string name="_3_way_switch">3 way switch</string>
+    <string name="linear">Linear</string>
+    <string name="logarithmic_gamma_1_5">Logarithmic gamma 1.5</string>
+    <string name="logarithmic_gamma_1_8">Logarithmic gamma 1.8</string>
+    <string name="value_range_format">Value range: %d~%d</string>
+    <string name="manufacturer_name">Manufacturer Name</string>
+    <string name="delete">Delete</string>
+    <string name="trigger_method">Trigger Method</string>
+    <string name="trigger_manually_tip">Event is triggered manually by the user.</string>
+    <string name="trigger_auto_tip">Event is triggered by all methods.</string>
+    <string name="manually">Manually</string>
+    <string name="automations">Automations</string>
+    <string name="enable_auto">Enable automation</string>
+    <string name="disable_auto">Disable automation</string>
+    <string name="all">All</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="add_entertainment">Add Entertainment</string>
+    <string name="edit_entertainment">Edit Entertainment</string>
+    <string name="entertainment_desc">Change the state of zones or devices sequentially.</string>
+    <string name="zonesLot">Zones…</string>
+    <string name="beat">Beat</string>
+    <string name="spectrum">Spectrum</string>
+    <string name="music_mode">Music Mode</string>
+    <string name="app_need_music_tip">Azoula Smart would like to know your Music files</string>
+    <string name="no_group_set_tip">Please select zone</string>
+    <string name="use_local_connect">Please use Local Gateway Login</string>
+    <string name="nomusic">Add Music to this device</string>
+    <string name="setting">Setting</string>
+    <string name="set_cct_or_color">Set a temperature or color</string>
+    <string name="action">Action</string>
+    <string name="circleText">●</string>
+    <string name="support_6_light">Supports up to 6 lights</string>
+    <string name="remove_fun_tip">Are you sure you want to remove this entertainment?</string>
+    <string name="set_same_trans_tip">Please set the same transition time for brightness and color</string>
+    <string name="select_cct_color_tip">Please set a temperature or color</string>
+    <string name="zones">Zones</string>
+    <string name="set_color_tip">Please set a color</string>
+    <string name="set_cct_tip">Please set a temperature</string>
+    <string name="support_13_zone">Supports up to %d Zones</string>
+    <string name="set_br_tip">Please set a brightness</string>
+    <string name="transition_time_value">Transition time %s</string>
+    <string name="no_fun_scene">There are no entertainment in this gateway, please add a entertainment first.</string>
+    <string name="change_to_color_tip">Temperature will be invalid, are you sure to change the properties?</string>
+    <string name="change_to_cct_tip">Color will be invalid, are you sure to change the properties?</string>
+    <string name="no_music">No Music</string>
+    <string name="add_music_to_this_device">Add Music to this device</string>
+    <string name="allow_to_music_permission">To use the music mode of this app, please enable access to music and other audio files.\n\n
+Click the button below to open settings and authorize</string>
+    <string name="spi_set_tip">Please set the total number of Lights (bulbs) before you set value for each segment. All segments work on a range. EX)\'From bulbs 1-100\'. Move the cursor to set the number of bulbs in each segment. Adjust the cursor positions to change the setting range.</string>
+    <string name="of_bulbs">Of bulbs</string>
+    <string name="number_of_bulbs_in_segment">Number of Bulbs in Segment %d</string>
+    <string name="running">Running</string>
+    <string name="speed">Speed</string>
+    <string name="spi_ic_setting">SPI IC Setting</string>
+    <string name="segmented_light_strip">Segmented light strip</string>
+    <string name="value_range_4_1020">Value range: 4~1020</string>
+    <string name="sure_reset_segmented_tip">Are you sure you want to reset \"Segmented light strip\" ?</string>
+    <string name="set_seg_max_tip">Set Value (Max: %d)</string>
+    <string name="set_seg_min_tip">Set Value (Min: 1)</string>
+    <string name="repower_spi">You need to repower your device after changing the SPI IC Setting.</string>
+    <string name="getting_spi_ic_setting">Getting SPI IC setting...</string>
+    <string name="getting_spi_ic_setting_timeout">Getting SPI IC setting timeout.</string>
+    <string name="make_sure_device_works_tip">Please make sure the device works properly and then try again.</string>
+    <string name="fan_only">Fan only</string>
+    <string name="cool">Cool</string>
+    <string name="heat">Heat</string>
+    <string name="fan_speed">Fan speed</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="change_to_away">Change to away</string>
+    <string name="changed_to_cool">Changed to cool</string>
+    <string name="changed_to_heat">Changed to heat</string>
+    <string name="changed_to_fan_only">Changed to fan only</string>
+    <string name="is_cool_mode">Is cool mode</string>
+    <string name="is_heat_mode">Is heat mode</string>
+    <string name="is_fan_only_mode">Is fan only mode</string>
+    <string name="alarms_permission_is_required">Alarms permission is required for the gateway connection and cloud connection.</string>
+    <string name="please_input_remote_name">Please input the remote control name</string>
+    <string name="btn_learn">Learning</string>
+    <string name="btn_learn_tip">Please point the remote control at the infrared controller and press the button you want to learn briefly.</string>
+    <string name="most_64_btns">Up to %d buttons can be added for learning.</string>
+    <string name="btn_name_not_be_null">Button name cannot be empty</string>
+    <string name="learn_success">Learn successful</string>
+    <string name="please_input_btn_name">Please input the button name</string>
+    <string name="remote_name">Remote control name</string>
+    <string name="rename">Rename</string>
+    <string name="remove_remote_tip">Are you sure you want to delete the remote control “%s”?</string>
+    <string name="relearn_key">Relearn</string>
+    <string name="remove_remote_btn_tip">Are you sure you want to delete the button “%s”?</string>
+    <string name="remotes">Remote controls</string>
+    <string name="sure">Confirm</string>
+    <string name="invalid_action">Invalid action</string>
+    <string name="homekit_qr_code">HomeKit QR Code</string>
+    <string name="matter_qr_code">Matter QR Code</string>
+    <string name="qr_code_empty_tip">Unable to obtain the QR Code, please upgrade the gateway to the latest firmware.</string>
+    <string name="remote_name_not_be_null">The remote control name cannot be empty</string>
+    <string name="add_remote">Add remote control</string>
+    <string name="history">History</string>
+    <string name="gateway_upgrade_history">Gateway Upgrade History</string>
+    <string name="switch_key_4_azoula_16_channels">Switch (Key 4) - Azoula 16 Channels</string>
+    <string name="gateway_channel">Gateway Channel</string>
+    <string name="gateway_channel_tip">The channel of this gateway doesn\'t support the Normal Green Power Switch, you must change the channel before you add the Normal Green Power Switch. Please note, all the devices that have already been added will need to be added again after the channel is changed.</string>
+    <string name="switch_key_4_standard_4_channels">Switch (Key 4) - Standard 4 Channels</string>
+    <string name="occupancy">Occupancy</string>
+    <string name="co_detection">CO detection</string>
+    <string name="alarm_duration">Alarm duration</string>
+    <string name="detected">Detected</string>
+    <string name="normal">Normal</string>
+    <string name="gas_detection">Gas detection</string>
+    <string name="smoke_detection">Smoke detection</string>
+    <string name="co_detected">CO detected</string>
+    <string name="gas_detected">Gas detected</string>
+    <string name="smoke_detected">Smoke detected</string>
+    <string name="co_is_detected">CO is detected</string>
+    <string name="co_is_not_detected">CO is not detected</string>
+    <string name="gas_is_detected">Gas is detected</string>
+    <string name="gas_is_not_detected">Gas is not detected</string>
+    <string name="smoke_is_detected">Smoke is detected</string>
+    <string name="smoke_is_not_detected">Smoke is not detected</string>
+    <string name="co_not_detected">CO not detected</string>
+    <string name="gas_not_detected">Gas not detected</string>
+    <string name="smoke_not_detected">Smoke not detected</string>
+    <string name="water_overflow">Water overflow</string>
+    <string name="water_overflow_detected">Water overflow detected</string>
+    <string name="water_overflow_not_detected">Water overflow not detected</string>
+    <string name="water_overflow_is_detected">Water overflow is detected</string>
+    <string name="water_overflow_is_not_detected">Water overflow is not detected</string>
+    <string name="rotation">Rotation</string>
+    <string name="top_right">Top right</string>
+    <string name="top_left">Top left</string>
+    <string name="center">Center</string>
+    <string name="bottom_left">Bottom left</string>
+    <string name="bottom_right">Bottom right</string>
+    <string name="short_press">Short press</string>
+    <string name="long_press">Long press</string>
+    <string name="double_click">Double click</string>
+    <string name="no_action">No action</string>
+    <string name="target">Target</string>
+    <string name="add_target">Add Target</string>
+    <string name="remove_key_event_tip">Are you sure you want to remove this Event?</string>
+    <string name="clockwise_rotation">Clockwise rotation</string>
+    <string name="anticlockwise_rotation">Anticlockwise rotation</string>
+    <string name="anticlockwise">Anticlockwise</string>
+    <string name="clockwise">Clockwise</string>
+    <string name="execute_scene_text">Execute scene</string>
+    <string name="channel_successful_tip">The gateway is updating its channel. Please wait a few minutes for the correct channel to display.</string>
+    <string name="log_watch">Log Watch</string>
+    <string name="search">Search</string>
+    <string name="unknown">Unknown</string>
+    <string name="last_2_days">Last 2 days</string>
+    <string name="last_7_days">Last 7 days</string>
+    <string name="last_1_month">Last 1 month</string>
+    <string name="refresh">Refresh</string>
+    <string name="copy_log">Copy Log</string>
+    <string name="fail_get_log">Failed to get Log.</string>
+    <string name="knob">Knob</string>
+    <string name="key_x">key %d</string>
+    <string name="air_conditioner">Air Conditioner</string>
+    <string name="tv">TV</string>
+    <string name="tv_box">TV Box</string>
+    <string name="internet_box">Internet Box</string>
+    <string name="fan">Fan</string>
+    <string name="sound">Sound</string>
+    <string name="projector">Projector</string>
+    <string name="custom_control">Custom Control</string>
+    <string name="select_brand">Select Brand</string>
+    <string name="no_brand_found">No brand found.</string>
+    <string name="select_type">Select Type</string>
+    <string name="uncontrollable">Uncontrollable</string>
+    <string name="controllable">Controllable</string>
+    <string name="can_the_device_be_controlled_properly">Can the device be controlled properly?</string>
+    <string name="pairing">Pairing</string>
+    <string name="temp">TEMP</string>
+    <string name="vol">VOL</string>
+    <string name="ch">CH</string>
+    <string name="on_speed">ON/SPEED</string>
+    <string name="shake">Shake</string>
+    <string name="anion">Anion</string>
+    <string name="air_vol">Air VOL</string>
+    <string name="sleep_ir">Sleep</string>
+    <string name="timer_ir">Timer</string>
+    <string name="light">Light</string>
+    <string name="on_ir">ON</string>
+    <string name="off_ir">OFF</string>
+    <string name="fast_hot">F.Hot</string>
+    <string name="fast_cool">F.Cool</string>
+    <string name="swing">SWING</string>
+    <string name="aux_heat">AUX HEAT</string>
+    <string name="mute">MUTE</string>
+    <string name="power_uppercase">POWER</string>
+    <string name="energy_uppercase">ENERGY</string>
+    <string name="light_uppercase">LIGHT</string>
+    <string name="sleep_uppercase">SLEEP</string>
+    <string name="mode_uppercase">MODE</string>
+    <string name="cooling">Cooling</string>
+    <string name="heating">Heating</string>
+    <string name="middle">Middle</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="zoom">ZOOM</string>
+    <string name="changed_to_auto_mode">Change to auto mode</string>
+    <string name="changed_to_cooling_mode">Change to cooling mode</string>
+    <string name="changed_to_dry_mode">Change to dry mode</string>
+    <string name="changed_to_fan_only_mode">Change to fan only mode</string>
+    <string name="changed_to_heating_mode">Change to heating mode</string>
+    <string name="set_a_temperature">Set a temperature</string>
+    <string name="set_fan_speed_to_auto">Set fan speed to auto</string>
+    <string name="set_fan_speed_to_low">Set fan speed to low</string>
+    <string name="set_fan_speed_to_middle">Set fan speed to middle</string>
+    <string name="set_fan_speed_to_higt">Set fan speed to high</string>
+    <string name="set_air_direction_to_up">Set air direction to up</string>
+    <string name="set_air_direction_to_middle">Set air direction to middle</string>
+    <string name="set_air_direction_to_down">Set air direction to down</string>
+    <string name="set_auto_swing_to_off">Set auto swing to off</string>
+    <string name="set_auto_swing_to_on">Set auto swing to on</string>
+    <string name="enable_sleep_mode">Enable sleep mode</string>
+    <string name="disable_sleep_mode">Disable sleep mode</string>
+    <string name="enable_aux_heat">Enable aux heat</string>
+    <string name="disable_aux_heat">Disable aux heat</string>
+    <string name="turn_off_the_light">Turn off the light</string>
+    <string name="tun_on_the_light">Tun on the light</string>
+    <string name="enable_energy_saving_mode">Enable energy saving mode</string>
+    <string name="disable_energy_saving_mode">Disable energy saving mode</string>
+    <string name="enable_fast_cooling">Enable fast cooling</string>
+    <string name="enable_fast_heating">Enable fast heating</string>
+    <string name="enable_mute_mode">Enable mute mode</string>
+    <string name="enable_powerful_mode">Enable powerful mode</string>
+    <string name="led_state">LED State</string>
+    <string name="auto_ir">AUTO</string>
+    <string name="most_16_standard">Up to 16 standard remote controls can be added.</string>
+    <string name="air_direction">Air Direction</string>
+    <string name="no_btn_in_remote">There are no buttons in this remote control, please add a button first.</string>
+    <string name="sonos">Sonos</string>
+    <string name="add_sonos_tip">You are about to add your Sonos devices.</string>
+    <string name="paused">Paused</string>
+    <string name="playing">Playing</string>
+    <string name="play">Play</string>
+    <string name="set_vol">Set volume</string>
+    <string name="toggle_play_pause">Toggle Play/Pause</string>
+    <string name="previous">Previous</string>
+    <string name="no_repeat">No repeat</string>
+    <string name="repeat_one">Repeat one</string>
+    <string name="repeat_playlist">Repeat playlist</string>
+    <string name="mute_the_vol">Mute the volume</string>
+    <string name="unmute_the_vol">Unmute the volume</string>
+    <string name="shuffle_on">Shuffle on</string>
+    <string name="shuffle_off">Shuffle off</string>
+    <string name="next_music">Next</string>
+    <string name="sonos_error_tip">Something went wrong while controlling Living room, Please check that your SONOS speaker is working properly.</string>
+    <string name="aborted">Aborted</string>
+    <string name="sonos_systems">SONOS Systems</string>
+    <string name="delete_sonos_tip">Are you sure you want to delete this SONOS system?</string>
+    <string name="sonos_name_tip">Enter SONOS System Name</string>
+    <string name="sonos_system_name">SONOS System Name</string>
+    <string name="name_not_be_null">Name not be null.</string>
+    <string name="no_sonos_systems_found">No SONOS systems found.</string>
+    <string name="sonos_music_tip">Please add songs to the playlist in the SONOS App first.</string>
+    <string name="add_sonos_start_tip">Please make sure that your SONOS App can play music normally with the sound.\n\nThen add SONOS sound in this App.</string>
+    <string name="green_power_settings">Green Power Settings</string>
+    <string name="long_press_detection_time">Long Press Detection Time</string>
+    <string name="custom">Custom</string>
+    <string name="value_range_1000_5000">Value range:  1000~5000</string>
+    <string name="top_left_released">Top-left button released</string>
+    <string name="top_right_released">Top-right button released</string>
+    <string name="bottom_left_released">Bottom-left button released</string>
+    <string name="bottom_right_released">Bottom-right button released</string>
+    <string name="button_released">Button released</string>
+    <string name="gateway_timezone">Gateway Timezone</string>
+    <string name="sync">Sync</string>
+    <string name="timezone_tip">Phone Timezone: %s</string>
+    <string name="timezone_tip2">Sync the phone timezone to the gateway.</string>
+    <string name="edit_zone">Edit Zone</string>
+    <string name="stop_auto">Stop automation</string>
+    <string name="new_firmware">New Firmware</string>
+    <string name="new_firmware_tip">We have released a new firmware version. Please update the firmware to enjoy a better experience.</string>
+    <string name="got_to_update">Go to update</string>
+    <string name="ca_file_url_or_string">CA file URL or string</string>
+    <string name="client_certificate_url_or_string">Client certificate URL or string</string>
+    <string name="client_key_url_or_string">Client key URL or string</string>
+    <string name="caInfo">When using self-signed certificates, specify either the download URL of the CA certificate or the CA certificate string.</string>
+    <string name="ckInfo">When using self-signed certificates, specify either the download URL of the client key or the client key string.</string>
+    <string name="ccInfo">When using self-signed certificates, specify either the download URL of the client certificate or the client certificate string.</string>
+    <string name="new_gateway_firmware">New Gateway Firmware</string>
+    <string name="timezone_different_tip">The gateway\'s time zone is different from the current time zone of the phone.</string>
+    <string name="no_notifications">No notifications</string>
+    <string name="notifications">Notifications</string>
+    <string name="current_compensation">Current &amp; Compensation</string>
+    <string name="target_current">Target Current</string>
+    <string name="unit_ma">mA</string>
+    <string name="value_range_100_6000_0">Value range: 100.0~6000.0</string>
+    <string name="minimum_current_compensation">Minimum Current Compensation</string>
+    <string name="value_range_5000_20000">Value range: 5000~20000</string>
+    <string name="min_current_tip">You need to restart the device for this property update to take effect. This property is only supported by NFC power supply.</string>
+    <string name="current_out_range">Target Current is out of range</string>
+    <string name="mincurrent_out_range">Minimum Current Compensation is out of range</string>
+    <string name="experiments">Experiments</string>
+    <string name="experimental_tip">These are experimental and unsupported features of the App and may disappear at any time. Use them at your own risk.</string>
+    <string name="_4_screen_content">4″ Screen Content</string>
+    <string name="needs_screen_gateway_tip">Needs to be used with 4″ screen gateway.</string>
+    <string name="zone">Zone</string>
+    <string name="settings_screen_devices">Your settings will sync to 4″ screen devices.</string>
+    <string name="no_devices_tip">No devices, please add a device first.</string>
+    <string name="no_scene_tip">No scenes, please add a scene first.</string>
+    <string name="no_zone_tip">No zones, please add a zone first.</string>
+    <string name="device_type">Device Type</string>
+    <string name="curtain_type">Curtain Type</string>
+    <string name="reverse_output">Reverse Output</string>
+    <string name="calibration">Calibration</string>
+    <string name="curtain">Curtain</string>
+    <string name="normal_curtain">Normal Curtain</string>
+    <string name="shutter">Shutter</string>
+    <string name="change_type_tip">Device will be deleted. Are you sure you want to change the device type?</string>
+    <string name="curtain_opening_time">Curtain Opening Time</string>
+    <string name="curtain_closing_time">Curtain Closing Time</string>
+    <string name="blinds_opening_time">Blinds Opening Time</string>
+    <string name="gap_travel_ratio">Gap Travel Ratio</string>
+    <string name="value_range_0_655_35">Value range: 0-655.35</string>
+    <string name="blinds_closing_time">Blinds Closing Time</string>
+    <string name="curtain_opening_time_tip">Time for curtains to open from closed (unit: s). Displays 0 if uncalibrated. Adjustable if discrepancies are found post-calibration.</string>
+    <string name="curtain_closing_time_tip">Time for curtains to closed from open (unit: s). Displays 0 if uncalibrated. Adjustable if discrepancies are found post-calibration.</string>
+    <string name="blinds_opening_time_tip">Time for blinds to open from closed (unit: s). Displays 0 if uncalibrated. Adjustable if discrepancies are found post-calibration.</string>
+    <string name="blinds_closing_time_tip">Time for blinds to closed from open (unit: s). Displays 0 if uncalibrated. Adjustable if discrepancies are found post-calibration.</string>
+    <string name="gap_travel_tip">Set the gap travel ratio (range: 0.1% to 90%, unit: 0.001). Calculation formula: Ratio = 1000 * Gap Travel / Total Travel. Applicable to calibrated roller blinds and venetian blinds.</string>
+    <string name="value_range_0_1_90">Value range: 0.1-90</string>
+    <string name="illuminance_threshold">Illuminance Threshold</string>
+    <string name="occupancy_detection_sensitivity">Occupancy Detection Sensitivity</string>
+    <string name="occupancy_led">Occupancy LED</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="select_server">Select Server</string>
+    <string name="aws">AWS</string>
+    <string name="non_mainland_china_preferred">Non-mainland China preferred</string>
+    <string name="update_your_gateway_tip">You have to update your gateway first.</string>
+    <string name="aliyun">Aliyun</string>
+    <string name="mainland_china_preferred">Mainland China preferred</string>
+    <string name="cloud_server">Cloud Server</string>
+    <string name="change_cloud_server">Change Cloud Server</string>
+    <string name="change_cloud_server_tip">"Are you sure you want to change the cloud server?  "</string>
+    <string name="change_server_fail">Failed to change the cloud server</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="ip_mode">IP Mode</string>
+    <string name="automatic">Automatic</string>
+    <string name="ip_addr">IP Address</string>
+    <string name="subnet_mask">Subnet Mask</string>
+    <string name="router">Router</string>
+    <string name="dns_1">DNS-1</string>
+    <string name="dns_2_optional">DNS-2 (Optional)</string>
+    <string name="hint_ip">0.0.0.0</string>
+    <string name="hint_subnet">255.255.255.0</string>
+    <string name="hint_dns">8.8.8.8</string>
+    <string name="phase_a">Phase A</string>
+    <string name="phase_b">Phase B</string>
+    <string name="phase_c">Phase C</string>
+    <string name="total_reactive_power">Total Reactive Power</string>
+    <string name="total_active_power">Total Active Power</string>
+    <string name="total_apparent_power">Total Apparent Power</string>
+    <string name="total_meter_power">Total Meter Power</string>
+    <string name="ac_frequency">AC Frequency</string>
+    <string name="neutral_line_current">Neutral Line Current</string>
+    <string name="phase_a_effective_voltage">Phase A Effective Voltage</string>
+    <string name="phase_a_effective_current">Phase A Effective Current</string>
+    <string name="phase_a_active_power">Phase A Active Power</string>
+    <string name="phase_a_reactive_power">Phase A Reactive Power</string>
+    <string name="phase_a_apparent_power">Phase A Apparent Power</string>
+    <string name="phase_a_power_factor">Phase A Power Factor</string>
+    <string name="phase_b_effective_voltage">Phase B Effective Voltage</string>
+    <string name="phase_b_effective_current">Phase B Effective Current</string>
+    <string name="phase_b_active_power">Phase B Active Power</string>
+    <string name="phase_b_reactive_power">Phase B Reactive Power</string>
+    <string name="phase_b_apparent_power">Phase B Apparent Power</string>
+    <string name="phase_b_power_factor">Phase B Power Factor</string>
+    <string name="phase_c_effective_voltage">Phase C Effective Voltage</string>
+    <string name="phase_c_effective_current">Phase C Effective Current</string>
+    <string name="phase_c_active_power">Phase C Active Power</string>
+    <string name="phase_c_reactive_power">Phase C Reactive Power</string>
+    <string name="phase_c_apparent_power">Phase C Apparent Power</string>
+    <string name="phase_c_power_factor">Phase C Power Factor</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="device_alert">Device Alert</string>
+    <string name="sys_noti_disable_tip">Please enable the Azoula Smart message notification settings in the system settings.</string>
+    <string name="alerts">Alerts</string>
+    <string name="bulletin">Bulletin</string>
+    <string name="delete_messages">Delete Messages</string>
+    <string name="load_success">Loading successful.</string>
+    <string name="load_end">All data has been loaded</string>
+    <string name="any_time">Any Time</string>
+    <string name="end">End</string>
+    <string name="start_end_time_tip">If the end time is earlier than the start time, it\'s considered the next day.</string>
+    <string name="every_">Every</string>
+    <string name="effective_period">Effective Period</string>
+    <string name="gateway_backup_restore">Gateway Backup &amp; Restore</string>
+    <string name="no_permission_tip">No permission, please contact the gateway owner.</string>
+    <string name="backup">Backup</string>
+    <string name="replace">Replace</string>
+    <string name="backing_up_please_wait">Backing up, please wait...</string>
+    <string name="backup_successful">Backup successful</string>
+    <string name="backup_failed">Backup failed</string>
+    <string name="backup_fail">backup failed</string>
+    <string name="replace_gateway">Replace Gateway</string>
+    <string name="replace_tip1">Are you sure you want to use this new gateway to replace the faulty gateway?</string>
+    <string name="replace_tip2">Every new gateway is limited to a single restoration. Attempting to restore a gateway more than once will result in the gateway becoming unusable.</string>
+    <string name="start_replacing">Start Replacing</string>
+    <string name="replacing_please_wait">Replacing, please wait...</string>
+    <string name="no_buildin">No Bulletin</string>
+    <string name="no_alerts">No Alerts</string>
+    <string name="no_notify">No Notifications</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="door_open">Door Open</string>
+    <string name="water_detected">Water Detected</string>
+    <string name="no_backup">No backup</string>
+    <string name="replace_diff_tw_tip">Please select a different gateway. This gateway has already been recovered once and cannot be recovered again.</string>
+    <string name="replace_failed">Replace failed</string>
+    <string name="replace_successful">Replace successful</string>
+    <string name="gateway_s_replace_successful">Gateway %s replace successful.</string>
+    <string name="gateway_s_replace_failed">Gateway %s replace failed.</string>
+    <string name="warning_this_gateway">WARNING: This gateway is already set up as a master or sub-gateway. Before using it to replace another gateway, please reset it to factory defaults.</string>
+    <string name="gateway_backup">Gateway Backup</string>
+    <string name="gateway_backup_tip">If your gateway malfunctions and a backup is available, you can replace it with a new gateway.</string>
+    <string name="back_up_all_tip">Are you sure you want to back up all gateways?</string>
+    <string name="no_backup_tip">There is no backup for the faulty gateway, so gateway replacement is not possible.</string>
+    <string name="updated_time">Updated: %s</string>
+
+
+    <string-array name="tvActions">
+        <item>Toggle power</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>Toggle mute mode </item>
+        <item>CH+ </item>
+        <item>CH- </item>
+    </string-array>
+    <string-array name="funActions">
+        <item>Toggle on or off</item>
+        <item>Toggle shake</item>
+        <item>Toggle air mode</item>
+        <item>Toggle air VOL</item>
+        <item>Toggle light on or off</item>
+        <item>Toggle sleep mode</item>
+        <item>Set to low speed</item>
+        <item>Set to middle speed</item>
+        <item>Set to high speed</item>
+    </string-array>
+
+    <string-array name="soundActions">
+        <item>Toggle power</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>Toggle mute mode</item>
+        <item>Play</item>
+        <item>Last</item>
+        <item>Stop</item>
+        <item>Next</item>
+        <item>Pause</item>
+    </string-array>
+
+    <string-array name="projectActions">
+        <item>Toggle power</item>
+        <item>Quit</item>
+        <item>VOL+</item>
+        <item>VOL-</item>
+        <item>ZOOM+ </item>
+        <item>ZOOM- </item>
+        <item>Toggle mute mode</item>
+    </string-array>
+
+    <string-array name="prog_type_abb">
+        <item>App</item>
+        <item>Auto</item>
+        <item>HK</item>
+        <item>HA</item>
+        <item>Z2M</item>
+    </string-array>
+    <string-array name="month_abb">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string-array name="runModes">
+        <item>Pause</item>
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+        <item>Mode 9</item>
+        <item>Mode 10</item>
+        <item>Mode 11</item>
+        <item>Mode 12</item>
+        <item>Mode 13</item>
+        <item>Mode 14</item>
+        <item>Mode 15</item>
+        <item>Mode 16</item>
+        <item>Mode 17</item>
+        <item>Mode 18</item>
+        <item>Mode 19</item>
+        <item>Mode 20</item>
+        <item>Mode 21</item>
+        <item>Mode 22</item>
+        <item>Mode 23</item>
+        <item>Mode 24</item>
+        <item>Mode 25</item>
+        <item>Mode 26</item>
+        <item>Mode 27</item>
+        <item>Mode 28</item>
+        <item>Mode 29</item>
+        <item>Mode 30</item>
+        <item>Mode 31</item>
+        <item>Mode 32</item>
+        <item>Mode 33</item>
+        <item>Mode 34</item>
+        <item>Mode 35</item>
+
+    </string-array>
+</resources>

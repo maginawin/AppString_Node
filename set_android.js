@@ -14,6 +14,8 @@
 // easythings
 // node set_android -f ./assert/easythings/strings_en_1206.xml ./assert/easythings/de_1206.xlsx ./assert/easythings/strings_de_231206.xml
 
+// node set_android -f ./assert/azoulasmart/strings_en_241214.xml ./assert/azoulasmart/azoulasmart_ge_241214.xlsx ./assert/azoulasmart/strings_de_241214.xml
+
 const { program } = require('commander')
 const { readFile, readTranslation, writeFile } = require('./lib/utils')
 
